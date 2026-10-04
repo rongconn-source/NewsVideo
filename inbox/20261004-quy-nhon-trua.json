@@ -1,0 +1,81 @@
+{
+  "type": "digest",
+  "output": "video",
+  "date": "2026-10-04",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "chip": "",
+  "cover": {
+    "kicker": "BẢN TIN TRƯA",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Ngày 4/10/2026",
+    "teaser": "Vụ đâm tại nhà trọ ở xã Tây Sơn, nghi can đã đầu thú",
+    "image": "item:1",
+    "icon": "pin"
+  },
+  "items": [
+    {
+      "category": "tinh",
+      "text": "Tối 3/10, tại một nhà trọ trên đường Lê Lợi (xã Tây Sơn), một phụ nữ sinh năm 1999 tử vong, một nam giới bị thương sau khi bị đâm do mâu thuẫn. Nghi can sinh năm 1988 đã đến công an đầu thú.",
+      "ai_prompt": "police cordon tape at night in front of a small boarding house on a quiet Vietnamese street, no people",
+      "source": "https://baogialai.com.vn/co-gai-tu-vong-sau-khi-bi-dam-tai-phong-tro-o-xa-tay-son-post601021.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-04T09:36:58+07:00",
+      "from_user": true
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Ngày 3/10, CSGT tỉnh Gia Lai kiểm tra nhanh ma túy đột xuất 53 tài xế và phụ xe khách đường dài tại Bến xe trung tâm Quy Nhơn (phường Quy Nhơn Nam). Kết quả toàn bộ 53 trường hợp đều âm tính.",
+      "ai_prompt": "police officers testing long-distance coach bus drivers for drugs at a Vietnamese bus station, daytime, documentary style",
+      "source": "https://baomoi.com/gia-lai-kiem-tra-ma-tuy-dot-xuat-tai-xe-xe-khach-duong-dai-c56190656.epi",
+      "source_name": "Báo SGGP",
+      "published": "2026-10-03T19:40:34+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Gần 1 tháng vào năm học, nhiều phụ huynh ở Quy Nhơn vẫn chưa mua đủ sách giáo khoa cho con. Toàn tỉnh còn hơn 27.600 học sinh tiểu học chưa có sách; dự kiến hết học kỳ I nguồn sách mới đủ.",
+      "ai_prompt": "empty textbook shelves in a Vietnamese bookstore with parents looking for school books, daytime",
+      "source": "https://baomoi.com/nam-hoc-moi-qua-gan-1-thang-hoc-sinh-gia-lai-van-thieu-sach-c56191241.epi",
+      "source_name": "Báo Xây Dựng",
+      "published": "2026-10-03T22:08:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Phát Đạt giới thiệu dự án căn hộ du lịch Q’Terra cao 39 tầng với 864 căn tại số 1 Ngô Mây (phường Nam Quy Nhơn), lấy cảm hứng từ kiến trúc và nghệ thuật điêu khắc Chăm Pa.",
+      "ai_prompt": "modern luxury 39-story seaside architectural tower inspired by Cham culture at sunset in Quy Nhon Vietnam",
+      "source": "https://vnexpress.net/phat-dat-gioi-thieu-du-an-luu-tru-39-tang-tai-nam-quy-nhon-5127250.html",
+      "source_name": "VnExpress",
+      "published": "2026-10-03T10:00:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Ban Quản lý dịch vụ công Quy Nhơn phối hợp kẻ vạch phân chia vỉa hè trên 6 tuyến đường đô thị Pleiku, chừa dải đi bộ tối thiểu 2–2,5m làm căn cứ xử lý hành vi lấn chiếm buôn bán.",
+      "ai_prompt": "freshly painted white boundary line on a wide urban sidewalk for pedestrians in Vietnam city, daytime",
+      "source": "https://baomoi.com/gia-lai-ke-vach-phan-khu-vuc-via-he-do-thi-han-che-lan-chiem-kinh-doanh-c56191385.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-03T23:08:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Sáng 3/10, tại ĐH FPT cơ sở Quy Nhơn, Tỉnh đoàn Gia Lai khai mạc Trại sáng tạo số và Vòng chung kết Cuộc thi Gia Lai Youth HackAIthon 2026, thu hút đông đảo bạn trẻ đam mê công nghệ.",
+      "ai_prompt": "young Vietnamese students working on laptops at a modern tech hackathon event at university, cheerful atmosphere",
+      "source": "https://baogialai.com.vn/khai-mac-trai-sang-tao-so-va-vong-chung-ket-cuoc-thi-gia-lai-youth-hackaithon-2026-post600963.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-03T21:45:00+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "pin_comment": "Đi ở trọ, bạn thường lưu ý gì để giữ an toàn cho mình? Chia sẻ nhé 👇 Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "caption": {
+    "tiktok": "Vụ đâm tại nhà trọ ở xã Tây Sơn, nghi can đã đầu thú. Cùng các tin nổi bật: test ma túy 53 tài xế bến xe Quy Nhơn, phụ huynh đỏ mắt tìm SGK, tòa tháp Q'Terra 39 tầng, lập lại trật tự vỉa hè và HackAIthon tại ĐH FPT. Nguồn: Báo Gia Lai, Báo SGGP, Báo Xây Dựng, VnExpress, Báo Mới",
+    "youtube": "Tin Quy Nhơn – Gia Lai trưa 4/10/2026: vụ đâm nhà trọ Tây Sơn, test ma túy tài xế, thiếu SGK, tháp 39 tầng #Shorts",
+    "facebook": "📍 QUY NHƠN 24H QUA – TRƯA 4/10/2026\n1. Xã Tây Sơn: một phụ nữ tử vong, một người bị thương sau vụ đâm do mâu thuẫn tại nhà trọ; nghi can đã đầu thú\n2. Test ma túy đột xuất 53 tài xế, phụ xe tại Bến xe trung tâm Quy Nhơn – tất cả âm tính\n3. Gần 1 tháng vào năm học, nhiều phụ huynh Quy Nhơn vẫn chưa mua đủ sách giáo khoa\n4. Giới thiệu dự án tòa tháp căn hộ du lịch Q'Terra 39 tầng tại số 1 Ngô Mây (phường Nam Quy Nhơn)\n5. Kẻ vạch phân chia vỉa hè 6 tuyến đường đô thị để xử lý hành vi lấn chiếm buôn bán\n6. Khai mạc Trại sáng tạo số & Chung kết Gia Lai Youth HackAIthon 2026 tại ĐH FPT Quy Nhơn\n\nĐi ở trọ, bạn thường lưu ý gì để giữ an toàn cho mình? Bình luận nhé 👇\n\nNguồn: Báo Gia Lai, Báo SGGP, Báo Xây Dựng, VnExpress, Báo Mới"
+  },
+  "hashtags": ["#quynhon", "#tinquynhon", "#gialai", "#binhdinh", "#tintuc"],
+  "needs_review": [
+    "Tin 1 (bạn gửi): xã Tây Sơn, tỉnh Gia Lai – gắn nhãn \"Tin Gia Lai\"; đã bỏ tên nạn nhân và nghi can; ảnh bìa là nhà trọ, không có nạn nhân",
+    "Tin 3: số 27.600 là toàn tỉnh Gia Lai (bài gốc), phụ huynh Quy Nhơn là ví dụ trong bài",
+    "Tin 5: tuyến đường kẻ vạch nằm tại Pleiku (tỉnh Gia Lai), do BQL dịch vụ công Quy Nhơn phối hợp thực hiện",
+    "Ảnh lấy từ bài báo gốc (đã ghi tên báo trên ảnh) – kiểm tra bản quyền trước khi đăng"
+  ]
+}

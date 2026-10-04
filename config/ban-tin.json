@@ -1,0 +1,31 @@
+{
+  "_ghi_chu": "Cấu hình skill ban-tin. Đổi khu vực / phạm vi tin / nguồn ở đây. allowed_categories: khu-vuc (chỉ tin trong khu vực), tinh, trong-nuoc, the-gioi.",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "region_scope": "Các phường của Quy Nhơn cũ: Quy Nhơn, Quy Nhơn Nam, Quy Nhơn Bắc, Quy Nhơn Đông, Quy Nhơn Tây; xã đảo Nhơn Châu; tin về công trình/tuyến đường nằm ở hoặc dẫn vào Quy Nhơn",
+  "_ghi_chu_pham_vi": "Ưu tiên tin Quy Nhơn (khu-vuc); được lấy thêm tin toàn tỉnh Gia Lai (tinh). Không lấy tin tỉnh khác / trong nước / thế giới.",
+  "allowed_categories": ["khu-vuc", "tinh"],
+  "default_output": "video",
+  "default_hashtags": ["#quynhon", "#tinquynhon", "#gialai", "#binhdinh", "#tintuc", "#quynhon24hqua"],
+  "brand": ["QUY NHƠN ", "24H QUA"],
+  "channel_name": "Quy Nhơn 24h Qua",
+  "channel_id": "@quynhon24hqua",
+  "channel_bio": "📍Chuyện Quy Nhơn 24h qua – gọn trong 1 phút\n📩Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "logo": "brand/avatar-quy-nhon-24h-qua-1-phut.jpg",
+
+  "_ghi_chu_sources": "Trang để lệnh scan lấy danh sách bài. pattern = regex nhận link bài (nhóm 1 = mã số bài, số lớn = bài mới). region_search = true nếu trang đã lọc theo khu vực (vd. trang tìm kiếm).",
+  "sources": [
+    {"name": "Báo Mới Quy Nhơn", "url": "https://baomoi.com/tim-kiem/quy-nh%C6%A1n.epi", "pattern": "baomoi\\.com/.+-c(\\d{7,})\\.epi$", "max": 60, "region_search": true},
+    {"name": "Báo Mới Gia Lai", "url": "https://baomoi.com/tim-kiem/gia-lai.epi", "pattern": "baomoi\\.com/.+-c(\\d{7,})\\.epi$", "max": 60, "region_search": true},
+    {"name": "Báo Gia Lai", "url": "https://baogialai.com.vn/", "pattern": "baogialai\\.com\\.vn/.+-post(\\d{5,})\\.html$", "max": 120},
+    {"name": "VnExpress Quy Nhơn", "url": "https://vnexpress.net/chu-de/quy-nhon-2101", "pattern": "vnexpress\\.net/.+-(\\d{7})\\.html$", "max": 20, "region_search": true},
+    {"name": "VnExpress Bình Định", "url": "https://vnexpress.net/chu-de/binh-dinh-1996", "pattern": "vnexpress\\.net/.+-(\\d{7})\\.html$", "max": 20, "region_search": true},
+    {"name": "VnExpress Gia Lai", "url": "https://vnexpress.net/chu-de/gia-lai-2007", "pattern": "vnexpress\\.net/.+-(\\d{7})\\.html$", "max": 20, "region_search": true},
+    {"name": "Tuổi Trẻ Quy Nhơn", "url": "https://tuoitre.vn/quy-nhon.html", "pattern": "tuoitre\\.vn/.+-(\\d{10,})\\.htm$", "max": 20, "region_search": true},
+    {"name": "Thanh Niên Bình Định", "url": "https://thanhnien.vn/binh-dinh.html", "pattern": "thanhnien\\.vn/.+-(\\d{10,})\\.htm$", "max": 30, "region_search": true}
+  ],
+  "region_keywords": ["Quy Nhơn", "Nhơn Châu", "Nhơn Lý", "Nhơn Hải", "Nhơn Hội", "Hải Minh", "Ghềnh Ráng", "Cù Lao Xanh", "Eo Gió", "Kỳ Co", "Phú Tài", "Xuân Diệu", "ICISE", "Đại học Quy Nhơn", "Phương Mai"],
+
+  "_ghi_chu_preview_music": "Nhạc chỉ để XEM THỬ nội bộ (không dùng khi đăng; khi đăng gắn nhạc trong app nền tảng).",
+  "preview_music": {"file": "demo/assets/music/em-nen-dung-lai-0505.mp3", "start": 0}
+}

@@ -1,0 +1,79 @@
+{
+  "type": "digest",
+  "output": "anh",
+  "date": "2026-10-03",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "chip": "",
+  "cover": {
+    "kicker": "BẢN TIN",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Ngày 3/10/2026",
+    "teaser": "53 tài xế Quy Nhơn bị test ma túy bất ngờ – kết quả?",
+    "icon": "pin"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "text": "Ngày 3/10, CSGT tỉnh Gia Lai kiểm tra nhanh ma túy đột xuất 53 tài xế và phụ xe khách đường dài tại Bến xe trung tâm Quy Nhơn (phường Quy Nhơn Nam). Kết quả toàn bộ 53 trường hợp đều âm tính.",
+      "ai_prompt": "police officers testing long-distance coach bus drivers for drugs at a Vietnamese bus station, daytime, documentary style",
+      "source": "https://baomoi.com/gia-lai-kiem-tra-ma-tuy-dot-xuat-tai-xe-xe-khach-duong-dai-c56190656.epi",
+      "source_name": "Báo SGGP",
+      "published": "2026-10-03T19:40:34+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Trung đoàn 739 thông báo bắn đạn thật tại trường bắn khu phố 2, phường Quy Nhơn Tây vào các ngày 6–8/10 và 13–15/10 (từ 6h30 đến 21h30). Người dân tuyệt đối không đi vào khu vực nguy hiểm.",
+      "ai_prompt": "military shooting range on a hillside with red warning flags and a no-entry sign, Vietnam countryside, daytime",
+      "source": "https://baogialai.com.vn/trung-doan-739-to-chuc-ban-dan-that-tai-truong-ban-thuoc-phuong-quy-nhon-tay-post600926.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-03T04:36:27+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Phát Đạt giới thiệu dự án Q'Terra cao 39 tầng với 864 căn hộ du lịch tại số 1 Ngô Mây (phường Nam Quy Nhơn), kiến trúc lấy cảm hứng văn hóa Chăm Pa, đứng cạnh khách sạn Courtyard by Marriott.",
+      "ai_prompt": "modern seaside apartment tower in a Vietnamese coastal city, beach view, sunny day, architectural render",
+      "source": "https://vnexpress.net/phat-dat-gioi-thieu-du-an-luu-tru-39-tang-tai-nam-quy-nhon-5127250.html",
+      "source_name": "VnExpress",
+      "published": "2026-10-03T10:00:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Trạm dừng nghỉ trên cao tốc Hoài Nhơn – Quy Nhơn vẫn chậm tiến độ. Cục Đường bộ Việt Nam yêu cầu nhà đầu tư khởi công phần còn lại trước 5/10 và hoàn thành toàn bộ trước 30/12/2026.",
+      "ai_prompt": "highway rest stop under construction next to a new expressway in central Vietnam, cranes, daytime",
+      "source": "https://baomoi.com/cuc-duong-bo-lien-tuc-canh-bao-yeu-cau-day-nhanh-tien-do-2-tram-dung-nghi-cao-toc-c56186931.epi",
+      "source_name": "Báo Xây Dựng",
+      "published": "2026-10-03T09:55:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Sáng 3/10 tại ĐH FPT cơ sở Quy Nhơn, Tỉnh đoàn Gia Lai khai mạc Trại sáng tạo số và chung kết cuộc thi HackAIthon 2026, 8 đội thi dùng AI giải bài toán cộng đồng, doanh nghiệp, nông nghiệp.",
+      "ai_prompt": "Vietnamese university students working on laptops at a hackathon event, team collaboration, bright hall",
+      "source": "https://baogialai.com.vn/khai-mac-trai-sang-tao-so-va-vong-chung-ket-cuoc-thi-gia-lai-youth-hackaithon-2026-post600963.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-03T21:45:09+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Trường CĐ Kỹ thuật Công nghệ Quy Nhơn đón hơn 2.200 học sinh, sinh viên khóa K20 trong ngày hội sáng 3/10, đồng thời trao khoảng 50 triệu đồng học bổng cho các em khó khăn, học tốt.",
+      "ai_prompt": "vocational college freshmen orientation event with exhibition booths, Vietnamese students, daytime",
+      "source": "https://baogialai.com.vn/truong-cd-ky-thuat-cong-nghe-quy-nhon-to-chuc-ngay-hoi-chao-tan-hoc-sinh-sinh-vien-k20-post600978.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-03T21:39:33+07:00"
+    }
+  ],
+  "outro": "Follow để 11h mai xem tiếp tin Quy Nhơn",
+  "outro_question": "Bạn thấy test ma túy tài xế định kỳ có nên không?",
+  "pin_comment": "Tin nào làm bạn bất ngờ nhất? Ghi số 1–6 👇 Nhà bạn có tin gì muốn kênh đưa? Nhắn tin cho kênh nhé!",
+  "caption": {
+    "tiktok": "53 tài xế ở bến xe Quy Nhơn bị test ma túy bất ngờ – kết quả thế nào? 👀 Cùng 5 tin nóng khác hôm nay: lịch bắn đạn thật Quy Nhơn Tây, tháp 39 tầng sát biển… Nguồn: Báo SGGP, Báo Gia Lai, VnExpress, Báo Xây Dựng",
+    "youtube": "53 tài xế Quy Nhơn bị test ma túy bất ngờ – Tin Quy Nhơn 3/10/2026 #Shorts",
+    "facebook": "❓ 53 tài xế ở Bến xe trung tâm Quy Nhơn bị test ma túy bất ngờ – kết quả ra sao?\n\n📍 TIN QUY NHƠN 24H QUA – 3/10/2026\n1. CSGT test ma túy đột xuất 53 tài xế, phụ xe tại Bến xe trung tâm Quy Nhơn: tất cả âm tính\n2. Bắn đạn thật ở phường Quy Nhơn Tây ngày 6–8/10 và 13–15/10 (6h30–21h30) – bà con tránh khu vực\n3. Tháp căn hộ du lịch Q'Terra 39 tầng, 864 căn tại số 1 Ngô Mây\n4. Trạm dừng nghỉ cao tốc Hoài Nhơn – Quy Nhơn phải xong trước 30/12\n5. Chung kết HackAIthon 2026 tại ĐH FPT Quy Nhơn\n6. Trường CĐ Kỹ thuật Công nghệ Quy Nhơn đón hơn 2.200 tân sinh viên\n\nBạn thấy test ma túy tài xế định kỳ có nên không? Bình luận nhé 👇\n\nNguồn: Báo SGGP, Báo Gia Lai, VnExpress, Báo Xây Dựng"
+  },
+  "hashtags": ["#quynhon", "#tinquynhon", "#gialai", "#binhdinh", "#tintuc"],
+  "needs_review": [
+    "Ảnh lấy từ bài báo gốc (đã ghi tên báo trên ảnh) – kiểm tra bản quyền trước khi đăng",
+    "Tin 4: bài gốc nói chung 2 trạm dừng nghỉ (Hoài Nhơn – Quy Nhơn và Cam Lâm – Vĩnh Hảo); bản tin chỉ đưa phần Hoài Nhơn – Quy Nhơn",
+    "Tin 3: là sự kiện giới thiệu dự án của doanh nghiệp (bài VnExpress mục Bất động sản – có thể là bài PR)"
+  ]
+}

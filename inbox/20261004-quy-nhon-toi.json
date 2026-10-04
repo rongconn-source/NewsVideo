@@ -1,0 +1,80 @@
+{
+  "type": "digest",
+  "output": "video",
+  "date": "2026-10-04",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "chip": "",
+  "cover": {
+    "kicker": "BẢN TIN TỐI",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Tối 4/10/2026",
+    "teaser": "Hỗ trợ 200 triệu/chuyến bay đến Phù Cát và loạt tin tối 4/10",
+    "image": "item:1",
+    "icon": "pin"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "text": "HĐND tỉnh Gia Lai thông qua nghị quyết hỗ trợ 200 triệu đồng cho mỗi chuyến bay charter quốc tế đến Cảng hàng không Phù Cát, nhằm đẩy mạnh thu hút du khách nước ngoài đến Quy Nhơn.",
+      "ai_prompt": "modern international passenger airplane landing at a coastal airport runway with sunset lighting in Vietnam",
+      "source": "https://baogialai.com.vn/gia-lai-ho-tro-200-trieu-dongchuyen-bay-quoc-te-khong-thuong-le-den-cang-hang-khong-phu-cat-post600859.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-04T19:17:53+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Công an tỉnh Gia Lai vừa khởi tố, bắt tạm giam đối tượng Trương Thị Thu Cúc (SN 1979) vì hành vi chiếm đoạt 7,3 tỷ đồng của 2 người dân bằng thủ đoạn vay tiền đáo hạn ngân hàng.",
+      "ai_prompt": "Vietnamese police investigator office with official documents on desk, serious legal atmosphere, daytime",
+      "source": "https://baogialai.com.vn/gia-lai-khoi-to-doi-tuong-chiem-doat-73-ty-dong-bang-kich-ban-vay-tien-dao-han-ngan-hang-post601064.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-04T19:15:47+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Chủ tịch UBND tỉnh Gia Lai yêu cầu các nhà thầu thi công cao tốc Quy Nhơn – Pleiku tăng cường '3 ca 4 kíp', khẩn trương bù lại tiến độ bị chậm tại gói thầu XL-01 để kịp thông tuyến.",
+      "ai_prompt": "expressway highway construction site with heavy machinery rollers and asphalt pavers in Central Vietnam mountain pass",
+      "source": "https://baomoi.com/gia-lai-yeu-cau-tap-trung-thi-cong-dam-bao-tien-do-cao-toc-quy-nhon-pleiku-c56195070.epi",
+      "source_name": "Báo Xây Dựng",
+      "published": "2026-10-04T17:00:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Từ đầu năm đến nay, Gia Lai ghi nhận hơn 7.600 ca sốt xuất huyết (tăng hơn 5.000 ca so với cùng kỳ năm trước), xuất hiện 393 ổ dịch và 1 ca tử vong. Người dân cần chủ động diệt muỗi, lăng quăng.",
+      "ai_prompt": "public health workers spraying mosquito disinfectant smoke mist outdoors along village streets in Vietnam",
+      "source": "https://baogialai.com.vn/toan-canh-gia-lai-24h-ghi-nhan-hon-7600-ca-sot-xuat-huyet-tu-dau-nam-post601057.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-04T18:30:24+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Tỉnh triển khai chính sách hỗ trợ tối đa 2,5 tỷ đồng hạ tầng giao thông và 50 triệu đồng số hóa dữ liệu, quảng bá trực tuyến cho mỗi điểm du lịch cộng đồng như các làng Ba Na ở xã Bình Phú.",
+      "ai_prompt": "traditional wooden stilt house village of Bana ethnic community in Gia Lai Vietnam with lush green hills in background",
+      "source": "https://baomoi.com/gia-lai-tiep-suc-cac-diem-du-lich-cong-dong-c56195724.epi",
+      "source_name": "Báo Sài Gòn Giải Phóng",
+      "published": "2026-10-04T19:41:13+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Em Trần Thị Ngọc Như (học sinh lớp 7B Trường THCS Phan Chu Trinh, xã Kon Gang) nhặt được 2 điện thoại iPhone Pro Max và Realme, liền mang đến công an giao nộp để trả lại người đánh rơi.",
+      "ai_prompt": "honest Vietnamese middle school student handing over lost smartphones to a local police officer at police station, daylight",
+      "source": "https://baogialai.com.vn/nu-sinh-truong-thcs-phan-chu-trinh-tra-lai-dien-thoai-cho-nguoi-danh-roi-post601035.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-04T13:42:51+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "pin_comment": "Bạn nghĩ sao về chính sách hỗ trợ bay quốc tế đến Phù Cát? Bình luận nhé 👇 Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "caption": {
+    "tiktok": "Hỗ trợ 200 triệu/chuyến bay đến Phù Cát cùng các tin đáng chú ý tối 4/10: Khởi tố vụ lừa 7,3 tỷ vay đáo hạn, thúc tiến độ cao tốc Quy Nhơn – Pleiku, cảnh báo 7.600 ca sốt xuất huyết, nữ sinh trả lại iPhone Pro Max. Nguồn: Báo Gia Lai, Báo Xây Dựng, Báo SGGP",
+    "youtube": "Tin Quy Nhơn – Gia Lai tối 4/10/2026: Hỗ trợ chuyến bay đến Phù Cát, khởi tố vụ lừa 7,3 tỷ, cao tốc Quy Nhơn - Pleiku #Shorts",
+    "facebook": "📍 QUY NHƠN 24H QUA – TỐI 4/10/2026\n1. Hỗ trợ 200 triệu đồng/chuyến bay charter quốc tế đến Cảng hàng không Phù Cát\n2. Khởi tố đối tượng chiếm đoạt 7,3 tỷ đồng bằng kịch bản vay tiền đáo hạn ngân hàng\n3. Thúc tiến độ thi công '3 ca 4 kíp' cao tốc Quy Nhơn – Pleiku\n4. Gia Lai ghi nhận hơn 7.600 ca sốt xuất huyết từ đầu năm, cảnh báo mùa dịch\n5. Hỗ trợ tối đa 2,5 tỷ đồng hạ tầng và 50 triệu quảng bá số cho các điểm du lịch cộng đồng\n6. Nữ sinh lớp 7 Trường THCS Phan Chu Trinh nhặt 2 điện thoại giao công an trả lại người đánh rơi\n\nBạn nghĩ sao về chính sách hỗ trợ bay quốc tế đến Phù Cát? Bình luận nhé 👇\n\nNguồn: Báo Gia Lai, Báo Xây Dựng, Báo Sài Gòn Giải Phóng"
+  },
+  "hashtags": ["#quynhon", "#tinquynhon", "#gialai", "#binhdinh", "#tintuc", "#quynhon24hqua"],
+  "needs_review": [
+    "Tin 1: Nghị quyết HĐND tỉnh Gia Lai áp dụng hỗ trợ bay quốc tế đến Cảng hàng không Phù Cát (Bình Định cũ)",
+    "Tin 2: Nạn nhân ở xã Hoài Ân và Vạn Đức (tỉnh Gia Lai)",
+    "Tin 6: Xảy ra tại xã Kon Gang (tỉnh Gia Lai)",
+    "Ảnh lấy từ bài báo gốc (đã ghi tên báo trên ảnh) – kiểm tra bản quyền trước khi đăng"
+  ]
+}

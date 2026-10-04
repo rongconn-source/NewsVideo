@@ -1,0 +1,19 @@
+# Output and rendered videos (rất nặng, chỉ lưu trên máy cục bộ)
+data/output/
+data/cache/
+data/scan/
+
+# Environment secrets
+config/secrets.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Node modules
+node_modules/
+
+# OS files
+Thumbs.db
+.DS_Store

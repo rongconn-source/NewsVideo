@@ -1,0 +1,88 @@
+{
+  "type": "digest",
+  "output": "video",
+  "date": "2026-10-04",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "chip": "",
+  "cover": {
+    "kicker": "BẢN TIN CHIỀU",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Chiều 4/10/2026",
+    "teaser": "Đăng ký kết hôn đặc biệt tại phân trại tạm giam và loạt tin chiều 4/10",
+    "image": "item:1",
+    "icon": "pin"
+  },
+  "items": [
+    {
+      "category": "tinh",
+      "text": "Viện KSND khu vực 12 phối hợp cùng UBND xã Ia Pa và Phân trại tạm giam Ayun Pa tổ chức buổi đăng ký kết hôn lưu động đặc biệt cho một công dân đang bị tạm giam.",
+      "ai_prompt": "formal civil wedding registration ceremony in a modest office room in Vietnam, respectful atmosphere",
+      "source": "https://baogialai.com.vn/gia-lai-to-chuc-dang-ky-ket-hon-luu-dong-cho-nguoi-bi-tam-giam-post601031.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-04T13:34:19+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Từ 7–11/10, ICISE (phường Quy Nhơn Nam) đón hơn 100 chuyên gia quốc tế dự chuỗi hội nghị khoa học về AI, năng lượng hạt nhân và Đối thoại Quy Nhơn về khí hậu.",
+      "ai_prompt": "international science conference hall with audience and speakers on stage, modern building near the sea in central Vietnam",
+      "source": "https://baomoi.com/gia-lai-sap-dien-ra-loat-thao-luan-quoc-te-ve-ai-nang-luong-va-khi-hau-c56192166.epi",
+      "source_name": "Tạp chí Doanh Nghiệp Việt Nam",
+      "published": "2026-10-04T07:52:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Trung đoàn 739 thông báo bắn đạn thật tại trường bắn khu phố 2 (phường Quy Nhơn Tây) các ngày 6–8/10 và 13–15/10, từ 6h30 đến 21h30. Bà con lưu ý không vào khu vực nguy hiểm.",
+      "ai_prompt": "military shooting range on a hillside with red warning flags and a no-entry sign, Vietnam countryside, daytime",
+      "source": "https://baogialai.com.vn/trung-doan-739-to-chuc-ban-dan-that-tai-truong-ban-thuoc-phuong-quy-nhon-tay-post600926.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-03T04:36:27+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Em Trần Thị Ngọc Như (học sinh lớp 7B Trường THCS Phan Chu Trinh, xã Kon Gang) nhặt được 2 điện thoại iPhone Pro Max và Realme, liền mang đến công an giao nộp để trả lại người đánh rơi.",
+      "ai_prompt": "honest Vietnamese middle school student handing over lost smartphones to a local police officer at police station, daylight",
+      "source": "https://baogialai.com.vn/nu-sinh-truong-thcs-phan-chu-trinh-tra-lai-dien-thoai-cho-nguoi-danh-roi-post601035.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-04T13:42:51+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Hàng trăm mét đất rẫy tại thôn Chư Ty 4 (xã Đức Cơ) xuất hiện các vết nứt sâu rộng 20–40 cm gây sạt lở, sụt lún nghiêm trọng, cuốn trôi cây trồng khiến người dân hết sức lo lắng.",
+      "ai_prompt": "large ground fissures and soil erosion cracks across an agricultural farmland hillside in rural Vietnam, cloudy sky",
+      "source": "https://baogialai.com.vn/nguoi-dan-lo-lang-truoc-tinh-trang-sut-lun-sat-lo-dat-o-duc-co-post600809.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-04T15:54:45+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Trong khuôn khổ Diễn đàn Logistics Việt Nam 2026, đoàn đại biểu sẽ đến khảo sát thực địa Cảng Quy Nhơn và KCN Becamex – VSIP vào chiều 6/11.",
+      "ai_prompt": "container port with cranes and cargo ship at sunset in a coastal city of central Vietnam",
+      "source": "https://baomoi.com/dien-dan-logistics-viet-nam-2026-du-kien-dien-ra-vao-dau-thang-11-2026-c56193492.epi",
+      "source_name": "Bnews/TTXVN",
+      "published": "2026-10-04T11:42:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Bộ Khoa học và Công nghệ công bố kết quả Chỉ số đổi mới sáng tạo cấp địa phương (PII) năm 2026, tỉnh Gia Lai đạt 34,30 điểm, xếp thứ 23 trên cả nước.",
+      "ai_prompt": "modern national science and innovation index award announcement ceremony on a brightly lit LED stage screen",
+      "source": "https://baogialai.com.vn/gia-lai-xep-thu-23-ve-chi-so-doi-moi-sang-tao-nam-2026-post601048.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-04T17:00:35+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "pin_comment": "Bạn ấn tượng nhất với tin nào trong bản tin chiều nay? Bình luận nhé 👇 Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "caption": {
+    "tiktok": "Đăng ký kết hôn đặc biệt tại phân trại tạm giam cùng các tin đáng chú ý chiều 4/10: ICISE đón hội nghị quốc tế AI, lịch bắn đạn thật ở Quy Nhơn Tây, nữ sinh trả lại iPhone Pro Max, sạt lở đất ở Đức Cơ, khảo sát Cảng Quy Nhơn. Nguồn: Báo Gia Lai, Tạp chí Doanh Nghiệp VN, Bnews/TTXVN",
+    "youtube": "Tin Quy Nhơn – Gia Lai chiều 4/10/2026: Đăng ký kết hôn trong trại tạm giam, hội nghị ICISE, lịch bắn đạn thật #Shorts",
+    "facebook": "📍 QUY NHƠN 24H QUA – CHIỀU 4/10/2026\n1. Tổ chức đăng ký kết hôn lưu động đặc biệt cho công dân đang bị tạm giam tại Phân trại Ayun Pa\n2. ICISE (phường Quy Nhơn Nam) đón hơn 100 chuyên gia quốc tế dự hội thảo AI, hạt nhân, khí hậu (7–11/10)\n3. Trung đoàn 739 bắn đạn thật tại trường bắn KP2 (phường Quy Nhơn Tây) các ngày 6–8/10 và 13–15/10\n4. Nữ sinh lớp 7 Trường THCS Phan Chu Trinh nhặt được 2 điện thoại giao công an trả lại người đánh rơi\n5. Hàng trăm mét đất rẫy ở xã Đức Cơ xuất hiện vết nứt sâu 20–40 cm gây sạt lở đất nghiêm trọng\n6. Đại biểu Diễn đàn Logistics VN 2026 sẽ đến khảo sát Cảng Quy Nhơn chiều 6/11\n7. Gia Lai xếp thứ 23 cả nước về Chỉ số đổi mới sáng tạo cấp địa phương (PII) năm 2026\n\nBạn ấn tượng nhất với tin nào chiều nay? Bình luận nhé 👇\n\nNguồn: Báo Gia Lai, Tạp chí Doanh Nghiệp VN, Bnews/TTXVN"
+  },
+  "hashtags": ["#quynhon", "#tinquynhon", "#gialai", "#binhdinh", "#tintuc", "#quynhon24hqua"],
+  "needs_review": [
+    "Tin 1: xảy ra tại Phân trại tạm giam Ayun Pa (tỉnh Gia Lai)",
+    "Tin 4: xảy ra tại xã Kon Gang (tỉnh Gia Lai)",
+    "Tin 5: xảy ra tại xã Đức Cơ (tỉnh Gia Lai)",
+    "Ảnh lấy từ bài báo gốc (đã ghi tên báo trên ảnh) – kiểm tra bản quyền trước khi đăng"
+  ]
+}
