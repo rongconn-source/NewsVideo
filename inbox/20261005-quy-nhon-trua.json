@@ -9,11 +9,19 @@
     "kicker": "BẢN TIN TRƯA",
     "title": "Tin tức Quy Nhơn",
     "subtitle": "Trưa 5/10/2026",
-    "teaser": "Bất cập đèn tín hiệu ngã tư Gò Găng và loạt tin trưa 5/10",
+    "teaser": "Hơn 10.300 tỷ đường sắt tốc độ cao và loạt tin trưa 5/10",
     "image": "item:1",
     "icon": "pin"
   },
   "items": [
+    {
+      "category": "khu-vuc",
+      "text": "Gia Lai dành hơn 10.300 tỷ đồng bồi thường, tái định cư dự án đường sắt tốc độ cao Bắc - Nam qua tỉnh dài 115km, bố trí 2 ga Bồng Sơn và ga Diêu Trì, xây dựng 37 khu tái định cư.",
+      "ai_prompt": "modern high speed bullet train concept passing through lush green coastal plains and modern railway station in Vietnam",
+      "source": "https://sggp.org.vn/gia-lai-hon-10300-ty-dong-boi-thuong-tai-dinh-cu-phuc-vu-quy-hoach-duong-sat-toc-do-cao-post874894.html",
+      "source_name": "Báo SGGP",
+      "published": "2026-10-04T19:47:33+07:00"
+    },
     {
       "category": "khu-vuc",
       "text": "Sau vụ tai nạn làm đổ trụ đèn, ngã tư Gò Găng (nút giao QL1 - QL19B, phường An Nhơn Bắc) hiện chỉ nhấp nháy đèn vàng khiến giao thông giờ cao điểm ùn ứ, người dân kiến nghị sớm sửa chữa.",
@@ -61,28 +69,27 @@
       "source": "https://baogialai.com.vn/toan-canh-gia-lai-24h-ghi-nhan-hon-7600-ca-sot-xuat-huyet-tu-dau-nam-post601057.html",
       "source_name": "Báo Gia Lai",
       "published": "2026-10-04T18:30:24+07:00"
-    },
-    {
-      "category": "tinh",
-      "text": "Nhiều bạn trẻ tốt nghiệp Đại học Quy Nhơn đang chọn 'bỏ phố về rừng' khai phá tiềm năng du lịch tại xã An Hòa, dựng điểm đến sinh thái Dốc Đá Mòn hút khách và tạo thêm sinh kế cho người dân.",
-      "ai_prompt": "young Vietnamese eco-tourism cafe and wooden lodge nestled near a scenic mountain stream in Vietnam highlands",
-      "source": "https://baogialai.com.vn/khi-nguoi-tre-vung-cao-lam-du-lich-post601013.html",
-      "source_name": "Báo Gia Lai",
-      "published": "2026-10-05T08:46:36+07:00"
     }
   ],
   "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
-  "pin_comment": "Bà con đi qua ngã tư Gò Găng dạo này thấy thế nào? Bình luận nhé 👇 Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "Bà con nghĩ sao về dự án đường sắt tốc độ cao qua ga Diêu Trì? Bình luận nhé 👇 Nhà bạn có tin? Nhắn kênh, kênh đưa!",
   "caption": {
-    "tiktok": "Bất cập đèn tín hiệu ngã tư Gò Găng cùng các tin đáng chú ý trưa 5/10: Hỗ trợ 200 triệu bay Phù Cát, từ 5/10 chia sẻ tin giả có thể bị xử lý, bắt vụ lừa 7,3 tỷ, tăng trợ cấp người không có lương hưu. Nguồn: Báo Gia Lai",
-    "youtube": "Tin Quy Nhơn – Gia Lai trưa 5/10/2026: Đèn tín hiệu ngã tư Gò Găng, hỗ trợ bay Phù Cát, xử lý tin giả #Shorts",
-    "facebook": "📍 QUY NHƠN 24H QUA – TRƯA 5/10/2026\n1. Người dân kiến nghị sớm khôi phục đèn tín hiệu ngã tư Gò Găng (QL1 - QL19B, phường An Nhơn Bắc)\n2. Hỗ trợ 200 triệu đồng/chuyến bay charter quốc tế đến Cảng hàng không Phù Cát\n3. Từ hôm nay 5/10: Bấm chia sẻ hoặc bình luận tin giả trên mạng có thể bị công khai danh tính và xử lý\n4. Khởi tố đối tượng chiếm đoạt 7,3 tỷ đồng bằng kịch bản vay tiền đáo hạn ngân hàng\n5. Nâng mức trợ cấp hưu trí xã hội cho người cao tuổi không có lương hưu lên 540.000đ/tháng từ 5/10\n6. Toàn tỉnh ghi nhận hơn 7.600 ca sốt xuất huyết từ đầu năm, cảnh báo nguy cơ bùng dịch mùa mưa\n7. Người trẻ tốt nghiệp ĐH Quy Nhơn 'bỏ phố về rừng' làm du lịch sinh thái bản địa tại An Hòa\n\nBà con đi qua ngã tư Gò Găng dạo này thấy thế nào? Bình luận nhé 👇\n\nNguồn: Báo Gia Lai"
+    "tiktok": "Hơn 10.300 tỷ bồi thường đường sắt tốc độ cao (ga Diêu Trì, Bồng Sơn) cùng các tin đáng chú ý trưa 5/10: Bất cập ngã tư Gò Găng, hỗ trợ 200 triệu bay Phù Cát, từ 5/10 phạt tin giả MXH, bắt vụ lừa 7,3 tỷ, tăng trợ cấp người không có lương hưu. Nguồn: Báo SGGP, Báo Gia Lai #quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Tin Quy Nhơn – Gia Lai trưa 5/10/2026: Đường sắt tốc độ cao 10.300 tỷ, ngã tư Gò Găng, bay Phù Cát #Shorts",
+    "facebook": "📍 QUY NHƠN 24H QUA – BẢN TIN TRƯA 5/10/2026\n1. Gia Lai hơn 10.300 tỷ đồng bồi thường, tái định cư đường sắt tốc độ cao (115km, 2 ga Bồng Sơn và Diêu Trì)\n2. Người dân kiến nghị sớm khôi phục đèn tín hiệu ngã tư Gò Găng (QL1 - QL19B, phường An Nhơn Bắc)\n3. Hỗ trợ 200 triệu đồng/chuyến bay charter quốc tế đến Cảng hàng không Phù Cát\n4. Từ hôm nay 5/10: Bấm chia sẻ hoặc bình luận tin giả trên mạng có thể bị công khai danh tính và xử lý\n5. Khởi tố đối tượng chiếm đoạt 7,3 tỷ đồng bằng kịch bản vay tiền đáo hạn ngân hàng\n6. Nâng mức trợ cấp hưu trí xã hội cho người cao tuổi không có lương hưu lên 540.000đ/tháng từ 5/10\n7. Toàn tỉnh ghi nhận hơn 7.600 ca sốt xuất huyết từ đầu năm, cảnh báo nguy cơ bùng dịch mùa mưa\n\nBà con nghĩ sao về dự án đường sắt tốc độ cao qua ga Diêu Trì? Bình luận nhé 👇\n\nNguồn: Báo Sài Gòn Giải Phóng, Báo Gia Lai"
   },
-  "hashtags": ["#quynhon", "#tinquynhon", "#gialai", "#binhdinh", "#tintuc", "#quynhon24hqua"],
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
   "needs_review": [
-    "Tin 1: Nút giao ngã tư Gò Găng thuộc địa bàn phường An Nhơn Bắc (Bình Định cũ)",
-    "Tin 4: Nạn nhân ở xã Hoài Ân và Vạn Đức (tỉnh Gia Lai)",
-    "Tin 7: Xảy ra tại xã vùng cao An Hòa (huyện An Lão, Bình Định cũ)",
+    "Tin 1: Tuyến đường sắt tốc độ cao qua 18 xã, phường; 2 ga Bồng Sơn và ga Diêu Trì",
+    "Tin 2: Nút giao ngã tư Gò Găng thuộc địa bàn phường An Nhơn Bắc (Bình Định cũ)",
+    "Tin 5: Nạn nhân ở xã Hoài Ân và Vạn Đức (tỉnh Gia Lai)",
     "Ảnh lấy từ bài báo gốc (đã ghi tên báo trên ảnh) – kiểm tra bản quyền trước khi đăng"
   ]
 }
