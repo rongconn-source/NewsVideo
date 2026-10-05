@@ -1,0 +1,96 @@
+{
+  "type": "digest",
+  "output": "video",
+  "date": "2026-10-05",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "chip": "",
+  "cover": {
+    "kicker": "BẢN TIN TỐI",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Tối 5/10/2026",
+    "teaser": "HAGL mượn sân Quy Nhơn đá V-League và loạt tin tối 5/10",
+    "image": "item:1",
+    "icon": "pin"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "text": "Vòng 3 V-League, CLB Hoàng Anh Gia Lai chính thức mượn sân vận động Quy Nhơn làm sân nhà tiếp đón SHB Đà Nẵng lúc 17 giờ ngày 10-10, do sân Pleiku ảnh hưởng bởi mưa lớn kéo dài.",
+      "ai_prompt": "professional football soccer players in action on green grass pitch at Quy Nhon coastal stadium Vietnam, sunny evening",
+      "source": "https://baogialai.com.vn/vong-3-v-league-202627-hagl-doi-san-nha-tiep-shb-da-nang-tai-san-van-dong-quy-nhon-post601133.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-05T17:18:03+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Sở Xây dựng tỉnh đề xuất 157 tỷ đồng nâng cấp 7 cầu yếu, trong đó ưu tiên sửa chữa 3 cây cầu huyết mạch tại Quy Nhơn gồm cầu Đống Đa, cầu Đôi (trên QL19) và cầu Hà Thanh 2.",
+      "ai_prompt": "long concrete urban river bridge with cars and motorbikes passing over water in coastal city Quy Nhon Vietnam",
+      "source": "https://baomoi.com/gia-lai-de-xuat-dau-tu-nang-cap-7-cau-yeu-voi-kinh-phi-157-ty-dong-c56201568.epi",
+      "source_name": "Báo Mới Quy Nhơn",
+      "published": "2026-10-05T17:48:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "UBND tỉnh chấp thuận chủ trương đầu tư dự án siêu thị tại xã Phù Cát (ngã đường 3/2 và 30/3) với tổng vốn hơn 66,6 tỷ đồng, quy mô hơn 5.000m² nhằm phục vụ nhu cầu mua sắm của bà con.",
+      "ai_prompt": "modern architectural rendering of a regional commercial supermarket building with parking lot and shoppers in Vietnam",
+      "source": "https://baogialai.com.vn/gia-lai-chap-thuan-chu-truong-dau-tu-du-an-sieu-thi-hon-666-ty-dong-tai-phu-cat-post601147.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-05T17:17:02+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "UBND tỉnh vừa trao chứng nhận đầu tư Dự án Trung tâm Thương mại Go! Pleiku cho Central Retail với tổng vốn hơn 603 tỷ đồng trên diện tích 1,5 ha, gồm siêu thị, khu ẩm thực và vui chơi giải trí.",
+      "ai_prompt": "grand opening and architectural scale model of a large modern shopping mall in central Vietnam",
+      "source": "https://baogialai.com.vn/trao-giay-chung-nhan-dang-ky-dau-tu-du-an-trung-tam-thuong-mai-go-pleiku-post601134.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-05T13:55:55+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Ban Quản lý dự án tỉnh đang gấp rút hoàn thiện hạ tầng 9 khu tái định cư phục vụ 422 hộ dân, nhằm sớm bàn giao 100% mặt bằng sạch thi công tuyến cao tốc Quy Nhơn – Pleiku.",
+      "ai_prompt": "civil engineering highway construction site with heavy excavators and trucks building new expressway in Vietnam",
+      "source": "https://baogialai.com.vn/du-an-cao-toc-quy-nhon-pleiku-gap-rut-tai-dinh-cu-ban-giao-mat-bang-post601076.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-05T03:55:29+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Không khí lạnh khiến khu vực miền Trung xuất hiện mưa lớn từ 50-100mm, có nơi trên 200mm/ngày. Ban Chỉ đạo phòng thủ dân sự quốc gia yêu cầu các địa phương khẩn cấp ứng phó ngập lụt, sạt lở.",
+      "ai_prompt": "heavy rainfall and stormy weather overcast clouds over Vietnamese central province road, daytime",
+      "source": "https://baogialai.com.vn/mua-lon-tren-200-mmngay-5-tinh-mien-trung-ung-pho-ngap-lut-post601154.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-05T17:18:19+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Nhiều bạn trẻ tốt nghiệp Đại học Quy Nhơn chọn 'bỏ phố về rừng' khai phá du lịch quê nhà, dựng điểm sinh thái Dốc Đá Mòn (xã An Hòa) mộc mạc hút khách, tạo thêm sinh kế cho người dân bản địa.",
+      "ai_prompt": "young Vietnamese eco-tourism cafe and wooden lodge nestled near a scenic mountain stream in Vietnam highlands",
+      "source": "https://baogialai.com.vn/khi-nguoi-tre-vung-cao-lam-du-lich-post601013.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-05T08:46:36+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "pin_comment": "Bà con Quy Nhơn có ra sân cổ vũ HAGL đá với SHB Đà Nẵng ngày 10-10 không? Bình luận nhé 👇 Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "caption": {
+    "tiktok": "HAGL mượn sân vận động Quy Nhơn đá V-League cùng các tin tức đáng chú ý tối 5/10: Nâng cấp 3 cầu huyết mạch Quy Nhơn, làm siêu thị hơn 66 tỷ ở Phù Cát, TTTM Go! hơn 603 tỷ, giải phóng mặt bằng cao tốc, cảnh báo mưa lớn. Nguồn: Báo Gia Lai, Báo Mới #quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Tin tức Quy Nhơn – Gia Lai tối 5/10/2026: HAGL mượn sân Quy Nhơn đá V-League, nâng cấp cầu Đống Đa, siêu thị Phù Cát #Shorts",
+    "facebook": "📍 QUY NHƠN 24H QUA – BẢN TIN TỐI 5/10/2026\n1. Vòng 3 V-League: HAGL chính thức mượn sân vận động Quy Nhơn làm sân nhà tiếp đón SHB Đà Nẵng (17h ngày 10/10)\n2. Đề xuất 157 tỷ đồng nâng cấp 7 cầu yếu, sửa chữa 3 cầu huyết mạch tại Quy Nhơn: Cầu Đống Đa, Cầu Đôi, Cầu Hà Thanh 2\n3. Chấp thuận chủ trương đầu tư dự án siêu thị hơn 66,6 tỷ đồng tại xã Phù Cát (ngã đường 3/2 & 30/3)\n4. Trao chứng nhận đầu tư Dự án Trung tâm Thương mại Go! Pleiku hơn 603 tỷ đồng (1,5 ha) cho Central Retail\n5. Gấp rút hoàn thành hạ tầng 9 khu tái định cư phục vụ 422 hộ dân cao tốc Quy Nhơn – Pleiku\n6. Cảnh báo mưa lớn trên 200 mm/ngày do không khí lạnh tràn về, khẩn cấp ứng phó ngập lụt\n7. Cựu sinh viên ĐH Quy Nhơn 'bỏ phố về rừng' làm du lịch sinh thái Dốc Đá Mòn (xã An Hòa)\n\nBà con Quy Nhơn có ra sân cổ vũ HAGL đá với SHB Đà Nẵng ngày 10-10 không? Bình luận nhé 👇\n\nNguồn: Báo Gia Lai, Báo Mới"
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "needs_review": [
+    "Tin 1: Trận HAGL - SHB Đà Nẵng diễn ra lúc 17h ngày 10-10-2026 tại SVĐ Quy Nhơn",
+    "Tin 2: Ba cầu sửa chữa tại TP Quy Nhơn cũ: Cầu Đống Đa, Cầu Đôi (QL19), Cầu Hà Thanh 2 (phường Quy Nhơn)",
+    "Tin 3: Siêu thị tại xã Phù Cát (huyện Phù Cát, Bình Định cũ)",
+    "Tin 7: Dốc Đá Mòn thuộc xã vùng cao An Hòa (huyện An Lão, Bình Định cũ)",
+    "Ảnh lấy từ bài báo gốc (đã ghi tên báo trên ảnh) – kiểm tra bản quyền trước khi đăng"
+  ]
+}
