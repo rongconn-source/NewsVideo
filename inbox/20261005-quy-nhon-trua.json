@@ -1,0 +1,88 @@
+{
+  "type": "digest",
+  "output": "video",
+  "date": "2026-10-05",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "chip": "",
+  "cover": {
+    "kicker": "BẢN TIN TRƯA",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Trưa 5/10/2026",
+    "teaser": "Bất cập đèn tín hiệu ngã tư Gò Găng và loạt tin trưa 5/10",
+    "image": "item:1",
+    "icon": "pin"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "text": "Sau vụ tai nạn làm đổ trụ đèn, ngã tư Gò Găng (nút giao QL1 - QL19B, phường An Nhơn Bắc) hiện chỉ nhấp nháy đèn vàng khiến giao thông giờ cao điểm ùn ứ, người dân kiến nghị sớm sửa chữa.",
+      "ai_prompt": "busy road intersection with blinking yellow traffic light and moderate traffic of motorbikes and cars in Vietnam, daylight",
+      "source": "https://baogialai.com.vn/som-khoi-phuc-den-tin-hieu-nga-tu-go-gang-post601088.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-05T08:47:04+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "HĐND tỉnh Gia Lai thông qua nghị quyết hỗ trợ 200 triệu đồng cho mỗi chuyến bay charter quốc tế đến Cảng hàng không Phù Cát, nhằm đẩy mạnh thu hút du khách nước ngoài đến Quy Nhơn.",
+      "ai_prompt": "international commercial airliner parked on tarmac at a regional sunny airport near the coast in Vietnam",
+      "source": "https://baogialai.com.vn/gia-lai-ho-tro-200-trieu-dongchuyen-bay-quoc-te-khong-thuong-le-den-cang-hang-khong-phu-cat-post600859.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-04T19:17:53+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Từ hôm nay 5/10, theo Nghị định 328/2026/NĐ-CP, cá nhân chia sẻ hoặc bình luận thông tin giả, sai sự thật trên mạng xã hội có thể bị công khai danh tính và xử lý nghiêm.",
+      "ai_prompt": "close up of a person holding a smartphone browsing social media app with strict legal symbol icon overlay",
+      "source": "https://baogialai.com.vn/tu-5-10-bam-chia-se-hoac-binh-luan-tin-gia-co-the-bi-xu-ly-the-nao-post601094.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-05T07:41:35+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Công an tỉnh Gia Lai vừa khởi tố, bắt tạm giam đối tượng Trương Thị Thu Cúc (SN 1979) vì hành vi chiếm đoạt 7,3 tỷ đồng của 2 người dân bằng thủ đoạn gian dối vay tiền đáo hạn ngân hàng.",
+      "ai_prompt": "official legal document and investigation folder on office table at Vietnamese police department",
+      "source": "https://baogialai.com.vn/gia-lai-khoi-to-doi-tuong-chiem-doat-73-ty-dong-bang-kich-ban-vay-tien-dao-han-ngan-hang-post601064.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-04T19:15:47+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Từ hôm nay 5/10, theo Nghị định 335/2026/NĐ-CP của Chính phủ, mức trợ cấp hưu trí xã hội hằng tháng cho người cao tuổi từ 75 tuổi trở lên không có lương hưu chính thức được nâng từ 500.000 lên 540.000 đồng.",
+      "ai_prompt": "happy elderly Vietnamese grandfather smiling in a peaceful home garden in rural Vietnam, morning sunlight",
+      "source": "https://baogialai.com.vn/tu-hom-nay-5-10-them-quyen-loi-cho-nguoi-khong-co-luong-huu-lam-ho-so-the-nao-post601110.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-05T10:03:19+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Từ đầu năm đến nay, toàn tỉnh ghi nhận hơn 7.600 ca sốt xuất huyết (tăng hơn 5.000 ca so với cùng kỳ năm trước), xuất hiện 393 ổ dịch và 1 ca tử vong. Người dân cần chủ động phòng chống muỗi đốt.",
+      "ai_prompt": "health workers spraying white mosquito control insecticide mist on village roads in Vietnam, daytime",
+      "source": "https://baogialai.com.vn/toan-canh-gia-lai-24h-ghi-nhan-hon-7600-ca-sot-xuat-huyet-tu-dau-nam-post601057.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-04T18:30:24+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Nhiều bạn trẻ tốt nghiệp Đại học Quy Nhơn đang chọn 'bỏ phố về rừng' khai phá tiềm năng du lịch tại xã An Hòa, dựng điểm đến sinh thái Dốc Đá Mòn hút khách và tạo thêm sinh kế cho người dân.",
+      "ai_prompt": "young Vietnamese eco-tourism cafe and wooden lodge nestled near a scenic mountain stream in Vietnam highlands",
+      "source": "https://baogialai.com.vn/khi-nguoi-tre-vung-cao-lam-du-lich-post601013.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-05T08:46:36+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "pin_comment": "Bà con đi qua ngã tư Gò Găng dạo này thấy thế nào? Bình luận nhé 👇 Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "caption": {
+    "tiktok": "Bất cập đèn tín hiệu ngã tư Gò Găng cùng các tin đáng chú ý trưa 5/10: Hỗ trợ 200 triệu bay Phù Cát, từ 5/10 chia sẻ tin giả có thể bị xử lý, bắt vụ lừa 7,3 tỷ, tăng trợ cấp người không có lương hưu. Nguồn: Báo Gia Lai",
+    "youtube": "Tin Quy Nhơn – Gia Lai trưa 5/10/2026: Đèn tín hiệu ngã tư Gò Găng, hỗ trợ bay Phù Cát, xử lý tin giả #Shorts",
+    "facebook": "📍 QUY NHƠN 24H QUA – TRƯA 5/10/2026\n1. Người dân kiến nghị sớm khôi phục đèn tín hiệu ngã tư Gò Găng (QL1 - QL19B, phường An Nhơn Bắc)\n2. Hỗ trợ 200 triệu đồng/chuyến bay charter quốc tế đến Cảng hàng không Phù Cát\n3. Từ hôm nay 5/10: Bấm chia sẻ hoặc bình luận tin giả trên mạng có thể bị công khai danh tính và xử lý\n4. Khởi tố đối tượng chiếm đoạt 7,3 tỷ đồng bằng kịch bản vay tiền đáo hạn ngân hàng\n5. Nâng mức trợ cấp hưu trí xã hội cho người cao tuổi không có lương hưu lên 540.000đ/tháng từ 5/10\n6. Toàn tỉnh ghi nhận hơn 7.600 ca sốt xuất huyết từ đầu năm, cảnh báo nguy cơ bùng dịch mùa mưa\n7. Người trẻ tốt nghiệp ĐH Quy Nhơn 'bỏ phố về rừng' làm du lịch sinh thái bản địa tại An Hòa\n\nBà con đi qua ngã tư Gò Găng dạo này thấy thế nào? Bình luận nhé 👇\n\nNguồn: Báo Gia Lai"
+  },
+  "hashtags": ["#quynhon", "#tinquynhon", "#gialai", "#binhdinh", "#tintuc", "#quynhon24hqua"],
+  "needs_review": [
+    "Tin 1: Nút giao ngã tư Gò Găng thuộc địa bàn phường An Nhơn Bắc (Bình Định cũ)",
+    "Tin 4: Nạn nhân ở xã Hoài Ân và Vạn Đức (tỉnh Gia Lai)",
+    "Tin 7: Xảy ra tại xã vùng cao An Hòa (huyện An Lão, Bình Định cũ)",
+    "Ảnh lấy từ bài báo gốc (đã ghi tên báo trên ảnh) – kiểm tra bản quyền trước khi đăng"
+  ]
+}
