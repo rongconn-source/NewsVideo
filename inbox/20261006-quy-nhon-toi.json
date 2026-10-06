@@ -1,0 +1,95 @@
+{
+  "type": "digest",
+  "output": "video",
+  "date": "2026-10-06",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "chip": "",
+  "cover": {
+    "kicker": "BẢN TIN TỐI",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Tối 6/10/2026",
+    "teaser": "1.329 sĩ tử Quy Nhơn thi học sinh giỏi và loạt tin tối 6/10",
+    "image": "item:1",
+    "icon": "pin"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "text": "Sáng 6-10, Sở GD&ĐT tổ chức kỳ thi học sinh giỏi lớp 12 năm học 2026-2027 với 1.329 thí sinh tranh tài ở 9 môn tại 3 điểm trường: Chuyên Lê Quý Đôn, Quốc Học Quy Nhơn và Trưng Vương.",
+      "ai_prompt": "high school students wearing white uniforms focused taking academic exam in bright classroom Quy Nhon Vietnam",
+      "source": "https://baogialai.com.vn/1329-thi-sinh-tham-du-ky-thi-chon-hoc-sinh-gioi-lop-12-post601216.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-06T13:41:29+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Tỉnh phối hợp VFF và LPBank HAGL triển khai Giải bóng đá giao hữu quốc tế U23 - Gia Lai Cup 2026 từ ngày 10 đến 14-11, quy tụ U23 Việt Nam cùng 3 đội bóng mạnh hàng đầu khu vực châu Á.",
+      "ai_prompt": "press conference launching an international U23 football championship tournament with banners and logos in Vietnam",
+      "source": "https://baogialai.com.vn/trien-khai-cong-tac-to-chuc-giai-bong-da-giao-huu-quoc-te-u23-gia-lai-cup-2026-post601221.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-06T14:31:48+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Từ ngày 15-10, UBND tỉnh áp dụng mức thu trần dịch vụ giáo dục công lập; trong đó bữa ăn bán trú tối đa 40.000 đồng/ngày đối với mầm non, tiểu học và 45.000 đồng/ngày đối với THCS, THPT.",
+      "ai_prompt": "wholesome nutritious school cafeteria lunch meal tray prepared for Vietnamese primary school students",
+      "source": "https://baogialai.com.vn/gia-lai-ap-dung-muc-thu-toi-da-doi-voi-cac-dich-vu-ho-tro-giao-duc-tu-ngay-15-10-post601185.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-06T14:46:22+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "UBND tỉnh chấp thuận chủ trương đầu tư dự án Nhà máy Ethanol An Khê của QNS với tổng vốn hơn 1.741 tỷ đồng trên diện tích 8 ha, công suất 200.000 lít cồn nhiên liệu/ngày và phát điện 7 MW.",
+      "ai_prompt": "large modern eco-friendly bio-ethanol biofuel refinery plant and renewable energy turbines in Vietnam",
+      "source": "https://baogialai.com.vn/gia-lai-chap-thuan-dau-tu-nha-may-ethanol-an-khe-gan-1742-ty-dong-post601228.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-06T16:07:45+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Công an tỉnh vừa triệt phá đường dây ma túy do đối tượng nữ T.T.K.O (SN 2002) cầm đầu, khởi tố 7 đối tượng về hành vi mua bán và tổ chức sử dụng trái phép ma túy tại phường Hoài Nhơn.",
+      "ai_prompt": "police evidence bags and narcotics investigation case files on official desk at Vietnamese police station",
+      "source": "https://baogialai.com.vn/gia-lai-xoa-duong-day-ma-tuy-do-nu-quai-cam-dau-post601213.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-06T13:38:17+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Công an tỉnh phát thông báo tìm các bị hại trong vụ án đối tượng Trương Thị Thu Cúc (SN 1978, xã Hoài Ân) đưa thông tin gian dối vay tiền đáo hạn ngân hàng rồi chiếm đoạt số tiền lớn.",
+      "ai_prompt": "official court summons and police public search notice document in Vietnam",
+      "source": "https://baogialai.com.vn/cong-an-gia-lai-tim-bi-hai-trong-vu-an-lua-dao-vay-tien-dao-han-ngan-hang-post601219.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-06T14:23:54+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Phòng An ninh mạng Công an tỉnh vừa triển khai Câu lạc bộ Niềm tin số và Chiến dịch phòng chống lừa đảo trực tuyến tại phường Quy Nhơn, đẩy mạnh ứng dụng AI phát hiện thông tin giả.",
+      "ai_prompt": "police officers and digital media creators holding cyber security seminar in conference hall Quy Nhon Vietnam",
+      "source": "https://baogialai.com.vn/hoi-nghi-trien-khai-hoat-dong-cau-lac-bo-niem-tin-so-gia-lai-post601152.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-06T07:55:42+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "pin_comment": "Cựu học sinh các trường Quốc Học, Lê Quý Đôn, Trưng Vương điểm danh chúc các em thi tốt nhé! 👇 Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "caption": {
+    "tiktok": "1.329 học sinh Quy Nhơn thi học sinh giỏi lớp 12 cùng các tin đáng chú ý tối 6/10: Giải bóng đá U23 quốc tế, quy định trần tiền ăn bán trú từ 15/10, dự án ethanol 1.741 tỷ, xóa đường dây ma túy. Nguồn: Báo Gia Lai #quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Tin tức Quy Nhơn – Gia Lai tối 6/10/2026: Thi HSG lớp 12 Quy Nhơn, Giải bóng đá U23 quốc tế, dự án 1.741 tỷ #Shorts",
+    "facebook": "📍 QUY NHƠN 24H QUA – BẢN TIN TỐI 6/10/2026\n1. Sáng 6/10, 1.329 thí sinh tranh tài kỳ thi học sinh giỏi lớp 12 tại 3 điểm trường: THPT chuyên Lê Quý Đôn, THPT Quốc học Quy Nhơn và THPT Trưng Vương\n2. Triển khai Giải bóng đá giao hữu quốc tế U23 - Gia Lai Cup 2026 (10-14/11) quy tụ U23 Việt Nam cùng 3 đội mạnh châu Á\n3. Từ ngày 15/10: Áp dụng mức trần tiền ăn bán trú 40.000 - 45.000đ/học sinh/ngày tại các trường công lập\n4. Chấp thuận chủ trương đầu tư dự án Nhà máy Ethanol An Khê với tổng vốn hơn 1.741 tỷ đồng của QNS\n5. Triệt phá đường dây ma túy do đối tượng nữ (SN 2002) cầm đầu tại phường Hoài Nhơn\n6. Công an tỉnh phát thông báo tìm bị hại trong vụ lừa đảo tiền vay đáo hạn ngân hàng ở xã Hoài Ân\n7. Phòng An ninh mạng triển khai Câu lạc bộ Niềm tin số và Chiến dịch phòng chống lừa đảo trực tuyến tại phường Quy Nhơn\n\nCựu học sinh các trường Quốc Học, Lê Quý Đôn, Trưng Vương điểm danh chúc các em thi tốt nhé! 👇\n\nNguồn: Báo Gia Lai"
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "needs_review": [
+    "Tin 1: Điểm thi tại 3 trường lớn trung tâm TP Quy Nhơn cũ: Chuyên Lê Quý Đôn, Quốc Học Quy Nhơn, Trưng Vương",
+    "Tin 5: Đối tượng nữ T.T.K.O (SN 2002, phường Hoài Nhơn Tây), viết tắt tên theo quy định",
+    "Tin 6: Vụ án Trương Thị Thu Cúc (xã Hoài Ân, Gia Lai / Bình Định cũ)",
+    "Ảnh lấy từ bài báo gốc (đã ghi tên báo trên ảnh) – kiểm tra bản quyền trước khi đăng"
+  ]
+}
