@@ -41,14 +41,6 @@
     },
     {
       "category": "khu-vuc",
-      "text": "Phòng An ninh mạng Công an tỉnh vừa triển khai Câu lạc bộ Niềm tin số và Chiến dịch phòng chống lừa đảo trực tuyến tại phường Quy Nhơn, đẩy mạnh ứng dụng AI phát hiện thông tin giả.",
-      "ai_prompt": "police officers and digital media creators holding cyber security seminar in conference hall Quy Nhon Vietnam",
-      "source": "https://baogialai.com.vn/hoi-nghi-trien-khai-hoat-dong-cau-lac-bo-niem-tin-so-gia-lai-post601152.html",
-      "source_name": "Báo Gia Lai",
-      "published": "2026-10-06T07:55:42+07:00"
-    },
-    {
-      "category": "khu-vuc",
       "text": "Ban Quản lý dịch vụ công Quy Nhơn triển khai kẻ vạch sơn phân chia vỉa hè trên các tuyến đường Hai Bà Trưng, Cách Mạng Tháng Tám, Phan Đình Phùng, Trần Phú nhằm ưu tiên lối đi cho người đi bộ.",
       "ai_prompt": "freshly painted white boundary line on urban sidewalk separating storefronts and pedestrian walkway in Vietnamese city",
       "source": "https://baogialai.com.vn/phuong-pleiku-va-dien-hong-ke-vach-via-he-uu-tien-khong-gian-cho-nguoi-di-bo-post601111.html",
@@ -66,6 +58,14 @@
     },
     {
       "category": "khu-vuc",
+      "text": "Ủy ban MTTQ xã An Nhơn Tây phối hợp tộc họ Bùi ở thôn An Cửu ra mắt mô hình 'Dòng họ không ma túy' với 45 hộ gia đình tham gia ký cam kết 100% không vi phạm, giữ gìn bình yên làng quê.",
+      "ai_prompt": "Vietnamese village community elders and families signing social security agreement certificate banner in community hall",
+      "source": "https://baogialai.com.vn/xa-an-nhon-tay-ra-mat-mo-hinh-dong-ho-khong-ma-tuy-post601132.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-05T13:41:50+07:00"
+    },
+    {
+      "category": "khu-vuc",
       "text": "Công an tỉnh đang tạm giữ hình sự đối tượng T.M.H (SN 1988) để điều tra làm rõ hành vi dùng dao tấn công gây thương vong tại một phòng trọ trên địa bàn xã Tây Sơn do mâu thuẫn cá nhân.",
       "ai_prompt": "police investigators working outside a residential rental lodging apartment in rural Vietnam, daylight",
       "source": "https://baogialai.com.vn/tam-giu-hinh-su-doi-tuong-dam-co-gai-tu-vong-tai-nha-tro-o-xa-tay-son-post601114.html",
@@ -76,9 +76,9 @@
   "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
   "pin_comment": "Chúc mừng đoàn võ cổ truyền quê mình! Bà con từng học môn phái võ Bình Định nào chưa? Bình luận nhé 👇 Nhà bạn có tin? Nhắn kênh, kênh đưa!",
   "caption": {
-    "tiktok": "Võ cổ truyền Việt Nam giành 10 HCV thế giới cùng các tin đáng chú ý trưa 6/10: Lên phương án di dời dân sạt lở núi Một, làng chài Bãi Xép khát nước sạch, ra mắt CLB Niềm tin số, kẻ vạch vỉa hè. Nguồn: Báo Gia Lai, VnExpress, Báo Mới #quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "tiktok": "Võ cổ truyền Việt Nam giành 10 HCV thế giới cùng các tin đáng chú ý trưa 6/10: Lên phương án di dời dân sạt lở núi Một, làng chài Bãi Xép khát nước sạch, kẻ vạch vỉa hè, dòng họ không ma túy. Nguồn: Báo Gia Lai, VnExpress, Báo Mới #quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
     "youtube": "Tin Quy Nhơn – Gia Lai trưa 6/10/2026: Võ cổ truyền 10 HCV thế giới, di dời sạt lở núi Một, Bãi Xép #Shorts",
-    "facebook": "📍 QUY NHƠN 24H QUA – BẢN TIN TRƯA 6/10/2026\n1. Đoàn võ cổ truyền Việt Nam (nòng cốt từ Trung tâm Võ thuật cổ truyền Bình Định) xuất sắc giành 10 Huy chương Vàng tại Giải vô địch thế giới 2026 ở Italia\n2. Phường Quy Nhơn khẩn trương rà soát phương án di dời 52 hộ (gần 200 người dân) khỏi vùng nguy cơ cao sạt lở đất đá núi Một\n3. Hơn 200 hộ dân làng chài Bãi Xép (khu phố 16, phường Quy Nhơn Nam) mong mỏi sớm có công trình cấp nước sạch tập trung\n4. Phòng An ninh mạng triển khai Câu lạc bộ Niềm tin số và Chiến dịch phòng chống lừa đảo trực tuyến tại phường Quy Nhơn\n5. Ban Quản lý dịch vụ công Quy Nhơn kẻ vạch sơn vỉa hè các tuyến đường trung tâm, ưu tiên lối đi cho người đi bộ\n6. Sạt lở và sụt lún đất sâu 1 - 1,5m kéo dài hàng trăm mét ăn sâu vào đất sản xuất tại Đức Cơ\n7. Tạm giữ hình sự đối tượng T.M.H (SN 1988) liên quan vụ án mạng tại phòng trọ xã Tây Sơn sau mâu thuẫn cá nhân\n\nChúc mừng đoàn võ cổ truyền quê mình! Bà con từng học môn phái võ Bình Định nào chưa? Bình luận nhé 👇\n\nNguồn: Báo Gia Lai, VnExpress, Báo Mới"
+    "facebook": "📍 QUY NHƠN 24H QUA – BẢN TIN TRƯA 6/10/2026\n1. Đoàn võ cổ truyền Việt Nam (nòng cốt từ Trung tâm Võ thuật cổ truyền Bình Định) xuất sắc giành 10 Huy chương Vàng tại Giải vô địch thế giới 2026 ở Italia\n2. Phường Quy Nhơn khẩn trương rà soát phương án di dời 52 hộ (gần 200 người dân) khỏi vùng nguy cơ cao sạt lở đất đá núi Một\n3. Hơn 200 hộ dân làng chài Bãi Xép (khu phố 16, phường Quy Nhơn Nam) mong mỏi sớm có công trình cấp nước sạch tập trung\n4. Ban Quản lý dịch vụ công Quy Nhơn kẻ vạch sơn vỉa hè các tuyến đường trung tâm, ưu tiên lối đi cho người đi bộ\n5. Sạt lở và sụt lún đất sâu 1 - 1,5m kéo dài hàng trăm mét ăn sâu vào đất sản xuất tại Đức Cơ\n6. Xã An Nhơn Tây ra mắt mô hình 'Dòng họ không ma túy' với 45 hộ tộc họ Bùi cam kết giữ gìn bình yên làng quê\n7. Tạm giữ hình sự đối tượng T.M.H (SN 1988) liên quan vụ án mạng tại phòng trọ xã Tây Sơn sau mâu thuẫn cá nhân\n\nChúc mừng đoàn võ cổ truyền quê mình! Bà con từng học môn phái võ Bình Định nào chưa? Bình luận nhé 👇\n\nNguồn: Báo Gia Lai, VnExpress, Báo Mới"
   },
   "hashtags": [
     "#quynhon",
@@ -92,6 +92,7 @@
     "Tin 1: Giải vô địch võ cổ truyền thế giới tại Cervia, Italia; kết thúc ngày 5-10-2026",
     "Tin 2: Khu vực núi Một thuộc phường Quy Nhơn (TP Quy Nhơn cũ)",
     "Tin 3: Làng chài Bãi Xép thuộc phường Quy Nhơn Nam (TP Quy Nhơn cũ)",
+    "Tin 6: Xã An Nhơn Tây thuộc thị xã An Nhơn cũ (Gia Lai)",
     "Tin 7: Đối tượng T.M.H tại xã Tây Sơn (huyện Tây Sơn, Bình Định cũ), viết tắt tên theo quy định",
     "Ảnh lấy từ bài báo gốc (đã ghi tên báo trên ảnh) – kiểm tra bản quyền trước khi đăng"
   ]
