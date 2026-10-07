@@ -1,0 +1,91 @@
+{
+  "type": "digest",
+  "output": "video",
+  "date": "2026-10-07",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "chip": "",
+  "cover": {
+    "kicker": "BẢN TIN TỐI",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Tối 7/10/2026",
+    "teaser": "2 trường đại học tại Quy Nhơn đón tin vui cùng loạt tin tối 7/10",
+    "image": "item:1",
+    "icon": "school"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "from_user": true,
+      "text": "Cục Quản lý chất lượng (Bộ GD&ĐT) vừa công bố công nhận đạt chuẩn kiểm định chất lượng giáo dục quốc gia cho 2 trường đại học tại Quy Nhơn là Trường ĐH Quy Nhơn và ĐH Quang Trung.",
+      "ai_prompt": "grand modern university campus gate of Quy Nhon University Vietnam with students walking under blue sky",
+      "source": "https://baogialai.com.vn/truong-dh-quy-nhon-va-dh-quang-trung-duoc-cong-nhan-dat-chuan-chat-luong-giao-duc-post601277.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-07T09:30:06+07:00"
+    },
+    {
+      "category": "tinh",
+      "from_user": true,
+      "text": "UBND tỉnh chỉ đạo các sở ngành hướng dẫn thủ tục chấm dứt toàn bộ hoạt động Dự án Trung tâm giết mổ gia súc, gia cầm San Hà Bình Định có tổng vốn đầu tư 220 tỷ đồng tại xã Hòa Hội.",
+      "ai_prompt": "large empty industrial agricultural processing facility plot with gate and perimeter fence in Vietnam countryside",
+      "source": "https://baogialai.com.vn/xem-xet-cham-dut-hoat-dong-du-an-trung-tam-giet-mo-gia-suc-gia-cam-san-ha-binh-dinh-post601318.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-07T13:50:41+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Sở Xây dựng thông báo tiếp nhận hồ sơ đăng ký mua 391 căn hộ nhà ở xã hội tại Block A, Dự án NOXH Long Vân (phường Quy Nhơn Bắc), giá bán bình quân 15,7 triệu đồng/m² từ 1/10 đến 1/11/2026.",
+      "ai_prompt": "modern high-rise social housing apartment building complex in Quy Nhon with green landscaping and sunny sky",
+      "source": "https://doanhnhan.baophapluat.vn/gia-lai-mo-ban-391-can-ho-tai-du-an-nha-o-xa-hoi-long-van.html",
+      "source_name": "Báo Pháp luật VN",
+      "published": "2026-10-07T17:30:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Tỉnh phê duyệt phương án đấu giá 15,2 ha đất ven biển tại TDP Nhơn Hải (phường Quy Nhơn Đông) làm Khu du lịch Eo Vượt 1 với tổng vốn gần 800 tỷ đồng, gồm 170 căn lưu trú và dịch vụ spa.",
+      "ai_prompt": "scenic coastal peninsula of Nhon Hai Quy Nhon with turquoise bay, rocky cliffs and pristine beach aerial view",
+      "source": "https://www.vietnamplus.vn/gia-lai-dau-gia-khu-dat-152ha-ven-bien-lam-khu-du-lich-eo-vuot-1-post1140504.vnp",
+      "source_name": "VietnamPlus",
+      "published": "2026-10-07T14:41:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Từ phản ánh của người dân, CSGT đã lập biên bản xử phạt tài xế N.T.H (trú phường Quy Nhơn Đông) 5 triệu đồng và trừ 2 điểm GPLX vì hành vi điều khiển xe khách vượt ẩu lấn làn đối đầu nguy hiểm.",
+      "ai_prompt": "Vietnamese traffic police officer writing violation ticket next to coach bus on divided highway in Vietnam",
+      "source": "https://baomoi.com/xu-phat-tai-xe-xe-khach-vuot-au-sau-phan-anh-cua-nguoi-dan-c56216699.epi",
+      "source_name": "Người Đưa Tin",
+      "published": "2026-10-07T16:55:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "UBND tỉnh ban hành quy định mức thu các dịch vụ trường công lập từ 15/10: trông giữ trẻ ngoài giờ 8.000 đồng/giờ; tiền ăn bán trú 40.000–45.000 đồng/ngày; tuyệt đối không được ép buộc phụ huynh.",
+      "ai_prompt": "cheerful Vietnamese elementary school classroom with happy children having clean healthy lunch meal at tables",
+      "source": "https://giaoducthoidai.vn/muc-thu-dich-vu-truong-cong-o-gia-lai-tu-8000-dong-post795286.html",
+      "source_name": "Báo GD&TĐ",
+      "published": "2026-10-07T17:32:00+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "pin_comment": "Cựu sinh viên và sinh viên ĐH Quy Nhơn hay ĐH Quang Trung điểm danh nào! Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "caption": {
+    "tiktok": "ĐH Quy Nhơn & ĐH Quang Trung đón tin vui cùng loạt tin tối 7/10: Mở bán 391 căn NOXH Long Vân, đấu giá 15,2ha đất Eo Vượt 1, dừng dự án San Hà 220 tỷ, phạt xe khách vượt ẩu, biểu giá trường công. Nguồn: Báo Gia Lai, VietnamPlus, Báo GD&TĐ #quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Tin Quy Nhơn – Gia Lai tối 7/10/2026: ĐH Quy Nhơn đạt chuẩn chất lượng, Mở bán NOXH Long Vân #Shorts",
+    "facebook": "📍 QUY NHƠN 24H QUA – BẢN TIN TỐI 7/10/2026\n1. Bộ GD&ĐT công nhận đạt chuẩn kiểm định chất lượng giáo dục quốc gia cho Trường ĐH Quy Nhơn và ĐH Quang Trung\n2. UBND tỉnh chỉ đạo thủ tục chấm dứt toàn bộ hoạt động Dự án Trung tâm giết mổ gia súc, gia cầm San Hà Bình Định 220 tỷ đồng tại xã Hòa Hội\n3. Mở bán đợt 6 với 391 căn hộ nhà ở xã hội tại Block A, Dự án NOXH Long Vân (phường Quy Nhơn Bắc), giá bình quân 15,7 triệu/m²\n4. Đấu giá 15,2 ha đất ven biển tại TDP Nhơn Hải (phường Quy Nhơn Đông) làm Khu du lịch nghỉ dưỡng Eo Vượt 1 gần 800 tỷ đồng\n5. Phạt tài xế N.T.H (phường Quy Nhơn Đông) 5 triệu đồng và trừ 2 điểm GPLX vì xe khách vượt ẩu lấn làn đối đầu\n6. UBND tỉnh ban hành biểu giá dịch vụ trường công lập từ 15/10: trông trẻ ngoài giờ 8.000đ/giờ, ăn bán trú 40k–45k/ngày\n\nCựu sinh viên và sinh viên ĐH Quy Nhơn hay ĐH Quang Trung điểm danh nào! Bình luận nhé 👇\n\nNguồn: Báo Gia Lai, Báo Pháp luật VN, VietnamPlus, Người Đưa Tin, Báo GD&TĐ"
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "needs_review": [
+    "Tin 1 & Tin 2: Do bạn đọc gửi link trực tiếp từ Báo Gia Lai",
+    "Tin 3: Block A Khu đô thị Long Vân, phường Quy Nhơn Bắc, tiếp nhận hồ sơ từ 1/10 đến 1/11/2026",
+    "Tin 4: TDP Nhơn Hải, phường Quy Nhơn Đông (xã Nhơn Hải cũ), Khu kinh tế Nhơn Hội",
+    "Tin 5: Tài xế N.T.H (SN 1976), trú phường Quy Nhơn Đông, điều khiển xe khách 77B-024.xx",
+    "Tin 6: Quyết định của UBND tỉnh áp dụng từ 15/10/2026",
+    "Ảnh lấy từ bài báo gốc (đã ghi tên báo trên ảnh) – kiểm tra bản quyền trước khi đăng"
+  ]
+}
