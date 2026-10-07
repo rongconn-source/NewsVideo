@@ -2,6 +2,7 @@
 data/output/
 data/cache/
 data/scan/
+scratch/
 
 # Environment secrets
 config/secrets.env
