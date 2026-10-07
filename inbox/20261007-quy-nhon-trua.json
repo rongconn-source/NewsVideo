@@ -1,0 +1,96 @@
+{
+  "type": "digest",
+  "output": "video",
+  "date": "2026-10-07",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "chip": "",
+  "cover": {
+    "kicker": "BẢN TIN TRƯA",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Trưa 7/10/2026",
+    "teaser": "Vụ việc trên đường Hoàng Văn Thụ và loạt tin trưa 7/10",
+    "image": "item:1",
+    "icon": "pin"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "from_user": true,
+      "text": "Công an phường Quy Nhơn Nam đang củng cố hồ sơ xử lý nghiêm đối tượng T.V.L (SN 1998) về hành vi hành hung vợ trên vỉa hè đường Hoàng Văn Thụ; đồng thời khuyến cáo không chia sẻ tin đồn thất thiệt.",
+      "ai_prompt": "Vietnamese police officers in official uniform working at police station office inspecting case document in daylight",
+      "source": "https://vtcnews.vn/danh-tinh-ga-chong-danh-dap-vo-da-man-tren-duong-pho-gia-lai-ar1043755.html",
+      "source_name": "VTC News",
+      "published": "2026-10-06T22:02:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "UBND tỉnh chấp thuận chủ trương đầu tư dự án Khu thương mại, dịch vụ tại số 274-276 đường Trường Chinh (phường An Nhơn Đông) với tổng vốn hơn 12,7 tỷ đồng trên diện tích hơn 1.765m².",
+      "ai_prompt": "modern clean storefront of urban neighborhood supermarket and community convenience center in Vietnam",
+      "source": "https://baogialai.com.vn/chap-thuan-chu-truong-dau-tu-du-an-khu-thuong-mai-dich-vu-hon-127-ty-dong-tai-an-nhon-dong-post601303.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-07T10:03:17+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "UBND phường Bình Định vừa làm rõ thông tin phản ánh trên mạng xã hội về việc giáo viên giao hơn 10 trang bài tập về nhà trong 1 đêm cho học sinh tiểu học, bước đầu xác định chưa có căn cứ.",
+      "ai_prompt": "bright primary school courtyard and classrooms with innocent Vietnamese students in white uniforms, peaceful morning",
+      "source": "https://baogialai.com.vn/gia-lai-chua-co-can-cu-xac-dinh-giao-vien-giao-hon-10-trang-bai-tap-ve-nha-cho-hoc-sinh-tieu-hoc-post601275.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-07T04:45:26+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Tình trạng xe máy đi ngược chiều trên Quốc lộ 1 qua phường Hoài Nhơn Tây (từ ngã ba Huỳnh Tấn Phát đến đường Võ Văn Kiệt) gia tăng, tiềm ẩn nguy cơ xảy ra tai nạn giao thông nghiêm trọng.",
+      "ai_prompt": "busy national highway in Vietnam with warning traffic signs and motorbikes flowing safely on divided lanes",
+      "source": "https://baogialai.com.vn/di-nguoc-chieu-tren-quoc-lo-hiem-hoa-kho-luong-post601175.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-07T10:04:30+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Sau 1 tháng cao điểm, Đội CSGT đường bộ số 1 (Công an tỉnh) đã phát hiện, lập biên bản 1.115 phương tiện kinh doanh vận tải vi phạm, xử phạt vi phạm hành chính tổng số tiền hơn 1,2 tỷ đồng.",
+      "ai_prompt": "Vietnamese traffic police officers in yellow uniform conducting highway vehicle safety inspection checkpoint on road",
+      "source": "https://baogialai.com.vn/canh-sat-giao-thong-gia-lai-xu-ly-hon-1100-truong-hop-xe-kinh-doanh-van-tai-vi-pham-post601304.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-07T10:05:03+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Bộ Quốc phòng giải đáp quy định nghĩa vụ quân sự: Sinh viên đang học đại học liên thông chính quy không thuộc diện đương nhiên được tạm hoãn gọi nhập ngũ nếu trước đó đã được hoãn 1 khóa đào tạo.",
+      "ai_prompt": "young Vietnamese male university students in lecture room studying civil defense and military service regulations",
+      "source": "https://baogialai.com.vn/hoc-dai-hoc-lien-thong-co-duoc-tam-hoan-nghia-vu-quan-su-post601294.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-07T09:42:11+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Cơ quan chức năng đang khẩn trương khảo sát địa chất, tìm nguyên nhân hiện tượng sạt lở và sụt lún đất sâu 1-1,5m dọc bờ suối thôn Chư Ty 4 (Đức Cơ) để đảm bảo an toàn cho bà con canh tác.",
+      "ai_prompt": "geologists and local authorities inspecting soil crack subsidence along riverbank in agricultural zone Vietnam",
+      "source": "https://baogialai.com.vn/chua-xac-dinh-nguyen-nhan-sut-lun-sat-lo-dat-tai-thon-chu-ty-4-post601288.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-07T09:37:00+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "pin_comment": "Bà con nghĩ sao về cách ứng xử văn minh trong gia đình và nơi công cộng? Bình luận nhé 👇 Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "caption": {
+    "tiktok": "Công an vào cuộc vụ việc trên đường Hoàng Văn Thụ cùng các tin đáng chú ý trưa 7/10: Khu thương mại An Nhơn Đông, làm rõ tin đồn học sinh tiểu học, xe máy đi ngược chiều QL1, phạt 1.100 xe tải. Nguồn: VTC News, Báo Gia Lai #quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Tin Quy Nhơn – Gia Lai trưa 7/10/2026: Vụ việc đường Hoàng Văn Thụ, Khu thương mại An Nhơn Đông, xe đi ngược chiều QL1 #Shorts",
+    "facebook": "📍 QUY NHƠN 24H QUA – BẢN TIN TRƯA 7/10/2026\n1. Công an phường Quy Nhơn Nam vào cuộc làm rõ vụ việc người đàn ông hành hung vợ trên vỉa hè đường Hoàng Văn Thụ, khuyến cáo người dân không chia sẻ tin sai lệch\n2. Chấp thuận đầu tư dự án Khu thương mại, dịch vụ hơn 12,7 tỷ đồng tại đường Trường Chinh (phường An Nhơn Đông)\n3. UBND phường Bình Định xác minh, làm rõ thông tin phản ánh giáo viên giao hơn 10 trang bài tập về nhà cho học sinh lớp 5\n4. Báo động tình trạng xe máy chạy ngược chiều trên Quốc lộ 1 qua phường Hoài Nhơn Tây tiềm ẩn hiểm họa tai nạn\n5. Đội CSGT đường bộ số 1 xử lý 1.115 phương tiện kinh doanh vận tải vi phạm, phạt hơn 1,2 tỷ đồng\n6. Bộ Quốc phòng giải đáp thắc mắc: Học đại học liên thông có được tạm hoãn gọi nghĩa vụ quân sự không?\n7. Khẩn trương khảo sát địa chất tìm nguyên nhân sạt lở và sụt lún đất tại thôn Chư Ty 4 (Đức Cơ)\n\nBà con nghĩ sao về cách ứng xử văn minh trong gia đình và nơi công cộng? Bình luận nhé 👇\n\nNguồn: VTC News, Báo Gia Lai"
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "needs_review": [
+    "Tin 1: Do bạn đọc gửi link VTC News. Đối tượng T.V.L (SN 1998) tại phường Quy Nhơn Nam, viết tắt tên theo quy định pháp luật và chính sách TikTok",
+    "Tin 2: Số 274-276 Trường Chinh, phường An Nhơn Đông (thị xã An Nhơn cũ)",
+    "Tin 3: Trường Tiểu học số 1 Bình Định, phường Bình Định (thị xã An Nhơn cũ)",
+    "Ảnh lấy từ bài báo gốc (đã ghi tên báo trên ảnh) – kiểm tra bản quyền trước khi đăng"
+  ]
+}
