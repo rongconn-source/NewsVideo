@@ -22,7 +22,14 @@
     {"name": "VnExpress Bình Định", "url": "https://vnexpress.net/chu-de/binh-dinh-1996", "pattern": "vnexpress\\.net/.+-(\\d{7})\\.html$", "max": 20, "region_search": true},
     {"name": "VnExpress Gia Lai", "url": "https://vnexpress.net/chu-de/gia-lai-2007", "pattern": "vnexpress\\.net/.+-(\\d{7})\\.html$", "max": 20, "region_search": true},
     {"name": "Tuổi Trẻ Quy Nhơn", "url": "https://tuoitre.vn/quy-nhon.html", "pattern": "tuoitre\\.vn/.+-(\\d{10,})\\.htm$", "max": 20, "region_search": true},
-    {"name": "Thanh Niên Bình Định", "url": "https://thanhnien.vn/binh-dinh.html", "pattern": "thanhnien\\.vn/.+-(\\d{10,})\\.htm$", "max": 30, "region_search": true}
+    {"name": "Thanh Niên Bình Định", "url": "https://thanhnien.vn/binh-dinh.html", "pattern": "thanhnien\\.vn/.+-(\\d{10,})\\.htm$", "max": 30, "region_search": true},
+    {"name": "Thanh Niên Quy Nhơn", "url": "https://thanhnien.vn/tim-kiem.htm?keywords=quy+nh%C6%A1n", "pattern": "thanhnien\\.vn/.+-(\\d{10,})\\.htm$", "max": 20, "region_search": true},
+    {"name": "Dân Trí Quy Nhơn", "url": "https://dantri.com.vn/tim-kiem/quy+nh%C6%A1n.htm", "pattern": "dantri\\.com\\.vn/.+-(\\d{15,})\\.htm$", "max": 20, "region_search": true},
+    {"name": "Dân Trí Gia Lai", "url": "https://dantri.com.vn/tim-kiem/gia+lai.htm", "pattern": "dantri\\.com\\.vn/.+-(\\d{15,})\\.htm$", "max": 20, "region_search": true},
+    {"name": "VietnamNet Quy Nhơn", "url": "https://vietnamnet.vn/tim-kiem?q=quy+nh%C6%A1n", "pattern": "vietnamnet\\.vn/.+-(\\d{6,})\\.html$", "max": 20, "region_search": true},
+    {"name": "VietnamNet Gia Lai", "url": "https://vietnamnet.vn/tim-kiem?q=gia+lai", "pattern": "vietnamnet\\.vn/.+-(\\d{6,})\\.html$", "max": 20, "region_search": true},
+    {"name": "VTC News Quy Nhơn", "url": "https://vtcnews.vn/tieu-diem/quy-nhon.html", "pattern": "vtcnews\\.vn/.+-ar(\\d{5,})\\.html$", "max": 20, "region_search": true},
+    {"name": "VTC News Gia Lai", "url": "https://vtcnews.vn/tieu-diem/gia-lai.html", "pattern": "vtcnews\\.vn/.+-ar(\\d{5,})\\.html$", "max": 20, "region_search": true}
   ],
   "region_keywords": ["Quy Nhơn", "Nhơn Châu", "Nhơn Lý", "Nhơn Hải", "Nhơn Hội", "Hải Minh", "Ghềnh Ráng", "Cù Lao Xanh", "Eo Gió", "Kỳ Co", "Phú Tài", "Xuân Diệu", "ICISE", "Đại học Quy Nhơn", "Phương Mai"],
 
