@@ -29,9 +29,14 @@
     {"name": "VietnamNet Quy Nhơn", "url": "https://vietnamnet.vn/tim-kiem?q=quy+nh%C6%A1n", "pattern": "vietnamnet\\.vn/.+-(\\d{6,})\\.html$", "max": 20, "region_search": true},
     {"name": "VietnamNet Gia Lai", "url": "https://vietnamnet.vn/tim-kiem?q=gia+lai", "pattern": "vietnamnet\\.vn/.+-(\\d{6,})\\.html$", "max": 20, "region_search": true},
     {"name": "VTC News Quy Nhơn", "url": "https://vtcnews.vn/tieu-diem/quy-nhon.html", "pattern": "vtcnews\\.vn/.+-ar(\\d{5,})\\.html$", "max": 20, "region_search": true},
-    {"name": "VTC News Gia Lai", "url": "https://vtcnews.vn/tieu-diem/gia-lai.html", "pattern": "vtcnews\\.vn/.+-ar(\\d{5,})\\.html$", "max": 20, "region_search": true}
+    {"name": "VTC News Gia Lai", "url": "https://vtcnews.vn/tieu-diem/gia-lai.html", "pattern": "vtcnews\\.vn/.+-ar(\\d{5,})\\.html$", "max": 20, "region_search": true},
+    {"name": "Báo Gia Lai - Giáo dục", "url": "https://baogialai.com.vn/giao-duc/", "pattern": "baogialai\\.com\\.vn/.+-post(\\d{5,})\\.html$", "max": 40},
+    {"name": "Báo Gia Lai - Kinh tế", "url": "https://baogialai.com.vn/kinh-te/", "pattern": "baogialai\\.com\\.vn/.+-post(\\d{5,})\\.html$", "max": 40},
+    {"name": "Báo Gia Lai - Pháp luật", "url": "https://baogialai.com.vn/phap-luat/", "pattern": "baogialai\\.com\\.vn/.+-post(\\d{5,})\\.html$", "max": 40},
+    {"name": "Báo Gia Lai - Du lịch", "url": "https://baogialai.com.vn/du-lich/", "pattern": "baogialai\\.com\\.vn/.+-post(\\d{5,})\\.html$", "max": 40},
+    {"name": "Báo Gia Lai - Thời sự", "url": "https://baogialai.com.vn/thoi-su-su-kien/", "pattern": "baogialai\\.com\\.vn/.+-post(\\d{5,})\\.html$", "max": 40}
   ],
-  "region_keywords": ["Quy Nhơn", "Nhơn Châu", "Nhơn Lý", "Nhơn Hải", "Nhơn Hội", "Hải Minh", "Ghềnh Ráng", "Cù Lao Xanh", "Eo Gió", "Kỳ Co", "Phú Tài", "Xuân Diệu", "ICISE", "Đại học Quy Nhơn", "Phương Mai"],
+  "region_keywords": ["Quy Nhơn", "Nhơn Châu", "Nhơn Lý", "Nhơn Hải", "Nhơn Hội", "Hải Minh", "Ghềnh Ráng", "Cù Lao Xanh", "Eo Gió", "Kỳ Co", "Phú Tài", "Xuân Diệu", "ICISE", "Đại học Quy Nhơn", "Đại học Quang Trung", "Long Vân", "Eo Vượt", "Phương Mai", "Tuy Phước", "An Nhơn", "Phù Cát", "Hoài Nhơn"],
 
   "_ghi_chu_preview_music": "Nhạc chỉ để XEM THỬ nội bộ (không dùng khi đăng; khi đăng gắn nhạc trong app nền tảng).",
   "preview_music": {"file": "demo/assets/music/em-nen-dung-lai-0505.mp3", "start": 0}
