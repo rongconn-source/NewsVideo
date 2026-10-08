@@ -85,7 +85,7 @@
 Icon có sẵn: `pin` (địa điểm) · `globe` (thế giới) · `flag` (Việt Nam) · `money` (tiền, giá, phạt) · `bolt` (điện, năng lượng) · `car` (giao thông, xe) · `shield` (công an, an ninh) · `school` (giáo dục) · `warning` (thiên tai, sạt lở, ngập) · `leaf` (môi trường, khí hậu) · `walk` (vỉa hè, đô thị) · `chart` (kinh tế, tăng trưởng) · `ship` (biển, cảng, du lịch biển) · `home` (nhà ở, dân cư) · `mic` (sự kiện, hội nghị)
 
 ## Thời lượng (script tự tính)
-Bìa 2,5 giây · mỗi tin min(5 giây, 53,5 ÷ số tin) · kết 3 giây → tổng ≤ 59 giây (YouTube Shorts có nhạc bản quyền cần ≤ 60 giây).
+Bìa 2,5 giây · mỗi tin min(8 giây, 53,5 ÷ số tin) · kết 3 giây → tổng ≤ 59 giây (YouTube Shorts có nhạc bản quyền cần ≤ 60 giây). **≤ 6 tin thì mỗi tin đủ 8 giây**; 7 tin → 7,6 giây; 8 tin → 6,7 giây.
 
 ## Cấu hình `config/ban-tin.json`
 | Trường | Ý nghĩa |

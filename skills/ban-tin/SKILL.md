@@ -60,10 +60,10 @@ Ngoại lệ duy nhất: tin người dùng tự gửi.
 - Dừng lại hỏi người dùng: người dùng có thể chọn số lượng (ví dụ tìm được 10 tin nhưng chỉ chọn 5 tin), chọn theo số thứ tự, đổi thứ tự ưu tiên, hoặc gửi thêm tin riêng.
 - **Tuyệt đối không tự ý render trước khi người dùng xác nhận danh sách tin muốn làm.**
 - Chỉ sau khi người dùng chốt danh sách tin, AI mới tiến hành viết kịch bản chi tiết (Bước 5) và dựng (Bước 8).
-- Nếu người dùng chủ động nói "tự chọn và làm luôn" hoặc tương đương, AI mới tự chọn 6–8 tin nổi bật nhất rồi dựng.
+- Nếu người dùng chủ động nói "tự chọn và làm luôn" hoặc tương đương, AI mới tự chọn 5–6 tin nổi bật nhất rồi dựng.
 
 **Gợi ý chọn tin (để người xem ở lại tới ảnh cuối):**
-- Mặc định đề xuất **6–8 tin mạnh**, đừng 12 tin lẫn tin yếu – tỉ lệ xem hết quan trọng hơn số tin.
+- Mặc định đề xuất **5–6 tin mạnh** (mỗi tin hiện **8 giây** để người xem kịp đọc + xem ảnh; video ≤ 59 giây nên **tối đa 6 tin**) – tỉ lệ xem hết quan trọng hơn số tin.
 - Ưu tiên tin **chạm đời sống người dân**: giao thông / cấm đường / công trình, giá cả – điện nước, thời tiết – bão, cảnh báo lừa đảo, an ninh trật tự, sự kiện – lễ hội cuối tuần, du lịch – ăn uống, chuyện lạ / cảm động.
 - Xếp cuối hoặc bỏ: hội nghị, bế giảng, khai giảng, tin lễ tân (ít người quan tâm). Khi trình danh sách, đánh dấu ⭐ tin mạnh, ▫ tin yếu để người dùng dễ chọn.
 - Thứ tự: tin hot nhất ở **tin 1** (cũng là ảnh bìa) → tin hot thứ 2 đặt **giữa bài** để giữ người xem → tin nhẹ/vui để cuối.

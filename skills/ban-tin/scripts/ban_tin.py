@@ -36,7 +36,7 @@ CATEGORIES = {"khu-vuc", "tinh", "trong-nuoc", "the-gioi"}
 IMAGE_PREFIXES = ("input:", "press:", "ai:", "pexels:", "icon:", "text:", "map:")
 ICON_NAMES = {"pin", "globe", "flag", "money", "bolt", "car", "shield", "school", "warning",
               "leaf", "walk", "chart", "ship", "home", "mic"}
-COVER_SECONDS, OUTRO_SECONDS, MAX_ITEM_SECONDS, MAX_TOTAL_SECONDS = 2.5, 3.0, 5.0, 59.0
+COVER_SECONDS, OUTRO_SECONDS, MAX_ITEM_SECONDS, MAX_TOTAL_SECONDS = 2.5, 3.0, 8.0, 59.0  # 8s/tin để kịp đọc + xem ảnh → tối đa 6 tin
 DEFAULT_COLORS = {"dark": "#061633", "mid": "#0a2350", "light": "#1a4c8f", "accent": "#f6b93b"}
 
 if hasattr(sys.stdout, "reconfigure"):
@@ -104,6 +104,10 @@ def validate(d: dict) -> tuple[list[str], list[str]]:
     cap = d.get("caption") or {}
     for k in ("tiktok", "youtube", "facebook"):
         need(cap.get(k), f'thiếu "caption.{k}"')
+    n_items = len(items or [])
+    if n_items * MAX_ITEM_SECONDS + COVER_SECONDS + OUTRO_SECONDS > MAX_TOTAL_SECONDS:
+        warnings.append(f"{n_items} tin → mỗi tin chỉ còn {timing(n_items)['item']}s (< {MAX_ITEM_SECONDS:g}s). "
+                        f"Để đủ {MAX_ITEM_SECONDS:g}s/tin trong video ≤ {MAX_TOTAL_SECONDS:g}s: tối đa 6 tin")
     for r in d.get("needs_review") or []:
         warnings.append(f"cần duyệt: {r}")
     if not d.get("pin_comment"):
@@ -202,7 +206,7 @@ def resolve_visuals(d: dict, img_dir: Path) -> list[str]:
 
 # ---------------------------------------------------------------- dựng
 def timing(n: int) -> dict:
-    item = min(MAX_ITEM_SECONDS, round((MAX_TOTAL_SECONDS - COVER_SECONDS - OUTRO_SECONDS) / n, 2))
+    item = min(MAX_ITEM_SECONDS, int((MAX_TOTAL_SECONDS - COVER_SECONDS - OUTRO_SECONDS) / n * 100) / 100)  # làm tròn xuống
     total = round(COVER_SECONDS + n * item + OUTRO_SECONDS, 2)
     return {"cover": COVER_SECONDS, "item": item, "outro": OUTRO_SECONDS, "total": total}
 
