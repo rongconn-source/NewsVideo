@@ -20,7 +20,7 @@ Python 3.10+, Node.js (có `npx`), ffmpeg. Không cần cài thư viện Python 
 
 ### 1. Xác định yêu cầu
 - **Đọc `config/ban-tin.json` trước**: khu vực (`region`), địa bàn cụ thể (`region_scope`), **phạm vi tin được phép** (`allowed_categories`), tên kênh (`brand`).
-  Hiện tại: **chỉ tin trong khu vực** (`["khu-vuc"]`) – không lấy tin tỉnh khác/trong nước/thế giới. Script sẽ báo lỗi nếu có tin ngoài phạm vi.
+  Hiện tại: **ưu tiên tin Quy Nhơn** (`khu-vuc`), **được lấy tin toàn tỉnh Gia Lai** (`tinh`) – không lấy tin tỉnh khác/trong nước/thế giới. Bài nguồn chỉ cần **có nhắc Quy Nhơn hoặc Gia Lai** và sự việc xảy ra trên địa bàn. Script sẽ báo lỗi nếu có tin ngoài phạm vi.
 - **Khu vực** (`region`): theo cấu hình; người dùng nói khu vực khác thì làm theo người dùng. Ghi thêm `province` nếu tin cấp tỉnh (vd. Quy Nhơn → tỉnh Gia Lai, vì từ 1/7/2025 Bình Định đã sáp nhập vào Gia Lai).
 - **Chế độ** (`output`): mặc định là `"video"` (chỉ render video dọc 9:16 bằng HyperFrames; tạm không render ảnh lướt).
 - **Ngày**: hôm nay. Bìa ghi "Ngày D/M/YYYY".
@@ -60,10 +60,10 @@ Ngoại lệ duy nhất: tin người dùng tự gửi.
 - Dừng lại hỏi người dùng: người dùng có thể chọn số lượng (ví dụ tìm được 10 tin nhưng chỉ chọn 5 tin), chọn theo số thứ tự, đổi thứ tự ưu tiên, hoặc gửi thêm tin riêng.
 - **Tuyệt đối không tự ý render trước khi người dùng xác nhận danh sách tin muốn làm.**
 - Chỉ sau khi người dùng chốt danh sách tin, AI mới tiến hành viết kịch bản chi tiết (Bước 5) và dựng (Bước 8).
-- Nếu người dùng chủ động nói "tự chọn và làm luôn" hoặc tương đương, AI mới tự chọn 5–6 tin nổi bật nhất rồi dựng.
+- Nếu người dùng chủ động nói "tự chọn và làm luôn" hoặc tương đương, AI mới tự chọn 6–7 tin nổi bật nhất rồi dựng.
 
 **Gợi ý chọn tin (để người xem ở lại tới ảnh cuối):**
-- Mặc định đề xuất **5–6 tin mạnh** (mỗi tin hiện **8 giây** để người xem kịp đọc + xem ảnh; video ≤ 59 giây nên **tối đa 6 tin**) – tỉ lệ xem hết quan trọng hơn số tin.
+- Mặc định đề xuất **6–7 tin mạnh** (mỗi tin hiện **7 giây** để người xem kịp đọc + xem ảnh; video ≤ 59 giây nên **tối đa 7 tin**) – tỉ lệ xem hết quan trọng hơn số tin.
 - Ưu tiên tin **chạm đời sống người dân**: giao thông / cấm đường / công trình, giá cả – điện nước, thời tiết – bão, cảnh báo lừa đảo, an ninh trật tự, sự kiện – lễ hội cuối tuần, du lịch – ăn uống, chuyện lạ / cảm động.
 - Xếp cuối hoặc bỏ: hội nghị, bế giảng, khai giảng, tin lễ tân (ít người quan tâm). Khi trình danh sách, đánh dấu ⭐ tin mạnh, ▫ tin yếu để người dùng dễ chọn.
 - Thứ tự: tin hot nhất ở **tin 1** (cũng là ảnh bìa) → tin hot thứ 2 đặt **giữa bài** để giữ người xem → tin nhẹ/vui để cuối.
@@ -74,7 +74,7 @@ Ngoại lệ duy nhất: tin người dùng tự gửi.
 - Án hình sự / tai nạn: không nêu tên đầy đủ, không giật gân, không từ lóng.
 - `cover.teaser` = **câu gây tò mò** của tin 1 (≤ 70 ký tự), hiện to trên bìa. Gây tò mò bằng sự thật, chừa kết quả để người xem lướt tiếp, vd. *"53 tài xế Quy Nhơn bị test ma túy bất ngờ – kết quả?"*. **Cấm** tít sai sự thật, thổi phồng; tin tai nạn/hình sự không giật gân.
 - Bìa mặc định **lấy ảnh tin 1 làm nền** (không cần ghi). Muốn bìa chỉ có icon: `"cover": {"image": "icon"}`; dùng ảnh tin khác: `"image": "item:N"`.
-- **Trang cuối chỉ có logo + lời follow**: `outro` = *"Follow để nắm bắt tin tức Quy Nhơn nhé"*. **Không** dùng `outro_question` (người dùng không thích thẻ câu hỏi ở trang cuối).
+- **Trang cuối = logo + lời follow + dòng mời gửi tin**: `outro` = *"Follow để nắm bắt tin tức Quy Nhơn nhé"*; dòng thứ 2 `outro_sub` mặc định *"Nhà bạn có tin? Nhắn kênh, kênh đưa!"* (script tự thêm, không cần ghi). **Không** dùng `outro_question` (người dùng không thích thẻ câu hỏi ở trang cuối).
 - `pin_comment`: bình luận kênh tự đăng rồi ghim – **câu hỏi về chủ đề của tin số 1**, dễ trả lời, + "Nhà bạn có tin? Nhắn kênh, kênh đưa!". Tin 1 là tai nạn/hình sự thì hỏi hướng an toàn/phòng tránh, không hỏi chi tiết vụ việc, không phán xét người liên quan. Không hỏi chính trị/tôn giáo/gây tranh cãi vùng miền.
 - Caption Facebook kết bằng chính câu hỏi trong `pin_comment`.
 - Caption riêng cho TikTok / YouTube / Facebook, **mở đầu bằng 1 câu hỏi hoặc câu gây tò mò**, rồi liệt kê tin + nguồn.
@@ -113,11 +113,23 @@ Danh sách tin (1 dòng/tin + nguồn), đường dẫn file kết quả, thời
   - Phân tích hiệu ứng nội dung: Chủ đề nào đang thu hút tương tác tốt (vd. đời sống, an ninh, giao thông, chuyện lạ).
   - Đề xuất định hướng chiến lược: Khung giờ đăng tốt nhất, cách đặt câu hỏi ghim bình luận để kích thích tranh luận/chia sẻ, và điều chỉnh pacing/teaser cho video tiếp theo.
 
+## Mẫu hiển thị (đã chốt với người dùng – script/template tự làm, AI không cần chỉnh)
+| Phần | Quy định |
+|---|---|
+| Nhịp | Bìa 2,5s · **mỗi tin 7 giây** · kết 3s · video ≤ 59s → **tối đa 7 tin** (8 tin trở lên script cảnh báo vì mỗi tin bị rút ngắn) |
+| Trang tin | **Ảnh 55% phía trên** (sát mép trên) – **chữ 45% phía dưới**: nguồn ảnh → nhãn chuyên mục + số thứ tự → câu tin |
+| Tên kênh | **Không có thanh header**; "QUY NHƠN 24H QUA" nằm trên ảnh, góc trên trái, có lớp mờ tối nhẹ để đọc rõ |
+| Bìa | Ảnh tin 1 làm nền (mặc định) + nhãn bản tin + tiêu đề + ngày + `cover.teaser` |
+| Trang cuối | Logo + khung "Follow để nắm bắt tin tức Quy Nhơn nhé" + dòng vàng "Nhà bạn có tin? Nhắn kênh, kênh đưa!" (`outro_sub`) |
+| Nhạc | Không nhúng – gắn "Em Nên Dừng Lại" trong app khi đăng; bản `XEM-THU-co-nhac` chỉ để xem nội bộ |
+Người dùng muốn đổi nhịp/bố cục → sửa `scripts/ban_tin.py` (hằng số thời gian) hoặc `template/index.html`, rồi cập nhật bảng này + `AGENTS.md`.
+
 ## Lỗi hay gặp (đã gặp khi test – tránh lặp lại)
 - **Công cụ đọc web / tìm kiếm của AI hay sai ngày đăng** (cùng 1 bài lúc ghi 2/10, lúc ghi 3/10) và lẫn tin năm cũ → ngày đăng **chỉ tin lệnh `meta` / `scan`**.
 - **Tóm tắt của công cụ đọc web có thể sai địa danh** (vd. "phường Quy Nhơn, thành phố Pleiku") → thông tin mâu thuẫn thì bỏ tin hoặc ghi `needs_review`.
 - **Tin chung nhiều địa phương** (vd. 2 trạm dừng nghỉ ở 2 tỉnh) → chỉ viết phần thuộc khu vực, ghi chú vào `needs_review`.
 - **Trang tìm kiếm khu vực vẫn lẫn tin nơi khác** (vì bài chỉ nhắc tên khu vực) → dấu ✓ chỉ là gợi ý, phải đọc bài xác nhận địa bàn.
+- **Tiêu chí nhận bài**: bài có nhắc **Quy Nhơn hoặc Gia Lai** là được (kể cả khi chỉ nhắc trong bài); trang nguồn không lọc theo khu vực (vd. VTC tiêu điểm) để `region_search: false` → chỉ ✓ khi tiêu đề/mô tả có từ khoá.
 - **Tin hình sự**: bài gốc có thể ghi tên đầy đủ – khi viết chỉ dùng viết tắt/tuổi.
 - Dịch vụ ảnh AI miễn phí giới hạn ~1 ảnh/30 giây → script tự chờ; vì vậy luôn ưu tiên ảnh thật bài gốc.
 

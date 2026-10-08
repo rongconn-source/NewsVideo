@@ -46,13 +46,13 @@
 | `date` | ✔ | `YYYY-MM-DD` |
 | `region` | ✔ | tên khu vực, dùng cho nhãn "Tin <region>" |
 | `province` | | tên tỉnh, dùng cho nhãn "Tin <province>" (category `tinh`) |
-| `brand` | | 2 phần tên kênh trên thanh trên, phần 2 tô màu nhấn. Mặc định lấy từ `config/ban-tin.json` |
+| `brand` | | 2 phần tên kênh hiện trên ảnh (góc trên trái), phần 2 tô màu nhấn. Mặc định lấy từ `config/ban-tin.json` |
 | `chip` | | nhãn nhỏ góc phải (vd. `"DEMO"`), để trống nếu không cần |
 | `colors` | | `{"dark","mid","light","accent"}` mã màu hex, mặc định navy + vàng |
 | `cover.title` / `cover.subtitle` | ✔ | tiêu đề bìa + ngày |
 | `cover.kicker` / `cover.teaser` | | nhãn nhỏ, 1 câu hé lộ tin hot |
 | `cover.image` | | mặc định `item:1` = ảnh tin 1 làm nền bìa; `item:N` = ảnh tin N; `icon` = không dùng ảnh (nền + icon `cover.icon`) |
-| `items[]` | ✔ | 1–30 tin (khuyến nghị 10–12) |
+| `items[]` | ✔ | 1–30 tin (khuyến nghị **6–7**; tối đa 7 để mỗi tin đủ 7 giây) |
 | `items[].category` | ✔ | `khu-vuc` · `tinh` · `trong-nuoc` · `the-gioi` – **chỉ được dùng loại có trong `allowed_categories` của `config/ban-tin.json`** (hiện tại chỉ `khu-vuc`) |
 | `items[].label` | | ghi đè nhãn chuyên mục |
 | `items[].text` | ✔ | 20–260 ký tự (nên 80–200) |
@@ -64,6 +64,7 @@
 | `items[].published` | ✔ | thời điểm đăng bài gốc, lấy bằng `ban_tin.py meta` (vd. `2026-10-03T09:54:52+07:00`); **phải cùng ngày với `date`** (trừ `from_user`) |
 | `items[].from_user` | | `true` = tin người dùng gửi (không được loại) |
 | `outro` | ✔ | câu ở trang cuối (kêu gọi follow) |
+| `outro_sub` | | dòng thứ 2 trang cuối (chữ vàng), mặc định "Nhà bạn có tin? Nhắn kênh, kênh đưa!" |
 | `outro_question` | nên có | câu hỏi kéo bình luận, hiện trên thẻ vàng ở trang cuối |
 | `pin_comment` | nên có | bình luận ghim, ghi vào `caption.txt` |
 | `caption.tiktok/youtube/facebook` | ✔ | caption từng nền tảng |
@@ -85,7 +86,7 @@
 Icon có sẵn: `pin` (địa điểm) · `globe` (thế giới) · `flag` (Việt Nam) · `money` (tiền, giá, phạt) · `bolt` (điện, năng lượng) · `car` (giao thông, xe) · `shield` (công an, an ninh) · `school` (giáo dục) · `warning` (thiên tai, sạt lở, ngập) · `leaf` (môi trường, khí hậu) · `walk` (vỉa hè, đô thị) · `chart` (kinh tế, tăng trưởng) · `ship` (biển, cảng, du lịch biển) · `home` (nhà ở, dân cư) · `mic` (sự kiện, hội nghị)
 
 ## Thời lượng (script tự tính)
-Bìa 2,5 giây · mỗi tin min(8 giây, 53,5 ÷ số tin) · kết 3 giây → tổng ≤ 59 giây (YouTube Shorts có nhạc bản quyền cần ≤ 60 giây). **≤ 6 tin thì mỗi tin đủ 8 giây**; 7 tin → 7,6 giây; 8 tin → 6,7 giây.
+Bìa 2,5 giây · mỗi tin min(7 giây, 53,5 ÷ số tin) · kết 3 giây → tổng ≤ 59 giây (YouTube Shorts có nhạc bản quyền cần ≤ 60 giây). **≤ 7 tin thì mỗi tin đủ 7 giây** (7 tin = 54,5 giây); 8 tin → 6,68 giây.
 
 ## Cấu hình `config/ban-tin.json`
 | Trường | Ý nghĩa |

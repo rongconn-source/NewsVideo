@@ -17,6 +17,9 @@ AI không ghi được file (chat trên web): dùng `prompts/viet-kich-ban.md`, 
 
 ## 3. Quy tắc nội dung & xuất bản (bắt buộc)
 - **Định dạng mặc định**: Chỉ render **video** (dùng HyperFrames), tạm không render ảnh lướt.
+- **Nhịp & số tin**: mỗi tin hiện **7 giây** (để người xem kịp đọc + xem ảnh); video ≤ 59 giây nên **tối đa 7 tin/bản** (đề xuất 6–7 tin mạnh).
+- **Bố cục mỗi trang tin (đã chốt)**: **ảnh 55% phía trên – chữ 45% phía dưới**; **không có thanh header**, tên kênh "QUY NHƠN 24H QUA" nằm thẳng trên ảnh (góc trên trái).
+- **Trang cuối**: logo + "Follow để nắm bắt tin tức Quy Nhơn nhé" + dòng vàng **"Nhà bạn có tin? Nhắn kênh, kênh đưa!"** (script tự thêm).
 - **Hashtags BẮT BUỘC luôn đầy đủ 6 thẻ**: `#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua` (trong mọi caption TikTok, YouTube, Facebook).
 - **Tuân thủ tuyệt đối Điều khoản Dịch vụ TikTok**: Đọc và áp dụng nghiêm ngặt theo `reference/tiktok-terms-compliance.md` (không nhúng nhạc có bản quyền vào file đăng, luôn trích nguồn ảnh/báo rõ ràng, không tiết lộ thông tin cá nhân PII của nạn nhân, không giật gân bạo lực, 100% tin thật).
 - **Liên tục tìm kiếm nguồn mới**: Chủ động cập nhật và tìm nguồn báo chính thống, chất lượng cao, phản ánh sát đời sống Quy Nhơn & Gia Lai (Báo Gia Lai, Báo Mới, VnExpress, Tuổi Trẻ, Thanh Niên...).
@@ -29,7 +32,7 @@ AI không ghi được file (chat trên web): dùng `prompts/viet-kich-ban.md`, 
 - **Tai nạn, án hình sự**: không nêu tên đầy đủ (chỉ viết tắt/tuổi), không dùng ảnh nạn nhân, không giật gân, không từ lóng.
 - Từ lóng nhẹ chỉ dùng cho tin đời sống nhẹ nhàng.
 - Chính trị, tôn giáo, dân tộc: chỉ đưa theo nguồn chính thống, không bình luận.
-- **Phạm vi tin theo `config/ban-tin.json`** (hiện tại: **ưu tiên tin Quy Nhơn, được lấy tin toàn tỉnh Gia Lai**; không lấy tin tỉnh khác / trong nước / thế giới).
+- **Phạm vi tin theo `config/ban-tin.json`** (hiện tại: **ưu tiên tin Quy Nhơn, được lấy tin toàn tỉnh Gia Lai**; không lấy tin tỉnh khác / trong nước / thế giới). Nguồn nào cũng được, **miễn bài có nhắc tới Quy Nhơn hoặc Gia Lai** và sự việc xảy ra trên địa bàn.
 - **Bản tin chỉ có tin đăng trong 24 giờ qua**, tính lùi từ lúc làm bản tin (vd. làm lúc 12h ngày 4 → lấy tin từ 12h ngày 3; tin ngày hôm trước vẫn lấy). Trừ tin người dùng tự gửi. Không lặp tin đã đưa ở bản tin trước. Thiếu tin thì làm ít tin hơn, không độn tin cũ.
 - **Ảnh**: mỗi tin phải có ảnh – **ảnh thật của bài báo gốc là ưu tiên số 1** (mặc định, ghi "Ảnh: <báo>") hoặc ảnh người dùng đưa → không có mới dùng ảnh minh hoạ AI (`ai_prompt`, chỉ cảnh chung, không người thật/logo/chữ, ghi rõ "Ảnh minh hoạ AI") → icon.
 - Địa giới: từ 1/7/2025 nhiều tỉnh đã sáp nhập (vd. Bình Định → Gia Lai; Quy Nhơn nay là các phường thuộc tỉnh Gia Lai). Dùng tên đơn vị hành chính mới như bài báo gốc.

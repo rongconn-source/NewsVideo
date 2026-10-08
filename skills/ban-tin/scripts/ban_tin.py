@@ -36,7 +36,7 @@ CATEGORIES = {"khu-vuc", "tinh", "trong-nuoc", "the-gioi"}
 IMAGE_PREFIXES = ("input:", "press:", "ai:", "pexels:", "icon:", "text:", "map:")
 ICON_NAMES = {"pin", "globe", "flag", "money", "bolt", "car", "shield", "school", "warning",
               "leaf", "walk", "chart", "ship", "home", "mic"}
-COVER_SECONDS, OUTRO_SECONDS, MAX_ITEM_SECONDS, MAX_TOTAL_SECONDS = 2.5, 3.0, 8.0, 59.0  # 8s/tin để kịp đọc + xem ảnh → tối đa 6 tin
+COVER_SECONDS, OUTRO_SECONDS, MAX_ITEM_SECONDS, MAX_TOTAL_SECONDS = 2.5, 3.0, 7.0, 59.0  # 7s/tin để kịp đọc + xem ảnh → tối đa 7 tin
 DEFAULT_COLORS = {"dark": "#061633", "mid": "#0a2350", "light": "#1a4c8f", "accent": "#f6b93b"}
 
 if hasattr(sys.stdout, "reconfigure"):
@@ -107,7 +107,8 @@ def validate(d: dict) -> tuple[list[str], list[str]]:
     n_items = len(items or [])
     if n_items * MAX_ITEM_SECONDS + COVER_SECONDS + OUTRO_SECONDS > MAX_TOTAL_SECONDS:
         warnings.append(f"{n_items} tin → mỗi tin chỉ còn {timing(n_items)['item']}s (< {MAX_ITEM_SECONDS:g}s). "
-                        f"Để đủ {MAX_ITEM_SECONDS:g}s/tin trong video ≤ {MAX_TOTAL_SECONDS:g}s: tối đa 6 tin")
+                        f"Để đủ {MAX_ITEM_SECONDS:g}s/tin trong video ≤ {MAX_TOTAL_SECONDS:g}s: tối đa "
+                        f"{int((MAX_TOTAL_SECONDS - COVER_SECONDS - OUTRO_SECONDS) // MAX_ITEM_SECONDS)} tin")
     for r in d.get("needs_review") or []:
         warnings.append(f"cần duyệt: {r}")
     if not d.get("pin_comment"):
@@ -236,7 +237,7 @@ def build_project(d: dict, proj: Path) -> dict:
         logo = f"assets/logo{logo_src.suffix.lower()}"
     data = {
         "region": d["region"], "province": d.get("province", ""), "brand": d.get("brand") or cfg.get("brand") or ["NEWS", "VIDEO"],
-        "chip": d.get("chip", ""), "cover": cover, "outro": d["outro"], "outro_question": d.get("outro_question", ""),
+        "chip": d.get("chip", ""), "cover": cover, "outro": d["outro"], "outro_sub": d.get("outro_sub", "Nhà bạn có tin? Nhắn kênh, kênh đưa!"), "outro_question": d.get("outro_question", ""),
         "logo": logo, "timing": t,
         "items": [{k: v for k, v in it.items() if k in ("category", "label", "text", "_img", "_ai", "_text", "_icon", "_credit")}
                   for it in d["items"]],

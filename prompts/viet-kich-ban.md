@@ -19,7 +19,7 @@ Tin tôi gửi (luôn đưa vào):
 - <hoặc dán nội dung bài>
 
 Yêu cầu:
-- Mở từng bài gốc để lấy số liệu; chọn 10–12 tin (tin tôi gửi luôn giữ)
+- Chỉ lấy tin đăng trong 24 giờ qua, có nhắc Quy Nhơn hoặc Gia Lai; mở từng bài gốc để lấy số liệu; chọn 6–7 tin (tối đa 7, tin tôi gửi luôn giữ)
 - Chỉ trả về 1 khối ```json đúng format, không giải thích bên trong khối
 - Sau khối JSON: liệt kê ngắn từng tin + nguồn, và các điểm cần tôi duyệt
 ```

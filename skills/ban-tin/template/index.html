@@ -40,18 +40,19 @@
         background: radial-gradient(ellipse 120% 70% at 50% 72%, var(--navy-600) 0%, var(--navy-800) 55%, var(--navy-900) 100%);
       }
       .scene + .scene { opacity: 0; }
-      .topbar {
-        position: absolute; top: 0; left: 0; width: 1080px; height: 100px; background: var(--navy-900);
-        display: flex; align-items: center; justify-content: space-between; padding: 0 56px;
+      .topbar { /* không còn thanh nền: tên kênh nằm trên ảnh, có bóng mờ để dễ đọc */
+        position: absolute; top: 0; left: 0; width: 1080px; height: 150px;
+        background: linear-gradient(180deg, rgba(6,22,51,0.72) 0%, rgba(6,22,51,0.35) 55%, rgba(6,22,51,0) 100%);
+        display: flex; align-items: flex-start; justify-content: space-between; padding: 34px 56px 0;
       }
-      .brand { font-weight: 800; font-size: 30px; letter-spacing: 0.08em; color: var(--ink); }
+      .brand { font-weight: 800; font-size: 32px; letter-spacing: 0.08em; color: var(--ink); text-shadow: 0 2px 8px rgba(0,0,0,0.6); }
       .brand b { color: var(--amber); }
       .chip { font-weight: 700; font-size: 24px; letter-spacing: 0.12em; color: var(--navy-900); background: var(--amber); padding: 6px 16px; border-radius: 8px; }
-      .photo { position: absolute; top: 100px; left: 0; width: 1080px; height: 860px; overflow: hidden; }
+      .photo { position: absolute; top: 0; left: 0; width: 1080px; height: 1056px; overflow: hidden; } /* ảnh 55% : chữ 45% */
       .photo-inner { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; }
       .photo-bg { position: absolute; inset: 0; }
-      .photo-img { position: absolute; inset: 0; width: 1080px; height: 860px; object-fit: cover; display: block; }
-      .photo-img.ai { height: 960px; object-position: center top; } /* cắt logo góc dưới của ảnh AI */
+      .photo-img { position: absolute; inset: 0; width: 1080px; height: 1056px; object-fit: cover; display: block; }
+      .photo-img.ai { height: 1156px; object-position: center top; } /* cắt logo góc dưới của ảnh AI */
       .ghost-num { position: absolute; right: 40px; bottom: -40px; width: 400px; height: 560px; display: block; }
       .rain {
         position: absolute; left: 0; top: -300px; width: 1080px; height: 1460px;
@@ -62,15 +63,15 @@
         position: relative; width: 900px; font-weight: 800; font-size: 96px; line-height: 1.15;
         text-align: center; color: var(--ink);
       }
-      .credit { position: absolute; top: 972px; right: 56px; font-weight: 700; font-size: 24px; color: var(--ink-soft); }
-      .label { position: absolute; top: 1030px; left: 56px; display: flex; align-items: center; gap: 14px; font-weight: 800; font-size: 54px; color: var(--ink); }
+      .credit { position: absolute; top: 1068px; right: 56px; font-weight: 700; font-size: 24px; color: var(--ink-soft); }
+      .label { position: absolute; top: 1118px; left: 56px; display: flex; align-items: center; gap: 14px; font-weight: 800; font-size: 54px; color: var(--ink); }
       .label svg { width: 46px; height: 46px; display: block; }
-      .counter { position: absolute; top: 1036px; right: 56px; font-weight: 800; font-size: 40px; color: var(--amber); border: 3px solid var(--amber); border-radius: 40px; padding: 2px 22px; }
-      .body { position: absolute; top: 1150px; left: 56px; width: 968px; font-weight: 700; line-height: 1.42; text-align: left; color: var(--ink); }
-      .watermark { position: absolute; left: 0; bottom: 90px; width: 1080px; display: flex; flex-direction: column; align-items: center; gap: 6px; opacity: 0.16; }
-      .watermark svg { width: 150px; height: 150px; display: block; }
-      .watermark span { font-weight: 800; font-size: 64px; letter-spacing: 0.1em; color: var(--ink); }
-      .logo-mark { position: absolute; left: 160px; top: 1100px; width: 760px; height: 760px; border-radius: 50%; object-fit: cover; display: block; opacity: 0.1; }
+      .counter { position: absolute; top: 1124px; right: 56px; font-weight: 800; font-size: 40px; color: var(--amber); border: 3px solid var(--amber); border-radius: 40px; padding: 2px 22px; }
+      .body { position: absolute; top: 1220px; left: 56px; width: 968px; font-weight: 700; line-height: 1.42; text-align: left; color: var(--ink); }
+      .watermark { position: absolute; left: 0; bottom: 40px; width: 1080px; display: flex; flex-direction: column; align-items: center; gap: 6px; opacity: 0.16; }
+      .watermark svg { width: 100px; height: 100px; display: block; }
+      .watermark span { font-weight: 800; font-size: 44px; letter-spacing: 0.1em; color: var(--ink); }
+      .logo-mark { position: absolute; left: 240px; top: 1150px; width: 600px; height: 600px; border-radius: 50%; object-fit: cover; display: block; opacity: 0.1; }
       .cover-rain {
         position: absolute; left: 0; top: -400px; width: 1080px; height: 2720px;
         background-image: repeating-linear-gradient(100deg, rgba(255,255,255,0) 0px, rgba(255,255,255,0) 44px, rgba(255,255,255,0.1) 45px, rgba(255,255,255,0) 47px);
@@ -95,6 +96,7 @@
       .outro-center.has-q { gap: 56px; }
       .outro-center.has-q .pill { font-size: 46px; padding: 36px 60px; }
       .pill-wrap { position: relative; width: 900px; }
+      .outro-sub { width: 960px; font-weight: 800; font-size: 44px; line-height: 1.3; text-align: center; color: var(--amber); }
       .pill { width: 900px; background: var(--ink); border-radius: 90px; padding: 52px 70px; font-weight: 800; font-size: 58px; line-height: 1.3; text-align: center; color: var(--navy-900); box-shadow: 0 12px 0 var(--navy-900); }
       .star { position: absolute; right: -40px; top: -70px; width: 160px; height: 160px; display: block; }
     </style>
@@ -204,6 +206,7 @@
             <div class="pill">${esc(DATA.outro)}</div>
             <svg class="star" id="s${last}-star" viewBox="0 0 100 100"><path d="M50 6l13 28 30 4-22 21 6 30-27-15-27 15 6-30L7 38l30-4z" fill="var(--amber)" stroke="var(--navy-900)" stroke-width="5" stroke-linejoin="round"/></svg>
           </div>
+          ${DATA.outro_sub ? `<p class="outro-sub" id="s${last}-sub">${esc(DATA.outro_sub)}</p>` : ""}
         </div>
       </div>`;
       root.innerHTML = html;
@@ -245,6 +248,7 @@
       tl.fromTo("#s" + last + "-logo", { scale: 0.7, opacity: 0 }, { scale: 1, opacity: 1, duration: 0.5, ease: "back.out(1.8)" }, to + 0.35);
       if (DATA.outro_question) tl.fromTo("#s" + last + "-q", { y: 50, opacity: 0 }, { y: 0, opacity: 1, duration: 0.5, ease: "power3.out" }, to + 0.45);
       tl.fromTo("#s" + last + "-pill", { y: 50, opacity: 0 }, { y: 0, opacity: 1, duration: 0.5, ease: "power3.out" }, to + 0.6);
+      if (DATA.outro_sub) tl.fromTo("#s" + last + "-sub", { y: 30, opacity: 0 }, { y: 0, opacity: 1, duration: 0.5, ease: "power2.out" }, to + 1.0);
       tl.fromTo("#s" + last + "-star", { rotation: -40, scale: 0 }, { rotation: 0, scale: 1, duration: 0.6, ease: "back.out(2.2)" }, to + 0.8);
       tl.to("#s" + last + "-center", { opacity: 0, duration: 0.6, ease: "power1.in" }, T.total - 0.6);
 

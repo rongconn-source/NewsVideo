@@ -1,0 +1,81 @@
+{
+  "type": "digest",
+  "output": "video",
+  "date": "2026-10-08",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "chip": "",
+  "cover": {
+    "kicker": "BẢN TIN TỐI",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Tối 8/10/2026",
+    "teaser": "900 tỷ làm lại ngã 5 Đống Đa – Hoa Lư: sẽ có gì mới?",
+    "image": "item:1",
+    "icon": "car"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "text": "Tỉnh duyệt 900 tỷ đồng cải tạo nút giao ngã 5 Đống Đa – Hoa Lư (phường Quy Nhơn): làm cầu vượt một chiều dài 304m, thêm vòng xuyến, giai đoạn 2025–2029.",
+      "ai_prompt": "busy five-way road intersection in a Vietnamese coastal city with motorbikes and cars, aerial view, daytime",
+      "source": "https://baomoi.com/gia-lai-chi-900-ty-dong-mo-rong-cai-tao-nut-giao-nga-5-dong-da-hoa-lu-c56224326.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-08T16:14:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Chiều 7/10, CSGT bật còi ưu tiên mở đường hơn 20 km trên QL19 (xã Bàu Cạn), đưa một người bị ngã đứt lưỡi tới Bệnh viện Đa khoa Gia Lai. Hiện sức khỏe đã ổn định.",
+      "ai_prompt": "Vietnamese traffic police motorbike with flashing lights escorting a car on a highway at dusk",
+      "source": "https://baogialai.com.vn/csgt-dan-duong-hon-20-km-dua-nguoi-bi-tai-nan-nang-di-cap-cuu-post601428.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-08T13:44:11+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Công an tỉnh khởi tố 7 người liên quan ma túy ở phường Hoài Nhơn và Hoài Nhơn Tây: 2 người mua bán, 5 người tổ chức sử dụng; thu giữ hơn 3,37g ma túy.",
+      "ai_prompt": "police evidence table with sealed plastic bags and documents in a Vietnamese police station, no people",
+      "source": "https://baomoi.com/7-nguoi-o-gia-lai-bi-khoi-to-de-dieu-tra-lien-quan-den-ma-tuy-c56224942.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-08T17:18:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Quy Nhơn United đứng top 4 giải hạng Nhất, trung bình khoảng 4.000 khán giả mỗi trận sân nhà. Mùa tới CLB cần khoảng 45 tỷ đồng, phần lớn từ xã hội hóa.",
+      "ai_prompt": "football stadium in a Vietnamese coastal city at night with fans in the stands and players on the pitch",
+      "source": "https://baogialai.com.vn/pho-chu-tich-ubnd-tinh-nguyen-thi-thanh-lich-lam-viec-voi-clb-quy-nhon-united-post601455.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-08T15:51:02+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Mưa lớn kèm dông lốc chiều 6/10 làm khoảng 900 cây điều, cà phê, tiêu của 32 hộ ở thôn Ia Blan, xã Ia Krái bị gãy đổ. Xã đang thống kê để hỗ trợ.",
+      "ai_prompt": "uprooted cashew and coffee trees after a storm in a Central Highlands farm in Vietnam, overcast sky",
+      "source": "https://baomoi.com/mua-lon-kem-dong-loc-lam-vuon-cay-cua-32-ho-dan-o-gia-lai-bi-thiet-hai-c56225528.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-08T17:59:28+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Học viên tập lái chuyển làn bất ngờ, tạt đầu ô tô trên đường Tôn Đức Thắng (xã Biển Hồ): CSGT phạt chính thầy dạy lái 700.000 đồng.",
+      "ai_prompt": "driving school training car with a learner sign on a city road in Vietnam, daytime",
+      "source": "https://baogialai.com.vn/hoc-vien-tat-dau-xe-o-to-thay-day-lai-bi-phat-700-nghin-dong-post601434.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-08T13:58:53+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "pin_comment": "Ngày nào bạn cũng đi qua ngã 5 Đống Đa – Hoa Lư? Theo bạn cầu vượt có giúp bớt kẹt xe không? Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "caption": {
+    "tiktok": "Ngã 5 Đống Đa – Hoa Lư sắp có cầu vượt 900 tỷ – bạn đi qua đây mỗi ngày không? Tối 8/10: CSGT mở đường 20km cứu người, 7 người bị khởi tố ma túy ở Hoài Nhơn, Quy Nhơn United cần 45 tỷ cho mùa mới, dông lốc quật đổ 900 cây, thầy dạy lái bị phạt vì học viên tạt đầu xe. Nguồn: Báo Gia Lai, Báo Mới #quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Tin Quy Nhơn tối 8/10/2026: 900 tỷ làm cầu vượt ngã 5 Đống Đa – Hoa Lư #Shorts",
+    "facebook": "📍 QUY NHƠN 24H QUA – BẢN TIN TỐI 8/10/2026\nNgã 5 Đống Đa – Hoa Lư sắp đổi khác?\n1. Tỉnh duyệt 900 tỷ đồng cải tạo nút giao ngã 5 Đống Đa – Hoa Lư: cầu vượt một chiều dài 304m, thêm vòng xuyến (2025–2029)\n2. CSGT bật còi ưu tiên mở đường hơn 20 km trên QL19 đưa người bị đứt lưỡi đi cấp cứu kịp thời\n3. Khởi tố 7 người liên quan ma túy ở phường Hoài Nhơn, Hoài Nhơn Tây\n4. Quy Nhơn United top 4 hạng Nhất, ~4.000 khán giả/trận, mùa tới cần khoảng 45 tỷ đồng\n5. Dông lốc chiều 6/10 làm gãy đổ khoảng 900 cây điều, cà phê, tiêu của 32 hộ ở xã Ia Krái\n6. Học viên tạt đầu ô tô ở xã Biển Hồ, thầy dạy lái bị phạt 700.000 đồng\n\nNgày nào bạn cũng đi qua ngã 5 Đống Đa – Hoa Lư? Theo bạn cầu vượt có giúp bớt kẹt xe không? Bình luận nhé 👇\n\nNguồn: Báo Gia Lai, Báo Mới\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "hashtags": ["#quynhon", "#tinquynhon", "#gialai", "#binhdinh", "#tintuc", "#quynhon24hqua"],
+  "needs_review": [
+    "Tin 1: bài trên Báo Mới (tổng hợp) – nếu tìm được bài gốc của báo chính thì đổi source_name",
+    "Tin 2: sự việc chiều 7/10, bài đăng 8/10 13:44 (trong 24h)",
+    "Tin 3: số ma túy bài gốc ghi 3,3764g – viết 'hơn 3,37g'",
+    "Tin 5: sự việc chiều 6/10, bài đăng 8/10 17:59 (trong 24h)",
+    "Ảnh lấy từ bài báo gốc (đã ghi tên báo trên ảnh) – kiểm tra bản quyền trước khi đăng"
+  ]
+}
