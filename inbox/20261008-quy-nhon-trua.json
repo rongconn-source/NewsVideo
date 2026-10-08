@@ -1,0 +1,90 @@
+{
+  "type": "digest",
+  "output": "video",
+  "date": "2026-10-08",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "chip": "",
+  "cover": {
+    "kicker": "BẢN TIN TRƯA",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Trưa 8/10/2026",
+    "teaser": "Cảnh báo biển động sóng 4m và loạt tin đáng chú ý trưa 8/10",
+    "image": "item:1",
+    "icon": "warning"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "text": "Đài Khí tượng Thủy văn tỉnh phát cảnh báo khẩn: Vùng biển tiếp tục có gió mạnh cấp 5-6, giật cấp 7-8; biển động mạnh, sóng biển dâng cao 2-4m, nguy cơ mất an toàn cho tàu thuyền và lồng bè.",
+      "ai_prompt": "stormy coastal sea of Quy Nhon Vietnam with massive 4-meter ocean waves crashing onto rocky cliffs under dark windy cloudy sky",
+      "source": "https://baogialai.com.vn/gia-lai-canh-bao-gio-manh-song-cao-den-4-m-tren-bien-post601382.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-08T05:49:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Thấy cá thể chim đại bàng núi quý hiếm (nhóm IIB) bất ngờ bay vào nhà, một người dân tại xã Mang Yang đã chủ động chăm sóc an toàn rồi mang đến trụ sở Công an xã giao nộp để thả về tự nhiên.",
+      "ai_prompt": "magnificent mountain eagle perched indoors safely inspected by Vietnamese citizen in countryside home",
+      "source": "https://baogialai.com.vn/thay-dai-bang-nui-bay-vao-nha-nguoi-dan-ong-mang-den-cong-an-xa-giao-nop-post601315.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-07T19:05:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Sở Nông nghiệp và Bộ CHQS tỉnh vừa bàn giao 11.100 cây dừa giống đặc sản Tam Quan cho Vùng 4 Hải quân, tiếp tục đồng hành cùng chương trình ý nghĩa Xanh hóa Trường Sa trên các đảo tiền tiêu.",
+      "ai_prompt": "neat nursery rows of Tam Quan coconut tree seedlings in green bags being loaded for naval transport in Vietnam",
+      "source": "https://baogialai.com.vn/gia-lai-trao-11100-cay-dua-giong-tiep-suc-xanh-hoa-truong-sa-post601326.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-07T19:04:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "UBND tỉnh ban hành quy định mức thu các dịch vụ trường công lập từ 15/10: trông giữ trẻ ngoài giờ 8.000 đồng/giờ; tiền ăn bán trú 40.000–45.000 đồng/ngày; tuyệt đối không được ép buộc phụ huynh.",
+      "ai_prompt": "cheerful Vietnamese elementary school classroom with happy children having clean healthy lunch meal at tables",
+      "source": "https://baogialai.com.vn/gia-lai-ap-dung-muc-thu-toi-da-doi-voi-cac-dich-vu-ho-tro-giao-duc-tu-ngay-15-10-post601273.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-07T06:00:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Cục Quản lý Dược (Bộ Y tế) vừa ra quyết định đình chỉ lưu hành và thu hồi trên toàn quốc sản phẩm xịt dưỡng tóc Diary Hair Perfume do nhãn ghi công dụng không đúng với hồ sơ phê duyệt.",
+      "ai_prompt": "pharmacist inspecting cosmetics spray bottles on drugstore shelf with warning notice in Vietnam store",
+      "source": "https://baogialai.com.vn/thu-hoi-tren-toan-quoc-san-pham-xit-duong-toc-diary-hair-perfume-with-vitamin-love-story-in-seoul-post601367.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-08T07:48:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Hướng tới Ngày Chuyển đổi số 10/10, tỉnh triển khai các tổ công nghệ số cộng đồng hướng dẫn người dân kỹ năng số, dịch vụ công trực tuyến, VNeID và sử dụng an toàn các công cụ trí tuệ nhân tạo AI.",
+      "ai_prompt": "young Vietnamese volunteer youth in blue union shirt showing local elderly person how to use digital smartphone app in community center",
+      "source": "https://vietnamnet.vn/gia-lai-pho-cap-ky-nang-so-dua-ai-den-gan-nguoi-dan-2562587.html",
+      "source_name": "VietnamNet",
+      "published": "2026-10-07T16:30:00+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "pin_comment": "Bà con vùng ven biển Quy Nhơn đã chằng chống tàu thuyền cẩn thận chưa? Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "caption": {
+    "tiktok": "Cảnh báo biển động sóng cao 4m cùng loạt tin đáng chú ý trưa 8/10: Đại bàng núi bay vào nhà dân, 11.100 cây dừa Tam Quan ra Trường Sa, biểu giá trường công lập, thu hồi mỹ phẩm xịt tóc, đưa AI đến người dân. Nguồn: Báo Gia Lai, VietnamNet #quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Tin Quy Nhơn – Gia Lai trưa 8/10/2026: Cảnh báo biển động sóng 4m, 11.100 dừa Tam Quan ra Trường Sa #Shorts",
+    "facebook": "📍 QUY NHƠN 24H QUA – BẢN TIN TRƯA 8/10/2026\n1. Cảnh báo khẩn vùng biển: Gió giật cấp 7-8, sóng biển cao 2-4m nguy cơ cao cho tàu thuyền và lồng bè\n2. Độc lạ: Thấy đại bàng núi quý hiếm bay vào nhà, người đàn ông tại xã Mang Yang mang đến Công an giao nộp\n3. Bàn giao 11.100 cây dừa giống đặc sản Tam Quan cho Vùng 4 Hải quân tiếp sức chương trình Xanh hóa Trường Sa\n4. UBND tỉnh ban hành biểu giá dịch vụ trường công lập từ 15/10: giữ trẻ ngoài giờ 8.000đ/giờ, ăn bán trú 40k–45k/ngày\n5. Cục Quản lý Dược thu hồi trên toàn quốc sản phẩm xịt dưỡng tóc Diary Hair Perfume do ghi nhãn sai công dụng\n6. Hướng tới Ngày Chuyển đổi số 10/10: Tỉnh phổ cập kỹ năng số, VNeID và tiện ích AI đến người dân\n\nBà con vùng ven biển Quy Nhơn đã chằng chống tàu thuyền cẩn thận chưa? Bình luận nhé 👇\n\nNguồn: Báo Gia Lai, VietnamNet"
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "needs_review": [
+    "Tin 1: Vùng biển Quy Nhơn / Gia Lai, cảnh báo có hiệu lực trong ngày 8/10",
+    "Tin 2: Xã Mang Yang (huyện Mang Yang cũ), động vật hoang dã nhóm IIB",
+    "Tin 3: Dừa giống Tam Quan (thị xã Hoài Nhơn cũ), bàn giao tại Viện KHKT Nông nghiệp Duyên hải Nam Trung Bộ",
+    "Tin 4: Áp dụng từ 15/10/2026",
+    "Tin 5: Quyết định của Cục Quản lý Dược (Bộ Y tế)",
+    "Tin 6: Chuỗi hoạt động Chuyển đổi số tháng 10/2026",
+    "Ảnh lấy từ bài báo gốc (đã ghi tên báo trên ảnh) – kiểm tra bản quyền trước khi đăng"
+  ]
+}
