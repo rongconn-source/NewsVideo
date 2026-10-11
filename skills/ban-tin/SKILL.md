@@ -19,7 +19,7 @@ Python 3.10+, Node.js (có `npx`), ffmpeg. Không cần cài thư viện Python 
 ## Quy trình (làm đúng thứ tự)
 
 ### 1. Xác định yêu cầu
-- **Đọc `config/ban-tin.json` trước**: khu vực (`region`), địa bàn cụ thể (`region_scope`), **phạm vi tin được phép** (`allowed_categories`), tên kênh (`brand`).
+- **Đọc `skills/ban-tin/config.json` trước**: khu vực (`region`), địa bàn cụ thể (`region_scope`), **phạm vi tin được phép** (`allowed_categories`), tên kênh (`brand`).
   Hiện tại: **ưu tiên tin Quy Nhơn** (`khu-vuc`), **được lấy tin toàn tỉnh Gia Lai** (`tinh`) – không lấy tin tỉnh khác/trong nước/thế giới. Bài nguồn chỉ cần **có nhắc Quy Nhơn hoặc Gia Lai** và sự việc xảy ra trên địa bàn. Script sẽ báo lỗi nếu có tin ngoài phạm vi.
 - **Khu vực** (`region`): theo cấu hình; người dùng nói khu vực khác thì làm theo người dùng. Ghi thêm `province` nếu tin cấp tỉnh (vd. Quy Nhơn → tỉnh Gia Lai, vì từ 1/7/2025 Bình Định đã sáp nhập vào Gia Lai).
 - **Chế độ** (`output`): mặc định là `"video"` (chỉ render video dọc 9:16 bằng HyperFrames; tạm không render ảnh lướt).
@@ -29,11 +29,11 @@ Python 3.10+, Node.js (có `npx`), ffmpeg. Không cần cài thư viện Python 
 ```bash
 python skills/ban-tin/scripts/ban_tin.py scan --date YYYY-MM-DD
 ```
-Lệnh đọc các trang nguồn trong `config/ban-tin.json` (`sources`), lấy giờ đăng thật của từng bài, **chỉ in tin đăng trong 24 giờ tính lùi từ lúc quét** (quét ngày cũ thì tính lùi từ 23:59 ngày đó), gộp tin trùng giữa các nguồn, đánh dấu ✓ tin có từ khoá khu vực (`region_keywords`), báo bài nào không có ảnh. Kết quả lưu `data/scan/<ngày>.json`.
+Lệnh đọc các trang nguồn trong `skills/ban-tin/config.json` (`sources` và `user_links`), lấy giờ đăng thật của từng bài, **chỉ in tin đăng trong 24 giờ tính lùi từ lúc quét** (quét ngày cũ thì tính lùi từ 23:59 ngày đó), gộp tin trùng giữa các nguồn, đánh dấu ✓ tin có từ khoá khu vực (`region_keywords`), báo bài nào không có ảnh. Kết quả lưu `data/scan/<ngày>.json`.
 Sau đó:
-1. Link / nội dung / file người dùng gửi (chat hoặc thư mục `input/`) → **luôn đưa vào** (`"from_user": true`)
+1. Link bài người dùng dán trong `user_links` (`skills/ban-tin/config.json`) hoặc gửi qua chat / thư mục `input/` → **luôn đưa vào** (`"from_user": true`)
 2. Chọn từ danh sách `scan` (ưu tiên dòng ✓); `scan` lỗi hoặc thiếu tin → tự tìm thêm trên báo địa phương
-3. Muốn thêm nguồn → thêm vào `sources` trong `config/ban-tin.json` (không sửa script)
+3. Muốn thêm nguồn quét tự động → thêm vào `sources` trong `skills/ban-tin/config.json` (không sửa script)
 
 **Bản tin chỉ lấy tin ĐĂNG TRONG 24 GIỜ QUA**, tính lùi từ lúc làm bản tin (giờ Việt Nam). Ví dụ làm lúc 12h ngày 4/10 → lấy tin từ 12h ngày 3/10 đến 12h ngày 4/10; tin ngày hôm trước vẫn lấy nếu còn trong 24h.
 Không lặp tin đã đưa ở bản tin trước (xem `inbox/` các bản gần nhất). Không đủ tin → làm ít tin hơn (tối thiểu 3) và báo người dùng; không "độn" tin cũ hơn 24h.
@@ -52,15 +52,10 @@ Ngoại lệ duy nhất: tin người dùng tự gửi.
 - Ghi `source` (link bài gốc) + `source_name` (tên báo).
 - Điều chưa chắc → ghi vào `needs_review`, không đoán.
 
-### 4. Trình danh sách tin để người dùng chọn/duyệt (BẮT BUỘC trước khi tạo kịch bản & render)
-- Sau khi scan và lọc được các tin hợp lệ, AI **phải liệt kê danh sách tin ứng viên tìm được** (kèm số thứ tự 1, 2, 3..., tóm tắt 1 câu, giờ đăng, nguồn báo) để người dùng duyệt.
-- **Chỉ đưa vào danh sách những tin AI ĐÃ MỞ VÀ ĐỌC BÀI GỐC**, đã xác thực địa bàn, số liệu, thời gian (vd. lịch còn hiệu lực). Tin chưa đọc / bài chỉ có video / không rõ địa bàn → **không đưa vào checkbox** (chỉ ghi 1 dòng "đã loại vì…" nếu cần). Người dùng không chấp nhận tin chưa xác thực.
-- **Trình dạng checkbox** (công cụ hỏi nhiều lựa chọn, cho chọn nhiều) nếu AI có công cụ đó; không có thì liệt kê `- [ ]` để người dùng trả lời bằng số.
-- **Sắp xếp danh sách theo độ hấp dẫn với người xem TikTok** (AI đóng vai chuyên gia nội dung, đặt mình vào vị trí người xem): **ưu tiên giới trẻ 18–30 trước** (an toàn – sự cố gần mình, ở trọ/sinh viên, việc làm, công nghệ/AI, du lịch – bay – ăn chơi, công trình "check-in", giá cả, sự kiện cuối tuần), **rồi tới người trưởng thành** (con cái – trường học – sách vở, sức khoẻ, giao thông – đường sá, đô thị, chính sách tiền bạc). Tin hành chính/hội nghị/lễ ký kết xếp cuối. Ghi 1 dòng lý do ngắn cho nhóm tin đầu.
-- Dừng lại hỏi người dùng: người dùng có thể chọn số lượng (ví dụ tìm được 10 tin nhưng chỉ chọn 5 tin), chọn theo số thứ tự, đổi thứ tự ưu tiên, hoặc gửi thêm tin riêng.
-- **Tuyệt đối không tự ý render trước khi người dùng xác nhận danh sách tin muốn làm.**
-- Chỉ sau khi người dùng chốt danh sách tin, AI mới tiến hành viết kịch bản chi tiết (Bước 5) và dựng (Bước 8).
-- Nếu người dùng chủ động nói "tự chọn và làm luôn" hoặc tương đương, AI mới tự chọn 6–7 tin nổi bật nhất rồi dựng.
+### 4. Chọn lọc tin & Tự động dựng (Mặc định: Tự động hóa 100% - Run skill là ra luôn thành phẩm)
+- **Chế độ mặc định (Tự động 100%)**: AI tự động chọn ra **6–7 tin mạnh nhất, nóng nhất** từ danh sách đã quét (hoặc từ `user_links` người dùng đưa), kiểm tra bài gốc chuẩn xác, tự động viết kịch bản và tự động render ra video hoàn chỉnh ngay lập tức.
+- **Sắp xếp theo độ hấp dẫn với người xem TikTok**: **ưu tiên giới trẻ 18–30 trước** (thể thao sân nhà, cảnh báo bão/lũ/ngập, sự cố gần mình, ở trọ/sinh viên, việc làm, công nghệ/AI, du lịch, giá cả, sự kiện cuối tuần), **rồi tới người trưởng thành** (giáo dục, sức khoẻ, giao thông – đường sá, đô thị, chính sách). Tin hot nhất đặt ở **tin 1** (làm ảnh bìa + hook teaser), tin hot thứ 2 đặt ở **giữa bài** để giữ chân người xem.
+- **Chế độ duyệt thủ công (chỉ bật khi người dùng yêu cầu)**: Nếu người dùng nói "cho tôi chọn tin trước" hoặc "duyệt tin trước khi render", AI mới dừng lại liệt kê danh sách checkbox để người dùng chọn trước khi viết và render.
 
 **Gợi ý chọn tin (để người xem ở lại tới ảnh cuối):**
 - Mặc định đề xuất **6–7 tin mạnh** (mỗi tin hiện **7 giây** để người xem kịp đọc + xem ảnh; video ≤ 59 giây nên **tối đa 7 tin**) – tỉ lệ xem hết quan trọng hơn số tin.

@@ -44,10 +44,11 @@ if hasattr(sys.stdout, "reconfigure"):
     sys.stderr.reconfigure(encoding="utf-8")
 
 
-# ---------------------------------------------------------------- kiểm tra
 def load_config() -> dict:
-    f = REPO_DIR / "config" / "ban-tin.json"
-    return json.loads(f.read_text(encoding="utf-8")) if f.exists() else {}
+    for f in (SKILL_DIR / "config.json", REPO_DIR / "config" / "ban-tin.json"):
+        if f.exists():
+            return json.loads(f.read_text(encoding="utf-8"))
+    return {}
 
 
 def validate(d: dict) -> tuple[list[str], list[str]]:
@@ -231,7 +232,13 @@ def build_project(d: dict, proj: Path) -> dict:
     colors = {**DEFAULT_COLORS, **(d.get("colors") or {})}
     cfg = load_config()
     logo = ""
-    logo_src = REPO_DIR / cfg["logo"] if cfg.get("logo") else None
+    logo_src = None
+    if cfg.get("logo"):
+        for base in (SKILL_DIR, REPO_DIR):
+            p = base / cfg["logo"]
+            if p.is_file():
+                logo_src = p
+                break
     if logo_src and logo_src.is_file():
         shutil.copy2(logo_src, proj / "assets" / f"logo{logo_src.suffix.lower()}")
         logo = f"assets/logo{logo_src.suffix.lower()}"
@@ -498,22 +505,35 @@ def scan(date: str, out_json: Path | None, since: str | None = None) -> None:
             if cur:
                 r["region_match"] = r["region_match"] or cur["region_match"]
             best[key] = r
-        else:
-            cur["region_match"] = cur["region_match"] or r["region_match"]
-    rows = list(best.values())
-    rows.sort(key=lambda r: (not r["region_match"], r["published"]))
+    # gộp thêm link người dùng định sẵn trong config (nếu có)
+    user_rows = []
+    for u in cfg.get("user_links") or []:
+        if not u or not str(u).startswith("http"):
+            continue
+        try:
+            m = page_meta(u)
+            if m:
+                user_rows.append({"published": m["published"] or now.isoformat(), "source": f"[BẠN GỬI] {m['site']}",
+                                  "title": m["title"], "url": u, "image": m["image"], "description": m["description"],
+                                  "region_match": True, "from_user": True})
+        except Exception as e:
+            print(f"  ⚠ Lỗi đọc link bạn gửi {u}: {e}")
+    rows = user_rows + list(best.values())
+    rows.sort(key=lambda r: (not r.get("from_user", False), not r["region_match"], r["published"]))
     print()
-    print(f"TIN TỪ {start:%d/%m %H:%M} → {end:%d/%m %H:%M}: {len(rows)} bài ({sum(r['region_match'] for r in rows)} có từ khoá khu vực)")
+    print(f"TIN TỪ {start:%d/%m %H:%M} → {end:%d/%m %H:%M}: {len(rows)} bài ({sum(r['region_match'] for r in rows)} có từ khoá khu vực / bạn gửi)")
     print()
     for r in rows:
-        flag = "✓" if r["region_match"] else " "
-        print(f"{flag} {r['published'][8:10]}/{r['published'][5:7]} {r['published'][11:16]} | {r['source'][:14]:14} | {r['title'][:95]}")
+        flag = "★" if r.get("from_user") else ("✓" if r["region_match"] else " ")
+        pub = r.get("published", "")
+        t_str = f"{pub[8:10]}/{pub[5:7]} {pub[11:16]}" if len(pub) >= 16 else "              "
+        print(f"{flag} {t_str} | {r['source'][:14]:14} | {r['title'][:95]}")
         print(f"                           {r['url']}{'' if r['image'] else '   (KHÔNG có ảnh → cần ai_prompt)'}")
     if out_json:
         out_json.parent.mkdir(parents=True, exist_ok=True)
         out_json.write_text(json.dumps(rows, ensure_ascii=False, indent=1), encoding="utf-8")
         print(f"\nĐã lưu: {out_json}")
-    print("\n✓ = tiêu đề/mô tả có từ khoá khu vực hoặc lấy từ trang tìm kiếm khu vực. Vẫn phải mở bài gốc kiểm tra địa bàn.")
+    print("\n★ = link bạn lưu trong config. ✓ = có từ khoá khu vực. Vẫn phải mở bài gốc kiểm tra địa bàn.")
 
 # ---------------------------------------------------------------- main
 def main() -> None:
@@ -548,8 +568,12 @@ def main() -> None:
         ap.error("cần đường dẫn file JSON")
     a.json = Path(a.json).resolve()
     pm = load_config().get("preview_music") or {}
-    if not a.preview_music and not a.no_preview_music and pm.get("file") and (REPO_DIR / pm["file"]).is_file():
-        a.preview_music = REPO_DIR / pm["file"]
+    if not a.preview_music and not a.no_preview_music and pm.get("file"):
+        for base in (SKILL_DIR, REPO_DIR):
+            p = base / pm["file"]
+            if p.is_file():
+                a.preview_music = p
+                break
     if a.music_start is None:
         a.music_start = float(pm.get("start", 0)) if a.preview_music else 0.0
     if a.preview_music:
