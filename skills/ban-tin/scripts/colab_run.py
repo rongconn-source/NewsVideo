@@ -37,6 +37,29 @@ import ban_tin
 
 VN_TZ = timezone(timedelta(hours=7))
 
+def ensure_node22():
+    """Đảm bảo Node.js >= 22 trên môi trường Linux/Colab"""
+    if sys.platform != "win32":
+        import subprocess as _sp
+        os.environ["PATH"] = f"/usr/bin:/usr/local/bin:{os.environ.get('PATH', '')}"
+        try:
+            res = _sp.run(["node", "-v"], capture_output=True, text=True)
+            v_str = res.stdout.strip()
+            m = re.match(r'v(\d+)', v_str)
+            if not m or int(m.group(1)) < 22:
+                print(f"⚙️ Phát hiện Node.js {v_str} (< 22), đang tự động nâng cấp lên Node.js 22...")
+                cmd = (
+                    "curl -fsSL https://deb.nodesource.com/setup_22.x | bash - > /dev/null 2>&1 && "
+                    "apt-get install -y nodejs > /dev/null 2>&1 && "
+                    "ln -sf /usr/bin/node /tools/node/bin/node 2>/dev/null || true && "
+                    "ln -sf /usr/bin/npx /tools/node/bin/npx 2>/dev/null || true"
+                )
+                _sp.run(cmd, shell=True, check=True)
+                res2 = _sp.run(["node", "-v"], capture_output=True, text=True)
+                print(f"✓ Đã nâng cấp Node.js thành công: {res2.stdout.strip()}")
+        except Exception as e:
+            print(f"  ⚠ Kiểm tra nâng cấp Node 22: {e}")
+
 def call_gemini(api_key: str, prompt: str, system_prompt: str = "") -> str:
     """Gọi Gemini API bằng REST API không phụ thuộc thư viện ngoài"""
     models = ["gemini-2.5-flash", "gemini-1.5-flash"]
@@ -103,6 +126,7 @@ def fetch_article_snippet(url: str) -> str:
 
 
 def run_pipeline(api_key: str, user_link: str = "", drive_dir: str = "", session_type: str = ""):
+    ensure_node22()
     now_vn = datetime.now(VN_TZ)
     date_str = now_vn.strftime("%Y-%m-%d")
     hour = now_vn.hour
