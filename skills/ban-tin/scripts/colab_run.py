@@ -60,6 +60,23 @@ def ensure_node22():
         except Exception as e:
             print(f"  ⚠ Kiểm tra nâng cấp Node 22: {e}")
 
+def ensure_system_deps():
+    """Đảm bảo thư viện đồ họa hệ thống cho Chromium trên Linux/Colab"""
+    if sys.platform != "win32":
+        import subprocess as _sp
+        try:
+            print("⚙️ Đang kiểm tra và cài đặt thư viện đồ họa hệ thống cho Chromium...")
+            cmd = (
+                "apt-get update -qq > /dev/null 2>&1 && "
+                "apt-get install -y -qq libnss3 libnspr4 libatk1.0-0* libatk-bridge2.0-0* "
+                "libcups2 libdrm2 libxkbcommon0 libatspi* libxcomposite1 libxdamage1 "
+                "libxfixes3 libxrandr2 libgbm1 libpango-1.0-0 libcairo2 libasound2* > /dev/null 2>&1"
+            )
+            _sp.run(cmd, shell=True)
+            print("✓ Thư viện đồ họa hệ thống Chromium đã sẵn sàng.")
+        except Exception as e:
+            print(f"  ⚠ Lỗi cài thư viện Chromium: {e}")
+
 def call_gemini(api_key: str, prompt: str, system_prompt: str = "") -> str:
     """Gọi Gemini API bằng REST API không phụ thuộc thư viện ngoài"""
     models = ["gemini-2.5-flash", "gemini-1.5-flash"]
@@ -127,6 +144,7 @@ def fetch_article_snippet(url: str) -> str:
 
 def run_pipeline(api_key: str, user_link: str = "", drive_dir: str = "", session_type: str = ""):
     ensure_node22()
+    ensure_system_deps()
     now_vn = datetime.now(VN_TZ)
     date_str = now_vn.strftime("%Y-%m-%d")
     hour = now_vn.hour
