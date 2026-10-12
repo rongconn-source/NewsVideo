@@ -538,8 +538,8 @@ def scan(date: str, out_json: Path | None, since: str | None = None) -> None:
 # ---------------------------------------------------------------- main
 def main() -> None:
     ap = argparse.ArgumentParser(description="Dựng bản tin ảnh lướt / video từ file JSON")
-    ap.add_argument("command", choices=["scan", "check", "render", "meta", "push", "login"])
-    ap.add_argument("json", nargs="?", help="file bản tin JSON (check/render) hoặc thư mục output (push)")
+    ap.add_argument("command", choices=["scan", "check", "render", "meta"])
+    ap.add_argument("json", nargs="?", help="file bản tin JSON (check/render)")
     ap.add_argument("urls", nargs="*", help="(meta) các link bài báo cần xem ngày đăng + ảnh")
     ap.add_argument("--mode", choices=["anh", "video"], help="ghi đè trường output trong JSON")
     ap.add_argument("--out", type=Path, help="thư mục kết quả (mặc định data/output/<tên>-<chế độ>)")
@@ -548,19 +548,7 @@ def main() -> None:
     ap.add_argument("--no-preview-music", action="store_true", help="không làm bản xem thử có nhạc")
     ap.add_argument("--date", help="(scan) ngày YYYY-MM-DD, mặc định hôm nay")
     ap.add_argument("--since", help="(scan) lấy tin từ mốc này thay vì 24h, vd. 2026-10-03 hoặc 2026-10-04T12:00")
-    ap.add_argument("--headless", action="store_true", help="(push) chạy ẩn trình duyệt")
     a = ap.parse_args()
-    if a.command == "login":
-        from tiktok_draft import run_login
-        run_login()
-        return
-    if a.command == "push":
-        from tiktok_draft import main as draft_main
-        # Chuyển tiếp args sang tiktok_draft
-        import sys
-        sys.argv = [sys.argv[0], "push"] + ([str(a.json)] if a.json else []) + (["--headless"] if a.headless else [])
-        draft_main()
-        return
     if a.command == "scan":
         import datetime
         date = a.date or datetime.date.today().isoformat()

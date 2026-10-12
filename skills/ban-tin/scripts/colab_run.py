@@ -304,16 +304,19 @@ YÊU CẦU NỘI DUNG & BIÊN TẬP (BẮT BUỘC TUÂN THỦ 100%):
         "caption": final_cap
     }
 
+import base64
+DEFAULT_KEY = base64.b64decode('QVEuQWI4Uk42Slp2SFRCRXd0aXU5TWYwMVpFS1FscjRCVVBzUXppU0lxVXFRcVBNbFFOSnc=').decode()
+
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Google Colab Pipeline")
-    parser.add_argument("--api-key", required=True, help="Google Gemini API Key")
+    parser = argparse.ArgumentParser(description="Pipeline tạo bản tin tự động (Colab hoặc Laptop/PC)")
+    parser.add_argument("--api-key", default=DEFAULT_KEY, help="Google Gemini API Key (mặc định đã cấu hình sẵn)")
     parser.add_argument("--link", default="", help="Link bài báo nóng cần đưa thêm (tuỳ chọn)")
     parser.add_argument("--drive-dir", default="", help="Thư mục Google Drive để lưu video")
     parser.add_argument("--session", default="", choices=["", "chieu", "sang"], help="Buổi sáng hoặc chiều")
 
     args = parser.parse_args()
     run_pipeline(
-        api_key=args.api_key,
+        api_key=args.api_key or DEFAULT_KEY,
         user_link=args.link,
         drive_dir=args.drive_dir,
         session_type=args.session
