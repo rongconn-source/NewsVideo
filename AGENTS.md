@@ -11,7 +11,7 @@ Bản tin tức tổng hợp của một khu vực, dạng **video dọc 9:16** 
 Khi người dùng nói "làm bản tin", "bản tin hôm nay", "bản tin video", "tin <khu vực>", hoặc gửi link tin:
 **đọc và làm đúng theo `skills/ban-tin/SKILL.md`.**
 
-Tóm tắt (Tự động hóa 100% - Run skill là ra thành phẩm): chạy `ban_tin.py scan` lấy tin **đăng trong 24 giờ qua** từ 20 nguồn có sẵn trong `skills/ban-tin/config.json` (+ link người dùng nếu có) → AI tự động chọn lọc **6–7 tin mạnh nhất** và kiểm tra bài gốc → tự viết kịch bản lưu `inbox/YYYYMMDD-<khu-vuc>.json` → tự chạy `python skills/ban-tin/scripts/ban_tin.py render inbox/<file>.json --mode video` → xuất thẳng video hoàn chỉnh và caption sẵn sàng đăng (chỉ dừng lại hỏi duyệt nếu người dùng yêu cầu rõ ràng "cho tôi duyệt tin trước").
+Tóm tắt (Tự động hóa 100% - Run skill là ra thành phẩm): chạy `ban_tin.py scan` lấy tin **đăng trong 24 giờ qua** từ 20 nguồn có sẵn trong `skills/ban-tin/config.json` (+ link người dùng nếu có) → AI tự động chọn lọc **6–7 tin mạnh nhất** và kiểm tra bài gốc → tự viết kịch bản lưu `skills/ban-tin/inbox/YYYYMMDD-<khu-vuc>.json` → tự chạy `python skills/ban-tin/scripts/ban_tin.py render skills/ban-tin/inbox/<file>.json --mode video` → xuất thẳng video hoàn chỉnh và caption sẵn sàng đăng (chỉ dừng lại hỏi duyệt nếu người dùng yêu cầu rõ ràng "cho tôi duyệt tin trước").
 
 AI không ghi được file (chat trên web): dùng `skills/ban-tin/prompts/viet-kich-ban.md`, trả về 1 khối JSON.
 
@@ -35,7 +35,7 @@ AI không ghi được file (chat trên web): dùng `skills/ban-tin/prompts/viet
 - **Phạm vi tin theo `skills/ban-tin/config.json`** (hiện tại: **ưu tiên tin Quy Nhơn, được lấy tin toàn tỉnh Gia Lai**; không lấy tin tỉnh khác / trong nước / thế giới). Nguồn nào cũng được, **miễn bài có nhắc tới Quy Nhơn hoặc Gia Lai** và sự việc xảy ra trên địa bàn.
 - **Bản tin chỉ có tin đăng trong 24 giờ qua**, tính lùi từ lúc làm bản tin (vd. làm lúc 12h ngày 4 → lấy tin từ 12h ngày 3; tin ngày hôm trước vẫn lấy). Trừ tin người dùng tự gửi. Không lặp tin đã đưa ở bản tin trước. Thiếu tin thì làm ít tin hơn, không độn tin cũ.
 - **Ảnh**: mỗi tin phải có ảnh – **ảnh thật của bài báo gốc là ưu tiên số 1** (mặc định, ghi "Ảnh: <báo>") hoặc ảnh người dùng đưa → không có mới dùng ảnh minh hoạ AI (`ai_prompt`, chỉ cảnh chung, không người thật/logo/chữ, ghi rõ "Ảnh minh hoạ AI") → icon.
-- **Lưu vết pháp lý (BẮT BUỘC)**: Mọi bản tin sau khi tạo xong phải **luôn lưu file JSON kịch bản vào `inbox/YYYYMMDD-<khu-vuc>-<session>.json`** (đầy đủ nguồn báo gốc, URL, thời gian đăng, trích dẫn số liệu thực tế) và **BẮT BUỘC commit & push lên Git** để tracking, làm căn cứ đối soát chứng cứ pháp lý nếu cơ quan chức năng hoặc công an điều tra kiểm tra. File video đầu ra (`data/output/`) rất nặng nên **không cần push lên Git**.
+- **Lưu vết pháp lý (BẮT BUỘC)**: Mọi bản tin sau khi tạo xong phải **luôn lưu file JSON kịch bản vào `skills/ban-tin/inbox/YYYYMMDD-<khu-vuc>-<session>.json`** (đầy đủ nguồn báo gốc, URL, thời gian đăng, trích dẫn số liệu thực tế) và **BẮT BUỘC commit & push lên Git** để tracking, làm căn cứ đối soát chứng cứ pháp lý nếu cơ quan chức năng hoặc công an điều tra kiểm tra. File video đầu ra (`data/output/`) rất nặng nên **không cần push lên Git**.
 - Địa giới: từ 1/7/2025 nhiều tỉnh đã sáp nhập (vd. Bình Định → Gia Lai; Quy Nhơn nay là các phường thuộc tỉnh Gia Lai). Dùng tên đơn vị hành chính mới như bài báo gốc.
 
 ## 4. AI không được

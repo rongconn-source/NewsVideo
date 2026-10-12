@@ -238,7 +238,7 @@ YÊU CẦU NỘI DUNG & BIÊN TẬP (BẮT BUỘC TUÂN THỦ 100%):
             if not it.get("published"):
                 it["published"] = f"{date_str}T{hour:02d}:00:00+07:00"
 
-    inbox_file = ROOT_DIR / "inbox" / f"{date_str.replace('-', '')}-quy-nhon-{session_type}.json"
+    inbox_file = SKILL_DIR / "inbox" / f"{date_str.replace('-', '')}-quy-nhon-{session_type}.json"
     inbox_file.parent.mkdir(parents=True, exist_ok=True)
     inbox_file.write_text(json.dumps(bulletin_data, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"  ✓ Kịch bản đã lưu: {inbox_file.name} ({len(bulletin_data['items'])} tin)")
@@ -246,7 +246,8 @@ YÊU CẦU NỘI DUNG & BIÊN TẬP (BẮT BUỘC TUÂN THỦ 100%):
     # Tự động đẩy file kịch bản lên Git để lưu vết pháp lý / tracking
     try:
         import subprocess as _sp
-        _sp.run(["git", "add", f"inbox/{inbox_file.name}"], cwd=ROOT_DIR, capture_output=True, check=True)
+        rel_inbox_path = inbox_file.relative_to(ROOT_DIR).as_posix()
+        _sp.run(["git", "add", rel_inbox_path], cwd=ROOT_DIR, capture_output=True, check=True)
         _sp.run(["git", "commit", "-m", f"audit: Luu tru kich ban {inbox_file.name} phuc vu tracking kiem tra"], cwd=ROOT_DIR, capture_output=True, check=True)
         _sp.run(["git", "push", "origin", "main"], cwd=ROOT_DIR, capture_output=True, check=True)
         print(f"  🔒 Đã tự động đẩy '{inbox_file.name}' lên Git để lưu vết pháp lý đối soát.")

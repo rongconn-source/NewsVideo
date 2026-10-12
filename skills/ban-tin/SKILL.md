@@ -36,7 +36,7 @@ Sau đó:
 3. Muốn thêm nguồn quét tự động → thêm vào `sources` trong `skills/ban-tin/config.json` (không sửa script)
 
 **Bản tin chỉ lấy tin ĐĂNG TRONG 24 GIỜ QUA**, tính lùi từ lúc làm bản tin (giờ Việt Nam). Ví dụ làm lúc 12h ngày 4/10 → lấy tin từ 12h ngày 3/10 đến 12h ngày 4/10; tin ngày hôm trước vẫn lấy nếu còn trong 24h.
-Không lặp tin đã đưa ở bản tin trước (xem `inbox/` các bản gần nhất). Không đủ tin → làm ít tin hơn (tối thiểu 3) và báo người dùng; không "độn" tin cũ hơn 24h.
+Không lặp tin đã đưa ở bản tin trước (xem `skills/ban-tin/inbox/` các bản gần nhất). Không đủ tin → làm ít tin hơn (tối thiểu 3) và báo người dùng; không "độn" tin cũ hơn 24h.
 Ngoại lệ duy nhất: tin người dùng tự gửi.
 
 **Chưa đăng bản nào từ hôm qua** (người dùng nói rõ) → lấy tin từ **đầu ngày hôm qua đến hiện tại**: `scan --since YYYY-MM-DD` (ngày hôm qua). Nói chung mốc bắt đầu = lúc đăng bản tin trước; `--since` nhận cả giờ, vd. `--since 2026-10-04T12:00`.
@@ -85,14 +85,14 @@ Script tự thử theo thứ tự, AI chỉ cần điền đúng trường:
 Kiểm tra trước bằng `ban_tin.py meta <link>`: dòng `ảnh:` trống → bài không có ảnh → sẽ dùng AI.
 
 ### 7. Lưu JSON
-`inbox/YYYYMMDD-<khu-vuc-khong-dau>.json`, UTF-8, đúng format `reference/format.md`.
+`skills/ban-tin/inbox/YYYYMMDD-<khu-vuc-khong-dau>.json`, UTF-8, đúng format `reference/format.md`.
 AI chat trên web (không ghi được file): trả về 1 khối ```json để người dùng dán vào app.
 
 ### 8. Kiểm tra + dựng
 ```bash
-python skills/ban-tin/scripts/ban_tin.py check  inbox/<file>.json
-python skills/ban-tin/scripts/ban_tin.py render inbox/<file>.json            # theo "output" trong JSON
-python skills/ban-tin/scripts/ban_tin.py render inbox/<file>.json --mode video
+python skills/ban-tin/scripts/ban_tin.py check  skills/ban-tin/inbox/<file>.json
+python skills/ban-tin/scripts/ban_tin.py render skills/ban-tin/inbox/<file>.json            # theo "output" trong JSON
+python skills/ban-tin/scripts/ban_tin.py render skills/ban-tin/inbox/<file>.json --mode video
 ```
 - `check` báo lỗi → sửa JSON rồi chạy lại.
 - Kết quả ở `data/output/<tên>-<chế độ>/`: `ban-tin.mp4` (không nhạc – nhạc gắn trong app khi đăng), `anh/01.png…` (chế độ ảnh), `caption.txt`.
