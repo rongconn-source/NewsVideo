@@ -1,8 +1,5 @@
-# Output and rendered videos (rất nặng, chỉ lưu trên máy cục bộ)
-data/output/
-data/cache/
-data/scan/
-scratch/
+# Data directory (output, cache, profiles, scans)
+data/
 
 # Environment secrets
 config/secrets.env

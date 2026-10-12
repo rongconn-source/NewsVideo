@@ -41,6 +41,11 @@
   ],
   "region_keywords": ["Quy Nhơn", "Gia Lai", "Bình Định", "Nhơn Châu", "Nhơn Lý", "Nhơn Hải", "Nhơn Hội", "Hải Minh", "Ghềnh Ráng", "Cù Lao Xanh", "Eo Gió", "Kỳ Co", "Phú Tài", "Xuân Diệu", "ICISE", "Đại học Quy Nhơn", "Đại học Quang Trung", "Long Vân", "Eo Vượt", "Phương Mai", "Tuy Phước", "An Nhơn", "Phù Cát", "Hoài Nhơn"],
 
+  "channel_sound": {
+    "name": "nhạc nền - 𝗡𝗧𝗣 𝗩𝗜𝗡𝗔𝗛𝗢𝗨𝗦𝗘",
+    "id": "7550539456928516871",
+    "url": "https://www.tiktok.com/music/nhạc-nền-𝗡𝗧𝗣-𝗩𝗜𝗡𝗔𝗛𝗢𝗨𝗦𝗘-7550539456928516871"
+  },
   "_ghi_chu_preview_music": "Nhạc chỉ để XEM THỬ nội bộ (không dùng khi đăng; khi đăng gắn nhạc trong app nền tảng).",
   "preview_music": {"file": "assets/music/em-nen-dung-lai-0505.mp3", "start": 0}
 }
