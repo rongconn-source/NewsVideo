@@ -243,6 +243,16 @@ YÊU CẦU NỘI DUNG & BIÊN TẬP (BẮT BUỘC TUÂN THỦ 100%):
     inbox_file.write_text(json.dumps(bulletin_data, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"  ✓ Kịch bản đã lưu: {inbox_file.name} ({len(bulletin_data['items'])} tin)")
 
+    # Tự động đẩy file kịch bản lên Git để lưu vết pháp lý / tracking
+    try:
+        import subprocess as _sp
+        _sp.run(["git", "add", f"inbox/{inbox_file.name}"], cwd=ROOT_DIR, capture_output=True, check=True)
+        _sp.run(["git", "commit", "-m", f"audit: Luu tru kich ban {inbox_file.name} phuc vu tracking kiem tra"], cwd=ROOT_DIR, capture_output=True, check=True)
+        _sp.run(["git", "push", "origin", "main"], cwd=ROOT_DIR, capture_output=True, check=True)
+        print(f"  🔒 Đã tự động đẩy '{inbox_file.name}' lên Git để lưu vết pháp lý đối soát.")
+    except Exception:
+        pass
+
     # 3. RENDER VIDEO
     print("\n🎬 3/5 Đang render video HD 1080x1920 (HyperFrames)...")
     out_dir = ROOT_DIR / "data" / "output" / f"{inbox_file.stem}-video"
