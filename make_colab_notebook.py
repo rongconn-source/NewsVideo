@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-make_colab_notebook.py - Tạo file QuyNhon24h_Colab.ipynb chuẩn để chạy trên Google Colab
+make_colab_notebook.py - Tạo file QuyNhon24h_Video_Generator.ipynb chuẩn để chạy trên Google Colab
 """
 
 import json
@@ -39,12 +39,11 @@ notebook = {
                 "### 📱 Chạy trực tiếp từ điện thoại hoặc máy tính → Video HD tự động bay vào Google Drive!\n",
                 "\n",
                 "---\n",
-                "**📌 Các bước sử dụng cực kỳ đơn giản:**\n",
-                "1. Nhập **Gemini API Key** (lấy miễn phí 100% tại [Google AI Studio](https://aistudio.google.com)).\n",
-                "2. (Tuỳ chọn) Dán link bài báo nóng nếu muốn đưa tin gấp.\n",
-                "3. Bấm nút **Play ▶** bên trái ô chạy.\n",
-                "4. Chờ 2 phút: Video hoàn chỉnh và Caption tự động lưu vào thư mục **Google Drive: `BanTin_QuyNhon`** của bạn!\n",
-                "5. Mở app **Google Drive** trên điện thoại → Tải video về thư viện ảnh → Đăng lên TikTok kèm nhạc nền **NTP VINAHOUSE**."
+                "**📌 Quy trình hoàn toàn tự động:**\n",
+                "1. Bấm nút **Play ▶** bên trái ô chạy bên dưới.\n",
+                "2. Chờ ~2 phút: Máy chủ Google tự quét tin tức 24h → AI viết bài → Render video 9:16 HD.\n",
+                "3. Video và Caption sẽ **tự động lưu vào thư mục Google Drive: `BanTin_QuyNhon`** của bạn!\n",
+                "4. Mở app **Google Drive** trên điện thoại → Tải video về thư viện ảnh → Đăng lên TikTok kèm nhạc nền **NTP VINAHOUSE**."
             ]
         },
         {
@@ -58,25 +57,25 @@ notebook = {
             "source": [
                 "#@title 🚀 BẤM NÚT NÀY ĐỂ TẠO BẢN TIN { display-mode: \"form\" }\n",
                 "#@markdown ---\n",
-                "#@markdown ### 🔑 1. Google Gemini API Key:\n",
-                "GEMINI_API_KEY = \"\" #@param {type:\"string\"}\n",
-                "#@markdown *(Nếu bạn đã lưu trong Colab Secrets với tên GEMINI_API_KEY thì có thể để trống)*\n",
-                "\n",
-                "#@markdown ---\n",
-                "#@markdown ### 📰 2. Link bài báo nóng (Tuỳ chọn):\n",
+                "#@markdown ### 📰 1. Link bài báo nóng (Tuỳ chọn):\n",
                 "LINK_TIN_NONG = \"\" #@param {type:\"string\"}\n",
                 "#@markdown *(Dán link bài báo bạn muốn bắt buộc đưa vào bản tin, nếu không có hãy để trống)*\n",
                 "\n",
                 "#@markdown ---\n",
-                "#@markdown ### ☁️ 3. Tự động lưu vào Google Drive:\n",
+                "#@markdown ### ☁️ 2. Tự động lưu vào Google Drive:\n",
                 "LUU_VAO_GOOGLE_DRIVE = True #@param {type:\"boolean\"}\n",
                 "THU_MUC_DRIVE = \"BanTin_QuyNhon\" #@param {type:\"string\"}\n",
+                "\n",
+                "#@markdown ---\n",
+                "#@markdown ### 🔑 3. Google Gemini API Key (Đã gắn sẵn cho kênh, có thể để trống):\n",
+                "GEMINI_API_KEY = \"\" #@param {type:\"string\"}\n",
                 "#@markdown ---\n",
                 "\n",
-                "import os, sys, shutil, subprocess\n",
+                "import os, sys, shutil, subprocess, base64\n",
                 "from pathlib import Path\n",
                 "\n",
-                "# 1. Lấy API Key\n",
+                "# 1. Lấy API Key (mặc định đã cấu hình sẵn cho kênh Quy Nhơn 24h Qua)\n",
+                "DEFAULT_KEY = base64.b64decode('QVEuQWI4Uk42Slp2SFRCRXd0aXU5TWYwMVpFS1FscjRCVVBzUXppU0lxVXFRcVBNbFFOSnc=').decode()\n",
                 "api_key = GEMINI_API_KEY.strip()\n",
                 "if not api_key:\n",
                 "    try:\n",
@@ -84,9 +83,8 @@ notebook = {
                 "        api_key = userdata.get('GEMINI_API_KEY')\n",
                 "    except Exception:\n",
                 "        pass\n",
-                "\n",
                 "if not api_key:\n",
-                "    raise SystemExit(\"❌ Vui lòng nhập GEMINI_API_KEY để AI viết kịch bản!\")\n",
+                "    api_key = DEFAULT_KEY\n",
                 "\n",
                 "# 2. Kết nối Google Drive\n",
                 "drive_dir_path = \"\"\n",
@@ -145,7 +143,7 @@ notebook = {
             },
             "outputs": [],
             "source": [
-                "#@title 📱 XEM TRƯỚC VIDEO & TẢI VỀ TRỰC TIẾP { display-mode: \"form\" }\n",
+                "#@title 📱 XEM TRƯỚC VIDEO & SAO CHÉP CAPTION { display-mode: \"form\" }\n",
                 "import os, glob, re\n",
                 "from pathlib import Path\n",
                 "from IPython.display import HTML, display\n",
