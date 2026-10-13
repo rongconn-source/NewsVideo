@@ -1,0 +1,81 @@
+{
+  "type": "digest",
+  "output": "video",
+  "date": "2026-10-11",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "chip": "",
+  "cover": {
+    "kicker": "BẢN TIN TỐI",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Tối 11/10/2026",
+    "teaser": "Tàu cá Quy Nhơn bị chìm tại bến; Xử lý nam sinh lái xe bằng chân",
+    "image": "item:1"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "text": "Sáng 11/10 tại bến Hải Minh (phường Quy Nhơn), một tàu cá lưới gần bờ bất ngờ bị phá nước rồi chìm; cán bộ Hải đội Biên phòng 2 đã kịp thời ứng cứu và hỗ trợ neo giữ, kéo phương tiện vào bờ.",
+      "ai_prompt": "Vietnamese border guard soldiers assisting and salvaging a fishing boat near harbor in Quy Nhon, sunny coastal morning",
+      "source": "https://baomoi.com/bo-doi-bien-phong-tinh-gia-lai-kip-thoi-ho-tro-cuu-keo-tau-ca-bi-chim-khi-dang-neo-dau-c56245069.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-11T15:50:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Công an xã Chư Sê và Phòng CSGT tỉnh vừa xử lý B.V.N., học sinh lớp 12 buông cả 2 tay rồi dùng chân lái xe máy trên đường, đồng thời yêu cầu phụ huynh cam kết không để tái phạm.",
+      "ai_prompt": "traffic police working with teenager and parents at local police station, serious and educational atmosphere",
+      "source": "https://baogialai.com.vn/xu-ly-hoc-sinh-tha-2-tay-dieu-khien-xe-may-bang-chan-o-chu-se-post601718.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-11T13:21:29+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Ngày 11/10 tại xã Pờ Tó, khởi công Tổ hợp trang trại nuôi heo công nghệ cao và nhà máy thức ăn chăn nuôi quy mô hơn 113 ha, với tổng vốn đầu tư lên tới 3.615 tỷ đồng.",
+      "ai_prompt": "groundbreaking ceremony of a modern high tech agricultural livestock facility, banners and modern construction equipment",
+      "source": "https://baogialai.com.vn/khoi-cong-to-hop-chan-nuoi-heo-3615-ty-dong-tai-xa-po-to-post601733.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-11T14:51:43+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Từ thông tin và ký ức của người mẹ, lực lượng chức năng vừa tìm kiếm và quy tập thành công 2 bộ hài cốt liệt sĩ cùng nhiều di vật trong vườn nhà một người dân tại phường An Nhơn Bắc.",
+      "ai_prompt": "solemn memorial ceremony with Vietnamese soldiers carefully holding memorial flags and tribute flowers in countryside",
+      "source": "https://baomoi.com/tu-loi-ke-cua-nguoi-me-tim-thay-2-hai-cot-liet-si-c56245682.epi",
+      "source_name": "Báo Tiền Phong",
+      "published": "2026-10-11T17:25:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Diễn đàn Đối thoại Quy Nhơn về khí hậu tại ICISE quy tụ nhiều chuyên gia trong và ngoài nước; tỉnh Gia Lai cam kết đồng hành hướng tới xây dựng sự kiện quốc tế thường niên từ năm 2027.",
+      "ai_prompt": "international conference at ICISE Quy Nhon modern science center with scientists and diplomats discussing climate transition",
+      "source": "https://baomoi.com/doi-thoai-quy-nhon-huong-toi-tro-thanh-diem-hen-quoc-te-ve-khi-hau-c56242241.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-11T02:29:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Sáng 11/10, hơn 1.000 học sinh, VĐV tại Pleiku và Quy Nhơn sôi nổi tham gia lễ phát động Giải chạy trực tuyến vì cộng đồng UpRace 2026, góp quỹ hỗ trợ người khuyết tật và trẻ em.",
+      "ai_prompt": "energetic crowd of young students and athletes in colorful running shirts at starting line of UpRace charity marathon",
+      "source": "https://baogialai.com.vn/gia-lai-hon-1000-hoc-sinh-van-dong-vien-huong-ung-giai-chay-truc-tuyen-vi-cong-dong-uprace-2026-post601729.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-11T15:10:19+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Tại Giải Vô địch Câu lạc bộ Kickboxing toàn quốc năm 2026 tại Cần Thơ, các võ sĩ trẻ Gia Lai đã thi đấu ấn tượng và xuất sắc mang về 12 huy chương các loại.",
+      "ai_prompt": "dynamic kickboxing athletes competing in national championship ring with referee, energetic martial arts action",
+      "source": "https://baogialai.com.vn/gia-lai-gianh-12-huy-chuong-o-giai-kickboxing-quoc-gia-post601545.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-11T14:52:47+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "Bạn nghĩ sao về việc phụ huynh giao xe máy cho học sinh điều khiển khi chưa đủ tuổi? Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "caption": {
+    "tiktok": "Tàu cá ngư dân Quy Nhơn bị phá nước chìm tại bến; Xử lý nam sinh lái xe bằng chân? Bản tin Quy Nhơn - Gia Lai tối 11/10/2026:\n1. Tàu cá ngư dân phường Quy Nhơn bị chìm tại bến Hải Minh, BĐBP kịp thời ứng cứu (Báo Mới / Báo Biên phòng)\n2. Xử lý nam sinh 16 tuổi thả 2 tay lái xe bằng chân ở Chư Sê (Báo Gia Lai)\n3. Khởi công tổ hợp chăn nuôi heo 3.615 tỷ đồng tại xã Pờ Tó (Báo Gia Lai)\n4. Tìm thấy 2 hài cốt liệt sĩ tại phường An Nhơn Bắc từ lời kể người mẹ (Báo Tiền Phong)\n5. Đối thoại Quy Nhơn về khí hậu hướng tới sự kiện quốc tế thường niên (Báo Mới)\n6. Hơn 1.000 học sinh, VĐV chạy UpRace vì cộng đồng (Báo Gia Lai)\n7. Kickboxing Gia Lai xuất sắc giành 12 huy chương quốc gia (Báo Gia Lai)\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Tàu cá Quy Nhơn bất ngờ bị chìm tại bến; Xử lý thiếu niên lái xe bằng chân | Bản tin tối 11/10/2026\n\nTổng hợp tin tức 24h qua tại Quy Nhơn & Gia Lai:\n- Tàu cá Hải Minh bất ngờ chìm tại bến, Bộ đội Biên phòng ứng cứu\n- Xử lý học sinh lớp 12 dùng chân lái xe máy ở Chư Sê\n- Khởi công dự án chăn nuôi công nghệ cao 3.615 tỷ đồng ở Pờ Tó\n- Quy tập 2 hài cốt liệt sĩ tại tổ dân phố Lộc Thuận, An Nhơn Bắc\n- Đối thoại Quy Nhơn về khí hậu tại ICISE\n- Hơn 1.000 VĐV hưởng ứng giải chạy UpRace 2026\n- Võ sĩ Gia Lai giành 12 huy chương giải Kickboxing quốc gia\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "facebook": "Tàu cá Quy Nhơn bất ngờ chìm tại bến Hải Minh; Xử lý nam sinh buông tay lái xe bằng chân? Điểm tin nổi bật tối 11/10/2026:\n1. Tàu cá của ngư dân phường Quy Nhơn bất ngờ bị phá nước và chìm khi neo đậu tại bến; cán bộ Hải đội Biên phòng 2 kịp thời hỗ trợ neo giữ và kéo vào bờ (Báo Mới)\n2. CSGT xử lý nam sinh lớp 12 thả 2 tay, điều khiển xe máy bằng chân tại Chư Sê (Báo Gia Lai)\n3. Khởi công tổ hợp trang trại công nghệ cao 3.615 tỷ đồng tại Pờ Tó (Báo Gia Lai)\n4. Tìm thấy 2 hài cốt liệt sĩ tại phường An Nhơn Bắc từ lời kể của người mẹ (Báo Tiền Phong)\n5. Đối thoại Quy Nhơn tại ICISE hướng tới diễn đàn quốc tế thường niên về chuyển đổi xanh (Báo Mới)\n6. Hơn 1.000 học sinh, VĐV tham gia giải chạy UpRace vì cộng đồng (Báo Gia Lai)\n7. Đoàn võ sĩ Gia Lai xuất sắc giành 12 huy chương tại Giải Kickboxing quốc gia 2026 (Báo Gia Lai)\n\nBạn nghĩ sao về việc phụ huynh giao xe máy cho học sinh điều khiển khi chưa đủ tuổi? Nhà bạn có tin? Nhắn kênh, kênh đưa!\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  }
+}

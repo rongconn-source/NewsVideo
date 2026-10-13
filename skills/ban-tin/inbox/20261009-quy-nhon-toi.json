@@ -1,0 +1,92 @@
+{
+  "type": "digest",
+  "output": "video",
+  "date": "2026-10-09",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "chip": "",
+  "cover": {
+    "kicker": "BẢN TIN TỐI",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Tối 9/10/2026",
+    "teaser": "Kêu gọi phụ huynh mua bàn ghế: cái kết sau kiểm điểm?",
+    "image": "item:1",
+    "icon": "pen"
+  },
+  "items": [
+    {
+      "category": "tinh",
+      "text": "Vụ kêu gọi phụ huynh lớp 6 đóng hơn 26 triệu đồng mua bàn ghế tại Trường THCS Hùng Vương: nhà trường đã họp kiểm điểm trách nhiệm và hoàn trả toàn bộ số tiền cho phụ huynh.",
+      "ai_prompt": "classroom desks and chairs in a Vietnamese secondary school under bright morning daylight, no people",
+      "source": "https://baomoi.com/giao-vien-keu-goi-dong-tien-mua-ban-ghe-tra-lai-hon-26-trieu-cho-phu-huynh-c56234199.epi",
+      "source_name": "Báo VietnamNet",
+      "published": "2026-10-09T18:48:00.000+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Tỉnh ban hành quy định mới về dạy thêm: hoạt động dạy thêm trong trường học phải trên tinh thần hoàn toàn tự nguyện, nghiêm cấm ép buộc và tuyệt đối không được thu tiền của học sinh.",
+      "ai_prompt": "Vietnamese school blackboard and neat study materials on wooden desks in a quiet classroom, warm ambient light",
+      "source": "https://baogialai.com.vn/gia-lai-day-them-trong-nha-truong-phai-tren-co-so-tu-nguyen-va-khong-thu-tien-post601354.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-09T14:47:55+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Công an phường Quy Nhơn Nam tạm giữ 2 đối tượng tổ chức ghi số đề qua mạng tại quán cà phê trên đường Tô Hiến Thành; riêng trong ngày 4/10 đã giao dịch hơn 23 triệu đồng cho 26 người.",
+      "ai_prompt": "street cafe in a coastal Vietnamese town on To Hien Thanh street in Quy Nhon, relaxed atmosphere, daytime",
+      "source": "https://baomoi.com/tam-giu-2-doi-tuong-ban-so-de-c56230326.epi",
+      "source_name": "Báo CAND",
+      "published": "2026-10-09T11:30:00.000+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Bệnh viện Đa khoa tỉnh lần đầu phẫu thuật bắc cầu mạch vành không dùng máy tim phổi (OPCAB), cứu sống một nam bệnh nhân 59 tuổi mắc dị tật động mạch vành bẩm sinh cực kỳ hiếm gặp.",
+      "ai_prompt": "modern high-tech hospital surgical operating theater with advanced medical monitors in Vietnam, dramatic lighting, no surgery in progress",
+      "source": "https://baogialai.com.vn/gia-lai-lan-dau-phau-thuat-thanh-cong-bac-cau-dong-mach-vanh-khong-tuan-hoan-ngoai-co-the-post601515.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-09T11:35:59+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Công an xã Chư Păh phối hợp CSGT tỉnh truy xét nhóm thanh thiếu niên lạng lách càn quấy rồi quay clip đăng Facebook; qua kiểm tra phát hiện 3 đối tượng dương tính với ma túy.",
+      "ai_prompt": "traffic police vehicle parked along a rural provincial highway in Vietnam at sunset, warning lights on",
+      "source": "https://baogialai.com.vn/truy-xet-nhom-quai-xe-phat-hien-3-doi-tuong-duong-tinh-voi-ma-tuy-post601523.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-09T14:38:38+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Tỉnh phê duyệt đấu giá hơn 19,6 ha đất ven biển tại Khu kinh tế Nhơn Hội (phường Quy Nhơn Đông) làm Khu biệt thự du lịch Học viện Golf, với chi phí thực hiện hơn 1.485 tỷ đồng.",
+      "ai_prompt": "scenic aerial view of coastal resort golf course landscape with sand dunes and blue sea in Nhon Hoi Quy Nhon Vietnam",
+      "source": "https://baogialai.com.vn/phe-duyet-phuong-an-dau-gia-quyen-su-dung-dat-trien-khai-du-an-khu-biet-thu-du-lich-hoc-vien-golf-post601489.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-09T09:47:52+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Gia Lai phê duyệt nhiệm vụ điều chỉnh quy hoạch chi tiết 1/500 Khu nhà ở sinh thái Thị Nại Ecobay rộng gần 118 ha tại phường Quy Nhơn và Quy Nhơn Đông, gắn với bảo tồn rừng ngập mặn.",
+      "ai_prompt": "lush green mangrove forest along Thi Nai lagoon in Quy Nhon Vietnam with calm water reflections, aerial view at golden hour",
+      "source": "https://baomoi.com/gia-lai-dieu-chinh-quy-hoach-khu-nha-o-sinh-thai-thi-nai-ecobay-rong-gan-118-ha-c56232835.epi",
+      "source_name": "Báo Pháp luật VN",
+      "published": "2026-10-09T16:23:00.000+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "pin_comment": "Trường con bạn đầu năm có khoản đóng góp tự nguyện nào gây băn khoăn không? Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "caption": {
+    "tiktok": "Kêu gọi phụ huynh mua bàn ghế: cái kết sau kiểm điểm? Tối 9/10: THCS Hùng Vương trả lại hơn 26 triệu đồng tiền bàn ghế, tỉnh quy định dạy thêm trong trường cấm thu tiền, bắt 2 người ghi số đề ở đường Tô Hiến Thành Quy Nhơn Nam, BV tỉnh lần đầu mổ tim đập OPCAB cứu ca dị tật hiếm, truy xét quái xế khoe Facebook dính ma túy, đấu giá 19,6ha làm KDL Học viện Golf Nhơn Hội 1.485 tỷ, điều chỉnh quy hoạch Thị Nại Ecobay 118ha. Nguồn: VietnamNet, Báo Gia Lai, Báo CAND, Báo Mới #quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Tin Quy Nhơn tối 9/10/2026: Trả lại tiền bàn ghế học sinh, cấm thu tiền dạy thêm #Shorts",
+    "facebook": "📍 QUY NHƠN 24H QUA – BẢN TIN TỐI 9/10/2026\nKêu gọi phụ huynh mua bàn ghế: cái kết sau kiểm điểm?\n1. Vụ kêu gọi phụ huynh lớp 6 đóng hơn 26 triệu đồng mua bàn ghế tại Trường THCS Hùng Vương: nhà trường đã họp kiểm điểm trách nhiệm và hoàn trả toàn bộ số tiền cho phụ huynh\n2. Tỉnh ban hành quy định mới về dạy thêm: hoạt động dạy thêm trong trường học phải tự nguyện, nghiêm cấm ép buộc và tuyệt đối không được thu tiền của học sinh\n3. Công an phường Quy Nhơn Nam tạm giữ 2 đối tượng tổ chức ghi số đề qua mạng tại quán cà phê trên đường Tô Hiến Thành (giao dịch hơn 23 triệu đồng/ngày)\n4. Bệnh viện Đa khoa tỉnh lần đầu phẫu thuật tim đập bắc cầu mạch vành không dùng máy tim phổi (OPCAB), cứu sống ca dị tật bẩm sinh cực kỳ hiếm gặp\n5. Truy xét nhóm thanh thiếu niên lạng lách càn quấy rồi quay clip đăng Facebook, phát hiện 3 đối tượng dương tính với ma túy\n6. Phê duyệt đấu giá hơn 19,6 ha đất ven biển tại KKT Nhơn Hội (phường Quy Nhơn Đông) làm Khu biệt thự du lịch Học viện Golf (hơn 1.485 tỷ đồng)\n7. Phê duyệt nhiệm vụ điều chỉnh quy hoạch chi tiết 1/500 Khu nhà ở sinh thái Thị Nại Ecobay rộng gần 118 ha tại phường Quy Nhơn và Quy Nhơn Đông\n\nTrường con bạn đầu năm có khoản đóng góp tự nguyện nào gây băn khoăn không? Bình luận nhé 👇\n\nNguồn: VietnamNet, Báo Gia Lai, Báo CAND, Báo Mới\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "hashtags": ["#quynhon", "#tinquynhon", "#gialai", "#binhdinh", "#tintuc", "#quynhon24hqua"],
+  "needs_review": [
+    "Tin 1: bài trên Báo Mới dẫn nguồn VietnamNet, nhà trường họp kiểm điểm và trả lại hơn 26 triệu đồng",
+    "Tin 2: Quyết định 144/2026/QĐ-UBND của UBND tỉnh Gia Lai về dạy thêm, học thêm",
+    "Tin 3: bài trên Báo Mới dẫn nguồn Chuyên trang Công an Đà Nẵng / Báo CAND, vụ việc tại đường Tô Hiến Thành, phường Quy Nhơn Nam",
+    "Tin 4: ca mổ tim OPCAB thực hiện tại Bệnh viện Đa khoa Trung tâm tỉnh Gia Lai với sự hỗ trợ của BV Thống Nhất TP.HCM, xuất viện ngày 7/10",
+    "Tin 5: sự việc thanh thiếu niên lạng lách đăng Facebook, phát hiện 3 người dương tính ma túy",
+    "Tin 6: Quyết định 4181/QĐ-UBND của UBND tỉnh, dự án KDL Học viện Golf tại Nhơn Hội (Quy Nhơn Đông)",
+    "Tin 7: Quyết định 4201/QĐ-UBND điều chỉnh quy hoạch chi tiết 1/500 Khu đô thị sinh thái Thị Nại Ecobay",
+    "Ảnh lấy từ bài báo gốc (đã ghi tên báo trên ảnh) – kiểm tra bản quyền trước khi đăng"
+  ]
+}

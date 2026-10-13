@@ -1,0 +1,92 @@
+{
+  "type": "digest",
+  "output": "video",
+  "date": "2026-10-09",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "chip": "",
+  "cover": {
+    "kicker": "BẢN TIN TRƯA",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Trưa 9/10/2026",
+    "teaser": "HAGL mượn sân Quy Nhơn đá chiều mai 10/10 – vì sao?",
+    "image": "item:1",
+    "icon": "ball"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "text": "Vòng 3 V-League lúc 17h ngày 10/10, HAGL tiếp đón CLB Đà Nẵng tại sân Quy Nhơn thay vì Pleiku, do sân Pleiku đang dưỡng cỏ chuẩn bị cho giải giao hữu quốc tế U.23 tháng 11.",
+      "ai_prompt": "soccer stadium in Quy Nhon coastal city filled with cheering fans and players on green pitch under afternoon sunlight",
+      "source": "https://thanhnien.vn/hagl-khong-duoc-tiep-da-nang-tai-pleiku-vi-sao-phai-doi-san-nha-18526100810200134.htm",
+      "source_name": "Báo Thanh Niên",
+      "published": "2026-10-08T10:29:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Khuya 7/10, Đồn Biên phòng Nhơn Lý bắt quả tang 2 người dùng máy bơm diesel và đường ống dài 400m hút cát trái phép trên đầm Thị Nại (xã Tuy Phước Đông), tạm giữ toàn bộ tang vật.",
+      "ai_prompt": "Thi Nai lagoon in Vietnam at night with water surface, distant bridge lights and patrol boat",
+      "source": "https://baogialai.com.vn/bat-qua-tang-vu-khai-thac-cat-trai-phep-tren-dam-thi-nai-post601467.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-09T05:28:23+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Tỉnh duyệt chi 109 tỷ đồng sửa chữa, hoàn trả tuyến ĐT 638 và đường liên xã (huyện Phù Cát cũ) bị hư hại nặng do mỗi ngày có khoảng 300 lượt xe ben chở đất thi công sân bay Phù Cát.",
+      "ai_prompt": "asphalt road under construction and repair with asphalt roller and warning signs in rural Vietnam",
+      "source": "https://baogialai.com.vn/sua-chua-hoan-tra-cac-tuyen-duong-cho-vat-lieu-phuc-vu-du-an-san-bay-phu-cat-post601416.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-08T15:54:22+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Sáng 8/10 tại sân bay Phù Cát, Trung tâm Võ thuật cổ truyền đón đoàn VĐV trở về từ Italia sau khi xuất sắc giành 10 HCV thế giới (7 HCV quyền thuật, 3 HCV đối kháng).",
+      "ai_prompt": "Vietnamese martial arts team wearing traditional martial arts uniform celebrating at airport terminal holding championship medals",
+      "source": "https://baogialai.com.vn/don-doan-vo-co-truyen-gia-lai-tro-ve-tu-italia-post601399.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-08T09:47:46+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Tỉnh phê duyệt phương án đấu giá khu đất ven biển 15,2 ha tại Khu kinh tế Nhơn Hội để làm Khu du lịch Eo Vượt 1, với tổng mức đầu tư sơ bộ khoảng 799 tỷ đồng.",
+      "ai_prompt": "scenic tropical beach in Nhon Hoi Quy Nhon Vietnam with pristine blue sea, coastline and coastal cliffs, aerial daytime",
+      "source": "https://baomoi.com/gia-lai-duyet-phuong-an-dau-gia-khu-dat-15-2ha-ven-bien-lam-khu-du-lich-eo-vuot-1-c56220471.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-08T08:45:00.000+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Công an tỉnh khởi tố, bắt tạm giam 3 thanh niên cùng trú xã Ia Tôr vì hành vi đột nhập vườn cây ở làng Ring (xã Ia Hrú) lúc rạng sáng, trộm 110 kg mủ cao su đã đông.",
+      "ai_prompt": "rubber tree plantation in Central Highlands Vietnam at dawn with straight rows of trees and collection cups",
+      "source": "https://baogialai.com.vn/khoi-to-3-doi-tuong-trom-110-kg-mu-cao-su-luc-rang-sang-post601448.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-08T15:51:59+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Mâu thuẫn nhỏ đời thường nhưng lên Facebook đăng bài chửi bới, xúc phạm danh dự gia đình người khác và không chịu gỡ bỏ: một phụ nữ ở xã Đức Cơ bị công an lập hồ sơ xử lý.",
+      "ai_prompt": "smartphone held in hand displaying social media application with warning symbol, modern office setting",
+      "source": "https://baomoi.com/dung-bien-mau-thuan-doi-thuong-thanh-vi-pham-phap-luat-c56228053.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-09T06:51:00.000+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "pin_comment": "Chiều mai 10/10 bạn có ra sân Quy Nhơn cổ vũ trận HAGL gặp Đà Nẵng không? Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "caption": {
+    "tiktok": "HAGL mượn sân Quy Nhơn đá chiều mai 10/10 – bạn có đi xem không? Trưa 9/10: HAGL tiếp Đà Nẵng ở sân Quy Nhơn, bắt quả tang hút cát lậu đầm Thị Nại, chi 109 tỷ sửa đường ĐT 638 sân bay Phù Cát, đón đoàn võ cổ truyền 10 HCV thế giới, đấu giá 15,2ha làm KDL Eo Vượt 1, khởi tố 3 người trộm 110kg mủ cao su, xử lý đăng bài bôi nhọ trên Facebook ở Đức Cơ. Nguồn: Báo Thanh Niên, Báo Gia Lai, Báo Mới #quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Tin Quy Nhơn trưa 9/10/2026: HAGL tiếp đón CLB Đà Nẵng tại sân Quy Nhơn #Shorts",
+    "facebook": "📍 QUY NHƠN 24H QUA – BẢN TIN TRƯA 9/10/2026\nHAGL mượn sân Quy Nhơn đá chiều mai 10/10 – bạn có đi xem không?\n1. Vòng 3 V-League lúc 17h ngày 10/10: HAGL tiếp đón CLB Đà Nẵng tại sân Quy Nhơn thay vì Pleiku (đang sửa mặt cỏ chuẩn bị giải U.23 quốc tế)\n2. Khuya 7/10: Đồn Biên phòng Nhơn Lý bắt quả tang 2 đối tượng hút cát trái phép trên đầm Thị Nại, ống dẫn dài 400m\n3. Chi 109 tỷ đồng sửa chữa, hoàn trả tuyến ĐT 638 và đường liên xã bị cày nát do xe chở đất thi công sân bay Phù Cát\n4. Đón đoàn võ cổ truyền Gia Lai xuất sắc giành 10 HCV thế giới (7 quyền thuật, 3 đối kháng) tại sân bay Phù Cát\n5. Phê duyệt đấu giá 15,2 ha đất ven biển tại KKT Nhơn Hội làm Khu du lịch Eo Vượt 1 (khoảng 799 tỷ đồng)\n6. Khởi tố, bắt tạm giam 3 thanh niên đột nhập vườn ở xã Ia Hrú trộm 110 kg mủ cao su\n7. Đăng bài bôi nhọ, xúc phạm danh dự người khác trên Facebook: một phụ nữ ở xã Đức Cơ bị công an xử lý\n\nChiều mai 10/10 bạn có ra sân Quy Nhơn cổ vũ trận HAGL gặp Đà Nẵng không? Bình luận nhé 👇\n\nNguồn: Báo Thanh Niên, Báo Gia Lai, Báo Mới\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "hashtags": ["#quynhon", "#tinquynhon", "#gialai", "#binhdinh", "#tintuc", "#quynhon24hqua"],
+  "needs_review": [
+    "Tin 1: trận đấu diễn ra 17h ngày 10/10/2026 (chiều mai)",
+    "Tin 2: vụ bắt quả tang lúc 20h45 ngày 7/10, bài đăng trên Báo Gia Lai 05:28 ngày 9/10",
+    "Tin 3: kinh phí 109 tỷ đồng là mức đề xuất từ chi phí dự phòng và tiết kiệm của dự án sân bay Phù Cát",
+    "Tin 4: đoàn Gia Lai gồm 15 thành viên, giành 10 HCV (7 quyền thuật, 3 đối kháng), cả đoàn Việt Nam nhất toàn đoàn với 30 HCV",
+    "Tin 5: bài trên Báo Mới tổng hợp về dự án KDL Eo Vượt 1 tại KKT Nhơn Hội",
+    "Tin 6: sự việc lúc 0h30 ngày 29/9, công an tỉnh Gia Lai ra quyết định khởi tố, bài đăng 8/10 15:51",
+    "Tin 7: bài trên Báo Mới, công an xã Đức Cơ lập hồ sơ xử lý",
+    "Ảnh lấy từ bài báo gốc (đã ghi tên báo trên ảnh) – kiểm tra bản quyền trước khi đăng"
+  ]
+}

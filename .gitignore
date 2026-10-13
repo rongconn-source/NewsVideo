@@ -1,5 +1,6 @@
 # Data directory (output, cache, profiles, scans)
 data/
+scratch/
 
 # Environment secrets
 config/secrets.env

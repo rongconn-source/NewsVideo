@@ -1,0 +1,99 @@
+{
+  "type": "digest",
+  "output": "video",
+  "date": "2026-10-10",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "chip": "",
+  "cover": {
+    "kicker": "BẢN TIN TRƯA",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Trưa 10/10/2026",
+    "teaser": "Nút giao Đống Đa - Hoa Lư tăng vốn lên 900 tỷ: bổ sung gì?",
+    "image": "item:1",
+    "icon": "car"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "text": "UBND tỉnh điều chỉnh tăng vốn dự án cải tạo nút giao ngã năm Đống Đa – Hoa Lư (phường Quy Nhơn) từ 512 lên 900 tỷ đồng, bổ sung cầu vượt một chiều 2 làn xe dài 304m tại vòng xuyến Trần Hưng Đạo.",
+      "ai_prompt": "modern aerial view of a busy five-way traffic roundabout intersection with flyover bridge in a Vietnamese coastal city, daytime",
+      "source": "https://vnexpress.net/gia-lai-tang-von-cai-tao-diem-un-tac-lon-5130159.html",
+      "source_name": "Báo VnExpress",
+      "published": "2026-10-09T08:30:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Sở Xây dựng đề xuất bố trí khoảng 157 tỷ đồng xử lý 7 cầu yếu trên địa bàn; trong đó dự kiến chi 38 tỷ đồng sửa chữa 3 cầu huyết mạch tại Quy Nhơn gồm cầu Đống Đa, cầu Đôi và cầu Hà Thanh 2.",
+      "ai_prompt": "concrete river bridge along a scenic coastal road in Vietnam under clear sky, daytime, no people",
+      "source": "https://baogialai.com.vn/gia-lai-de-xuat-kinh-phi-157-ty-dong-sua-chua-nang-cap-7-cau-yeu-post601539.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-09T19:19:33+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Công an tỉnh truy nã N.T.M.H (44 tuổi, trú xã Bình Khê) về tội trộm cắp tài sản; đối tượng giả vờ mua vé số và cho bánh rồi lấy trộm 5,5 triệu đồng của một phụ nữ tàn tật đi xe lăn tại phường Bình Định.",
+      "ai_prompt": "Vietnamese lottery ticket display stand on a sidewalk street corner, sunny daytime, no people",
+      "source": "https://baogialai.com.vn/cong-an-gia-lai-truy-na-doi-tuong-trom-cap-tien-cua-nguoi-tan-tat-ban-ve-so-post601516.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-09T11:36:36+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Tỉnh phê duyệt phương án đấu giá quyền sử dụng đất thực hiện dự án Khu đô thị sinh thái CK54 (phường Pleiku) với diện tích hơn 201 ha, đồng bộ hạ tầng dịch vụ thương mại, nghỉ dưỡng và công viên cây xanh.",
+      "ai_prompt": "master planned modern eco-city with green parks, water streams and low-rise residential buildings, architectural rendering",
+      "source": "https://baogialai.com.vn/quyet-dinh-phuong-an-dau-gia-quyen-su-dung-dat-thuc-hien-du-an-khu-do-thi-ck54-post601555.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-09T19:19:46+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Từ ngày 10/10/2026, Nghị quyết 93 của HĐND tỉnh chính thức có hiệu lực, nâng mức hỗ trợ hằng tháng cho nhân viên y tế thôn và cô đỡ thôn lên tối đa 1,78 triệu đồng, giúp nâng cao chất lượng y tế cơ sở.",
+      "ai_prompt": "rural community medical health clinic in Vietnam with clean medical supplies and stethoscope on table, bright morning sunlight",
+      "source": "https://baogialai.com.vn/gia-lai-nang-muc-ho-tro-nhan-vien-y-te-thon-va-co-do-thon-len-toi-da-178-trieu-dongthang-post601408.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-09T14:46:56+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Hướng tới Đại hội nhiệm kỳ mới và Ngày Doanh nhân Việt Nam 13/10, Hiệp hội Doanh nghiệp tỉnh vận động các đơn vị hạn chế tặng hoa chúc mừng, dành kinh phí tự nguyện đóng góp cho hoạt động an sinh xã hội.",
+      "ai_prompt": "elegant meeting hall podium in Vietnam decorated with minimalist fresh flowers and warm lights, no people",
+      "source": "https://baomoi.com/hiep-hoi-doanh-nghiep-gia-lai-han-che-tang-hoa-danh-kinh-phi-ho-tro-nguoi-ngheo-c56236655.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-10T08:23:00.000+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Nhiều tháng qua, hai người dân tại phường Hội Phú và Thống Nhất đã tự bỏ tiền túi mua máy cắt cỏ, tranh thủ ngày cuối tuần phát quang cây bụi, thu gom rác thải làm sạch nhiều đoạn vỉa hè cỏ dại um tùm.",
+      "ai_prompt": "clean peaceful urban street sidewalk in Vietnam lined with green trees under sunny sky, daytime",
+      "source": "https://baogialai.com.vn/nhung-nguoi-tinh-nguyen-lam-sach-duong-pho-post601483.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-09T14:39:28+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "pin_comment": "Bạn nghĩ việc xây cầu vượt tại ngã 5 Đống Đa - Hoa Lư có giúp giải quyết triệt để cảnh ùn tắc giờ cao điểm không? Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "caption": {
+    "tiktok": "Nút giao Đống Đa - Hoa Lư tăng vốn lên 900 tỷ: bổ sung gì? Trưa 10/10: Tăng vốn nút giao Đống Đa - Hoa Lư lên 900 tỷ xây cầu vượt 304m, đề xuất 157 tỷ xử lý 7 cầu yếu (sửa cầu Đống Đa, Đôi, Hà Thanh 2), truy nã kẻ giả vờ mua vé số trộm 5,5 triệu của phụ nữ tàn tật, đấu giá hơn 201ha làm KĐT sinh thái CK54, nâng hỗ trợ nhân viên y tế thôn lên 1,78 triệu/tháng từ 10/10, vận động hạn chế tặng hoa 13/10 giúp người nghèo, hai người tự bỏ tiền mua máy cắt cỏ dọn sạch đường phố. Nguồn: VnExpress, Báo Gia Lai, Báo Mới #quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Tin Quy Nhơn trưa 10/10/2026: Nâng vốn ngã 5 Đống Đa - Hoa Lư lên 900 tỷ xây cầu vượt #Shorts",
+    "facebook": "📍 QUY NHƠN 24H QUA – BẢN TIN TRƯA 10/10/2026\nNút giao Đống Đa - Hoa Lư tăng vốn lên 900 tỷ: bổ sung gì?\n1. UBND tỉnh điều chỉnh tăng vốn dự án cải tạo nút giao ngã năm Đống Đa – Hoa Lư (phường Quy Nhơn) từ 512 lên 900 tỷ đồng, bổ sung cầu vượt một chiều 2 làn xe dài 304m tại vòng xuyến Trần Hưng Đạo\n2. Sở Xây dựng đề xuất bố trí khoảng 157 tỷ đồng xử lý 7 cầu yếu trên địa bàn; trong đó dự kiến chi 38 tỷ đồng sửa chữa 3 cầu huyết mạch tại Quy Nhơn gồm cầu Đống Đa, cầu Đôi và cầu Hà Thanh 2\n3. Công an tỉnh truy nã đối tượng N.T.M.H (44 tuổi, trú xã Bình Khê) về tội trộm cắp tài sản; giả vờ mua vé số và cho bánh rồi lấy trộm 5,5 triệu đồng của một phụ nữ tàn tật đi xe lăn tại phường Bình Định\n4. Phê duyệt phương án đấu giá quyền sử dụng đất thực hiện dự án Khu đô thị sinh thái CK54 (phường Pleiku) với diện tích hơn 201 ha, đồng bộ hạ tầng thương mại, nghỉ dưỡng và công viên\n5. Từ ngày 10/10/2026, Nghị quyết 93 của HĐND tỉnh chính thức có hiệu lực, nâng mức hỗ trợ hằng tháng cho nhân viên y tế thôn và cô đỡ thôn lên tối đa 1,78 triệu đồng\n6. Hướng tới Ngày Doanh nhân Việt Nam 13/10, Hiệp hội Doanh nghiệp tỉnh vận động hạn chế tặng hoa chúc mừng, dành kinh phí tự nguyện đóng góp cho hoạt động an sinh xã hội\n7. Hai người dân tại phường Hội Phú và Thống Nhất tự bỏ tiền túi mua máy cắt cỏ, tranh thủ ngày cuối tuần tình nguyện dọn sạch cây bụi, rác thải trên các tuyến phố\n\nBạn nghĩ việc xây cầu vượt tại ngã 5 Đống Đa - Hoa Lư có giúp giải quyết triệt để cảnh ùn tắc giờ cao điểm không? Bình luận nhé 👇\n\nNguồn: VnExpress, Báo Gia Lai, Báo Mới\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "needs_review": [
+    "Tin 1: Nút giao ngã 5 Đống Đa - Hoa Lư được UBND tỉnh phê duyệt điều chỉnh ngày 9/10/2026, tổng vốn 900 tỷ đồng (tăng 387 tỷ đồng do bổ sung cầu vượt 304m, 2 làn xe, khởi công cuối năm 2026)",
+    "Tin 2: Phương án đề xuất của Sở Xây dựng Gia Lai xử lý 7 cầu yếu (38 tỷ sửa 3 cầu Đống Đa, Đôi, Hà Thanh 2; 119 tỷ xây mới 4 cầu)",
+    "Tin 3: Công an tỉnh Gia Lai truy nã đối tượng trộm cắp tiền của phụ nữ tàn tật bán vé số; tên đối tượng đã viết tắt N.T.M.H theo quy định an toàn thông tin cá nhân",
+    "Tin 4: Quyết định phương án đấu giá quyền sử dụng đất thực hiện dự án Khu đô thị sinh thái CK54 rộng 201,94 ha tại phường Pleiku",
+    "Tin 5: Nghị quyết số 93/2026/NQ-HĐND của HĐND tỉnh Gia Lai có hiệu lực thi hành từ ngày 10/10/2026",
+    "Tin 6: Thư ngỏ vận động hạn chế tặng hoa nhân kỷ niệm Ngày Doanh nhân Việt Nam 13/10 của Hiệp hội Doanh nghiệp tỉnh Gia Lai",
+    "Tin 7: Gương người tốt việc tốt của anh Nguyễn Thành Phát và anh Võ Vĩnh Triều dọn dẹp vệ sinh môi trường đường phố cuối tuần",
+    "Ảnh lấy từ bài báo gốc (đã ghi tên báo trên ảnh) – kiểm tra bản quyền trước khi đăng"
+  ]
+}
