@@ -1,0 +1,98 @@
+{
+  "type": "digest",
+  "output": "video",
+  "date": "2026-10-13",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "chip": "",
+  "cover": {
+    "kicker": "BẢN TIN SÁNG",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Sáng 13/10/2026",
+    "teaser": "Bắt 2 đối tượng tổ chức ma túy ở Quy Nhơn; ngóng di dời sạt lở núi Một",
+    "image": "item:1"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "text": "Công an tỉnh Gia Lai vừa tạm giữ hình sự N.Q.T. (SN 1985, trú phường Quy Nhơn) và N.H.H. (SN 1982, trú phường Quy Nhơn Nam) để điều tra về hành vi tổ chức sử dụng trái phép chất ma túy.",
+      "ai_prompt": "Vietnamese police officers conducting official investigation in office with legal documents and professional evidence",
+      "source": "https://baogialai.com.vn/gia-lai-tam-giu-hinh-su-2-doi-tuong-to-chuc-su-dung-ma-tuy-post601831.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-13T05:02:11+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Sống trong cảnh thấp thỏm vì nguy cơ sạt lở đất đá, hàng chục hộ dân khu vực núi Một (Tổ dân phố 19 và 20, phường Quy Nhơn) mong mỏi sớm được bố trí tái định cư an toàn trước mùa mưa bão.",
+      "ai_prompt": "mountain slope showing erosion control and residential area at the base under dramatic stormy sky in Quy Nhon Vietnam",
+      "source": "https://baomoi.com/can-som-di-doi-nguoi-dan-khoi-vung-sat-lo-nui-c56253136.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-12T18:46:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Khi giao dịch chuyển tiền trên app ngân hàng, người dân cần cẩn trọng kiểm tra các mục tích chọn mặc định để tránh vô tình đăng ký và bị trừ phí mua các gói bảo hiểm ngoài nhu cầu.",
+      "ai_prompt": "close up of a person carefully using banking app on smartphone with digital payment screen illuminated in modern office",
+      "source": "https://baogialai.com.vn/chuyen-tien-tren-app-ngan-hang-can-trong-voi-bao-hiem-ngoai-y-muon-post601821.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-12T15:12:28+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Tối 12/10 tại Hàn Quốc, tay cơ Gia Lai Nguyễn Quốc Nguyện xuất sắc đánh bại David Martinez để đăng quang ngôi vô địch Giải Billiards Carom 3 băng PBA Tour, mang về giải thưởng kỷ lục gần 2 tỷ đồng.",
+      "ai_prompt": "Vietnamese professional billiards player celebrating championship trophy on stage under bright stadium lighting",
+      "source": "https://baogialai.com.vn/tay-co-gia-lai-vo-dich-pba-tour-nhan-gan-2-ty-tien-thuong-post601865.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-13T07:22:46+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Tại Kỳ thi học sinh giỏi lớp 12 cấp tỉnh, em Lê Võ Anh Tuấn (lớp 12A11, Trường THPT số 1 Tuy Phước) đã xuất sắc giành giải Nhất môn Lịch sử, trở thành niềm tự hào lớn của thầy cô và mảnh đất Võ.",
+      "ai_prompt": "happy Vietnamese high school male student wearing uniform standing proudly holding an academic award certificate in classroom",
+      "source": "https://baogialai.com.vn/nam-sinh-chinh-phuc-giai-nhat-mon-lich-su-bang-dam-me-va-long-biet-on-post601853.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-13T07:23:22+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Trung tâm Khí tượng dự báo ngày và đêm nay 13/10, khu vực Duyên hải Nam Trung Bộ tiếp tục có mưa vừa đến mưa rất to kèm dông sét; bà con vùng trũng thấp cần chủ động phương án phòng ngừa ngập úng.",
+      "ai_prompt": "heavy tropical rain falling on coastal road and palms with stormy dark clouds in central Vietnam",
+      "source": "https://baomoi.com/thoi-tiet-hom-nay-13-10-bac-bo-nang-rao-mien-trung-tiep-tuc-mua-lon-c56255516.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-13T07:50:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Phát hiện một cá thể cu li nhỏ quý hiếm đi lạc vào vườn nhà, người dân tại xã Đak Đoa đã chủ động mang đến bàn giao cho Công an xã và Hạt Kiểm lâm để chăm sóc, chuẩn bị thả về môi trường tự nhiên.",
+      "ai_prompt": "cute little pygmy slow loris clinging gently to a tree branch with wide curious eyes in a lush green Vietnamese forest",
+      "source": "https://baogialai.com.vn/phat-hien-cu-li-nho-di-lac-vao-nha-nguoi-dan-mang-den-cong-an-giao-nop-post601830.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-12T21:14:37+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "pin_comment": "Công an vừa tạm giữ 2 đối tượng mở tiệc ma túy tại Quy Nhơn, bạn thấy công tác phòng chống tệ nạn ở khu phố mình dạo này thế nào? Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "caption": {
+    "tiktok": "Tạm giữ 2 đối tượng tổ chức sử dụng ma túy tại P. Quy Nhơn & Quy Nhơn Nam! Sáng 13/10: Hàng chục hộ dân núi Một ngóng di dời sạt lở trước mùa mưa bão, cảnh báo bẫy mua bảo hiểm khi chuyển tiền app ngân hàng, tay cơ Gia Lai vô địch PBA Tour ẵm 2 tỷ, nam sinh Tuy Phước ẵm giải Nhất Sử tỉnh, cảnh báo mưa to ngập úng miền Trung, bàn giao cu li nhỏ đi lạc về tự nhiên. Nguồn: Báo Gia Lai, Báo Mới #quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Tin Quy Nhơn sáng 13/10/2026: Tạm giữ 2 đối tượng ma túy; dân núi Một ngóng di dời sạt lở #Shorts",
+    "facebook": "📍 QUY NHƠN 24H QUA – BẢN TIN SÁNG 13/10/2026\nTạm giữ 2 đối tượng tổ chức ma túy; dân núi Một mong mỏi di dời khỏi vùng sạt lở?\n\n1. Công an tỉnh tạm giữ hình sự N.Q.T. (SN 1985, P. Quy Nhơn) và N.H.H. (SN 1982, P. Quy Nhơn Nam) về hành vi tổ chức sử dụng ma túy.\n2. Sống trong thấp thỏm vì sạt lở, hàng chục hộ dân khu vực núi Một (TDP 19 và 20, P. Quy Nhơn) mong sớm được tái định cư an toàn.\n3. Cảnh báo người dùng khi chuyển tiền trên app ngân hàng cần kiểm tra kỹ tránh vô tình mua bảo hiểm ngoài ý muốn.\n4. Thể thao: Tay cơ Gia Lai Nguyễn Quốc Nguyện vô địch Giải Carom 3 băng PBA Tour tại Hàn Quốc, nhận giải thưởng gần 2 tỷ đồng.\n5. Giáo dục: Em Lê Võ Anh Tuấn (lớp 12A11 Trường THPT số 1 Tuy Phước) xuất sắc giành giải Nhất môn Lịch sử cấp tỉnh.\n6. Dự báo thời tiết ngày 13/10: Duyên hải Nam Trung Bộ tiếp tục đón mưa lớn diện rộng, cục bộ mưa to đến rất to đề phòng ngập úng.\n7. Đời sống: Người dân xã Đak Đoa phát hiện cá thể cu li nhỏ quý hiếm đi lạc vào nhà, bàn giao Công an và Kiểm lâm thả về tự nhiên.\n\nCông an vừa tạm giữ 2 đối tượng mở tiệc ma túy tại Quy Nhơn, bạn thấy công tác phòng chống tệ nạn ở khu phố mình dạo này thế nào? Bình luận chia sẻ cùng kênh nhé 👇\n\nNguồn: Báo Gia Lai, Báo Mới\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "needs_review": [
+    "Tin 1: Bị can N.Q.T. (SN 1985, P. Quy Nhơn) và N.H.H. (SN 1982, P. Quy Nhơn Nam) bị CSĐT Công an tỉnh tạm giữ hình sự",
+    "Tin 2: Hàng chục hộ dân núi Một thuộc Tổ dân phố 19 và 20, phường Quy Nhơn kiến nghị tái định cư phòng sạt lở",
+    "Tin 3: Cảnh báo tự động tích chọn bảo hiểm liên kết khi chuyển tiền trên app ngân hàng",
+    "Tin 4: Tay cơ Nguyễn Quốc Nguyện (SN 1982, quê Pleiku, Gia Lai) vô địch giải PBA Tour tại Hàn Quốc nhận gần 2 tỷ đồng",
+    "Tin 5: Em Lê Võ Anh Tuấn, học sinh lớp 12A11 Trường THPT số 1 Tuy Phước đạt giải Nhất môn Lịch sử cấp tỉnh năm học 2026-2027",
+    "Tin 6: Dự báo mưa to diện rộng tại Duyên hải Nam Trung Bộ ngày và đêm 13/10/2026",
+    "Tin 7: Cá thể cu li nhỏ (thuộc nhóm nguy cấp, quý hiếm) do người dân xã Đak Đoa phát hiện và giao nộp Công an",
+    "Ảnh: Tự động tải ảnh thật từ link bài báo gốc (press:auto) kèm prompt AI dự phòng"
+  ]
+}
