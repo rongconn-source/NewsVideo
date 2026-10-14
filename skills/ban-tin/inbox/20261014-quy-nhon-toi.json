@@ -1,0 +1,99 @@
+{
+  "type": "digest",
+  "output": "video",
+  "date": "2026-10-14",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "chip": "",
+  "cover": {
+    "kicker": "BẢN TIN TỐI",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Tối 14/10/2026",
+    "teaser": "Biển Quy Nhơn cảnh báo lốc xoáy cấp 8; Cấm thu tiền dạy thêm",
+    "image": "item:1"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "text": "Vùng biển Gia Lai, bao gồm xã đảo Nhơn Châu thuộc Quy Nhơn, được cảnh báo có mưa rào, giông lốc và gió giật mạnh cấp 7-8 trong đêm 14 và ngày 15/10, sóng biển cao trên 2 mét gây nguy hiểm cho tàu thuyền.",
+      "ai_prompt": "choppy ocean waves with storm clouds and distant fishing boats near Nhon Chau island at dusk",
+      "source": "https://baogialai.com.vn/canh-bao-loc-xoay-gio-giat-cap-7-8-tren-vung-bien-gia-lai-post602026.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-14T16:33:18+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Tỉnh Gia Lai vừa yêu cầu kiên quyết xử lý, thay thế các nhà thầu yếu kém nhằm đẩy nhanh tiến độ thi công dự án cao tốc Quy Nhơn – Pleiku dài 125 km với tổng mức đầu tư hơn 43.700 tỷ đồng.",
+      "ai_prompt": "aerial view of modern highway expressway construction site cutting through green hills connecting coastal and highland regions",
+      "source": "https://baomoi.com/gia-lai-yeu-cau-thay-nha-thau-yeu-kem-tang-toc-thi-cong-cao-toc-quy-nhon-pleiku-c56266751.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-14T14:20:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "UBND tỉnh Gia Lai ban hành quy định mới về quản lý dạy thêm học thêm: nghiêm cấm việc ép buộc học sinh, cấm tuyệt đối thu tiền dạy thêm trong trường học và công khai đường dây nóng tiếp nhận phản ánh.",
+      "ai_prompt": "bright Vietnamese high school classroom with smiling students studying attentively under warm light",
+      "source": "https://baomoi.com/gia-lai-siet-chat-quan-ly-cam-tuyet-doi-thu-tien-day-them-trong-nha-truong-c56268369.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-14T17:10:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "from_user": true,
+      "text": "Cơ quan công an đang điều tra vụ án mạng xảy ra tại khu tập thể trường đại học ở phường Hội Phú. Đối tượng P.M.P. (26 tuổi) đã đến công an đầu thú sau khi tấn công bạn gái 20 tuổi do mâu thuẫn tình cảm.",
+      "ai_prompt": "police investigation checkpoint outside a university campus gate in Vietnam with caution tape at night",
+      "source": "https://baomoi.com/nu-sinh-vien-bi-ban-trai-dam-tu-vong-tai-khu-tap-the-truong-dai-hoc-c56261573.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-13T19:39:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Tỉnh Gia Lai dự kiến tổ chức đấu giá khu đất rộng gần 20 ha tại Khu kinh tế Nhơn Hội (Quy Nhơn) với tổng mức đầu tư gần 1.486 tỷ đồng để xây dựng 331 lô biệt thự du lịch nghỉ dưỡng cao cấp.",
+      "ai_prompt": "architectural 3D concept of luxury seaside resort villas by coastal dunes in Quy Nhon at sunrise",
+      "source": "https://baomoi.com/gia-lai-sap-dau-gia-khu-dat-gan-20-ha-xay-331-biet-thu-du-lich-c56266925.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-14T14:46:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Phòng Cảnh sát hình sự Công an tỉnh phối hợp với Công an phường Quy Nhơn bắt giữ đối tượng N.H.N. (33 tuổi) sau 7 năm trốn lệnh truy nã đặc biệt nguy hiểm về tội giết người và gây rối trật tự.",
+      "ai_prompt": "police officers questioning a suspect inside an administrative office room",
+      "source": "https://baogialai.com.vn/bat-giu-doi-tuong-truy-na-dac-biet-nguy-hiem-sau-7-nam-lan-tron-post601939.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-13T20:11:49+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Lớp đào tạo nghề chằm nón ngựa Phú Gia thu hút 20 học viên tham gia học nghề dưới sự hướng dẫn trực tiếp của Nghệ nhân ưu tú Đỗ Văn Lan, nhằm gìn giữ và phát huy di sản văn hóa truyền thống trăm năm.",
+      "ai_prompt": "elderly Vietnamese artisan master teaching young apprentices how to weave traditional conical hats by hand",
+      "source": "https://baogialai.com.vn/trao-truyen-de-giu-sac-non-ngua-phu-gia-post601912.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-14T04:40:42+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "Vùng biển Quy Nhơn cảnh báo lốc xoáy và gió giật mạnh cấp 7-8 đêm nay, ngư dân và bà con ven biển chú ý an toàn nhé! Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "caption": {
+    "tiktok": "Cảnh báo lốc xoáy giật cấp 7-8 trên vùng biển Quy Nhơn; Cấm tuyệt đối thu tiền dạy thêm trong trường học? Bản tin Quy Nhơn - Gia Lai tối 14/10/2026:\n1. Cảnh báo lốc xoáy, gió giật cấp 7-8 trên vùng biển Nhơn Châu - Quy Nhơn (Báo Gia Lai)\n2. Kiên quyết thay thế nhà thầu yếu kém, tăng tốc cao tốc Quy Nhơn – Pleiku (Báo Mới)\n3. Cấm tuyệt đối thu tiền dạy thêm trong trường học, công khai đường dây nóng (Báo Mới)\n4. Vụ án mạng tại khu tập thể trường đại học ở P. Hội Phú: Đối tượng đã đầu thú (Báo Mới / VietnamNet)\n5. Đấu giá gần 20 ha đất KKT Nhơn Hội xây 331 biệt thự du lịch (Báo Mới)\n6. Bắt đối tượng truy nã đặc biệt nguy hiểm sau 7 năm lẩn trốn tại P. Quy Nhơn (Báo Gia Lai)\n7. Giữ gìn di sản nón ngựa Phú Gia qua lớp truyền nghề của Nghệ nhân ưu tú Đỗ Văn Lan (Báo Gia Lai)\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Cảnh báo lốc xoáy vùng biển Quy Nhơn; Cấm thu tiền dạy thêm trong nhà trường | Bản tin tối 14/10/2026\n\nTổng hợp tin tức 24h qua tại Quy Nhơn & Gia Lai:\n- Cảnh báo lốc xoáy, gió giật mạnh cấp 7-8 trên vùng biển đảo Nhơn Châu\n- Tỉnh yêu cầu thay nhà thầu yếu kém dự án cao tốc Quy Nhơn – Pleiku gần 44.000 tỷ\n- Quy định mới: Cấm tuyệt đối thu tiền dạy thêm trong nhà trường, công bố hotline\n- Điều tra vụ án mạng tại khu tập thể trường đại học ở phường Hội Phú\n- Sắp đấu giá gần 20 ha đất KKT Nhơn Hội xây 331 biệt thự nghỉ dưỡng\n- Bắt giữ đối tượng truy nã đặc biệt nguy hiểm sau 7 năm trốn tại P. Quy Nhơn\n- Trao truyền gìn giữ nghề truyền thống nón ngựa Phú Gia\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "facebook": "Cảnh báo thời tiết nguy hiểm trên vùng biển Quy Nhơn đêm nay; Siết chặt quy định cấm thu tiền dạy thêm trong trường học? Điểm tin tối 14/10/2026:\n1. Vùng biển Gia Lai, bao gồm xã đảo Nhơn Châu (Quy Nhơn) được cảnh báo lốc xoáy, gió giật cấp 7-8 đêm 14 và ngày 15/10 (Báo Gia Lai)\n2. Kiên quyết thay thế các nhà thầu yếu kém để tăng tốc thi công cao tốc Quy Nhơn – Pleiku hơn 43.700 tỷ đồng (Báo Mới)\n3. UBND tỉnh ban hành quy định mới: Nghiêm cấm ép buộc, cấm tuyệt đối thu tiền dạy thêm trong trường học (Báo Mới)\n4. Công an tỉnh điều tra vụ án mạng tại khu tập thể trường đại học ở P. Hội Phú, nghi phạm 26 tuổi đã đến công an đầu thú (Báo Mới / VietnamNet)\n5. Dự kiến đấu giá khu đất 19,62 ha tại KKT Nhơn Hội (Quy Nhơn) với vốn gần 1.486 tỷ đồng xây 331 biệt thự du lịch (Báo Mới)\n6. Phối hợp bắt giữ đối tượng truy nã đặc biệt nguy hiểm N.H.N. sau 7 năm lẩn trốn tại phường Quy Nhơn (Báo Gia Lai)\n7. 20 học viên tham gia lớp chằm nón ngựa Phú Gia do Nghệ nhân ưu tú Đỗ Văn Lan truyền dạy để bảo tồn di sản (Báo Gia Lai)\n\nVùng biển Quy Nhơn cảnh báo lốc xoáy và gió giật mạnh cấp 7-8 đêm nay, ngư dân và bà con ven biển chú ý an toàn nhé! Nhà bạn có tin? Nhắn kênh, kênh đưa!\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "needs_review": [
+    "Tin 1: Bản tin cảnh báo lúc 16h33 ngày 14/10 của Đài Khí tượng Thủy văn tỉnh Gia Lai",
+    "Tin 2: Chỉ đạo đẩy nhanh tiến độ và kiên quyết thay thế nhà thầu yếu kém dự án cao tốc Quy Nhơn – Pleiku",
+    "Tin 3: Quyết định mới của UBND tỉnh Gia Lai ban hành quy định về dạy thêm học thêm",
+    "Tin 4: Tin người dùng gửi, xảy ra tại khu tập thể Đại học Lâm nghiệp (P. Hội Phú), đối tượng P.M.P. đã đầu thú",
+    "Tin 5: Dự án 331 lô biệt thự du lịch tại phân khu 2 KKT Nhơn Hội (Quy Nhơn), vốn gần 1.486 tỷ đồng",
+    "Tin 6: Bắt đối tượng truy nã Nguyễn Hoàng Nhật (sinh năm 1993, trú P. Quy Nhơn)",
+    "Tin 7: Lớp đào tạo nghề chằm nón ngựa Phú Gia tại xã Xuân An do Nghệ nhân ưu tú Đỗ Văn Lan giảng dạy"
+  ]
+}
