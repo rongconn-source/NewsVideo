@@ -103,10 +103,12 @@ python skills/ban-tin/scripts/ban_tin.py render skills/ban-tin/inbox/<file>.json
 Danh sách tin (1 dòng/tin + nguồn), đường dẫn file kết quả, thời lượng, các mục `needs_review`, cảnh báo ảnh báo (`press:`), caption chuẩn với đầy đủ 6 hashtag: `#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua`.
 
 ### 10. Phân tích kênh & tư vấn chiến lược (BẮT BUỘC mỗi lần làm tin / render)
-- Truy cập / kiểm tra kênh TikTok [@quynhon24hqua](https://www.tiktok.com/@quynhon24hqua):
+- Truy cập / kiểm tra kênh TikTok chính [@quynhon24hqua](https://www.tiktok.com/@quynhon24hqua):
   - Số liệu hiện tại: Followers, số video, lượt Thích tổng, tương tác.
   - Phân tích hiệu ứng nội dung: Chủ đề nào đang thu hút tương tác tốt (vd. đời sống, an ninh, giao thông, chuyện lạ).
   - Đề xuất định hướng chiến lược: Khung giờ đăng tốt nhất, cách đặt câu hỏi ghim bình luận để kích thích tranh luận/chia sẻ, và điều chỉnh pacing/teaser cho video tiếp theo.
+- Theo dõi các kênh tin tức đối thủ / benchmark tại địa phương:
+  - [@hong.hot.quy.nhon](https://www.tiktok.com/@hong.hot.quy.nhon) & [@hong.hot.quy.nhon.bd](https://www.tiktok.com/@hong.hot.quy.nhon.bd): Quan sát chủ đề tin giật gân, chuyện dân sinh Quy Nhơn đang lên xu hướng và cách họ đặt tiêu đề/hook để học hỏi và đón đầu.
 
 ## Mẫu hiển thị (đã chốt với người dùng – script/template tự làm, AI không cần chỉnh)
 | Phần | Quy định |

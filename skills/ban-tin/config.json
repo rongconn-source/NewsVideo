@@ -13,13 +13,28 @@
   "channel_bio": "📍Chuyện Quy Nhơn 24h qua – gọn trong 1 phút\n📩Nhà bạn có tin? Nhắn kênh, kênh đưa!",
   "logo": "assets/brand/avatar-quy-nhon-24h-qua-1-phut.jpg",
 
+  "benchmark_channels": [
+    {
+      "name": "Hóng Hớt Quy Nhơn",
+      "id": "@hong.hot.quy.nhon",
+      "url": "https://www.tiktok.com/@hong.hot.quy.nhon"
+    },
+    {
+      "name": "Hóng Hớt Quy Nhơn Bình Định",
+      "id": "@hong.hot.quy.nhon.bd",
+      "url": "https://www.tiktok.com/@hong.hot.quy.nhon.bd"
+    }
+  ],
+
   "_ghi_chu_user_links": "Dán các link bài báo lẻ bạn muốn ưu tiên đưa vào bản tin tới tại đây (mỗi link 1 chuỗi). Khi làm bản tin, AI sẽ tự động đọc mục này trước rồi mới quét bên ngoài.",
   "user_links": [],
 
   "_ghi_chu_sources": "Trang để lệnh scan lấy danh sách bài tự động. pattern = regex nhận link bài (nhóm 1 = mã số bài, số lớn = bài mới). region_search = true nếu trang đã lọc theo khu vực.",
   "sources": [
-    {"name": "Báo Mới Quy Nhơn", "url": "https://baomoi.com/tim-kiem/quy-nh%C6%A1n.epi", "pattern": "baomoi\\.com/.+-c(\\d{7,})\\.epi$", "max": 60, "region_search": true},
-    {"name": "Báo Mới Gia Lai", "url": "https://baomoi.com/tim-kiem/gia-lai.epi", "pattern": "baomoi\\.com/.+-c(\\d{7,})\\.epi$", "max": 60, "region_search": true},
+    {"name": "Báo Mới Quy Nhơn", "url": "https://baomoi.com/tim-kiem/quy-nh%C6%A1n.epi", "pattern": "baomoi\\.com/.+-c(\\d{7,})\\.epi$", "max": 100, "region_search": true},
+    {"name": "Báo Mới Gia Lai", "url": "https://baomoi.com/tim-kiem/gia-lai.epi", "pattern": "baomoi\\.com/.+-c(\\d{7,})\\.epi$", "max": 100, "region_search": true},
+    {"name": "Báo Mới Bình Định", "url": "https://baomoi.com/tim-kiem/binh-dinh.epi", "pattern": "baomoi\\.com/.+-c(\\d{7,})\\.epi$", "max": 80, "region_search": true},
+    {"name": "Báo Mới Tin Mới", "url": "https://baomoi.com/tin-moi.epi", "pattern": "baomoi\\.com/.+-c(\\d{7,})\\.epi$", "max": 100, "region_search": false},
     {"name": "Báo Gia Lai", "url": "https://baogialai.com.vn/", "pattern": "baogialai\\.com\\.vn/.+-post(\\d{5,})\\.html$", "max": 120},
     {"name": "VnExpress Quy Nhơn", "url": "https://vnexpress.net/chu-de/quy-nhon-2101", "pattern": "vnexpress\\.net/.+-(\\d{7})\\.html$", "max": 20, "region_search": true},
     {"name": "VnExpress Bình Định", "url": "https://vnexpress.net/chu-de/binh-dinh-1996", "pattern": "vnexpress\\.net/.+-(\\d{7})\\.html$", "max": 20, "region_search": true},
@@ -27,10 +42,12 @@
     {"name": "Tuổi Trẻ Quy Nhơn", "url": "https://tuoitre.vn/quy-nhon.html", "pattern": "tuoitre\\.vn/.+-(\\d{10,})\\.htm$", "max": 20, "region_search": true},
     {"name": "Thanh Niên Bình Định", "url": "https://thanhnien.vn/binh-dinh.html", "pattern": "thanhnien\\.vn/.+-(\\d{10,})\\.htm$", "max": 30, "region_search": true},
     {"name": "Thanh Niên Quy Nhơn", "url": "https://thanhnien.vn/tim-kiem.htm?keywords=quy+nh%C6%A1n", "pattern": "thanhnien\\.vn/.+-(\\d{10,})\\.htm$", "max": 20, "region_search": true},
-    {"name": "Dân Trí Quy Nhơn", "url": "https://dantri.com.vn/tim-kiem/quy+nh%C6%A1n.htm", "pattern": "dantri\\.com\\.vn/.+-(\\d{15,})\\.htm$", "max": 20, "region_search": true},
-    {"name": "Dân Trí Gia Lai", "url": "https://dantri.com.vn/tim-kiem/gia+lai.htm", "pattern": "dantri\\.com\\.vn/.+-(\\d{15,})\\.htm$", "max": 20, "region_search": true},
-    {"name": "VietnamNet Quy Nhơn", "url": "https://vietnamnet.vn/tim-kiem?q=quy+nh%C6%A1n", "pattern": "vietnamnet\\.vn/.+-(\\d{6,})\\.html$", "max": 20, "region_search": true},
-    {"name": "VietnamNet Gia Lai", "url": "https://vietnamnet.vn/tim-kiem?q=gia+lai", "pattern": "vietnamnet\\.vn/.+-(\\d{6,})\\.html$", "max": 20, "region_search": true},
+    {"name": "Dân Trí Quy Nhơn", "url": "https://dantri.com.vn/tim-kiem/quy+nh%C6%A1n.htm", "pattern": "dantri\\.com\\.vn/.+-(\\d{15,})\\.htm$", "max": 40, "region_search": true},
+    {"name": "Dân Trí Gia Lai", "url": "https://dantri.com.vn/tim-kiem/gia+lai.htm", "pattern": "dantri\\.com\\.vn/.+-(\\d{15,})\\.htm$", "max": 40, "region_search": true},
+    {"name": "Dân Trí Bình Định", "url": "https://dantri.com.vn/tim-kiem/binh+dinh.htm", "pattern": "dantri\\.com\\.vn/.+-(\\d{15,})\\.htm$", "max": 40, "region_search": true},
+    {"name": "VietnamNet Quy Nhơn", "url": "https://vietnamnet.vn/tim-kiem?q=quy+nh%C6%A1n", "pattern": "vietnamnet\\.vn/.+-(\\d{6,})\\.html$", "max": 40, "region_search": true},
+    {"name": "VietnamNet Gia Lai", "url": "https://vietnamnet.vn/tim-kiem?q=gia+lai", "pattern": "vietnamnet\\.vn/.+-(\\d{6,})\\.html$", "max": 40, "region_search": true},
+    {"name": "VietnamNet Bình Định", "url": "https://vietnamnet.vn/tim-kiem?q=binh+dinh", "pattern": "vietnamnet\\.vn/.+-(\\d{6,})\\.html$", "max": 40, "region_search": true},
     {"name": "VTC News Quy Nhơn", "url": "https://vtcnews.vn/tieu-diem/quy-nhon.html", "pattern": "vtcnews\\.vn/.+-ar(\\d{5,})\\.html$", "max": 20, "region_search": false},
     {"name": "VTC News Gia Lai", "url": "https://vtcnews.vn/tieu-diem/gia-lai.html", "pattern": "vtcnews\\.vn/.+-ar(\\d{5,})\\.html$", "max": 20, "region_search": false},
     {"name": "Báo Gia Lai - Giáo dục", "url": "https://baogialai.com.vn/giao-duc/", "pattern": "baogialai\\.com\\.vn/.+-post(\\d{5,})\\.html$", "max": 40},
