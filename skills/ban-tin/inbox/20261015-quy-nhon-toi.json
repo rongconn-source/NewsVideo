@@ -1,0 +1,98 @@
+{
+  "type": "digest",
+  "output": "video",
+  "date": "2026-10-15",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "chip": "",
+  "cover": {
+    "kicker": "BẢN TIN TỐI",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Tối 15/10/2026",
+    "teaser": "Cô giáo 22 tuổi chết não hiến tạng cứu 4 người; Phù phép hơn 9 tấn gạo giả",
+    "image": "item:1"
+  },
+  "items": [
+    {
+      "category": "tinh",
+      "text": "Gia đình cô giáo P.T.A.T. (22 tuổi, xã Đak Pơ) nén đau thương hiến tạng con gái bị chết não sau tai nạn giao thông, giúp hồi sinh sự sống cho 4 bệnh nhân nặng; đây là ca hiến tạng đầu tiên tại Gia Lai.",
+      "ai_prompt": "doctors and medical team in blue scrubs bowing in respect inside a modern hospital corridor in Vietnam",
+      "source": "https://baogialai.com.vn/tu-noi-dau-mat-mat-den-trao-co-hoi-song-cho-nhung-nguoi-benh-post602119.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-15T16:33:39+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Công an tỉnh Gia Lai khởi tố 2 vợ chồng ở xã Đức Cơ về hành vi thu mua hơn 9 tấn gạo rẻ tiền rồi đóng vào bao bì in nhãn hiệu nổi tiếng 'Gạo dẻo Thái Sơn' để bán ra thị trường nhằm trục lợi bất chính.",
+      "ai_prompt": "stacks of rice bags inside a warehouse inspected by authorities",
+      "source": "https://baogialai.com.vn/khoi-to-2-vo-chong-phu-phep-hang-tan-gao-re-tien-thanh-gao-deo-thai-son-post602092.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-15T13:54:44+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Từ việc phát hiện, chặn bắt xe tải vận chuyển 10 tấn lâm sản trái phép trên đường, lực lượng chức năng mở rộng điều tra, phát hiện thêm 451 cây gỗ rừng tự nhiên đã bị triệt hạ trái phép.",
+      "ai_prompt": "forest rangers examining cut logs in a deep natural forest area in Vietnam",
+      "source": "https://baomoi.com/tu-vu-bat-giu-xe-cho-10-tan-go-phat-hien-451-cay-rung-bi-chat-ha-trai-phep-c56276638.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-15T17:28:00.000+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Hội nghị quốc tế về Công nghệ Truyền thông tiên tiến (ATC 2026) do Trường ĐH Quy Nhơn đăng cai khai mạc sáng 15/10, quy tụ 200 nhà khoa học từ 18 quốc gia với 160 công trình nghiên cứu chiến lược.",
+      "ai_prompt": "international academic conference hall with scientists listening to technological research presentations",
+      "source": "https://baomoi.com/tri-tue-18-quoc-gia-hoi-tu-tai-atc-2026-c56274577.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-15T14:01:00.000+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Lãnh đạo UBND tỉnh Gia Lai yêu cầu các địa phương hoàn thành 100% công tác giải phóng mặt bằng cao tốc Quy Nhơn – Pleiku ngay trong tháng 10 này và cam kết giải ngân toàn bộ kế hoạch vốn năm 2026.",
+      "ai_prompt": "aerial view of modern highway expressway under construction connecting mountain and coastal regions",
+      "source": "https://baogialai.com.vn/hoan-thanh-giai-phong-mat-bang-trong-thang-10-giai-ngan-100-von-cao-toc-quy-nhon-pleiku-post602021.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-15T07:35:52+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Chủ tịch UBND tỉnh Phạm Anh Tuấn làm việc với lãnh đạo Công ty Blooming Sky nhằm tháo gỡ vướng mắc, đẩy nhanh tiến độ triển khai dự án khu nghỉ dưỡng du lịch cao cấp tại xã biển Cát Tiến.",
+      "ai_prompt": "official business meeting between local government leaders and foreign resort investors in a modern meeting room",
+      "source": "https://baogialai.com.vn/chu-tich-ubnd-tinh-pham-anh-tuan-lam-viec-voi-cong-ty-tnhh-blooming-sky-post602128.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-15T16:23:35+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Tỉnh Gia Lai ban hành kế hoạch tổ chức cuộc thi ảnh đẹp và video clip trong khuôn khổ Festival Cồng chiêng kết hợp Tuần lễ Hoa Dã quỳ – Núi lửa Chư Đang Ya năm 2026 để quảng bá văn hóa bản địa.",
+      "ai_prompt": "vibrant Gong festival performance with ethnic artists around yellow wild sunflowers at an extinct volcano",
+      "source": "https://baogialai.com.vn/gia-lai-to-chuc-cuoc-thi-anh-video-clip-trong-chuoi-su-kien-festival-cong-chieng-2026-post602094.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-15T13:29:56+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "Nghĩa cử cao đẹp hiến tạng cứu sống 4 người của gia đình cô giáo trẻ thật sự gây xúc động mạnh mẽ cho người dân địa phương. Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "caption": {
+    "tiktok": "Cô giáo 22 tuổi chết não hiến tạng cứu 4 người; Phù phép hơn 9 tấn gạo giả? Bản tin Quy Nhơn - Gia Lai tối 15/10/2026:\n1. Nén đau thương, gia đình hiến tạng cô giáo 22 tuổi chết não cứu 4 bệnh nhân (Báo Gia Lai / Báo Mới)\n2. Khởi tố 2 vợ chồng ở Đức Cơ phù phép hơn 9 tấn gạo rẻ tiền thành 'Gạo dẻo Thái Sơn' (Báo Gia Lai)\n3. Từ xe tải chở 10 tấn gỗ lậu, phát hiện 451 cây gỗ rừng tự nhiên bị chặt hạ trái phép (Báo Mới)\n4. 200 nhà khoa học từ 18 quốc gia dự Hội nghị quốc tế ATC 2026 tại Trường ĐH Quy Nhơn (Báo Mới)\n5. Hoàn thành 100% giải phóng mặt bằng cao tốc Quy Nhơn – Pleiku trong tháng 10 này (Báo Gia Lai)\n6. Chủ tịch tỉnh thúc đẩy dự án khu nghỉ dưỡng du lịch cao cấp tại xã Cát Tiến (Báo Gia Lai)\n7. Phát động thi ảnh & video clip Festival Cồng chiêng - Núi lửa Chư Đang Ya 2026 (Báo Gia Lai)\n\nNghĩa cử hiến tạng cứu 4 người của cô giáo trẻ thật xúc động và đáng trân trọng! Nhà bạn có tin? Nhắn kênh, kênh đưa!\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Cô giáo 22 tuổi chết não hiến tạng cứu 4 người; Phù phép hơn 9 tấn gạo giả | Bản tin tối 15/10/2026\n\nTổng hợp tin tức nổi bật 24h qua tại Quy Nhơn & Gia Lai:\n- Gia đình hiến tạng cô giáo 22 tuổi chết não cứu sống 4 bệnh nhân nặng\n- Khởi tố 2 vợ chồng phù phép hơn 9 tấn gạo rẻ tiền thành 'Gạo dẻo Thái Sơn'\n- Từ xe tải 10 tấn gỗ, phát hiện 451 cây gỗ rừng tự nhiên bị đốn hạ trái phép\n- 200 nhà khoa học từ 18 quốc gia tham dự Hội nghị quốc tế ATC 2026 tại ĐH Quy Nhơn\n- Dứt điểm 100% giải phóng mặt bằng cao tốc Quy Nhơn - Pleiku trong tháng 10\n- Thúc đẩy triển khai dự án khu nghỉ dưỡng du lịch cao cấp tại xã Cát Tiến\n- Phát động cuộc thi ảnh, video clip Festival Cồng chiêng - Núi lửa Chư Đang Ya 2026\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "facebook": "Cô giáo 22 tuổi chết não hiến tạng cứu 4 người; Phù phép hơn 9 tấn gạo giả? Điểm tin tối 15/10/2026:\n1. Nén đau thương sau tai nạn giao thông, gia đình hiến tạng cô giáo P.T.A.T. (22 tuổi, xã Đak Pơ) giúp hồi sinh sự sống cho 4 bệnh nhân nặng; đây là ca hiến tạng đầu tiên tại Gia Lai (Báo Gia Lai)\n2. Công an tỉnh khởi tố 2 vợ chồng ở xã Đức Cơ vì phù phép hơn 9 tấn gạo rẻ tiền đóng bao giả nhãn hiệu 'Gạo dẻo Thái Sơn' để trục lợi (Báo Gia Lai)\n3. Chặn bắt xe tải chở 10 tấn gỗ lậu trên đường, lực lượng chức năng phát hiện 451 cây gỗ rừng tự nhiên bị triệt hạ trái phép (Báo Mới)\n4. Khai mạc Hội nghị quốc tế về Công nghệ Truyền thông tiên tiến (ATC 2026) tại Trường ĐH Quy Nhơn với 200 nhà khoa học từ 18 quốc gia (Báo Mới)\n5. UBND tỉnh yêu cầu dứt điểm 100% giải phóng mặt bằng cao tốc Quy Nhơn - Pleiku trong tháng 10 và giải ngân toàn bộ vốn năm 2026 (Báo Gia Lai)\n6. Chủ tịch UBND tỉnh Phạm Anh Tuấn làm việc với Công ty Blooming Sky thúc đẩy dự án du lịch nghỉ dưỡng tại xã Cát Tiến (Báo Gia Lai)\n7. Ban hành kế hoạch thi ảnh đẹp, video clip trong chuỗi sự kiện Festival Cồng chiêng & Tuần lễ Hoa Dã Quỳ - Chư Đang Ya 2026 (Báo Gia Lai)\n\nNghĩa cử hiến tạng cứu 4 người của cô giáo trẻ thật xúc động và đáng trân trọng! Nhà bạn có tin? Nhắn kênh, kênh đưa!\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "needs_review": [
+    "Tin 1: Nạn nhân tai nạn giao thông chết não là cô giáo P.T.A.T. (SN 2004, trú xã Đak Pơ, cựu sinh viên ĐH Quy Nhơn, giáo viên tiếng Anh). Gia đình nén đau thương hiến tim, gan, 2 thận cứu sống 4 bệnh nhân nặng. Ca lấy tạng diễn ra tại BV Hùng Vương Gia Lai phối hợp với Trung tâm Điều phối ghép tạng Quốc gia rạng sáng 15/10.",
+    "Tin 2: Cơ quan CSĐT Công an tỉnh Gia Lai khởi tố vụ án, khởi tố bị can đối với 2 vợ chồng ở thôn Chư Ty, xã Đức Cơ về hành vi sản xuất hàng giả là lương thực (phù phép hơn 9 tấn gạo giá rẻ thành thương hiệu Gạo dẻo Thái Sơn).",
+    "Tin 3: Từ vụ bắt giữ xe tải chở 10 tấn gỗ lậu lưu thông trên địa bàn, lực lượng công an mở rộng hiện trường phát hiện 451 cây gỗ rừng tự nhiên bị cưa hạ trái phép.",
+    "Tin 4: Hội nghị quốc tế IEEE/ATC 2026 về Công nghệ Truyền thông tiên tiến do Trường ĐH Quy Nhơn phối hợp Hội Vô tuyến Điện tử Việt Nam tổ chức khai mạc ngày 15/10 với 200 đại biểu và 160 bài báo nghiên cứu từ 18 quốc gia.",
+    "Tin 5: Cuộc họp ngày 14-15/10 do lãnh đạo UBND tỉnh Gia Lai chủ trì, chỉ đạo hoàn thành 100% GPMB cao tốc Quy Nhơn - Pleiku trong tháng 10/2026 và giải ngân 100% vốn năm 2026.",
+    "Tin 6: Chủ tịch UBND tỉnh Phạm Anh Tuấn làm việc với ông Jang Chin-Hyuk - Chủ tịch HĐQT Công ty Blooming Sky để thúc đẩy tiến độ dự án khu nghỉ dưỡng du lịch cao cấp tại xã Cát Tiến.",
+    "Tin 7: UBND tỉnh ban hành Kế hoạch tổ chức cuộc thi ảnh đẹp, video clip trong khuôn khổ Festival Cồng chiêng - Tuần lễ Hoa Dã Quỳ - Núi lửa Chư Đang Ya năm 2026."
+  ]
+}
