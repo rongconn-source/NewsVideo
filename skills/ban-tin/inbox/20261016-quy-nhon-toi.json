@@ -1,0 +1,98 @@
+{
+  "type": "digest",
+  "output": "video",
+  "date": "2026-10-16",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "chip": "",
+  "cover": {
+    "kicker": "BẢN TIN TỐI",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Tối 16/10/2026",
+    "teaser": "Tàu The Vietage Quy Nhơn top 20 thế giới; Mời thầu 3 dự án điện gió hơn 10.500 tỷ",
+    "image": "item:1"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "text": "Tàu du lịch cao cấp The Vietage nối Đà Nẵng – Quy Nhơn xuất sắc xếp thứ 14 trong Top 20 hành trình tàu hỏa đẹp nhất thế giới năm 2026 do độc giả tạp chí Condé Nast Traveler danh tiếng bình chọn.",
+      "ai_prompt": "luxurious passenger train interior with large panoramic windows traveling along scenic coastal mountains in Vietnam",
+      "source": "https://baomoi.com/hai-chuyen-tau-viet-nam-vao-top-20-hanh-trinh-dep-nhat-the-gioi-2026-c56284400.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-16T16:34:00.000+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Sở Tài chính tỉnh Gia Lai thông báo mời thầu 3 dự án nhà máy điện gió quy mô lớn gồm Xã Trang, Xã Trang giai đoạn 2 và Bờ Ngoong với tổng công suất 300 MW và tổng mức đầu tư hơn 10.522 tỷ đồng.",
+      "ai_prompt": "modern wind turbine farm on rolling green hills under dramatic sky in Central Highlands Vietnam",
+      "source": "https://baogialai.com.vn/gia-lai-moi-thau-3-du-an-dien-gio-voi-tong-von-hon-10522-ty-dong-post602193.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-16T14:03:07+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Công an tỉnh Gia Lai phát thông báo truy tìm chiếc xe máy Vespa mang biển kiểm soát địa phương, là tang vật quan trọng liên quan đến vụ án lạm dụng tín nhiệm chiếm đoạt tài sản xảy ra trên địa bàn.",
+      "ai_prompt": "police investigation notice board with vehicle registration and evidence details in Vietnam",
+      "source": "https://baogialai.com.vn/cong-an-gia-lai-truy-tim-xe-vespa-lien-quan-vu-an-lam-dung-tin-nhiem-chiem-doat-tai-san-post602190.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-16T13:56:06+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Đoàn công tác Trường Đại học Quy Nhơn làm việc với doanh nghiệp chế biến gỗ tại phường Quy Nhơn Tây nhằm đẩy mạnh nghiên cứu, chuyển giao công nghệ sản xuất hiện đại và đào tạo nhân lực thực chiến.",
+      "ai_prompt": "university professors and factory engineers discussing automated manufacturing machinery in a modern wood factory",
+      "source": "https://baogialai.com.vn/truong-dai-hoc-quy-nhon-ket-noi-nghien-cuu-chuyen-giao-cong-nghe-voi-doanh-nghiep-post602169.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-16T15:07:22+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Thường trực HĐND tỉnh tiến hành giám sát các dự án đầu tư ngoài ngân sách tại xã Tuy Phước Tây và Canh Vinh, đôn đốc giải quyết vướng mắc mặt bằng và kiên quyết xử lý các dự án chậm trễ kéo dài.",
+      "ai_prompt": "provincial inspection delegation reviewing land compensation maps at a construction site in Vietnam",
+      "source": "https://baogialai.com.vn/giam-sat-cac-du-an-dau-tu-ngoai-ngan-sach-tai-xa-tuy-phuoc-tay-va-canh-vinh-post602219.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-16T17:45:25+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "UBND tỉnh ban hành kế hoạch tổ chức chuỗi sự kiện văn hóa, thể thao, ẩm thực và du lịch đặc sắc trong quý 4 năm 2026, tạo điểm nhấn bùng nổ khép lại Năm Du lịch quốc gia của địa phương.",
+      "ai_prompt": "vibrant night festival stage with colorful lights, traditional ethnic dance performers and tourist crowds",
+      "source": "https://baogialai.com.vn/gia-lai-to-chuc-chuoi-hoat-dong-van-hoa-du-lich-dac-sac-trong-quy-iv-nam-2026-post602129.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-16T14:03:17+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Công ty Điện lực thông báo kế hoạch tạm ngừng cung cấp điện luân phiên từ ngày 14 đến 20/10 tại một số khu vực trên địa bàn tỉnh để phục vụ bảo dưỡng, nâng cấp lưới điện trước mùa mưa bão.",
+      "ai_prompt": "electrical power company utility workers in safety gear maintaining high voltage power lines",
+      "source": "https://baogialai.com.vn/cong-ty-dien-luc-gia-lai-thong-bao-ke-hoach-tam-ngung-cung-cap-dien-tu-ngay-14-den-20-10-post602216.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-16T16:04:27+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "Tàu The Vietage nối Quy Nhơn - Đà Nẵng lọt top 20 thế giới thật tự hào, bà con đã có ai trải nghiệm cung đường này chưa? Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "caption": {
+    "tiktok": "Tàu The Vietage Quy Nhơn top 20 thế giới; Mời thầu điện gió hơn 10.500 tỷ? Bản tin Quy Nhơn - Gia Lai tối 16/10/2026:\n1. Tàu The Vietage (Đà Nẵng - Quy Nhơn) lọt Top 20 chuyến tàu đẹp nhất thế giới 2026 (Báo Mới / CN Traveler)\n2. Mời thầu 3 dự án điện gió quy mô 300 MW với tổng vốn hơn 10.522 tỷ đồng (Báo Gia Lai)\n3. Công an tỉnh phát thông báo truy tìm xe máy Vespa tang vật vụ án chiếm đoạt tài sản (Báo Gia Lai)\n4. Trường ĐH Quy Nhơn chuyển giao công nghệ hiện đại cho doanh nghiệp tại P. Quy Nhơn Tây (Báo Gia Lai)\n5. Giám sát các dự án đầu tư ngoài ngân sách tại xã Tuy Phước Tây và Canh Vinh (Báo Gia Lai)\n6. Ban hành kế hoạch chuỗi sự kiện văn hóa, du lịch, ẩm thực đặc sắc quý IV/2026 (Báo Gia Lai)\n7. Lịch tạm ngừng cung cấp điện luân phiên phục vụ nâng cấp lưới điện trước mùa mưa bão (Báo Gia Lai)\n\nTàu The Vietage nối Quy Nhơn lọt top 20 thế giới thật tự hào! Nhà bạn có tin? Nhắn kênh, kênh đưa!\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Tàu The Vietage Quy Nhơn top 20 thế giới; Mời thầu điện gió hơn 10.500 tỷ | Bản tin tối 16/10/2026\n\nTổng hợp tin tức 24h qua tại Quy Nhơn & Gia Lai:\n- Tàu du lịch The Vietage nối Quy Nhơn vào top 20 chuyến tàu đẹp nhất thế giới 2026\n- Gia Lai mời thầu 3 dự án nhà máy điện gió với tổng vốn hơn 10.522 tỷ đồng\n- Công an tỉnh thông báo truy tìm xe máy Vespa tang vật vụ chiếm đoạt tài sản\n- Trường ĐH Quy Nhơn đẩy mạnh chuyển giao công nghệ tại phường Quy Nhơn Tây\n- Giám sát tiến độ các dự án ngoài ngân sách tại xã Tuy Phước Tây và Canh Vinh\n- Kế hoạch tổ chức chuỗi sự kiện văn hóa, du lịch, ẩm thực bùng nổ quý IV/2026\n- Thông báo lịch tạm ngừng cung cấp điện luân phiên nâng cấp hạ tầng lưới điện\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "facebook": "Tàu The Vietage Quy Nhơn top 20 thế giới; Mời thầu điện gió hơn 10.500 tỷ? Điểm tin tối 16/10/2026:\n1. Tàu du lịch cao cấp The Vietage nối Đà Nẵng – Quy Nhơn xuất sắc lọt Top 20 hành trình đẹp nhất thế giới 2026 (Báo Mới / CN Traveler)\n2. Sở Tài chính thông báo mời thầu 3 dự án điện gió Xã Trang, Xã Trang 2 và Bờ Ngoong với tổng vốn hơn 10.522 tỷ đồng (Báo Gia Lai)\n3. Công an tỉnh Gia Lai phát thông báo truy tìm xe máy Vespa tang vật vụ án lạm dụng tín nhiệm chiếm đoạt tài sản (Báo Gia Lai)\n4. Đoàn công tác Trường ĐH Quy Nhơn làm việc thúc đẩy chuyển giao công nghệ cho doanh nghiệp gỗ tại P. Quy Nhơn Tây (Báo Gia Lai)\n5. HĐND tỉnh giám sát các dự án đầu tư ngoài ngân sách tại xã Tuy Phước Tây và Canh Vinh (Báo Gia Lai)\n6. UBND tỉnh ban hành kế hoạch tổ chức chuỗi sự kiện văn hóa, du lịch, ẩm thực đặc sắc quý IV/2026 (Báo Gia Lai)\n7. Công ty Điện lực thông báo kế hoạch tạm ngừng cấp điện luân phiên phục vụ nâng cấp lưới điện (Báo Gia Lai)\n\nTàu The Vietage nối Quy Nhơn lọt top 20 thế giới thật tự hào! Nhà bạn có tin? Nhắn kênh, kênh đưa!\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "needs_review": [
+    "Tin 1: Độc giả tạp chí Condé Nast Traveler bình chọn Top 20 chuyến tàu đẹp nhất thế giới 2026: Tàu The Vietage by Anantara (Đà Nẵng - Quy Nhơn) đứng thứ 14 và Tàu di sản miền Trung (Huế - Đà Nẵng) đứng thứ 10.",
+    "Tin 2: Sở Tài chính tỉnh Gia Lai mời thầu 3 dự án nhà máy điện gió: Xã Trang, Xã Trang 2 và Bờ Ngoong, tổng công suất 300 MW, vốn 10.522 tỷ đồng (Báo Gia Lai post602193)",
+    "Tin 3: Cơ quan CSĐT Công an tỉnh Gia Lai truy tìm xe mô tô Vespa mang BKS 81B2-225.xx trong vụ án lạm dụng tín nhiệm chiếm đoạt tài sản xảy ra tại phường Hoa Lư cũ (nay là P. Pleiku) (Báo Gia Lai post602190)",
+    "Tin 4: Trường ĐH Quy Nhơn làm việc với Công ty CP Công nghệ Gỗ Đại Thành tại P. Quy Nhơn Tây về hợp tác đào tạo và chuyển giao công nghệ (Báo Gia Lai post602169)",
+    "Tin 5: Thường trực HĐND tỉnh Gia Lai giám sát tình hình triển khai các dự án đầu tư ngoài ngân sách tại xã Tuy Phước Tây và xã Canh Vinh (Báo Gia Lai post602219)",
+    "Tin 6: Kế hoạch của UBND tỉnh về tổ chức chuỗi hoạt động văn hóa, thể thao, du lịch, thương mại, ẩm thực trong quý IV/2026 (Báo Gia Lai post602129)",
+    "Tin 7: Công ty Điện lực Gia Lai thông báo kế hoạch tạm ngừng cung cấp điện từ 14 đến 20/10 tại một số khu vực để bảo trì, sửa chữa lưới điện (Báo Gia Lai post602216)"
+  ]
+}
