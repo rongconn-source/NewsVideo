@@ -1,0 +1,98 @@
+{
+  "type": "digest",
+  "output": "video",
+  "date": "2026-10-17",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "chip": "",
+  "cover": {
+    "kicker": "BẢN TIN TỐI",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Tối 17/10/2026",
+    "teaser": "Thông xe cung đèo biển Lộ Diêu 4,5km; Chủ tịch tỉnh tri ân gia đình hiến tạng",
+    "image": "item:1"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "text": "Cung đèo ven biển Lộ Diêu dài 4,5 km tại phường Hoài Nhơn Đông chính thức được đưa vào khai thác với cảnh quan hùng vĩ, thay thế tuyến đèo cũ hiểm trở và tạo động lực phát triển du lịch ven biển.",
+      "ai_prompt": "aerial view of modern coastal scenic mountain pass road overlooking deep blue ocean in Vietnam",
+      "source": "https://dantri.com.vn/thoi-su/cung-deo-ven-bien-dep-hut-mat-o-gia-lai-duoc-dua-vao-khai-thac-20261017203818314.htm",
+      "source_name": "Dân Trí",
+      "published": "2026-10-17T21:12:36+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Chủ tịch UBND tỉnh Phạm Anh Tuấn gửi thư thăm hỏi và bày tỏ lòng tri ân sâu sắc tới gia đình cô giáo P.T.A.T. ở xã Đak Pơ trước nghĩa cử nhân văn cao đẹp hiến tạng nối dài sự sống cho 4 bệnh nhân.",
+      "ai_prompt": "official provincial government letter of gratitude and heartfelt condolences presented with respect",
+      "source": "https://baogialai.com.vn/chu-tich-ubnd-tinh-pham-anh-tuan-gui-thu-tham-hoi-va-tri-an-gia-dinh-co-giao-pham-thi-anh-thu-post602331.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-17T16:26:04+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Tại lễ trao giải PropertyGuru Vietnam Property Awards 2026, dự án Luvista Quy Nhơn xuất sắc được vinh danh ở hai hạng mục lớn về phát triển quần thể bất động sản và thiết kế kiến trúc cao tầng.",
+      "ai_prompt": "prestigious architectural real estate award ceremony on stage with illuminated luxury skyscraper mockups",
+      "source": "https://dantri.com.vn/bat-dong-san/luvista-quy-nhon-nhan-hai-giai-thuong-tai-propertyguru-vietnam-property-awards-2026-20261017190301906.htm",
+      "source_name": "Dân Trí",
+      "published": "2026-10-17T19:30:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "UBND tỉnh ban hành quyết định chấp thuận điều chỉnh nhà đầu tư thực hiện dự án Nhà máy điện gió Vĩnh Thuận nhằm tháo gỡ vướng mắc quy hoạch, đẩy nhanh tiến độ hòa lưới điện quốc gia.",
+      "ai_prompt": "wind farm project planning conference with engineers examining wind turbine blueprints and green hills map",
+      "source": "https://baogialai.com.vn/gia-lai-dieu-chinh-nha-dau-tu-du-an-nha-may-dien-gio-vinh-thuan-post602332.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-17T19:07:34+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Sinh viên Đoàn Thị Hồng Như thuộc Trường Đại học FPT cơ sở Quy Nhơn xuất sắc giành giải ba tại vòng chung kết Cuộc thi Hùng biện tiếng Trung các trường đại học khu vực phía Nam năm 2026.",
+      "ai_prompt": "female Vietnamese student speaking confidently at a university speech contest podium receiving an award certificate",
+      "source": "https://baogialai.com.vn/sinh-vien-truong-dai-hoc-fpt-co-so-quy-nhon-gianh-giai-ba-cuoc-thi-hung-bien-tieng-trung-post602325.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-17T19:06:30+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Các y bác sĩ Trung tâm Y tế Ayun Pa kịp thời cấp cứu thành công một sản phụ 27 tuổi bị tiền sản giật nặng kèm hội chứng HELLP và nhau bong non nguy kịch, bảo đảm an toàn tính mạng cho hai mẹ con.",
+      "ai_prompt": "doctors and nurses taking care of a newborn baby in a sterile hospital delivery room in Vietnam",
+      "source": "https://baogialai.com.vn/trung-tam-y-te-ayun-pa-cap-cuu-thanh-cong-ca-san-khoa-nguy-kich-post602336.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-17T19:07:08+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Sở Giáo dục và Đào tạo tỉnh Gia Lai công bố quyết định thành lập 9 đội tuyển với tổng cộng 180 học sinh xuất sắc tham gia tranh tài tại kỳ thi chọn học sinh giỏi cấp quốc gia năm học 2026-2027.",
+      "ai_prompt": "group of high school student scholars in uniforms smiling together before an academic national contest",
+      "source": "https://baogialai.com.vn/gia-lai-co-180-thi-sinh-tham-du-ky-thi-chon-hoc-sinh-gioi-cap-quoc-gia-nam-hoc-2026-2027-post602321.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-17T15:37:16+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "Cung đèo biển Lộ Diêu vừa thông xe đẹp ngỡ ngàng, bà con đã có kế hoạch đi phượt trải nghiệm chưa? Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "caption": {
+    "tiktok": "Thông xe cung đèo biển Lộ Diêu 4,5km; Tri ân gia đình cô giáo hiến tạng? Bản tin Quy Nhơn - Gia Lai tối 17/10/2026:\n1. Đưa vào khai thác cung đèo ven biển Lộ Diêu 4,5 km đẹp hút mắt tại Hoài Nhơn Đông (Dân Trí)\n2. Chủ tịch UBND tỉnh Phạm Anh Tuấn gửi thư tri ân gia đình cô giáo hiến tạng cứu người (Báo Gia Lai)\n3. Dự án Luvista Quy Nhơn thắng lớn 2 giải thưởng tại Vietnam Property Awards 2026 (Dân Trí)\n4. Chấp thuận điều chỉnh nhà đầu tư dự án Nhà máy điện gió Vĩnh Thuận (Báo Gia Lai)\n5. Sinh viên ĐH FPT Quy Nhơn giành giải ba cuộc thi hùng biện tiếng Trung phía Nam (Báo Gia Lai)\n6. Cấp cứu thành công ca sản phụ nguy kịch mắc hội chứng HELLP tại Ayun Pa (Báo Gia Lai)\n7. Gia Lai thành lập 9 đội tuyển với 180 thí sinh dự thi học sinh giỏi quốc gia (Báo Gia Lai)\n\nCung đèo biển Lộ Diêu đẹp ngỡ ngàng, bà con đã đi thử chưa? Nhà bạn có tin? Nhắn kênh, kênh đưa!\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Thông xe cung đèo biển Lộ Diêu 4,5km; Tri ân gia đình hiến tạng | Bản tin tối 17/10/2026\n\nTổng hợp tin tức 24h qua tại Quy Nhơn & Gia Lai:\n- Khai thác cung đèo ven biển Lộ Diêu 4,5km đẹp hút mắt thay thế đèo cũ\n- Chủ tịch tỉnh gửi thư tri ân nghĩa cử hiến tạng cao đẹp của cô giáo trẻ\n- Luvista Quy Nhơn nhận 2 giải thưởng kiến trúc và bất động sản lớn\n- Điều chỉnh nhà đầu tư thúc đẩy tiến độ điện gió Vĩnh Thuận\n- Nữ sinh ĐH FPT Quy Nhơn ẵm giải ba hùng biện tiếng Trung các trường ĐH phía Nam\n- Cấp cứu thần tốc ca sản khoa nguy kịch tại Trung tâm Y tế Ayun Pa\n- 180 học sinh xuất sắc Gia Lai tranh tài kỳ thi học sinh giỏi quốc gia\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "facebook": "Thông xe cung đèo biển Lộ Diêu 4,5km; Tri ân gia đình cô giáo hiến tạng? Điểm tin tối 17/10/2026:\n1. Cung đèo ven biển Lộ Diêu dài 4,5 km tại phường Hoài Nhơn Đông chính thức đưa vào khai thác với cảnh quan hùng vĩ, thay thế tuyến đèo hiểm trở (Dân Trí)\n2. Chủ tịch UBND tỉnh Phạm Anh Tuấn gửi thư thăm hỏi, bày tỏ lòng tri ân sâu sắc tới gia đình cô giáo P.T.A.T. (xã Đak Pơ) trước nghĩa cử hiến tạng cứu người (Báo Gia Lai)\n3. Tại lễ trao giải PropertyGuru Vietnam Property Awards 2026, dự án Luvista Quy Nhơn được vinh danh ở 2 hạng mục lớn về quần thể và kiến trúc cao tầng (Dân Trí)\n4. UBND tỉnh ban hành quyết định điều chỉnh nhà đầu tư thực hiện dự án Nhà máy điện gió Vĩnh Thuận nhằm đẩy nhanh tiến độ (Báo Gia Lai)\n5. Sinh viên Đoàn Thị Hồng Như (Trường ĐH FPT cơ sở Quy Nhơn) xuất sắc giành giải ba chung kết Hùng biện tiếng Trung các trường ĐH phía Nam (Báo Gia Lai)\n6. Y bác sĩ TTYT Ayun Pa cấp cứu thành công ca sản phụ nguy kịch mắc hội chứng HELLP và nhau bong non (Báo Gia Lai)\n7. Sở GD-ĐT thành lập 9 đội tuyển với 180 học sinh xuất sắc tham dự kỳ thi chọn học sinh giỏi cấp quốc gia năm học 2026-2027 (Báo Gia Lai)\n\nCung đèo biển Lộ Diêu đẹp ngỡ ngàng, bà con đã đi thử chưa? Nhà bạn có tin? Nhắn kênh, kênh đưa!\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "needs_review": [
+    "Tin 1: Dự án nâng cấp, mở rộng đường đèo Lộ Diêu (P. Hoài Nhơn Đông) dài 4,5km đưa vào khai thác (Dân Trí)",
+    "Tin 2: Chủ tịch UBND tỉnh Phạm Anh Tuấn gửi thư thăm hỏi và tri ân gia đình cô giáo P.T.A.T. (xã Đak Pơ) trước nghĩa cử hiến mô, tạng cứu người (Báo Gia Lai post602331)",
+    "Tin 3: Dự án Luvista Quy Nhơn được vinh danh tại PropertyGuru Vietnam Property Awards 2026 (Dân Trí)",
+    "Tin 4: Quyết định 4244/QĐ-UBND chấp thuận điều chỉnh nhà đầu tư dự án Nhà máy điện gió Vĩnh Thuận (Báo Gia Lai post602332)",
+    "Tin 5: Sinh viên Đoàn Thị Hồng Như (ĐH FPT Quy Nhơn) đạt giải ba Hùng biện tiếng Trung các trường ĐH phía Nam (Báo Gia Lai post602325)",
+    "Tin 6: Trung tâm Y tế Ayun Pa cấp cứu thành công ca sản phụ nguy kịch mắc hội chứng HELLP và nhau bong non (Báo Gia Lai post602336)",
+    "Tin 7: Quyết định 5204/QĐ-SGDĐT thành lập 9 đội tuyển với 180 học sinh dự thi chọn HSG cấp quốc gia (Báo Gia Lai post602321)"
+  ]
+}
