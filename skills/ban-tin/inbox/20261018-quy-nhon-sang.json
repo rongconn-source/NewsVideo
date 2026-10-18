@@ -1,0 +1,96 @@
+{
+  "type": "digest",
+  "output": "video",
+  "date": "2026-10-18",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "chip": "",
+  "cover": {
+    "kicker": "BẢN TIN SÁNG",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Sáng 18/10/2026",
+    "teaser": "Đấu giá loạt khu đất vàng; Khắc phục hư hỏng tuyến ĐT638 về Quy Nhơn",
+    "image": "item:1"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "text": "UBND tỉnh phê duyệt kế hoạch đấu giá quyền sử dụng đất bổ sung năm 2026 đối với loạt khu đất vàng tại các vị trí đắc địa nhằm khai thác hiệu quả nguồn lực đất đai, tăng nguồn thu ngân sách địa phương.",
+      "image": "press:auto",
+      "ai_prompt": "aerial view of urban commercial land plots ready for planned development in Vietnam",
+      "source": "https://thanhnien.vn/dau-gia-nhieu-khu-dat-vang-o-gia-lai-185261017105817101.htm",
+      "source_name": "Thanh Niên",
+      "published": "2026-10-17T11:42:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Các đơn vị thi công tập trung cào bóc, thảm nhựa nóng khắc phục các điểm sụt lún, ổ gà trên tuyến đường ĐT638 kết nối về trung tâm Quy Nhơn nhằm đảm bảo an toàn giao thông cho người dân trước mùa mưa.",
+      "image": "press:auto",
+      "ai_prompt": "road maintenance asphalt paving construction machinery repairing a provincial highway",
+      "source": "https://baomoi.com/khac-phuc-hu-hong-tren-tuyen-dt638-qua-gia-lai-c56292967.epi",
+      "source_name": "Báo Xây Dựng",
+      "published": "2026-10-17T18:50:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Ban tổ chức chính thức công bố lịch thi đấu Giải bóng đá giao hữu quốc tế U23 - Gia Lai VTV Cup 2026 với sự góp mặt của các đội bóng trẻ hàng đầu khu vực, diễn ra sôi nổi tại sân vận động Pleiku.",
+      "image": "press:auto",
+      "ai_prompt": "international youth football tournament match in a stadium with green grass and cheering crowds",
+      "source": "https://baogialai.com.vn/cong-bo-lich-thi-dau-giai-bong-da-giao-huu-quoc-te-u23-gia-lai-vtv-cup-2026-post602345.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-17T20:49:15+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Ban tổ chức tiến hành khảo sát thực địa toàn bộ cung đường chạy giải Gia Lai City Trail 2026 qua các thắng cảnh Biển Hồ và hàng thông trăm tuổi nhằm hoàn thiện công tác an ninh, y tế cho vận động viên.",
+      "image": "press:auto",
+      "ai_prompt": "trail runners running through a peaceful pine forest path near a mountain lake",
+      "source": "https://baogialai.com.vn/khao-sat-duong-chay-gia-lai-city-trail-2026-post602327.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-17T19:07:05+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Núi lửa Chư Đang Ya bắt đầu chuyển sắc vàng rực rỡ đón mùa hoa dã quỳ nở rộ, mở đầu chuỗi hoạt động văn hóa, du lịch đặc sắc thu hút đông đảo du khách thập phương về trải nghiệm không gian Tây Nguyên.",
+      "image": "press:auto",
+      "ai_prompt": "stunning extinct volcano slopes blooming with vibrant yellow wild sunflowers in Central Highlands",
+      "source": "https://baomoi.com/chu-dang-ya-mo-rong-suc-hut-tu-mua-hoa-da-quy-c56294113.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-18T07:15:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Sáng 18/10, giá cà phê nhân xô tại địa bàn tỉnh bật tăng 1.000 đồng/kg lên 113.500 đồng/kg, trong khi giá tiêu giữ ổn định quanh mốc 146.000 đồng/kg, mang lại tín hiệu vui cho người trồng.",
+      "image": "press:auto",
+      "ai_prompt": "ripe red coffee cherries on green coffee trees in a lush plantation in Vietnam",
+      "source": "https://baogialai.com.vn/gia-ca-phe-ho-tieu-hom-nay-1810-ca-phe-bat-tang-1000-dongkg-post602368.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-18T06:55:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "UBND tỉnh quyết định điều chuyển 4 cơ sở nhà, đất dôi dư sau sáp nhập cho các cơ quan, đơn vị địa phương quản lý sử dụng nhằm tránh lãng phí tài sản công và đáp ứng nhu cầu làm việc, sinh hoạt cộng đồng.",
+      "image": "press:auto",
+      "ai_prompt": "modern administrative government office building in Vietnam surrounded by green trees",
+      "source": "https://baogialai.com.vn/gia-lai-dieu-chuyen-4-co-so-nha-dat-cho-cac-don-vi-dia-phuong-quan-ly-post602340.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-17T20:25:00+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "Đất vàng đấu giá, hoa dã quỳ Chư Đang Ya bắt đầu nở rộ, bà con lên lịch vi vu cuối tuần chưa? Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "caption": {
+    "tiktok": "Đấu giá loạt khu đất vàng; Khắc phục hư hỏng đường ĐT638 về Quy Nhơn? Bản tin Quy Nhơn - Gia Lai sáng 18/10/2026:\n1. Phê duyệt đấu giá quyền sử dụng loạt khu đất vàng tại các vị trí đắc địa (Thanh Niên)\n2. Khắc phục dứt điểm hư hỏng, lún nứt trên tuyến ĐT638 về trung tâm Quy Nhơn (Báo Xây Dựng)\n3. Công bố lịch thi đấu chính thức Giải bóng đá quốc tế U23 - Gia Lai VTV Cup 2026 (Báo Gia Lai)\n4. Khảo sát thực địa cung đường chạy giải Gia Lai City Trail 2026 qua Biển Hồ (Báo Gia Lai)\n5. Núi lửa Chư Đang Ya nở rộ hoa dã quỳ, mở đầu mùa du lịch Tây Nguyên (Báo Mới)\n6. Giá cà phê sáng 18/10 bật tăng 1.000 đồng/kg, hồ tiêu giữ mức ổn định (Báo Gia Lai)\n7. Điều chuyển 4 cơ sở nhà đất dôi dư tránh lãng phí tài sản công (Báo Gia Lai)\n\nMùa hoa dã quỳ Chư Đang Ya đã nở rộ, bà con lên lịch check-in chưa? Nhà bạn có tin? Nhắn kênh, kênh đưa!\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Đấu giá loạt khu đất vàng; Khắc phục đường ĐT638 về Quy Nhơn | Bản tin sáng 18/10/2026\n\nTổng hợp tin tức 24h qua tại Quy Nhơn & Gia Lai:\n- Phê duyệt kế hoạch đấu giá loạt khu đất vàng vị trí đắc địa\n- Sửa chữa khắc phục hư hỏng mặt đường tuyến ĐT638 kết nối về Quy Nhơn\n- Công bố lịch thi đấu chính thức giải bóng đá quốc tế U23 VTV Cup 2026\n- Hoàn tất khảo sát thực địa cung đường chạy Gia Lai City Trail 2026\n- Chư Đang Ya chuyển sắc vàng rực rỡ đón mùa hoa dã quỳ Tây Nguyên\n- Giá cà phê sáng nay bật tăng 1.000 đồng/kg mang lại niềm vui cho bà con nông dân\n- Điều chuyển 4 cơ sở nhà đất dôi dư phục vụ trụ sở làm việc và sinh hoạt cộng đồng\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "facebook": "Đấu giá loạt khu đất vàng; Khắc phục đường ĐT638 về Quy Nhơn? Điểm tin sáng 18/10/2026:\n1. UBND tỉnh phê duyệt kế hoạch đấu giá quyền sử dụng đất bổ sung năm 2026 đối với loạt khu đất vàng tại các vị trí đắc địa (Thanh Niên)\n2. Các đơn vị thi công khẩn trương khắc phục hư hỏng, lún nứt trên tuyến ĐT638 kết nối về trung tâm Quy Nhơn (Báo Xây Dựng)\n3. Ban tổ chức công bố lịch thi đấu chính thức Giải bóng đá giao hữu quốc tế U23 - Gia Lai VTV Cup 2026 (Báo Gia Lai)\n4. Khảo sát thực địa toàn bộ cung đường chạy giải Gia Lai City Trail 2026 qua thắng cảnh Biển Hồ (Báo Gia Lai)\n5. Núi lửa Chư Đang Ya bắt đầu chuyển sắc vàng rực rỡ đón mùa hoa dã quỳ nở rộ (Báo Mới)\n6. Sáng 18/10, giá cà phê bật tăng 1.000 đồng/kg, hồ tiêu giữ vững mức ổn định (Báo Gia Lai)\n7. Điều chuyển 4 cơ sở nhà, đất dôi dư cho các đơn vị địa phương quản lý sử dụng (Báo Gia Lai)\n\nMùa hoa dã quỳ Chư Đang Ya đã nở rộ, bà con lên lịch check-in chưa? Nhà bạn có tin? Nhắn kênh, kênh đưa!\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ]
+}
