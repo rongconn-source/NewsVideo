@@ -66,11 +66,12 @@ Ngoại lệ duy nhất: tin người dùng tự gửi.
 ### 5. Viết
 - Mỗi tin **1–2 câu, 80–200 ký tự**, đủ ý không cần đọc thêm, viết lại bằng lời mình (không chép tít).
 - Có số liệu cụ thể, địa danh (phường/xã), mốc thời gian.
+- **Tin quy hoạch, di dời, giải tỏa, dự án**: BẮT BUỘC nêu rõ lý do chính thức từ cơ quan nhà nước (vd: *"theo quy hoạch mở rộng không gian bờ biển ngắm cảnh cho cộng đồng"*, *"hết hạn thuê đất theo hợp đồng"*), không để khuyết thông tin khiến người xem suy đoán tiêu cực, bôi nhọ uy tín doanh nghiệp (như đồn đoán *"kinh doanh kém nên bị dẹp"*).
 - Án hình sự / tai nạn: không nêu tên đầy đủ, không giật gân, không từ lóng.
 - `cover.teaser` = **câu gây tò mò** của tin 1 (≤ 70 ký tự), hiện to trên bìa. Gây tò mò bằng sự thật, chừa kết quả để người xem lướt tiếp, vd. *"53 tài xế Quy Nhơn bị test ma túy bất ngờ – kết quả?"*. **Cấm** tít sai sự thật, thổi phồng; tin tai nạn/hình sự không giật gân.
 - Bìa mặc định **lấy ảnh tin 1 làm nền** (không cần ghi). Muốn bìa chỉ có icon: `"cover": {"image": "icon"}`; dùng ảnh tin khác: `"image": "item:N"`.
 - **Trang cuối = logo + lời follow + dòng mời gửi tin**: `outro` = *"Follow để nắm bắt tin tức Quy Nhơn nhé"*; dòng thứ 2 `outro_sub` mặc định *"Nhà bạn có tin? Nhắn kênh, kênh đưa!"* (script tự thêm, không cần ghi). **Không** dùng `outro_question` (người dùng không thích thẻ câu hỏi ở trang cuối).
-- `pin_comment`: bình luận kênh tự đăng rồi ghim – **câu hỏi về chủ đề của tin số 1**, dễ trả lời, + "Nhà bạn có tin? Nhắn kênh, kênh đưa!". Tin 1 là tai nạn/hình sự thì hỏi hướng an toàn/phòng tránh, không hỏi chi tiết vụ việc, không phán xét người liên quan. Không hỏi chính trị/tôn giáo/gây tranh cãi vùng miền.
+- `pin_comment`: bình luận kênh tự đăng rồi ghim – **câu hỏi tích cực, văn minh về chủ đề của tin số 1**, hướng đến tiện ích cộng đồng (vd: *"Bà con có mong chờ công viên ngắm biển mới này không? Chia sẻ cảm nghĩ nhé!"*). **Tuyệt đối KHÔNG** đặt câu hỏi mở mơ hồ tạo kẽ hở kích động đồn đoán thất thiệt, không hỏi chi tiết phán xét người liên quan hay doanh nghiệp. **Không** chèn câu kéo tin nhắn ngoài nền tảng (*"Nhắn kênh, kênh đưa!"*) vào bình luận để tránh bị TikTok gắn cờ spam.
 - Caption Facebook kết bằng chính câu hỏi trong `pin_comment`.
 - Caption riêng cho TikTok / YouTube / Facebook, **mở đầu bằng 1 câu hỏi hoặc câu gây tò mò**, rồi liệt kê tin + nguồn.
 - **Hashtags BẮT BUỘC luôn là 6 thẻ**: `#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua`.

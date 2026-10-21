@@ -41,3 +41,22 @@
 - **Quy tắc kênh NewsVideo**:
   1. Hệ thống chỉ hỗ trợ biên tập kịch bản và render video cục bộ trên máy tính người dùng.
   2. **Người dùng tự tay đăng tải video trên app TikTok** chính thức, đảm bảo 100% tuân thủ giao thức người dùng tự nhiên.
+
+## 7. Bảo vệ Uy tín Doanh nghiệp & Ngăn chặn Suy đoán Sai lệch (Điều 4 & Tiêu chuẩn Cộng đồng)
+- **Quy định TikTok**: Nghiêm cấm đưa thông tin sai lệch, suy diễn vô căn cứ gây tổn hại đến danh dự cá nhân hoặc uy tín thương mại, hoạt động kinh doanh hợp pháp của doanh nghiệp (Defamation / Misleading claims). Các bình luận đồn đoán sai bản chất sự việc rất dễ bị cộng đồng báo cáo (User Reports) dẫn đến việc TikTok gắn cờ và phạt tương tác video.
+- **Quy tắc kênh NewsVideo**:
+  1. **Nêu rõ lý do khách quan**: Khi đưa tin về di dời, giải tỏa, thu hồi mặt bằng công trình (như khách sạn ven biển, nhà xưởng, khu dân cư), **phải nêu rõ nguyên nhân chính sách từ cơ quan chức năng** (ví dụ: *"theo quy hoạch trả lại không gian bờ biển mở cho cộng đồng"*, *"hết thời hạn thuê đất theo hợp đồng"*). Tuyệt đối không để khoảng trống thông tin khiến người xem suy đoán tiêu cực (ví dụ suy diễn sai: *"chắc kinh doanh không hiệu quả mới bị dẹp"*).
+  2. **Câu hỏi tương tác văn minh (Call-to-action & Pinned Comment)**:
+     - Câu hỏi ghim và cuối video phải mang tính tích cực, hướng đến giá trị dân sinh, xã hội (vd: *"Bà con có mong chờ công viên ngắm biển mới này không?"*).
+     - Tuyệt đối không đặt câu hỏi mở mơ hồ (như *"bạn thấy quy hoạch này thế nào?"*) tạo kẽ hở cho các bình luận công kích, bôi nhọ, suy diễn thất thiệt.
+     - Tuyệt đối không chèn câu chèo kéo tin nhắn ngoài nền tảng (*"Nhắn kênh, kênh đưa!"*).
+
+## 8. Cấu hình Cài đặt An toàn Bình luận trên Ứng dụng TikTok (Comment Settings)
+Để bảo vệ kênh không bị tái phạm gắn cờ từ bình luận của người xem, chủ kênh cần cài đặt trong TikTok:
+- **Đường dẫn cài đặt**: App TikTok > Hồ sơ > Menu 3 gạch > Cài đặt & Quyền riêng tư > Quyền riêng tư > Bình luận.
+- **Thiết lập bắt buộc**:
+  1. **Lọc từ khóa (Filter keywords)**: BẬT và thêm danh sách từ khóa tiêu cực dễ gây bôi nhọ/thông tin sai lệch vào danh sách lọc:
+     `kinh doanh ko hiệu quả, kinh doanh không hiệu quả, làm ăn thua lỗ, phá sản, bị dẹp, sập tiệm, giải thể, lừa đảo, tham nhũng, chạy chức, tiêu cực, chèn ép`
+  2. **Lọc bình luận bị gắn cờ (Filter flagged comments)**: Chọn mức **Tiêu chuẩn (Standard)** hoặc **Nghiêm ngặt (Strict)**. Các bình luận nghi vấn sẽ chuyển vào mục "Xem lại bình luận bị lọc" để chủ kênh kiểm soát trước khi hiển thị.
+  3. **Nguyên tắc phản hồi (Creator Reply Protocol)**: Khi có người xem bình luận hiểu lầm/suy đoán sai bản chất, kênh chủ động trả lời đính chính văn minh bằng sự thật khách quan của bài báo gốc để định hướng dư luận, triệt tiêu tranh cãi và tránh bị người xem report chéo.
+

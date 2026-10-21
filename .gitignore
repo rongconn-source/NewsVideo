@@ -16,3 +16,7 @@ node_modules/
 # OS files
 Thumbs.db
 .DS_Store
+
+# MCP temp files
+.playwright-mcp/
+
