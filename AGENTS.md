@@ -7,13 +7,15 @@
 ## 1. Dự án làm gì
 Bản tin tức tổng hợp của một khu vực, dạng **video dọc 9:16** (mặc định chỉ render video, tạm không render ảnh lướt trừ khi người dùng yêu cầu), đăng TikTok / YouTube Shorts / Facebook Reels. Kênh chính thức: [@quynhon24hqua](https://www.tiktok.com/@quynhon24hqua). Học theo mô hình kênh TikTok @tinchuan23h59s.
 
-## 2. Việc của AI → dùng skill `ban-tin`
-Khi người dùng nói "làm bản tin", "bản tin hôm nay", "bản tin video", "tin <khu vực>", hoặc gửi link tin:
-**đọc và làm đúng theo `skills/ban-tin/SKILL.md`.**
+## 2. Việc của AI → dùng skills tương ứng
+- **Khi làm bản tin**: người dùng nói "làm bản tin", "bản tin hôm nay", "bản tin video", "tin <khu vực>", hoặc gửi link tin:
+  **đọc và làm đúng theo `skills/ban-tin/SKILL.md`.**
+  Tóm tắt (Tự động hóa 100% - Run skill là ra thành phẩm): chạy `ban_tin.py scan` lấy tin **đăng trong 24 giờ qua** từ 20 nguồn có sẵn trong `skills/ban-tin/config.json` (+ link người dùng nếu có) → AI tự động chọn lọc **6–7 tin mạnh nhất** và kiểm tra bài gốc → tự viết kịch bản lưu `skills/ban-tin/inbox/YYYYMMDD-<khu-vuc>.json` → tự chạy `python skills/ban-tin/scripts/ban_tin.py render skills/ban-tin/inbox/<file>.json --mode video` → xuất thẳng video hoàn chỉnh và caption sẵn sàng đăng (chỉ dừng lại hỏi duyệt nếu người dùng yêu cầu rõ ràng "cho tôi duyệt tin trước"). AI không ghi được file (chat trên web): dùng `skills/ban-tin/prompts/viet-kich-ban.md`, trả về 1 khối JSON.
 
-Tóm tắt (Tự động hóa 100% - Run skill là ra thành phẩm): chạy `ban_tin.py scan` lấy tin **đăng trong 24 giờ qua** từ 20 nguồn có sẵn trong `skills/ban-tin/config.json` (+ link người dùng nếu có) → AI tự động chọn lọc **6–7 tin mạnh nhất** và kiểm tra bài gốc → tự viết kịch bản lưu `skills/ban-tin/inbox/YYYYMMDD-<khu-vuc>.json` → tự chạy `python skills/ban-tin/scripts/ban_tin.py render skills/ban-tin/inbox/<file>.json --mode video` → xuất thẳng video hoàn chỉnh và caption sẵn sàng đăng (chỉ dừng lại hỏi duyệt nếu người dùng yêu cầu rõ ràng "cho tôi duyệt tin trước").
+- **Khi chứng thực & trả lời bình luận khán giả**: người dùng nói "trả lời bình luận", "chứng thực bình luận", "check cmt", "soạn trả lời cmt", "bình luận này trả lời sao", hoặc gửi nội dung bình luận của khán giả:
+  **đọc và làm đúng theo `skills/tra-loi-binh-luan/SKILL.md`.**
+  Tóm tắt: chạy `python skills/tra-loi-binh-luan/scripts/kiem_tra_binh_luan.py "<nội dung cmt>"` để rà soát rủi ro pháp lý & Tiêu chuẩn Cộng đồng TikTok → đối chiếu bài báo gốc đã lưu trong `skills/ban-tin/inbox/` → đưa ra 3 phương án trả lời chuẩn mực (Ngắn gọn / Đầy đủ căn cứ pháp lý / Thân thiện) và tư vấn từ khóa chặn trên TikTok nếu phát hiện bình luận bôi nhọ/thông tin sai lệch.
 
-AI không ghi được file (chat trên web): dùng `skills/ban-tin/prompts/viet-kich-ban.md`, trả về 1 khối JSON.
 
 ## 3. Quy tắc nội dung & xuất bản (bắt buộc)
 - **Định dạng mặc định**: Chỉ render **video** (dùng HyperFrames), tạm không render ảnh lướt.

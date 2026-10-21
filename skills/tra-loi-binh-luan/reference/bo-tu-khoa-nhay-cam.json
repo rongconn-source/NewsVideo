@@ -1,0 +1,39 @@
+{
+  "_mo_ta": "Bộ từ khóa giám sát rủi ro và căn cứ sự thật cho kênh Quy Nhơn 24h Qua (@quynhon24hqua)",
+  "nhom_tu_khoa": {
+    "boi_nho_doanh_nghiep": {
+      "keywords": [
+        "kinh doanh không hiệu quả", "kinh doanh ko hiệu quả", "làm ăn thua lỗ",
+        "phá sản", "bị dẹp", "sập tiệm", "bị thu hồi vì làm ăn kém", "đuổi đi", "giải thể"
+      ],
+      "rui_ro": "Bôi nhọ uy tín thương mại, thông tin sai sự thật về doanh nghiệp (vi phạm Tiêu chuẩn Cộng đồng TikTok & Luật An ninh mạng).",
+      "nguyen_tac_xu_ly": "Đính chính ngay bằng chủ trương quy hoạch mở rộng không gian công cộng hoặc quyết định chính thức từ UBND tỉnh; khẳng định việc giải tỏa không liên quan đến hiệu quả kinh doanh."
+    },
+    "quy_hoach_dat_dai": {
+      "keywords": [
+        "đất vàng", "thao túng đất", "cướp đất", "chia chác", "sân sau", "lợi ích nhóm", "thu hồi đất ép dân"
+      ],
+      "rui_ro": "Kích động mâu thuẫn chính sách, vi phạm chính sách chống thông tin gây hoang mang, kích động bạo lực/khiếu kiện.",
+      "nguyen_tac_xu_ly": "Cung cấp số quyết định phê duyệt quy hoạch, mục đích phục vụ lợi ích cộng đồng (công viên, bờ biển mở, trường học, bệnh viện), trích dẫn báo chí chính thống."
+    },
+    "can_bo_giao_duc_hanh_chinh": {
+      "keywords": [
+        "chạy chức", "chạy tiền", "tham nhũng", "chèn ép giáo viên", "bị đì", "bố trí tiêu cực", "quan hệ"
+      ],
+      "rui_ro": "Vu khống cán bộ, vi phạm Điều khoản bảo vệ danh dự nhân phẩm cá nhân (Defamation/Harassment).",
+      "nguyen_tac_xu_ly": "Khẳng định cơ quan chức năng (UBND tỉnh, Sở/Phòng GD&ĐT) đang kiểm tra rà soát theo đúng quy định pháp luật; kêu gọi chờ kết luận chính thức, không suy diễn cá nhân."
+    },
+    "lua_dao_chuyen_nham": {
+      "keywords": [
+        "lừa đảo", "rửa tiền", "chiếm đoạt", "công an bao che"
+      ],
+      "rui_ro": "Xuyên tạc hoạt động bảo vệ pháp luật.",
+      "nguyen_tac_xu_ly": "Trích dẫn vụ việc hỗ trợ thu hồi tiền chuyển nhầm của Công an phường/xã theo đúng quy trình tiếp nhận giải quyết tin báo."
+    }
+  },
+  "tu_khoa_loc_tiktok": [
+    "kinh doanh ko hiệu quả", "kinh doanh không hiệu quả", "làm ăn thua lỗ", "phá sản", "bị dẹp",
+    "sập tiệm", "giải thể", "lừa đảo", "tham nhũng", "chạy chức", "tiêu cực", "chèn ép", "chia chác",
+    "sân sau", "lợi ích nhóm", "bị đì"
+  ]
+}
