@@ -1,0 +1,95 @@
+{
+  "type": "digest",
+  "output": "video",
+  "date": "2026-10-22",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "cover": {
+    "kicker": "BẢN TIN TỐI",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Tối 22/10/2026",
+    "teaser": "Xăng E10 giảm hơn 1.800đ/lít; Truy nã đặc biệt 4 phạm nhân trốn trại",
+    "image": "item:1"
+  },
+  "items": [
+    {
+      "category": "tinh",
+      "text": "Từ 15h chiều 22/10, giá xăng trong nước giảm sâu: xăng E10 RON 95 giảm mạnh 1.816 đồng/lít xuống 25.213 đồng/lít, xăng E5 giảm 1.610 đồng; trái lại dầu diesel tăng 444 đồng/lít.",
+      "image": "press:auto",
+      "ai_prompt": "gas station in Vietnam with fuel price board and motorists refueling vehicles",
+      "source": "https://baogialai.com.vn/chieu-22-10-xang-e10-giam-hon-1800-donglit-dau-diesel-tang-post602801.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-22T15:07:27+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Đài khí tượng thủy văn cảnh báo chiều tối và đêm nay, các khu vực phía Tây Gia Lai có mây đối lưu phát triển mạnh, nguy cơ cao xảy ra mưa dông kèm lốc, sét, mưa đá và gió giật mạnh.",
+      "image": "press:auto",
+      "ai_prompt": "dramatic thunderstorm clouds and lightning over tropical mountain landscape at dusk in Vietnam",
+      "source": "https://baogialai.com.vn/canh-bao-giong-loc-set-mua-da-va-mua-lon-cuc-bo-o-phia-tay-gia-lai-post602803.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-22T15:55:04+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Trang trại cá tầm 12 tỷ đồng tại làng 'ốc đảo' Kon Pne phát huy hiệu quả với 14 ao nuôi công nghệ cao, vừa xuất bán thành công 2 lứa với tổng sản lượng đạt 60 tấn cá thương phẩm.",
+      "image": "press:auto",
+      "ai_prompt": "clean fresh coldwater sturgeon fish farming pools nestled in green mountain valley in Vietnam",
+      "source": "https://baogialai.com.vn/trien-vong-mo-hinh-nuoi-ca-tam-o-oc-dao-kon-pne-post602247.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-22T14:39:12+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Chiều 22/10, cơ quan chức năng chính thức khởi tố vụ án hình sự và phát lệnh truy nã đặc biệt toàn quốc đối với 4 phạm nhân trốn khỏi nơi giam giữ tại Trại giam A2.",
+      "image": "press:auto",
+      "ai_prompt": "official notice document bulletin warning and police investigation concept in Vietnam",
+      "source": "https://baomoi.com/khoi-to-vu-an-hinh-su-truy-na-dac-biet-4-pham-nhan-tron-khoi-trai-giam-a2-c56328971.epi",
+      "source_name": "Báo Khánh Hòa",
+      "published": "2026-10-22T17:09:00.000+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Tỉnh quyết liệt siết chặt quản lý nhóm tàu cá không đủ điều kiện, đẩy nhanh giải bản tàu '3 không' nhằm chuẩn bị tốt nhất cho đợt kiểm tra của Ủy ban châu Âu (EC) gỡ thẻ vàng IUU.",
+      "image": "press:auto",
+      "ai_prompt": "colorful wooden fishing boats anchored at sea harbor in Quy Nhon central Vietnam under daylight",
+      "source": "https://baogialai.com.vn/gia-lai-quan-chat-tau-ca-day-nhanh-tien-do-giai-ban-post602638.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-22T08:49:03+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Chủ tịch UBND tỉnh yêu cầu gắn trách nhiệm lãnh đạo từng sở ngành, quyết liệt tháo gỡ khó khăn cho các dự án ngoài ngân sách để sớm đưa vào vận hành, giữ vững đà tăng trưởng 2 con số.",
+      "image": "press:auto",
+      "ai_prompt": "provincial government leadership economic development planning conference in Vietnam",
+      "source": "https://baomoi.com/gia-lai-day-nhanh-tien-do-du-an-ngoai-ngan-sach-phuc-vu-muc-tieu-tang-truong-hai-con-so-c56328989.epi",
+      "source_name": "Báo Xây Dựng",
+      "published": "2026-10-22T17:19:00.000+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Suốt 30 năm, người phụ nữ 52 tuổi đều đặn chạy xe hơn 40km từ Đắk Lắk xuống Quy Nhơn bán than củi từ 5h sáng, vượt qua nhọc nhằn bụi bặm để nuôi hai người con khôn lớn thành tài.",
+      "image": "press:auto",
+      "ai_prompt": "hardworking Vietnamese mother with loaded motorcycle in coastal city street Quy Nhon at sunrise",
+      "source": "https://thanhnien.vn/nguoi-phu-nu-52-tuoi-va-30-nam-muu-sinh-bang-nghe-ban-than-o-quy-nhon-185261017153645399.htm",
+      "source_name": "Báo Thanh Niên",
+      "published": "2026-10-22T05:35:00+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "Giá xăng E10 vừa giảm mạnh hơn 1.800 đồng/lít từ 15h chiều nay, bà con đã kịp đổ đầy bình để tiết kiệm chi phí chưa? Cùng chia sẻ cảm nghĩ nhé!",
+  "caption": {
+    "tiktok": "Xăng E10 giảm sốc hơn 1.800đ/lít; Khởi tố truy nã 4 phạm nhân trốn trại? Điểm tin tối 22/10/2026:\n1. Giá xăng E10 giảm mạnh hơn 1.800 đồng/lít từ 15h chiều nay (Báo Gia Lai)\n2. Cảnh báo giông lốc, sét, mưa đá cục bộ phía Tây Gia Lai tối nay (Báo Gia Lai)\n3. Triển vọng nuôi cá tầm ốc đảo Kon Pne xuất bán 60 tấn (Báo Gia Lai)\n4. Chính thức khởi tố vụ án, truy nã đặc biệt 4 phạm nhân trốn trại (Báo Khánh Hòa)\n5. Quản chặt tàu cá, đẩy nhanh giải bản gỡ thẻ vàng IUU (Báo Gia Lai)\n6. Đôn đốc dự án ngoài ngân sách giữ vững tăng trưởng 2 con số (Báo Xây Dựng)\n7. Chuyện cảm động 30 năm mưu sinh bán than ở Quy Nhơn (Báo Thanh Niên)\n\nBà con quan tâm thông tin nào nhất tối nay? Cùng chia sẻ cảm nghĩ nhé!\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Xăng E10 giảm hơn 1.800đ/lít; Khởi tố truy nã 4 phạm nhân trốn trại | Bản tin tối 22/10/2026\n\nTổng hợp tin tức Quy Nhơn & Gia Lai tối 22/10/2026:\n- Giá xăng trong nước giảm sâu, xăng E10 hạ hơn 1.800 đồng/lít từ 15h chiều nay\n- Cảnh báo thời tiết giông lốc, mưa đá cục bộ phía Tây Gia Lai\n- Mô hình nuôi cá tầm ốc đảo Kon Pne xuất bán 60 tấn cá thương phẩm\n- Cơ quan chức năng khởi tố vụ án, truy nã đặc biệt toàn quốc 4 phạm nhân trốn trại\n- Tăng cường quản lý tàu cá, đẩy nhanh giải bản chống khai thác IUU\n- Đôn đốc tháo gỡ điểm nghẽn các dự án ngoài ngân sách\n- Chuyện nghề cảm động: 30 năm bán than nuôi con ở phố biển Quy Nhơn\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "facebook": "Xăng E10 giảm sốc hơn 1.800đ/lít; Khởi tố truy nã 4 phạm nhân trốn trại? Điểm tin tối 22/10/2026:\n1. Từ 15h chiều 22/10, giá xăng E10 giảm sâu 1.816 đồng/lít, xăng E5 giảm 1.610 đồng; dầu diesel tăng 444 đồng/lít (Báo Gia Lai)\n2. Cảnh báo giông lốc, sét, mưa đá và mưa lớn cục bộ tại nhiều khu vực phía Tây Gia Lai chiều tối nay (Báo Gia Lai)\n3. Nuôi cá tầm tại làng 'ốc đảo' Kon Pne đầu tư 12 tỷ đồng, xuất bán thành công 60 tấn thương phẩm (Báo Gia Lai)\n4. Cơ quan CSĐT chính thức khởi tố vụ án hình sự và phát lệnh truy nã đặc biệt toàn quốc 4 phạm nhân trốn trại (Báo Khánh Hòa)\n5. Quyết liệt quản chặt tàu cá, đẩy nhanh giải bản tàu không đủ điều kiện chung tay gỡ thẻ vàng IUU (Báo Gia Lai)\n6. Gắn trách nhiệm lãnh đạo, đôn đốc các dự án ngoài ngân sách thúc đẩy tăng trưởng kinh tế 2 con số (Báo Xây Dựng)\n7. Câu chuyện 30 năm mưu sinh bán than nuôi con khôn lớn của người phụ nữ 52 tuổi tại phố biển Quy Nhơn (Báo Thanh Niên)\n\nGiá xăng E10 vừa giảm mạnh hơn 1.800 đồng/lít từ 15h chiều nay, bà con đã kịp đổ đầy bình để tiết kiệm chi phí chưa? Cùng chia sẻ cảm nghĩ nhé!\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ]
+}
