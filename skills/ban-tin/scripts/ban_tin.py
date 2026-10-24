@@ -345,6 +345,57 @@ def write_caption(d: dict, out: Path) -> None:
     (out / "caption.txt").write_text(txt, encoding="utf-8")
 
 
+def sync_to_cloud(out: Path, conf: dict) -> Path | None:
+    sync_cfg = conf.get("cloud_sync", {})
+    if not sync_cfg.get("enabled", True):
+        return None
+
+    target = sync_cfg.get("target_dir")
+    user_home = Path.home()
+    dest_base = None
+
+    if target:
+        tp = Path(target)
+        if tp.is_absolute():
+            dest_base = tp
+        else:
+            dest_base = user_home / target
+
+    if not dest_base or not dest_base.parent.exists():
+        for cand in [
+            Path("G:/My Drive/BanTinQuyNhon"),
+            user_home / "Google Drive" / "BanTinQuyNhon",
+            user_home / "OneDrive" / "BanTinQuyNhon",
+            user_home / "iCloudDrive" / "BanTinQuyNhon",
+        ]:
+            if cand.parent.exists():
+                dest_base = cand
+                break
+
+    if not dest_base:
+        return None
+
+    try:
+        dest_base.mkdir(parents=True, exist_ok=True)
+        dest_folder = dest_base / out.name
+        if dest_folder.exists():
+            shutil.rmtree(dest_folder)
+        dest_folder.mkdir(parents=True, exist_ok=True)
+
+        for item in out.iterdir():
+            if item.name == "_project":
+                continue
+            if item.is_dir():
+                shutil.copytree(item, dest_folder / item.name)
+            else:
+                shutil.copy2(item, dest_folder / item.name)
+        return dest_folder
+    except Exception as e:
+        print(f"  ⚠ Lỗi đồng bộ Cloud Sync ({dest_base}): {e}")
+        return None
+
+
+
 # ---------------------------------------------------------------- meta (ngày đăng, ảnh bài gốc)
 def fetch_html(url: str) -> tuple[str, str]:
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/140.0",
@@ -625,6 +676,10 @@ def main() -> None:
     for p in sorted(out.iterdir()):
         if p.name != "_project":
             print("  -", p.name + ("/" if p.is_dir() else ""))
+    synced = sync_to_cloud(out, load_config())
+    if synced:
+        print(f"\n📲 ĐÃ ĐỒNG BỘ SANG ĐIỆN THOẠI (CLOUD SYNC): {synced}")
+
 
 
 if __name__ == "__main__":
