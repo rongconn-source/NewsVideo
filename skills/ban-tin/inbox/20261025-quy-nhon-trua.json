@@ -1,0 +1,95 @@
+{
+  "type": "digest",
+  "output": "video",
+  "date": "2026-10-25",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "cover": {
+    "kicker": "BẢN TIN TRƯA",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Trưa 25/10/2026",
+    "teaser": "FLC Golf 600 tay gôn; Nhà máy đốt rác Long Mỹ 1.900 tỷ",
+    "image": "item:1"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "text": "Vòng chung kết Giải Golf FLC 25 năm tại Quy Nhơn Đông quy tụ hơn 600 golfer toàn quốc tranh tài sôi nổi từ ngày 22 đến 25-10, tạo điểm nhấn thể thao và kích cầu du lịch biển Quy Nhơn.",
+      "image": "press:auto",
+      "ai_prompt": "golfers swinging on lush green golf course overlooking coastal Quy Nhon blue ocean bay in sunny day",
+      "source": "https://baogialai.com.vn/hon-600-golfer-tham-gia-vong-chung-ket-giai-flc-25th-anniversary-golf-tournament-2026-quy-nhon-post603041.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-24T18:10:46+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "UBND tỉnh phê duyệt điều chỉnh nâng vốn Nhà máy đốt rác phát điện Long Mỹ lên gần 1.900 tỷ đồng, công suất 800 tấn rác/ngày đêm và phát điện 15 MW, phục vụ xử lý rác cho 17 xã phường phía đông.",
+      "image": "press:auto",
+      "ai_prompt": "modern eco-friendly waste-to-energy power plant industrial facility in Vietnam with blue sky",
+      "source": "https://thanhnien.vn/nha-may-dot-rac-phat-dien-o-gia-lai-tang-von-len-gan-1900-ti-dong-185261023210939581.htm",
+      "source_name": "Báo Thanh Niên",
+      "published": "2026-10-24T12:21:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Tại di tích Tháp Đôi ở phường Quy Nhơn, chương trình Hành trình di sản thu hút đông đảo du khách với màn trình diễn trống trận Tây Sơn cùng các bài quyền cổ truyền Bình Định đặc sắc.",
+      "image": "press:auto",
+      "ai_prompt": "traditional martial artists performing historic forms in front of ancient Cham twin towers Thap Doi in Quy Nhon",
+      "source": "https://baogialai.com.vn/trinh-dien-va-trai-nghiem-di-san-van-hoa-tai-di-tich-thap-doi-post603015.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-25T04:52:27+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Tỉnh quyết định đầu tư 150 tỷ đồng xây dựng đập dâng sông Kim Sơn giai đoạn 2026-2030, giúp ổn định mực nước mùa cạn và đảm bảo tưới tiêu cho 600 ha đất sản xuất nông nghiệp.",
+      "image": "press:auto",
+      "ai_prompt": "large modern concrete river dam water reservoir infrastructure project in rural green landscape Vietnam",
+      "source": "https://baogialai.com.vn/gia-lai-dau-tu-150-ty-dong-de-xay-dung-dap-dang-song-kim-son-post603077.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-25T10:30:54+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Các võ sinh Trung tâm Võ thuật cổ truyền Bình Định đã mang những đường quyền, đường kiếm điêu luyện giao lưu cùng tiếng cồng chiêng đại ngàn tại chương trình Cồng chiêng cuối tuần.",
+      "image": "press:auto",
+      "ai_prompt": "martial arts practitioners performing traditional sword and staff forms at night public square Vietnam",
+      "source": "https://baogialai.com.vn/vo-co-truyen-gop-mat-tai-chuong-trinh-cong-chieng-cuoi-tuan-post603044.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-25T10:36:06+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Dự án Thủy điện Sê San 4A mở rộng tại xã Ia O vừa chính thức khởi công với tổng mức đầu tư hơn 802 tỷ đồng, công suất 29 MW, bổ sung nguồn năng lượng sạch lớn vào lưới điện quốc gia.",
+      "image": "press:auto",
+      "ai_prompt": "groundbreaking construction ceremony for hydroelectric power plant expansion project in Vietnam",
+      "source": "https://baogialai.com.vn/khoi-cong-du-an-thuy-dien-se-san-4a-mo-rong-post603019.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-24T13:58:10+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Ủy ban MTTQ phường An Nhơn Bắc đã hoàn thành và bàn giao 2 căn nhà Đại đoàn kết kiên cố (hỗ trợ 60 triệu đồng/căn) cho 2 hộ cận nghèo khó khăn, giúp bà con an cư lạc nghiệp.",
+      "image": "press:auto",
+      "ai_prompt": "happy Vietnamese family receiving keys in front of newly built brick charity house with red ribbon",
+      "source": "https://baogialai.com.vn/an-nhon-bac-ban-giao-2-nha-dai-doan-ket-cho-ho-can-ngheo-post603033.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-24T17:19:01+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "Dự án điện rác Long Mỹ 1.900 tỷ và đập dâng 150 tỷ đang mang lại nhiều kỳ vọng cho diện mạo hạ tầng quê mình. Bà con ấn tượng tin nào nhất trưa nay? Cùng chia sẻ cảm nghĩ nhé!",
+  "caption": {
+    "tiktok": "FLC Golf 600 tay gôn; Nhà máy đốt rác Long Mỹ 1.900 tỷ? Điểm tin trưa 25/10/2026:\n1. Hơn 600 golfer tranh tài vòng chung kết FLC Golf Tournament tại Quy Nhơn (Báo Gia Lai)\n2. Tăng vốn Nhà máy đốt rác phát điện Long Mỹ lên gần 1.900 tỷ đồng (Báo Thanh Niên)\n3. Trình diễn nhạc võ Tây Sơn tại di tích Tháp Đôi Quy Nhơn (Báo Gia Lai)\n4. Đầu tư 150 tỷ đồng xây dựng đập dâng sông Kim Sơn (Báo Gia Lai)\n5. Võ cổ truyền Bình Định giao hòa cùng tiếng cồng chiêng đại ngàn (Báo Gia Lai)\n6. Khởi công Dự án Thủy điện Sê San 4A mở rộng hơn 802 tỷ đồng (Báo Gia Lai)\n7. An Nhơn Bắc bàn giao 2 nhà Đại đoàn kết cho hộ khó khăn (Báo Gia Lai)\n\nBà con ấn tượng thông tin nào nhất trưa nay? Cùng chia sẻ cảm nghĩ nhé!\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "FLC Golf 600 tay gôn; Nhà máy đốt rác Long Mỹ 1.900 tỷ | Bản tin trưa 25/10/2026\n\nTổng hợp tin tức Quy Nhơn & Gia Lai trưa 25/10/2026:\n- Hơn 600 golfer toàn quốc tranh tài chung kết FLC Golf Links Quy Nhơn\n- Điều chỉnh nâng vốn Nhà máy đốt rác phát điện Long Mỹ lên gần 1.900 tỷ\n- Di sản Tháp Đôi sống động với trống trận Tây Sơn và võ cổ truyền\n- Gia Lai đầu tư 150 tỷ đồng xây đập dâng sông Kim Sơn cấp nước 600 ha\n- Võ cổ truyền Bình Định hòa tấu cùng không gian Cồng chiêng cuối tuần\n- Khởi công Dự án Thủy điện Sê San 4A mở rộng hơn 802 tỷ đồng tại Ia O\n- Bàn giao 2 căn nhà Đại đoàn kết ấm áp nghĩa tình tại An Nhơn Bắc\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "facebook": "FLC Golf 600 tay gôn; Nhà máy đốt rác Long Mỹ 1.900 tỷ? Điểm tin trưa 25/10/2026:\n1. Hơn 600 golfer toàn quốc hội tụ tranh tài vòng chung kết Giải FLC 25 năm tại FLC Golf Links Quy Nhon (Báo Gia Lai)\n2. UBND tỉnh điều chỉnh phê duyệt nâng tổng mức đầu tư Nhà máy đốt rác phát điện Long Mỹ lên gần 1.900 tỷ đồng (Báo Thanh Niên)\n3. Tại di tích Tháp Đôi, chương trình Hành trình di sản thu hút du khách với màn biểu diễn trống trận Tây Sơn hào hùng (Báo Gia Lai)\n4. Tỉnh quyết định đầu tư 150 tỷ đồng xây dựng đập dâng sông Kim Sơn giai đoạn 2026-2030 phục vụ 600 ha nông nghiệp (Báo Gia Lai)\n5. Võ cổ truyền Bình Định đem đến những bài quyền, bài kiếm đặc sắc giao lưu cùng cồng chiêng Tây Nguyên (Báo Gia Lai)\n6. Khởi công Dự án Thủy điện Sê San 4A mở rộng vốn hơn 802 tỷ đồng tại xã Ia O, công suất 29 MW (Báo Gia Lai)\n7. Ủy ban MTTQ phường An Nhơn Bắc trao tặng 2 nhà Đại đoàn kết cho các hộ cận nghèo khó khăn về nhà ở (Báo Gia Lai)\n\nBà con ấn tượng thông tin nào nhất trưa nay? Cùng chia sẻ cảm nghĩ nhé!\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ]
+}
