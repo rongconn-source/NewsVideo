@@ -1,0 +1,95 @@
+{
+  "type": "digest",
+  "output": "video",
+  "date": "2026-10-26",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "cover": {
+    "kicker": "BẢN TIN TỐI",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Tối 26/10/2026",
+    "teaser": "Vụ 5 hiệu trưởng Quy Nhơn Nam; Taxi bay Quy Nhơn - Phù Cát",
+    "image": "item:1"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "text": "Sở GD-ĐT tỉnh vừa có kết luận kiểm tra việc sắp xếp nhân sự trường học tại phường Quy Nhơn Nam; chỉ rõ thiếu sót và đề nghị địa phương bố trí 3 nguyên hiệu trưởng làm phó hiệu trưởng đúng định hướng.",
+      "image": "press:auto",
+      "ai_prompt": "modern school building campus in Quy Nhon Vietnam with teachers and officials in a meeting room",
+      "source": "https://thanhnien.vn/vu-bo-tri-5-hieu-truong-lam-giao-vien-tinh-gia-lai-chi-ra-thieu-sot-18526102522593913.htm",
+      "source_name": "Báo Thanh Niên",
+      "published": "2026-10-26T07:36:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Trước mùa mưa bão cận kề, các địa phương và nhà thầu đang tập trung nhân lực, máy móc thi công tăng ca để đẩy nhanh tiến độ 64 công trình đê kè khẩn cấp, bảo đảm an toàn tính mạng và tài sản của nhân dân.",
+      "image": "press:auto",
+      "ai_prompt": "construction workers and excavators building concrete sea embankment river dike protection in Vietnam",
+      "source": "https://baogialai.com.vn/chay-dua-tien-do-tren-cac-cong-trinh-khan-cap-post603128.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-26T16:21:04+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Tính đến hết tháng 9, toàn tỉnh ghi nhận hơn 302 tỷ đồng chậm đóng bảo hiểm xã hội, bảo hiểm y tế và thất nghiệp; cơ quan chức năng đang quyết liệt thanh tra, thu hồi nợ để bảo vệ quyền lợi người lao động.",
+      "image": "press:auto",
+      "ai_prompt": "social insurance department transaction office with citizens handling social security documents in Vietnam",
+      "source": "https://baomoi.com/gia-lai-con-hon-302-ty-dong-cham-dong-bao-hiem-xa-hoi-y-te-that-nghiep-c56354486.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-26T14:08:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Tỉnh vừa đề xuất cơ chế thử nghiệm hoạt động taxi bay không người lái chặng Quy Nhơn - Phù Cát và các khu du lịch biển; hướng tới phát triển mô hình giao thông hiện đại và sản phẩm du lịch đột phá.",
+      "image": "press:auto",
+      "ai_prompt": "futuristic passenger electric drone air taxi flying over scenic coastal bay of Quy Nhon Vietnam in sunny day",
+      "source": "https://baogialai.com.vn/gia-lai-de-xuat-chu-truong-thuc-hien-thi-diem-hoat-dong-taxi-bay-khong-nguoi-lai-post602827.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-26T06:58:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Cục Đường bộ Việt Nam yêu cầu nhà đầu tư khẩn trương đẩy nhanh thi công trạm cấp nhiên liệu, trạm sạc xe điện và khu dịch vụ tại trạm dừng nghỉ Hoài Nhơn - Quy Nhơn, bảo đảm hoàn thành đúng hạn gia hạn.",
+      "image": "press:auto",
+      "ai_prompt": "modern highway rest stop service station with EV charging docks and fuel pumps in Vietnam",
+      "source": "https://baomoi.com/co-quan-quan-ly-ra-toi-hau-thu-tien-do-tram-dung-nghi-cao-toc-hoai-nhon-quy-nhon-c56355221.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-26T15:37:24+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Vượt qua 79 đội tuyển từ 26 trường đại học, hai đội QNU.Prime và QNU.Omega của Trường ĐH Quy Nhơn xuất sắc giải thành công 4 bài toán trong 5 giờ, cùng giành giải ba Kỳ thi Lập trình quốc tế ICPC miền Trung.",
+      "image": "press:auto",
+      "ai_prompt": "smart Vietnamese university students programming in computer science competition with code on screens",
+      "source": "https://baogialai.com.vn/hai-doi-truong-dai-hoc-quy-nhon-gianh-giai-ba-tai-ky-thi-lap-trinh-sinh-vien-quoc-te-icpc-mien-trung-post603197.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-26T19:05:39+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Đài KTTV tỉnh phát cảnh báo mây đối lưu phát triển mạnh trên vùng biển, có khả năng gây mưa lớn cục bộ kèm giông lốc, sét và gió giật tại Hoài Nhơn, Phù Mỹ, Tây Sơn; khuyến cáo bà con chủ động phòng tránh.",
+      "image": "press:auto",
+      "ai_prompt": "dramatic thunderstorm clouds with lightning flash over coastal sea bay in central Vietnam",
+      "source": "https://baogialai.com.vn/canh-bao-giong-loc-set-mua-da-va-mua-lon-cuc-bo-o-khu-vuc-phia-dong-gia-lai-post603179.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-26T15:09:37+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "Phương án sắp xếp nhân sự giáo dục tại Quy Nhơn Nam và đề xuất taxi bay đang thu hút nhiều sự quan tâm. Bạn ấn tượng nhất thông tin nào tối nay? Cùng chia sẻ cảm nghĩ nhé!",
+  "caption": {
+    "tiktok": "Vụ 5 hiệu trưởng Quy Nhơn Nam; Taxi bay Quy Nhơn - Phù Cát? Điểm tin tối 26/10/2026:\n1. Tỉnh chỉ ra thiếu sót vụ bố trí 5 hiệu trưởng tại Quy Nhơn Nam (Báo Thanh Niên)\n2. Chạy đua tiến độ 64 đê kè khẩn cấp trước mùa bão lũ (Báo Gia Lai)\n3. Toàn tỉnh còn hơn 302 tỷ đồng chậm đóng bảo hiểm xã hội (Báo Mới)\n4. Đề xuất thí điểm taxi bay không người lái Quy Nhơn - Phù Cát (Báo Gia Lai)\n5. Ra 'tối hậu thư' tiến độ trạm dừng nghỉ cao tốc Hoài Nhơn - Quy Nhơn (Báo Mới)\n6. Hai đội ĐH Quy Nhơn đoạt giải ba Lập trình quốc tế ICPC (Báo Gia Lai)\n7. Cảnh báo khẩn giông lốc, mưa lớn tại khu vực phía Đông (Báo Gia Lai)\n\nBà con quan tâm thông tin nào nhất tối nay? Cùng chia sẻ cảm nghĩ nhé!\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Vụ 5 hiệu trưởng Quy Nhơn Nam; Taxi bay Quy Nhơn - Phù Cát | Bản tin tối 26/10/2026\n\nTổng hợp tin tức Quy Nhơn & Gia Lai tối 26/10/2026:\n- Tỉnh chỉ ra thiếu sót trong sắp xếp nhân sự trường học tại Quy Nhơn Nam\n- Đẩy nhanh tiến độ thi công 64 công trình kè chống sạt lở khẩn cấp\n- Quyết liệt đôn đốc xử lý hơn 302 tỷ đồng chậm đóng bảo hiểm xã hội\n- Đề xuất thử nghiệm phương tiện taxi bay không người lái chặng Quy Nhơn\n- Cục Đường bộ ra tối hậu thư trạm dừng nghỉ cao tốc Hoài Nhơn - Quy Nhơn\n- Sinh viên Đại học Quy Nhơn xuất sắc giành giải ba Lập trình quốc tế ICPC\n- Cảnh báo thời tiết giông lốc, sét và mưa lớn cục bộ vùng duyên hải\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "facebook": "Vụ 5 hiệu trưởng Quy Nhơn Nam; Taxi bay Quy Nhơn - Phù Cát? Điểm tin tối 26/10/2026:\n1. Sở GD-ĐT kết luận kiểm tra việc sắp xếp nhân sự tại phường Quy Nhơn Nam, đề nghị bố trí 3 nguyên hiệu trưởng làm phó hiệu trưởng đúng quy định (Báo Thanh Niên)\n2. Các địa phương và nhà thầu đang tập trung nhân lực chạy đua hoàn thành 64 công trình đê kè khẩn cấp trước mùa mưa lũ (Báo Gia Lai)\n3. Toàn tỉnh ghi nhận hơn 302 tỷ đồng chậm đóng BHXH, BHYT; ngành chức năng tăng cường thanh tra bảo vệ quyền lợi người lao động (Báo Mới)\n4. Tỉnh đề xuất cơ chế thí điểm taxi bay không người lái kết nối Quy Nhơn - Phù Cát và các điểm du lịch biển (Báo Gia Lai)\n5. Cục Đường bộ Việt Nam yêu cầu nhà đầu tư khẩn trương hoàn thiện trạm dừng nghỉ cao tốc Hoài Nhơn - Quy Nhơn đúng thời hạn (Báo Mới)\n6. Hai đội tuyển ĐH Quy Nhơn xuất sắc cùng đoạt giải ba tại Kỳ thi Lập trình sinh viên quốc tế ICPC miền Trung (Báo Gia Lai)\n7. Cảnh báo mây đối lưu phát triển mạnh trên vùng biển, khả năng xuất hiện mưa lớn, giông lốc và gió giật tại các xã, phường phía Đông (Báo Gia Lai)\n\nBà con quan tâm thông tin nào nhất tối nay? Cùng chia sẻ cảm nghĩ nhé!\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ]
+}
