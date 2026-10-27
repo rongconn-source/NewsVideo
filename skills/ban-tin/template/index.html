@@ -40,19 +40,20 @@
         background: radial-gradient(ellipse 120% 70% at 50% 72%, var(--navy-600) 0%, var(--navy-800) 55%, var(--navy-900) 100%);
       }
       .scene + .scene { opacity: 0; }
-      .topbar { /* không còn thanh nền: tên kênh nằm trên ảnh, có bóng mờ để dễ đọc */
-        position: absolute; top: 0; left: 0; width: 1080px; height: 150px;
-        background: linear-gradient(180deg, rgba(6,22,51,0.72) 0%, rgba(6,22,51,0.35) 55%, rgba(6,22,51,0) 100%);
-        display: flex; align-items: flex-start; justify-content: space-between; padding: 34px 56px 0;
+      .topbar { /* Safe zone cho chế độ điện thoại/iPhone: cách đỉnh 155px để không bị tai thỏ, Dynamic Island, giờ hệ thống và UI TikTok che */
+        position: absolute; top: 0; left: 0; width: 1080px; height: 230px;
+        background: linear-gradient(180deg, rgba(6,22,51,0.92) 0%, rgba(6,22,51,0.6) 130px, rgba(6,22,51,0) 100%);
+        display: flex; align-items: flex-start; justify-content: space-between; padding: 155px 56px 0;
+        z-index: 10;
       }
       .brand { font-weight: 800; font-size: 32px; letter-spacing: 0.08em; color: var(--ink); text-shadow: 0 2px 8px rgba(0,0,0,0.6); }
       .brand b { color: var(--amber); }
       .chip { font-weight: 700; font-size: 24px; letter-spacing: 0.12em; color: var(--navy-900); background: var(--amber); padding: 6px 16px; border-radius: 8px; }
-      .photo { position: absolute; top: 0; left: 0; width: 1080px; height: 1056px; overflow: hidden; } /* ảnh 55% : chữ 45% */
+      .photo { position: absolute; top: 140px; left: 0; width: 1080px; height: 916px; overflow: hidden; } /* ảnh bắt đầu từ 140px: tránh góc bo tròn và Dynamic Island của iPhone */
       .photo-inner { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; }
       .photo-bg { position: absolute; inset: 0; }
-      .photo-img { position: absolute; inset: 0; width: 1080px; height: 1056px; object-fit: cover; display: block; }
-      .photo-img.ai { height: 1156px; object-position: center top; } /* cắt logo góc dưới của ảnh AI */
+      .photo-img { position: absolute; inset: 0; width: 1080px; height: 916px; object-fit: cover; display: block; }
+      .photo-img.ai { height: 1016px; object-position: center top; } /* cắt logo góc dưới của ảnh AI */
       .ghost-num { position: absolute; right: 40px; bottom: -40px; width: 400px; height: 560px; display: block; }
       .rain {
         position: absolute; left: 0; top: -300px; width: 1080px; height: 1460px;
@@ -78,7 +79,7 @@
       }
       .cover-glow { position: absolute; left: 90px; top: 260px; width: 900px; height: 900px; border-radius: 50%; background: radial-gradient(circle, rgba(246,185,59,0.28) 0%, rgba(246,185,59,0) 65%); }
       .cover-bg { position: absolute; left: 0; top: 0; width: 1080px; height: 1920px; object-fit: cover; display: block; }
-      .cover-shade { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(6,22,51,0.25) 0%, rgba(6,22,51,0.35) 38%, rgba(6,22,51,0.92) 56%, var(--navy-900) 75%); }
+      .cover-shade { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(6,22,51,0.95) 0%, rgba(6,22,51,0.6) 130px, rgba(6,22,51,0.25) 260px, rgba(6,22,51,0.92) 56%, var(--navy-900) 75%); }
       .cover-icon { position: absolute; left: 260px; top: 330px; width: 560px; height: 560px; display: block; }
       .cover-text { position: absolute; left: 72px; top: 1000px; width: 936px; }
       .cover-kicker { display: inline-block; font-weight: 800; font-size: 32px; letter-spacing: 0.14em; color: var(--navy-900); background: var(--amber); padding: 8px 20px; border-radius: 8px; }
