@@ -1,0 +1,97 @@
+{
+  "type": "digest",
+  "output": "video",
+  "date": "2026-10-27",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "cover": {
+    "kicker": "BẢN TIN TỐI",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Tối 27/10/2026",
+    "teaser": "Vụ nữ sinh ĐH Quy Nhơn; Kiểm tra 3 tiệm vàng; Cháy nhà Vĩnh Thịnh",
+    "image": "item:1"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "text": "Công an tỉnh Gia Lai và Công an phường Quy Nhơn Nam đang khẩn trương điều tra, làm rõ nguyên nhân một nữ sinh viên 19 tuổi Trường ĐH Quy Nhơn được phát hiện tử vong tại phòng trọ trên đường Nguyễn Văn Hiển.",
+      "image": "press:auto",
+      "ai_prompt": "police investigators working outside a student apartment building in Quy Nhon Vietnam",
+      "source": "https://baomoi.com/nu-sinh-vien-tu-vong-trong-phong-tro-o-quy-nhon-c56364226.epi",
+      "source_name": "Báo Mới / VTC News",
+      "published": "2026-10-27T17:39:00+07:00",
+      "from_user": true
+    },
+    {
+      "category": "tinh",
+      "text": "Cơ quan chức năng đang điều tra nguyên nhân vụ hỏa hoạn lúc rạng sáng tại thôn Vĩnh Thái, xã Vĩnh Thịnh khiến 2 cha con tử vong và 2 người lớn tuổi bị thương, đồng thời khẩn trương cứu chữa các nạn nhân.",
+      "image": "press:https://baomoi-photo-fbcrawler.bmcdn.me/w1200_r16x9/2026_10_26_5_56356531/701ca6070f4ce612bf5d.jpg",
+      "ai_prompt": "fire rescue vehicle and firefighters inspecting scene in rural central Vietnam",
+      "source": "https://congan.com.vn/doi-song/toan-dan-phong-chay-chua-chay/chay-nha-luc-rang-sang-o-gia-lai-hai-cha-con-tu-vong_199200.html",
+      "source_name": "Báo Công an TP.HCM",
+      "published": "2026-10-27T10:00:00+07:00",
+      "from_user": true
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Chiều 27/10, công an kiểm tra hành chính tại 3 tiệm vàng ở TP. Quy Nhơn; cơ quan chức năng khuyến cáo người dân nâng cao cảnh giác, không lan truyền các thông tin đồn đoán thất thiệt chưa kiểm chứng.",
+      "image": "press:auto",
+      "ai_prompt": "police officers conducting administrative inspection outside a jewelry store in Quy Nhon",
+      "source": "https://thanhnien.vn/cong-an-kiem-tra-3-tiem-vang-tai-quy-nhon-185261027164133028.htm",
+      "source_name": "Báo Thanh Niên",
+      "published": "2026-10-27T17:36:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Dự án Bệnh viện đa khoa An Nhơn Đông được chấp thuận đầu tư gần 307 tỷ đồng, quy mô đến 100 giường bệnh trên khu đất hơn 1,2 ha, hoàn thành đưa vào phục vụ chăm sóc sức khỏe nhân dân trong vòng 36 tháng.",
+      "image": "press:auto",
+      "ai_prompt": "modern general hospital architectural rendering in green sunny campus Vietnam",
+      "source": "https://baomoi.com/gia-lai-chap-thuan-dau-tu-du-an-benh-vien-da-khoa-an-nhon-dong-gan-307-ty-dong-c56363918.epi",
+      "source_name": "Báo Mới / Đầu Tư",
+      "published": "2026-10-27T16:59:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Công an làm rõ vụ khống chế người đàn ông trèo lên nóc tàu hỏa bỏ chạy tại ga Bồng Sơn, khẳng định đối tượng không liên quan đến nhóm phạm nhân trốn trại, yêu cầu người dân không chia sẻ clip sai sự thật.",
+      "image": "press:auto",
+      "ai_prompt": "train railway station platform in central Vietnam with security personnel",
+      "source": "https://baomoi.com/yeu-cau-khong-lan-truyen-clip-vay-bat-nguoi-dan-ong-tren-noc-tau-hoa-gay-nham-lan-voi-pham-nhan-tron-trai-c56363435.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-27T16:14:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "text": "Liên quan đề xuất xử lý điểm sạt lở núi Một tại Quy Nhơn, nhiều chuyên gia kiến nghị cần khảo sát địa chất kỹ lưỡng để có giải pháp công trình phù hợp, vừa bảo đảm an toàn vừa giữ gìn cảnh quan tự nhiên.",
+      "image": "press:auto",
+      "ai_prompt": "scenic green hill mountain overlooking coastal city and residential area in Vietnam",
+      "source": "https://thanhnien.vn/khao-sat-ky-truoc-khi-chon-san-phang-nui-mot-185261026203509375.htm",
+      "source_name": "Báo Thanh Niên",
+      "published": "2026-10-27T05:21:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "text": "Ban tổ chức chính thức công bố lịch thi đấu Giải bóng đá giao hữu quốc tế U23 Gia Lai VTV Cup 2026 tại Pleiku từ 10 đến 14/11, với trận tâm điểm đáng chờ đợi giữa đội tuyển U23 Việt Nam và U23 Thái Lan.",
+      "image": "press:auto",
+      "ai_prompt": "international football tournament press conference banner and football stadium in Pleiku Vietnam",
+      "source": "https://baomoi.com/cong-bo-giai-bong-da-giao-huu-quoc-te-u23-gia-lai-vtv-cup-2026-c56363924.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-27T17:01:00+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "Cơ quan chức năng khuyến cáo người dân không chia sẻ các thông tin chưa kiểm chứng trên không gian mạng. Cùng cập nhật tin chuẩn và chia sẻ văn minh bên dưới nhé!",
+  "caption": {
+    "tiktok": "Vụ nữ sinh ĐH Quy Nhơn; Kiểm tra 3 tiệm vàng; Cháy nhà Vĩnh Thịnh? Điểm tin tối 27/10/2026:\n1. Điều tra vụ nữ sinh Trường ĐH Quy Nhơn tử vong tại phòng trọ (Báo Mới)\n2. Điều tra nguyên nhân vụ cháy nhà khiến 2 cha con tử vong ở Vĩnh Thịnh (Báo Công an TP.HCM)\n3. Công an kiểm tra 3 tiệm vàng tại Quy Nhơn, khuyến cáo không đồn đoán (Báo Thanh Niên)\n4. Chấp thuận đầu tư Bệnh viện đa khoa An Nhơn Đông gần 307 tỷ đồng (Báo Mới)\n5. Đính chính clip khống chế đối tượng trên nóc tàu tại ga Bồng Sơn (Báo Mới)\n6. Khảo sát kỹ trước khi chọn san phẳng núi Một ở Quy Nhơn (Báo Thanh Niên)\n7. Họp báo công bố Giải bóng đá quốc tế U23 Gia Lai VTV Cup 2026 (Báo Mới)\n\nBà con quan tâm thông tin nào nhất tối nay? Cùng chia sẻ cảm nghĩ nhé!\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Vụ nữ sinh ĐH Quy Nhơn; Kiểm tra 3 tiệm vàng; Cháy nhà Vĩnh Thịnh | Bản tin tối 27/10/2026\n\nTổng hợp tin tức Quy Nhơn & Gia Lai tối 27/10/2026:\n- Khẩn trương điều tra vụ nữ sinh viên ĐH Quy Nhơn tử vong tại phòng trọ\n- Điều tra vụ hỏa hoạn nghiêm trọng lúc rạng sáng tại xã Vĩnh Thịnh\n- Công an kiểm tra 3 tiệm vàng tại TP. Quy Nhơn, cảnh báo tin đồn thất thiệt\n- Chấp thuận đầu tư dự án Bệnh viện đa khoa An Nhơn Đông gần 307 tỷ đồng\n- Đính chính thông tin vụ khống chế người trên nóc tàu hỏa tại ga Bồng Sơn\n- Chuyên gia kiến nghị khảo sát kỹ lưỡng giải pháp xử lý núi Một Quy Nhơn\n- Họp báo công bố lịch thi đấu Giải bóng đá quốc tế U23 Gia Lai VTV Cup 2026\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "facebook": "Vụ nữ sinh ĐH Quy Nhơn; Kiểm tra 3 tiệm vàng; Cháy nhà Vĩnh Thịnh? Điểm tin tối 27/10/2026:\n1. Công an khẩn trương điều tra làm rõ nguyên nhân một nữ sinh viên Trường ĐH Quy Nhơn tử vong trong phòng trọ trên đường Nguyễn Văn Hiển (Báo Mới)\n2. Điều tra nguyên nhân vụ cháy nhà lúc rạng sáng tại thôn Vĩnh Thái, xã Vĩnh Thịnh khiến 2 cha con tử vong, 2 người bị thương (Báo Công an TP.HCM)\n3. Lực lượng chức năng kiểm tra hành chính tại 3 tiệm vàng ở TP. Quy Nhơn, khuyến cáo người dân không chia sẻ tin đồn chưa kiểm chứng (Báo Thanh Niên)\n4. Tỉnh chấp thuận chủ trương đầu tư Bệnh viện đa khoa An Nhơn Đông gần 307 tỷ đồng, quy mô 100 giường bệnh (Báo Mới)\n5. Công an làm rõ vụ khống chế người trèo lên nóc tàu ga Bồng Sơn, khẳng định không phải phạm nhân trốn trại (Báo Mới)\n6. Các chuyên gia và bạn đọc đề xuất khảo sát địa chất kỹ lưỡng để vừa an toàn vừa giữ cảnh quan núi Một tại Quy Nhơn (Báo Thanh Niên)\n7. Họp báo chính thức công bố Giải bóng đá giao hữu quốc tế U23 Gia Lai VTV Cup 2026 diễn ra từ 10-14/11 tại Pleiku (Báo Mới)\n\nBà con quan tâm thông tin nào nhất tối nay? Cùng chia sẻ cảm nghĩ nhé!\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ]
+}
