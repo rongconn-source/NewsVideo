@@ -228,6 +228,13 @@ def build_project(d: dict, proj: Path) -> dict:
             src = next((it for it in d["items"] if it.get("_img")), {})
         if src.get("_img"):
             cover["_img"] = src["_img"]
+    elif pick.startswith("input:"):
+        val = pick[6:]
+        f = next((p for p in [INPUT_DIR / val, *INPUT_DIR.rglob(val)] if p.is_file()), None)
+        if f:
+            out = proj / "assets" / "img" / f"cover{f.suffix.lower()}"
+            shutil.copy2(f, out)
+            cover["_img"] = f"assets/img/{out.name}"
     t = timing(len(d["items"]))
     colors = {**DEFAULT_COLORS, **(d.get("colors") or {})}
     cfg = load_config()

@@ -1,0 +1,109 @@
+{
+  "type": "digest",
+  "output": "anh",
+  "date": "2026-10-28",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "brand": [
+    "QUY NHƠN ",
+    "24H QUA"
+  ],
+  "chip": "SÁNG NAY",
+  "logo": "assets/brand/avatar-quy-nhon-24h-qua-1-phut.jpg",
+  "cover": {
+    "kicker": "ĐIỂM TIN SÁNG",
+    "title": "Tin tức Quy Nhơn - Gia Lai",
+    "subtitle": "Sáng 28/10/2026",
+    "teaser": "Khởi tố vụ án cháy nhà Vĩnh Thịnh; Điều tra vụ nữ sinh ĐH Quy Nhơn; Cho thuê 24 trụ sở công",
+    "image": "input:20261028_cover.jpg"
+  },
+  "items": [
+    {
+      "text": "Công an tỉnh khẩn trương điều tra làm rõ nguyên nhân vụ nữ sinh 19 tuổi Trường ĐH Quy Nhơn tử vong tại phòng trọ; đồng thời khuyến cáo người dân không đồn đoán sai sự thật vụ kiểm tra 3 tiệm vàng.",
+      "category": "khu-vuc",
+      "label": "Tin Quy Nhơn",
+      "source": "https://thanhnien.vn/dieu-tra-vu-nu-sinh-vien-tu-vong-bat-thuong-tai-phong-tro-185261027152112097.htm",
+      "source_name": "Báo Thanh Niên",
+      "published": "2026-10-27T17:39:32+07:00",
+      "image": "input:20261028_01_quynhon_dieutra.jpg",
+      "image_credit": "Báo Thanh Niên / Báo Mới"
+    },
+    {
+      "text": "Công an tỉnh Gia Lai vừa chính thức khởi tố vụ án hình sự để điều tra hành vi giết người liên quan vụ hỏa hoạn lúc rạng sáng 26/10 tại xã Vĩnh Thịnh khiến 2 cha con tử vong thương tâm.",
+      "category": "tinh",
+      "label": "Tin Gia Lai",
+      "source": "https://baogialai.com.vn/khoi-to-vu-2-cha-con-tu-vong-trong-can-nha-boc-chay-o-vinh-thinh-post603309.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-28T07:21:57+07:00",
+      "image": "input:20261028_02_chaynha_vinhthinh.jpg",
+      "image_credit": "Báo Gia Lai / VTC News / Báo Công An"
+    },
+    {
+      "text": "Trung tâm Phát triển quỹ đất tỉnh Gia Lai thông báo cho thuê ngắn hạn dưới 5 năm đối với 24 cơ sở nhà, đất công dôi dư trên địa bàn nhằm làm văn phòng và kinh doanh đổi mới sáng tạo, tránh lãng phí.",
+      "category": "tinh",
+      "label": "Tin Gia Lai",
+      "source": "https://baogialai.com.vn/gia-lai-cho-thue-ngan-han-24-co-so-nha-dat-doi-du-post603307.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-28T04:52:03+07:00",
+      "image": "input:20261028_03_nhadat_cong.jpg",
+      "image_credit": "Báo Gia Lai"
+    },
+    {
+      "text": "Ban chỉ đạo 515 tỉnh thông báo tìm thân nhân liệt sĩ sau khi phát hiện chiếc lược nhựa màu vàng cam có khắc chữ 'ĐỨC THẮNG' trong quá trình lấy mẫu sinh phẩm tại Nghĩa trang Liệt sĩ Ân Thạnh.",
+      "category": "tinh",
+      "label": "Tin Gia Lai",
+      "source": "https://baomoi.com/ky-vat-di-vat-liet-si-chiec-luoc-co-khac-chu-duc-thang-c56366863.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-28T06:31:00+07:00",
+      "image": "input:20261028_04_luoc_ducthang.jpg",
+      "image_credit": "Ban chỉ đạo 515 / Báo Mới"
+    },
+    {
+      "text": "Ban Quản lý Khu kinh tế tỉnh Gia Lai cấp giấy chứng nhận đăng ký đầu tư cho Dự án Nhà máy chế biến thực phẩm BAF Gia Lai với tổng số vốn đầu tư lên đến 1.250 tỷ đồng.",
+      "category": "tinh",
+      "label": "Tin Gia Lai",
+      "source": "https://baogialai.com.vn/baf-dau-tu-1250-ty-dong-xay-nha-may-che-bien-thuc-pham-tai-gia-lai-post603223.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-27T09:12:13+07:00",
+      "image": "input:20261028_05_baf_factory.jpg",
+      "image_credit": "Báo Gia Lai / BAF"
+    },
+    {
+      "text": "Sáng 28/10, giá cà phê tại các vùng trọng điểm Tây Nguyên giảm 500 - 700 đồng/kg, dao động từ 88.300 - 89.000 đồng/kg; trong khi giá hồ tiêu tiếp tục duy trì mức 137.000 - 140.000 đồng/kg.",
+      "category": "tinh",
+      "label": "Nông sản Tây Nguyên",
+      "source": "https://baogialai.com.vn/gia-nong-san-hom-nay-2810-ca-phe-giam-tiep-ho-tieu-giu-gia-post603316.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-28T06:44:13+07:00",
+      "image": "input:20261028_06_caphe_taynguyen.jpg",
+      "image_credit": "Báo Gia Lai"
+    },
+    {
+      "text": "Đội tuyển U23 Việt Nam sẽ tham dự Giải bóng đá quốc tế U23 Gia Lai VTV Cup 2026 tại Pleiku dưới sự dẫn dắt của một HLV nội giàu kinh nghiệm, thay vì HLV trưởng Kim Sang Sik.",
+      "category": "tinh",
+      "label": "Thể thao Gia Lai",
+      "source": "https://baomoi.com/hlv-kim-sang-sik-khong-dan-dat-u23-viet-nam-dau-thai-lan-c56367214.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-28T07:31:00+07:00",
+      "image": "input:20261028_07_u23_vietnam.jpg",
+      "image_credit": "VFF / Báo Mới"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "outro_question": "Bà con quan tâm thông tin nào nhất sáng nay? Cùng chia sẻ cảm nghĩ nhé!",
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "caption": {
+    "tiktok": "Khởi tố vụ án cháy nhà Vĩnh Thịnh; Vụ nữ sinh ĐH Quy Nhơn; Cho thuê 24 trụ sở công? Điểm tin sáng 28/10/2026:\n\n1. Làm rõ vụ nữ sinh ĐH Quy Nhơn tử vong tại phòng trọ (Báo Thanh Niên)\n🔗 https://thanhnien.vn/dieu-tra-vu-nu-sinh-vien-tu-vong-bat-thuong-tai-phong-tro-185261027152112097.htm\n\n2. Khởi tố vụ án giết người vụ cháy nhà ở Vĩnh Thịnh (Báo Gia Lai)\n🔗 https://baogialai.com.vn/khoi-to-vu-2-cha-con-tu-vong-trong-can-nha-boc-chay-o-vinh-thinh-post603309.html\n\n3. Cho thuê 24 cơ sở nhà đất công dôi dư tránh lãng phí (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-cho-thue-ngan-han-24-co-so-nha-dat-doi-du-post603307.html\n\n4. Tìm thân nhân liệt sĩ qua chiếc lược 'ĐỨC THẮNG' (Ban chỉ đạo 515)\n🔗 https://baomoi.com/ky-vat-di-vat-liet-si-chiec-luoc-co-khac-chu-duc-thang-c56366863.epi\n\n5. Cấp phép Nhà máy chế biến thực phẩm BAF 1.250 tỷ (Báo Gia Lai)\n🔗 https://baogialai.com.vn/baf-dau-tu-1250-ty-dong-xay-nha-may-che-bien-thuc-pham-tai-gia-lai-post603223.html\n\n6. Giá cà phê sáng 28/10 giảm nhẹ về 88.300đ (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-nong-san-hom-nay-2810-ca-phe-giam-tiep-ho-tieu-giu-gia-post603316.html\n\n7. HLV nội dẫn dắt U23 Việt Nam dự Giải U23 Gia Lai VTV Cup (Báo Mới)\n🔗 https://baomoi.com/hlv-kim-sang-sik-khong-dan-dat-u23-viet-nam-dau-thai-lan-c56367214.epi\n\nBà con quan tâm tin nào nhất sáng nay? Cùng chia sẻ cảm nghĩ nhé!\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Khởi tố vụ án cháy nhà Vĩnh Thịnh; Vụ nữ sinh ĐH Quy Nhơn; Cho thuê 24 trụ sở công | Bản tin sáng 28/10/2026\n\nTổng hợp tin tức Quy Nhơn & Gia Lai sáng 28/10/2026:\n- Làm rõ vụ việc nữ sinh viên ĐH Quy Nhơn tại phòng trọ\n- Khởi tố vụ án giết người trong vụ cháy nhà ở Vĩnh Thịnh\n- Gia Lai cho thuê ngắn hạn 24 cơ sở nhà, đất công dôi dư\n- Tìm thân nhân liệt sĩ qua di vật chiếc lược khắc chữ 'ĐỨC THẮNG'\n- Dự án Nhà máy chế biến thực phẩm BAF 1.250 tỷ đồng\n- Giá cà phê sáng 28/10 giảm nhẹ tại Tây Nguyên\n- HLV nội dẫn dắt U23 Việt Nam dự Giải U23 Gia Lai VTV Cup 2026\n\nLink bài báo chi tiết:\n1. https://thanhnien.vn/dieu-tra-vu-nu-sinh-vien-tu-vong-bat-thuong-tai-phong-tro-185261027152112097.htm\n2. https://baogialai.com.vn/khoi-to-vu-2-cha-con-tu-vong-trong-can-nha-boc-chay-o-vinh-thinh-post603309.html\n3. https://baogialai.com.vn/gia-lai-cho-thue-ngan-han-24-co-so-nha-dat-doi-du-post603307.html\n4. https://baomoi.com/ky-vat-di-vat-liet-si-chiec-luoc-co-khac-chu-duc-thang-c56366863.epi\n5. https://baogialai.com.vn/baf-dau-tu-1250-ty-dong-xay-nha-may-che-bien-thuc-pham-tai-gia-lai-post603223.html\n6. https://baogialai.com.vn/gia-nong-san-hom-nay-2810-ca-phe-giam-tiep-ho-tieu-giu-gia-post603316.html\n7. https://baomoi.com/hlv-kim-sang-sik-khong-dan-dat-u23-viet-nam-dau-thai-lan-c56367214.epi\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "facebook": "Khởi tố vụ án cháy nhà Vĩnh Thịnh; Vụ nữ sinh ĐH Quy Nhơn; Cho thuê 24 trụ sở công? Điểm tin sáng 28/10/2026:\n\n1. Khẩn trương điều tra vụ nữ sinh viên ĐH Quy Nhơn tử vong tại phòng trọ; công an khuyến cáo không đồn đoán vụ 3 tiệm vàng (Báo Thanh Niên)\n🔗 https://thanhnien.vn/dieu-tra-vu-nu-sinh-vien-tu-vong-bat-thuong-tai-phong-tro-185261027152112097.htm\n\n2. Công an tỉnh khởi tố vụ án hình sự điều tra hành vi giết người vụ cháy nhà ở Vĩnh Thịnh (Báo Gia Lai)\n🔗 https://baogialai.com.vn/khoi-to-vu-2-cha-con-tu-vong-trong-can-nha-boc-chay-o-vinh-thinh-post603309.html\n\n3. Tỉnh cho thuê ngắn hạn dưới 5 năm 24 cơ sở nhà đất công dôi dư (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-cho-thue-ngan-han-24-co-so-nha-dat-doi-du-post603307.html\n\n4. Tìm thân nhân liệt sĩ qua di vật chiếc lược khắc chữ 'ĐỨC THẮNG' (Ban chỉ đạo 515 / Báo Mới)\n🔗 https://baomoi.com/ky-vat-di-vat-liet-si-chiec-luoc-co-khac-chu-duc-thang-c56366863.epi\n\n5. Cấp phép dự án Nhà máy chế biến thực phẩm BAF vốn 1.250 tỷ đồng (Báo Gia Lai)\n🔗 https://baogialai.com.vn/baf-dau-tu-1250-ty-dong-xay-nha-may-che-bien-thuc-pham-tai-gia-lai-post603223.html\n\n6. Giá cà phê Tây Nguyên giảm nhẹ 500-700đ/kg dao động 88.300-89.000đ (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-nong-san-hom-nay-2810-ca-phe-giam-tiep-ho-tieu-giu-gia-post603316.html\n\n7. U23 Việt Nam tham dự giải U23 Gia Lai VTV Cup dưới sự dẫn dắt của HLV nội (Báo Mới)\n🔗 https://baomoi.com/hlv-kim-sang-sik-khong-dan-dat-u23-viet-nam-dau-thai-lan-c56367214.epi\n\nBà con quan tâm thông tin nào nhất sáng nay? Cùng chia sẻ cảm nghĩ nhé!\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "pin_comment": "Cơ quan chức năng khuyến cáo người dân không chia sẻ các thông tin chưa kiểm chứng. Cùng cập nhật tin tức chính xác và chia sẻ văn minh bên dưới nhé!"
+}
