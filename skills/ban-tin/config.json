@@ -66,7 +66,7 @@
   "_ghi_chu_preview_music": "Nhạc chỉ để XEM THỬ nội bộ (không dùng khi đăng; khi đăng gắn nhạc trong app nền tảng).",
   "preview_music": {"file": "assets/music/em-nen-dung-lai-0505.mp3", "start": 0},
   "cloud_sync": {
-    "enabled": true,
+    "enabled": false,
     "target_dir": "C:/Users/PC/OneDrive/BanTinQuyNhon",
     "_ghi_chu": "Thư mục đồng bộ sang điện thoại (OneDrive hoặc Google Drive). Khi cài Google Drive for Desktop, có thể đổi thành G:/My Drive/BanTinQuyNhon hoặc để rỗng để tự tìm."
   }

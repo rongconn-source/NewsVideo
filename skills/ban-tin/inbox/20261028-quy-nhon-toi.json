@@ -1,0 +1,109 @@
+{
+  "type": "digest",
+  "output": "anh",
+  "date": "2026-10-28",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "brand": [
+    "QUY NHƠN ",
+    "24H QUA"
+  ],
+  "chip": "TỐI NAY",
+  "logo": "assets/brand/avatar-quy-nhon-24h-qua-1-phut.jpg",
+  "cover": {
+    "kicker": "ĐIỂM TIN TỐI",
+    "title": "Tin tức Quy Nhơn - Gia Lai",
+    "subtitle": "Tối 28/10/2026",
+    "teaser": "Thị Nại Eco Bay 5.000 tỷ điều chỉnh; Bắn pháo hoa núi lửa Chư Đang Ya; Vụ xô xát Phù Mỹ",
+    "image": "input:20261028_cover_toi.jpg"
+  },
+  "items": [
+    {
+      "text": "UBND tỉnh phê duyệt điều chỉnh quy hoạch chi tiết 1/500 Khu đô thị sinh thái Thị Nại Eco Bay quy mô gần 118 ha, chuyển hơn 22 ha biệt thự du lịch sang nhà ở thấp tầng và bổ sung nhà chung cư.",
+      "category": "khu-vuc",
+      "label": "Tin Quy Nhơn",
+      "source": "https://baodautu.vn/dieu-chinh-quy-hoach-du-an-thi-nai-eco-bay-biet-thu-du-lich-chuyen-thanh-nha-o-thap-tang-d729861.html",
+      "source_name": "Báo Đầu Tư",
+      "published": "2026-10-28T11:46:00+07:00",
+      "image": "input:20261028_toi_01_thinai_ecobay.jpg",
+      "image_credit": "Báo Đầu Tư / Báo Thanh Niên"
+    },
+    {
+      "text": "Công an tỉnh khẩn trương điều tra làm rõ vụ ẩu đả nghiêm trọng trong đêm tại khu vực đường Võ Thị Sáu khiến một người tử vong và ba người khác bị thương phải đưa đi cấp cứu.",
+      "category": "tinh",
+      "label": "Tin Gia Lai",
+      "source": "https://baomoi.com/nhom-thanh-nien-o-gia-lai-danh-nhau-4-nguoi-thuong-vong-c56372573.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-28T15:23:00+07:00",
+      "image": "input:20261028_toi_02_phumy_brawl.jpg",
+      "image_credit": "Báo Thanh Niên / Báo Mới"
+    },
+    {
+      "text": "UBND tỉnh thông báo sẽ tổ chức bắn pháo hoa tầm thấp kéo dài 15 phút tại Chương trình nghệ thuật 'Đêm hội Cồng chiêng' diễn ra bên chân núi lửa Chư Đang Ya vào tối 8/11 tới.",
+      "category": "tinh",
+      "label": "Lễ hội Gia Lai",
+      "source": "https://vtcnews.vn/dem-hoi-cong-chieng-gia-lai-se-ruc-sang-phao-hoa-ben-dinh-nui-chu-dang-ya-ar1047770.html",
+      "source_name": "VTC News",
+      "published": "2026-10-28T14:52:00+07:00",
+      "image": "input:20261028_toi_03_phaohoa_chudangya.jpg",
+      "image_credit": "VTC News / Báo Gia Lai"
+    },
+    {
+      "text": "Tỉnh Gia Lai khẩn cấp chỉ đạo phương án bảo đảm an toàn, ưu tiên di dời các hộ dân trong vùng nguy hiểm trước nguy cơ sạt trượt và xuất hiện vết nứt lớn kéo dài trên sườn núi Một.",
+      "category": "tinh",
+      "label": "Cảnh báo sạt lở",
+      "source": "https://baomoi.com/gia-lai-uu-tien-di-doi-dan-nghien-cuu-phuong-an-xu-ly-nui-mot-c56371842.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-28T14:05:00+07:00",
+      "image": "input:20261028_toi_04_nuimot_satlo.jpg",
+      "image_credit": "Báo Gia Lai / Báo Mới"
+    },
+    {
+      "text": "Hàng loạt công trình trọng điểm như tuyến đường ven biển, Quốc lộ 19 và tiến độ cao tốc Quy Nhơn - Pleiku đang tạo lực đẩy mạnh mẽ, thúc đẩy thị trường bất động sản biển Quy Nhơn phát triển.",
+      "category": "khu-vuc",
+      "label": "Tin Quy Nhơn",
+      "source": "https://vnexpress.net/ha-tang-ket-not-tao-luc-day-cho-bat-dong-san-quy-nhon-5137940.html",
+      "source_name": "VnExpress",
+      "published": "2026-10-28T16:00:00+07:00",
+      "image": "input:20261028_toi_05_bds_quynhon.jpg",
+      "image_credit": "VnExpress"
+    },
+    {
+      "text": "Công ty Điện lực thông báo lịch tạm ngừng cung cấp điện tại một số khu vực dân cư trên địa bàn tỉnh trong ngày mai 29/10 nhằm phục vụ sửa chữa, nâng cấp hệ thống lưới điện.",
+      "category": "tinh",
+      "label": "Lịch cắt điện",
+      "source": "https://baomoi.com/lich-tam-ngung-cap-dien-gia-lai-ngay-mai-29-10-c56370460.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-28T11:30:00+07:00",
+      "image": "input:20261028_toi_06_dienluc_gialai.jpg",
+      "image_credit": "EVN / Báo Mới"
+    },
+    {
+      "text": "20 gương mặt xuất sắc nhất đã chính thức lộ diện sau đêm thi bán kết Cuộc thi Hoa hậu Doanh nhân Châu Á - Miss Asian 2026 vừa diễn ra tưng bừng tại thành phố biển Quy Nhơn.",
+      "category": "khu-vuc",
+      "label": "Văn hóa Quy Nhơn",
+      "source": "https://baomoi.com/top-20-miss-asian-2026-lo-dien-sau-dem-ban-ket-tai-gia-lai-c56372970.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-28T16:10:00+07:00",
+      "image": "input:20261028_toi_07_miss_asian.jpg",
+      "image_credit": "Ban tổ chức / Báo Mới"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "outro_question": "Bà con quan tâm thông tin nào nhất tối nay? Cùng chia sẻ cảm nghĩ nhé!",
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "caption": {
+    "tiktok": "Thị Nại Eco Bay 5.000 tỷ điều chỉnh quy hoạch; Bắn pháo hoa núi lửa Chư Đang Ya? Điểm tin tối 28/10/2026:\n\n1. Điều chỉnh quy hoạch dự án Thị Nại Eco Bay gần 5.000 tỷ đồng (Báo Đầu Tư)\n🔗 https://baodautu.vn/dieu-chinh-quy-hoach-du-an-thi-nai-eco-bay-biet-thu-du-lich-chuyen-thanh-nha-o-thap-tang-d729861.html\n\n2. Điều tra vụ xô xát trong đêm trên đường Võ Thị Sáu (Báo Mới)\n🔗 https://baomoi.com/nhom-thanh-nien-o-gia-lai-danh-nhau-4-nguoi-thuong-vong-c56372573.epi\n\n3. Bắn pháo hoa 15 phút tại Đêm hội Cồng chiêng núi lửa Chư Đang Ya (VTC News)\n🔗 https://vtcnews.vn/dem-hoi-cong-chieng-gia-lai-se-ruc-sang-phao-hoa-ben-dinh-nui-chu-dang-ya-ar1047770.html\n\n4. Khẩn cấp di dời dân trước nguy cơ nứt trượt núi Một (Báo Mới)\n🔗 https://baomoi.com/gia-lai-uu-tien-di-doi-dan-nghien-cuu-phuong-an-xu-ly-nui-mot-c56371842.epi\n\n5. Hạ tầng kết nối tạo lực đẩy bứt phá bất động sản biển Quy Nhơn (VnExpress)\n🔗 https://vnexpress.net/ha-tang-ket-not-tao-luc-day-cho-bat-dong-san-quy-nhon-5137940.html\n\n6. Lịch tạm ngừng cấp điện tại Gia Lai ngày mai 29/10 (Báo Mới)\n🔗 https://baomoi.com/lich-tam-ngung-cap-dien-gia-lai-ngay-mai-29-10-c56370460.epi\n\n7. Top 20 Miss Asian 2026 lộ diện sau bán kết tại Quy Nhơn (Báo Mới)\n🔗 https://baomoi.com/top-20-miss-asian-2026-lo-dien-sau-dem-ban-ket-tai-gia-lai-c56372970.epi\n\nBà con quan tâm tin nào nhất tối nay? Cùng chia sẻ cảm nghĩ nhé!\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Thị Nại Eco Bay 5.000 tỷ điều chỉnh quy hoạch; Bắn pháo hoa núi lửa Chư Đang Ya | Bản tin tối 28/10/2026\n\nTổng hợp tin tức Quy Nhơn & Gia Lai tối 28/10/2026:\n- Điều chỉnh quy hoạch chi tiết 1/500 dự án Thị Nại Eco Bay gần 5.000 tỷ\n- Công an điều tra vụ ẩu đả nghiêm trọng trong đêm trên đường Võ Thị Sáu\n- Bắn pháo hoa tầm thấp 15 phút tại Đêm hội cồng chiêng Chư Đang Ya\n- Khẩn cấp di dời dân tránh nguy cơ sạt lở núi Một\n- Hạ tầng giao thông tạo lực đẩy mạnh mẽ cho bất động sản Quy Nhơn\n- Lịch tạm ngừng cấp điện ngày mai 29/10 tại Gia Lai\n- Top 20 Miss Asian 2026 lộ diện sau đêm bán kết tại Quy Nhơn\n\nLink bài báo chi tiết:\n1. https://baodautu.vn/dieu-chinh-quy-hoach-du-an-thi-nai-eco-bay-biet-thu-du-lich-chuyen-thanh-nha-o-thap-tang-d729861.html\n2. https://baomoi.com/nhom-thanh-nien-o-gia-lai-danh-nhau-4-nguoi-thuong-vong-c56372573.epi\n3. https://vtcnews.vn/dem-hoi-cong-chieng-gia-lai-se-ruc-sang-phao-hoa-ben-dinh-nui-chu-dang-ya-ar1047770.html\n4. https://baomoi.com/gia-lai-uu-tien-di-doi-dan-nghien-cuu-phuong-an-xu-ly-nui-mot-c56371842.epi\n5. https://vnexpress.net/ha-tang-ket-not-tao-luc-day-cho-bat-dong-san-quy-nhon-5137940.html\n6. https://baomoi.com/lich-tam-ngung-cap-dien-gia-lai-ngay-mai-29-10-c56370460.epi\n7. https://baomoi.com/top-20-miss-asian-2026-lo-dien-sau-dem-ban-ket-tai-gia-lai-c56372970.epi\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "facebook": "Thị Nại Eco Bay 5.000 tỷ điều chỉnh quy hoạch; Bắn pháo hoa núi lửa Chư Đang Ya? Điểm tin tối 28/10/2026:\n\n1. Điều chỉnh quy hoạch chi tiết 1/500 dự án Thị Nại Eco Bay gần 5.000 tỷ đồng (Báo Đầu Tư)\n🔗 https://baodautu.vn/dieu-chinh-quy-hoach-du-an-thi-nai-eco-bay-biet-thu-du-lich-chuyen-thanh-nha-o-thap-tang-d729861.html\n\n2. Điều tra vụ xô xát trong đêm trên đường Võ Thị Sáu (Báo Mới)\n🔗 https://baomoi.com/nhom-thanh-nien-o-gia-lai-danh-nhau-4-nguoi-thuong-vong-c56372573.epi\n\n3. Bắn pháo hoa 15 phút tại Đêm hội Cồng chiêng núi lửa Chư Đang Ya (VTC News)\n🔗 https://vtcnews.vn/dem-hoi-cong-chieng-gia-lai-se-ruc-sang-phao-hoa-ben-dinh-nui-chu-dang-ya-ar1047770.html\n\n4. Khẩn cấp di dời dân trước nguy cơ nứt trượt núi Một (Báo Mới)\n🔗 https://baomoi.com/gia-lai-uu-tien-di-doi-dan-nghien-cuu-phuong-an-xu-ly-nui-mot-c56371842.epi\n\n5. Hạ tầng kết nối tạo lực đẩy bứt phá bất động sản biển Quy Nhơn (VnExpress)\n🔗 https://vnexpress.net/ha-tang-ket-not-tao-luc-day-cho-bat-dong-san-quy-nhon-5137940.html\n\n6. Lịch tạm ngừng cấp điện tại Gia Lai ngày mai 29/10 (Báo Mới)\n🔗 https://baomoi.com/lich-tam-ngung-cap-dien-gia-lai-ngay-mai-29-10-c56370460.epi\n\n7. Top 20 Miss Asian 2026 lộ diện sau bán kết tại Quy Nhơn (Báo Mới)\n🔗 https://baomoi.com/top-20-miss-asian-2026-lo-dien-sau-dem-ban-ket-tai-gia-lai-c56372970.epi\n\nBà con quan tâm thông tin nào nhất tối nay? Cùng chia sẻ cảm nghĩ nhé!\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "pin_comment": "Dự án Thị Nại Eco Bay gần 5.000 tỷ và đêm hội pháo hoa Chư Đang Ya đang rất được quan tâm! Bà con đón chờ thông tin nào nhất tối nay?"
+}
