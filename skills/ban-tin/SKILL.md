@@ -57,15 +57,20 @@ Ngoại lệ duy nhất: tin người dùng tự gửi.
 - Điều chưa chắc → ghi vào `needs_review`, không đoán.
 
 ### 4. Chọn lọc tin & Tự động dựng (Mặc định: Tự động hóa 100% - Run skill là ra luôn thành phẩm)
-- **Chế độ mặc định (Tự động 100%)**: AI tự động chọn ra **6–7 tin mạnh nhất, nóng nhất** từ danh sách đã quét (hoặc từ `user_links` người dùng đưa), kiểm tra bài gốc chuẩn xác, tự động viết kịch bản và tự động render ra video hoàn chỉnh ngay lập tức.
-- **Sắp xếp theo độ hấp dẫn với người xem TikTok**: **ưu tiên giới trẻ 18–30 trước** (thể thao sân nhà, cảnh báo bão/lũ/ngập, sự cố gần mình, ở trọ/sinh viên, việc làm, công nghệ/AI, du lịch, giá cả, sự kiện cuối tuần), **rồi tới người trưởng thành** (giáo dục, sức khoẻ, giao thông – đường sá, đô thị, chính sách). Tin hot nhất đặt ở **tin 1** (làm ảnh bìa + hook teaser), tin hot thứ 2 đặt ở **giữa bài** để giữ chân người xem.
+- **Chế độ mặc định (Tự động 100%)**: AI tự động chọn ra **8–12 tin mạnh nhất, nóng nhất (hơn 7 tin)** ở chế độ Ảnh cuộn (`--mode anh`) từ danh sách đã quét (hoặc từ `user_links` người dùng đưa), kiểm tra bài gốc chuẩn xác, tự động viết kịch bản và tự động render bộ ảnh lướt ngay lập tức. (Chỉ khi người dùng yêu cầu làm `--mode video` mới rút gọn còn 6–7 tin để video ≤ 59 giây).
+- **Thứ tự 6 nhóm lĩnh vực ưu tiên chọn lọc tin (đã chốt với người dùng)**:
+  1. 🔥 **Chuỗi tin đang tăng view trên kênh (Follow-up)**: Diễn biến mới của các vụ việc khán giả đang ngóng (như vụ trốn trại, đại dự án Thị Nại Eco Bay, kiểm tra tiệm vàng...).
+  2. 🚨 **An ninh – Pháp luật – Cứu hộ**: Vụ việc nóng, cảnh báo an toàn, giao thông, tàu cá.
+  3. 🏗️ **Quy hoạch – Hạ tầng – Đại dự án**: Sân bay Phù Cát, cao tốc Quy Nhơn – Pleiku, công viên biển, giải phóng mặt bằng, khu đô thị.
+  4. 🌦️ **Dân sinh – Thời tiết – Y tế**: Mưa lũ, sạt lở, lịch cúp điện/nước, dịch bệnh, khám chữa bệnh.
+  5. 🏖️ **Du lịch – Văn hóa – Sự kiện – Thể thao**: Sự kiện cuối tuần ở Quảng trường Nguyễn Tất Thành, giải chạy, bắn pháo hoa, điểm check-in mới.
+  6. 💼 **Kinh tế – Việc làm – Giáo dục**: Giá cả, chính sách hỗ trợ, trường đại học/học sinh.
+- **Cách sắp xếp thứ tự trong bản tin**: Tin hot nhất đặt ở **tin 1** (làm ảnh bìa + hook teaser), tin hot thứ 2 đặt ở **giữa bài (tin 4–5)** để giữ chân người xem lướt tiếp, các tin sự kiện/văn hóa nhẹ nhàng đặt ở cuối.
 - **Chế độ duyệt thủ công (chỉ bật khi người dùng yêu cầu)**: Nếu người dùng nói "cho tôi chọn tin trước" hoặc "duyệt tin trước khi render", AI mới dừng lại liệt kê danh sách checkbox để người dùng chọn trước khi viết và render.
 
 **Gợi ý chọn tin (để người xem ở lại tới ảnh cuối):**
-- Mặc định đề xuất **6–7 tin mạnh** (mỗi tin hiện **7 giây** để người xem kịp đọc + xem ảnh; video ≤ 59 giây nên **tối đa 7 tin**) – tỉ lệ xem hết quan trọng hơn số tin.
-- Ưu tiên tin **chạm đời sống người dân**: giao thông / cấm đường / công trình, giá cả – điện nước, thời tiết – bão, cảnh báo lừa đảo, an ninh trật tự, sự kiện – lễ hội cuối tuần, du lịch – ăn uống, chuyện lạ / cảm động.
-- Xếp cuối hoặc bỏ: hội nghị, bế giảng, khai giảng, tin lễ tân (ít người quan tâm). Khi trình danh sách, đánh dấu ⭐ tin mạnh, ▫ tin yếu để người dùng dễ chọn.
-- Thứ tự: tin hot nhất ở **tin 1** (cũng là ảnh bìa) → tin hot thứ 2 đặt **giữa bài** để giữ người xem → tin nhẹ/vui để cuối.
+- Mặc định ở **chế độ Ảnh cuộn (`anh`)**: chọn **8–12 tin mạnh (hơn 7 tin)** giống công thức kênh mẫu `@tinchuan23h59s` (nếu 24h qua ít tin thật sự chất lượng thì lấy tối đa số tin tốt hiện có, không độn tin hội nghị/lễ tân nhạt).
+- Xếp cuối hoặc bỏ: hội nghị, bế giảng, khai giảng, tin lễ tân (ít người quan tâm). Khi trình danh sách `List All Tin`, đánh dấu ⭐ tin mạnh, ▫ tin yếu để người dùng dễ đổi tin nếu muốn.
 
 ### 5. Viết
 - Mỗi tin **1–2 câu, 80–200 ký tự**, đủ ý không cần đọc thêm, viết lại bằng lời mình (không chép tít).
@@ -104,7 +109,7 @@ python skills/ban-tin/scripts/ban_tin.py render skills/ban-tin/inbox/<file>.json
 - AI xem được ảnh → mở vài file `anh/*.png` kiểm tra chữ đủ dấu, không tràn khung.
 
 ### 9. Báo lại người dùng (BẮT BUỘC kèm "List All Tin")
-1. **Thành phẩm bản tin**: Danh sách 7 tin đã chọn (1 dòng/tin + nguồn), đường dẫn thư mục ảnh `anh/`, caption chuẩn với đầy đủ 6 hashtag (`#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua`) và bình luận ghim (`pin_comment`).
+1. **Thành phẩm bản tin**: Danh sách **8–12 tin đã chọn (hơn 7 tin)** (1 dòng/tin + nguồn), đường dẫn thư mục ảnh `anh/`, caption chuẩn với đầy đủ 6 hashtag (`#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua`) và bình luận ghim (`pin_comment`).
 2. **List All Tin trong 24h qua**: Luôn liệt kê toàn bộ danh sách các tin khu vực quét được trong 24h qua (chia nhóm: *Đã chọn / Tin dự phòng tốt / Tin đã đăng bản trước / Tin hội nghị hoặc ngoài địa bàn*) để người dùng dễ dàng yêu cầu đổi thứ tự hoặc thay tin ngay lập tức.
 
 ### 10. Phân tích kênh & tư vấn chiến lược (BẮT BUỘC mỗi lần làm tin / render)
@@ -118,7 +123,7 @@ python skills/ban-tin/scripts/ban_tin.py render skills/ban-tin/inbox/<file>.json
 ## Mẫu hiển thị (đã chốt với người dùng – script/template tự làm, AI không cần chỉnh)
 | Phần | Quy định |
 |---|---|
-| Nhịp | Bìa 2,5s · **mỗi tin 7 giây** · kết 3s · video ≤ 59s → **tối đa 7 tin** (8 tin trở lên script cảnh báo vì mỗi tin bị rút ngắn) |
+| Số tin & Nhịp | **Ảnh cuộn (`anh` - mặc định)**: **8–12 tin/bản (hơn 7 tin)**. **Video (`video`)**: Bìa 2,5s · mỗi tin 7s · kết 3s · video ≤ 59s → tối đa 7 tin |
 | Trang tin | **Ảnh 55% phía trên** (sát mép trên) – **chữ 45% phía dưới**: nguồn ảnh → nhãn chuyên mục + số thứ tự → câu tin |
 | Tên kênh | **Không có thanh header**; "QUY NHƠN 24H QUA" nằm trên ảnh, góc trên trái, có lớp mờ tối nhẹ để đọc rõ |
 | Bìa | Ảnh tin 1 làm nền (mặc định) + nhãn bản tin + tiêu đề + ngày + `cover.teaser` |

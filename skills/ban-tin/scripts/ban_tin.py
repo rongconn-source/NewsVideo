@@ -106,7 +106,8 @@ def validate(d: dict) -> tuple[list[str], list[str]]:
     for k in ("tiktok", "youtube", "facebook"):
         need(cap.get(k), f'thiếu "caption.{k}"')
     n_items = len(items or [])
-    if n_items * MAX_ITEM_SECONDS + COVER_SECONDS + OUTRO_SECONDS > MAX_TOTAL_SECONDS:
+    out_mode = d.get("output") or cfg.get("default_output", "anh")
+    if out_mode == "video" and n_items * MAX_ITEM_SECONDS + COVER_SECONDS + OUTRO_SECONDS > MAX_TOTAL_SECONDS:
         warnings.append(f"{n_items} tin → mỗi tin chỉ còn {timing(n_items)['item']}s (< {MAX_ITEM_SECONDS:g}s). "
                         f"Để đủ {MAX_ITEM_SECONDS:g}s/tin trong video ≤ {MAX_TOTAL_SECONDS:g}s: tối đa "
                         f"{int((MAX_TOTAL_SECONDS - COVER_SECONDS - OUTRO_SECONDS) // MAX_ITEM_SECONDS)} tin")

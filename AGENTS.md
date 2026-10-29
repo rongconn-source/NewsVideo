@@ -10,7 +10,7 @@ Bản tin tức tổng hợp của một khu vực, dạng **ảnh lướt 9:16 
 ## 2. Việc của AI → dùng skills tương ứng
 - **Khi làm bản tin**: người dùng nói "làm bản tin", "bản tin hôm nay", "bản tin trưa/tối", "tin <khu vực>", hoặc gửi link tin:
   **đọc và làm đúng theo `skills/ban-tin/SKILL.md`.**
-  Tóm tắt (Tự động hóa 100% - Run skill là ra thành phẩm): kiểm tra các bài tăng view gần nhất trên kênh để bắt sóng chủ đề hot (Follow-up) → chạy `ban_tin.py scan` lấy tin **đăng trong 24 giờ qua** từ 20+ nguồn có sẵn trong `skills/ban-tin/config.json` (+ link người dùng nếu có) → AI tự động chọn lọc **7 tin mạnh nhất** và kiểm tra bài gốc → tự viết kịch bản lưu `skills/ban-tin/inbox/YYYYMMDD-<khu-vuc>-<buoi>.json` (`"output": "anh"`) → tự chạy `python skills/ban-tin/scripts/ban_tin.py render skills/ban-tin/inbox/<file>.json --mode anh` → xuất bộ **ảnh lướt `anh/01.png…09.png`** + `caption.txt` (không tạo file `.mp4` trừ khi người dùng bảo làm video) + **luôn kèm theo "List All Tin 24h qua"** để người dùng dễ đổi tin nếu muốn. AI không ghi được file (chat trên web): dùng `skills/ban-tin/prompts/viet-kich-ban.md`, trả về 1 khối JSON.
+  Tóm tắt (Tự động hóa 100% - Run skill là ra thành phẩm): kiểm tra các bài tăng view gần nhất trên kênh để bắt sóng chủ đề hot (Follow-up) → chạy `ban_tin.py scan` lấy tin **đăng trong 24 giờ qua** từ 20+ nguồn có sẵn trong `skills/ban-tin/config.json` (+ link người dùng nếu có) → AI tự động chọn lọc **8–12 tin mạnh nhất (hơn 7 tin)** theo 6 nhóm lĩnh vực ưu tiên và kiểm tra bài gốc → tự viết kịch bản lưu `skills/ban-tin/inbox/YYYYMMDD-<khu-vuc>-<buoi>.json` (`"output": "anh"`) → tự chạy `python skills/ban-tin/scripts/ban_tin.py render skills/ban-tin/inbox/<file>.json --mode anh` → xuất bộ **ảnh lướt `anh/01.png…`** + `caption.txt` (không tạo file `.mp4` trừ khi người dùng bảo làm video) + **luôn kèm theo "List All Tin 24h qua"** để người dùng dễ đổi tin nếu muốn. AI không ghi được file (chat trên web): dùng `skills/ban-tin/prompts/viet-kich-ban.md`, trả về 1 khối JSON.
 
 - **Khi chứng thực & trả lời bình luận khán giả**: người dùng nói "trả lời bình luận", "chứng thực bình luận", "check cmt", "soạn trả lời cmt", "bình luận này trả lời sao", hoặc gửi nội dung bình luận của khán giả:
   **đọc và làm đúng theo `skills/tra-loi-binh-luan/SKILL.md`.**
@@ -18,8 +18,17 @@ Bản tin tức tổng hợp của một khu vực, dạng **ảnh lướt 9:16 
 
 
 ## 3. Quy tắc nội dung & xuất bản (bắt buộc)
-- **Định dạng mặc định**: Chỉ tạo **chế độ ảnh lướt (`--mode anh`, xuất bộ ảnh `anh/01.png…09.png` + `caption.txt`)**, **tạm thời không render file video `.mp4`** trừ khi người dùng yêu cầu rõ "làm video".
-- **Nhịp & số tin**: mỗi tin hiện **7 giây** (để người xem kịp đọc + xem ảnh); video ≤ 59 giây nên **tối đa 7 tin/bản** (đề xuất 6–7 tin mạnh).
+- **Định dạng mặc định**: Chỉ tạo **chế độ ảnh lướt (`--mode anh`, xuất bộ ảnh `anh/01.png…` + `caption.txt`)**, **tạm thời không render file video `.mp4`** trừ khi người dùng yêu cầu rõ "làm video".
+- **Số lượng tin & nhịp**:
+  - **Chế độ Ảnh cuộn (`--mode anh`, mặc định)**: Chọn **hơn 7 tin (đề xuất 8–12 tin mạnh/bản)** theo chuẩn kênh mẫu `@tinchuan23h59s` để tối ưu thời gian đọc & lướt ảnh trên TikTok Photo Mode (nếu 24h qua ít tin thật sự chất lượng hơn thì lấy tối đa số tin tốt hiện có, không độn tin rác).
+  - **Chế độ Video (`--mode video`, khi được yêu cầu)**: Mỗi tin hiện **7 giây**; video ≤ 59 giây nên tối đa 7 tin/bản.
+- **Thứ tự 6 nhóm lĩnh vực ưu tiên khi chọn lọc tin (đã chốt)**:
+  1. 🔥 **Chuỗi tin đang tăng view trên kênh (Follow-up)**: Diễn biến mới của các vụ việc khán giả đang ngóng (như vụ trốn trại, đại dự án Thị Nại Eco Bay, kiểm tra tiệm vàng...).
+  2. 🚨 **An ninh – Pháp luật – Cứu hộ**: Vụ việc nóng, cảnh báo an toàn, giao thông, tàu cá.
+  3. 🏗️ **Quy hoạch – Hạ tầng – Đại dự án**: Sân bay Phù Cát, cao tốc Quy Nhơn – Pleiku, công viên biển, giải phóng mặt bằng, khu đô thị.
+  4. 🌦️ **Dân sinh – Thời tiết – Y tế**: Mưa lũ, sạt lở, lịch cúp điện/nước, dịch bệnh, khám chữa bệnh.
+  5. 🏖️ **Du lịch – Văn hóa – Sự kiện – Thể thao**: Sự kiện cuối tuần ở Quảng trường Nguyễn Tất Thành, giải chạy, bắn pháo hoa, điểm check-in mới.
+  6. 💼 **Kinh tế – Việc làm – Giáo dục**: Giá cả, chính sách hỗ trợ, trường đại học/học sinh.
 - **Bố cục mỗi trang tin (đã chốt)**: **ảnh 55% phía trên – chữ 45% phía dưới**; **không có thanh header**, tên kênh "QUY NHƠN 24H QUA" nằm thẳng trên ảnh (góc trên trái).
 - **Trang cuối**: logo + "Follow để nắm bắt tin tức Quy Nhơn nhé" + dòng vàng **"Nhà bạn có tin? Nhắn kênh, kênh đưa!"** (script tự thêm).
 - **Hashtags BẮT BUỘC luôn đầy đủ 6 thẻ**: `#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua` (trong mọi caption TikTok, YouTube, Facebook).
