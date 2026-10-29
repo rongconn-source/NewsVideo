@@ -1,6 +1,6 @@
 {
   "type": "digest",
-  "output": "video",
+  "output": "anh",
   "date": "2026-10-29",
   "region": "Quy Nhơn",
   "province": "Gia Lai",
@@ -12,21 +12,10 @@
     "kicker": "ĐIỂM TIN TRƯA",
     "title": "Tin tức Quy Nhơn",
     "subtitle": "Ngày 29/10/2026",
-    "teaser": "Khai thác đường băng số 2 Phù Cát; Bắt thêm 1 phạm nhân trốn trại?",
+    "teaser": "Bắt thêm 1 phạm nhân trốn trại A2; Khai thác đường băng số 2 Phù Cát?",
     "image": "item:1"
   },
   "items": [
-    {
-      "category": "khu-vuc",
-      "label": "Tin Quy Nhơn",
-      "text": "Hôm nay 29/10, Cảng hàng không Phù Cát chính thức đưa vào khai thác đường băng số 2, trở thành sân bay thứ 5 cả nước có hai đường cất hạ cánh, hướng tới công suất 5 triệu khách/năm.",
-      "image": "press:auto",
-      "ai_prompt": "modern airport runway with passenger airplane taking off in sunny central Vietnam",
-      "image_credit": "Báo Xây Dựng / Báo Mới",
-      "source": "https://baomoi.com/khai-thac-duong-bang-so-2-san-bay-phu-cat-cu-hich-cho-du-lich-gia-lai-cat-canh-c56376153.epi",
-      "source_name": "Báo Mới",
-      "published": "2026-10-28T21:59:00+07:00"
-    },
     {
       "category": "tinh",
       "label": "Tin Gia Lai",
@@ -37,6 +26,17 @@
       "source": "https://baogialai.com.vn/them-1-pham-nhan-tron-trai-giam-a2-da-bi-bat-post603399.html",
       "source_name": "Báo Gia Lai",
       "published": "2026-10-28T22:42:29+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Tin Quy Nhơn",
+      "text": "Hôm nay 29/10, Cảng hàng không Phù Cát chính thức đưa vào khai thác đường băng số 2, trở thành sân bay thứ 5 cả nước có hai đường cất hạ cánh, hướng tới công suất 5 triệu khách/năm.",
+      "image": "press:auto",
+      "ai_prompt": "modern airport runway with passenger airplane taking off in sunny central Vietnam",
+      "image_credit": "Báo Xây Dựng / Báo Mới",
+      "source": "https://baomoi.com/khai-thac-duong-bang-so-2-san-bay-phu-cat-cu-hich-cho-du-lich-gia-lai-cat-canh-c56376153.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-28T21:59:00+07:00"
     },
     {
       "category": "khu-vuc",
@@ -96,7 +96,7 @@
   ],
   "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
   "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
-  "pin_comment": "Đường băng số 2 sân bay Phù Cát chính thức đưa vào khai thác hôm nay 29/10! Bà con kỳ vọng gì ở diện mạo hạ tầng du lịch mới của tỉnh mình? Cùng chia sẻ cảm nghĩ nhé!",
+  "pin_comment": "Lực lượng chức năng đã bắt giữ được 2/4 phạm nhân trốn Trại giam A2 và hôm nay sân bay Phù Cát chính thức khai thác đường băng số 2! Bà con quan tâm thông tin nào nhất trưa nay?",
   "hashtags": [
     "#quynhon",
     "#tinquynhon",
@@ -106,9 +106,9 @@
     "#quynhon24hqua"
   ],
   "caption": {
-    "tiktok": "Khai thác đường băng số 2 sân bay Phù Cát; Bắt thêm 1 phạm nhân trốn trại A2? Điểm tin trưa 29/10/2026:\n\n1. Chính thức khai thác đường băng số 2 sân bay Phù Cát từ hôm nay 29/10 (Báo Mới)\n🔗 https://baomoi.com/khai-thac-duong-bang-so-2-san-bay-phu-cat-cu-hich-cho-du-lich-gia-lai-cat-canh-c56376153.epi\n\n2. Bắt giữ thêm 1 phạm nhân quê Gia Lai trốn khỏi Trại giam A2 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/them-1-pham-nhan-tron-trai-giam-a2-da-bi-bat-post603399.html\n\n3. Tỉnh chỉ đạo phường Quy Nhơn Nam khắc phục ngay sai sót vụ 5 hiệu trưởng (Báo Mới)\n🔗 https://baomoi.com/vu-5-hieu-truong-xuong-lam-giao-vien-gia-lai-chi-dao-khac-phuc-sai-sot-c56375896.epi\n\n4. Đường hơn 3km vốn 160 tỷ ở Quy Nhơn Tây thi công 3 năm vẫn dang dở (Báo Mới)\n🔗 https://baomoi.com/duong-hon-3km-thi-cong-3-nam-van-dang-do-nguoi-dan-kho-so-di-lai-c56374166.epi\n\n5. Chủ động ứng phó gió mạnh trên biển, cảnh báo sóng cao 2-4m (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-chu-dong-ung-pho-gio-manh-tren-bien-canh-bao-song-cao-den-4-m-post603385.html\n\n6. Con trai mang xe máy đi độ chế, mẹ bị CSGT xử phạt 5 triệu đồng (Báo Gia Lai)\n🔗 https://baogialai.com.vn/con-mang-xe-may-di-do-che-me-bi-phat-5-trieu-dong-post603373.html\n\n7. CLB Quy Nhơn United thua tiếc nuối 1-2 trước TP.HCM ở giây bù giờ cuối (Báo Gia Lai)\n🔗 https://baogialai.com.vn/quy-nhon-united-thua-tiec-nuoi-truoc-tp-ho-chi-minh-post603390.html\n\nBà con quan tâm tin nào nhất trưa nay? Cùng chia sẻ cảm nghĩ nhé!\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
-    "youtube": "Khai thác đường băng số 2 sân bay Phù Cát; Bắt thêm 1 phạm nhân trốn trại A2 | Bản tin trưa 29/10/2026\n\nTổng hợp tin tức Quy Nhơn & Gia Lai trưa 29/10/2026:\n- Chính thức đưa vào khai thác đường băng số 2 Cảng hàng không Phù Cát\n- Công an bắt giữ thêm 1 phạm nhân quê Gia Lai trốn khỏi Trại giam A2\n- UBND tỉnh chỉ đạo phường Quy Nhơn Nam khắc phục sai sót vụ 5 hiệu trưởng\n- Dự án đường 3,3km vốn hơn 160 tỷ ở Quy Nhơn Tây thi công 3 năm còn dang dở\n- Cảnh báo gió Đông Bắc giật cấp 8-9, sóng biển cao 2-4m\n- Con tự ý mang xe máy đi độ chế, mẹ bị CSGT phạt 5 triệu đồng\n- CLB Quy Nhơn United thua sát nút 1-2 trước TP.HCM ở phút bù giờ\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
-    "facebook": "Khai thác đường băng số 2 sân bay Phù Cát; Bắt thêm 1 phạm nhân trốn trại A2? Điểm tin trưa 29/10/2026:\n\n1. Chính thức khai thác đường băng số 2 sân bay Phù Cát từ hôm nay 29/10 (Báo Mới)\n🔗 https://baomoi.com/khai-thac-duong-bang-so-2-san-bay-phu-cat-cu-hich-cho-du-lich-gia-lai-cat-canh-c56376153.epi\n\n2. Bắt giữ thêm 1 phạm nhân quê Gia Lai trốn khỏi Trại giam A2 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/them-1-pham-nhan-tron-trai-giam-a2-da-bi-bat-post603399.html\n\n3. Tỉnh chỉ đạo phường Quy Nhơn Nam khắc phục ngay sai sót vụ 5 hiệu trưởng (Báo Mới)\n🔗 https://baomoi.com/vu-5-hieu-truong-xuong-lam-giao-vien-gia-lai-chi-dao-khac-phuc-sai-sot-c56375896.epi\n\n4. Đường hơn 3km vốn 160 tỷ ở Quy Nhơn Tây thi công 3 năm vẫn dang dở (Báo Mới)\n🔗 https://baomoi.com/duong-hon-3km-thi-cong-3-nam-van-dang-do-nguoi-dan-kho-so-di-lai-c56374166.epi\n\n5. Chủ động ứng phó gió mạnh trên biển, cảnh báo sóng cao 2-4m (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-chu-dong-ung-pho-gio-manh-tren-bien-canh-bao-song-cao-den-4-m-post603385.html\n\n6. Con trai mang xe máy đi độ chế, mẹ bị CSGT xử phạt 5 triệu đồng (Báo Gia Lai)\n🔗 https://baogialai.com.vn/con-mang-xe-may-di-do-che-me-bi-phat-5-trieu-dong-post603373.html\n\n7. CLB Quy Nhơn United thua tiếc nuối 1-2 trước TP.HCM ở giây bù giờ cuối (Báo Gia Lai)\n🔗 https://baogialai.com.vn/quy-nhon-united-thua-tiec-nuoi-truoc-tp-ho-chi-minh-post603390.html\n\nĐường băng số 2 sân bay Phù Cát chính thức đưa vào khai thác hôm nay 29/10! Bà con kỳ vọng gì ở diện mạo hạ tầng du lịch mới của tỉnh mình? Cùng chia sẻ cảm nghĩ nhé!\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+    "tiktok": "Bắt thêm 1 phạm nhân trốn trại A2; Khai thác đường băng số 2 sân bay Phù Cát? Điểm tin trưa 29/10/2026:\n\n1. Bắt giữ thêm 1 phạm nhân quê Gia Lai trốn khỏi Trại giam A2 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/them-1-pham-nhan-tron-trai-giam-a2-da-bi-bat-post603399.html\n\n2. Chính thức khai thác đường băng số 2 sân bay Phù Cát từ hôm nay 29/10 (Báo Mới)\n🔗 https://baomoi.com/khai-thac-duong-bang-so-2-san-bay-phu-cat-cu-hich-cho-du-lich-gia-lai-cat-canh-c56376153.epi\n\n3. Tỉnh chỉ đạo phường Quy Nhơn Nam khắc phục ngay sai sót vụ 5 hiệu trưởng (Báo Mới)\n🔗 https://baomoi.com/vu-5-hieu-truong-xuong-lam-giao-vien-gia-lai-chi-dao-khac-phuc-sai-sot-c56375896.epi\n\n4. Đường hơn 3km vốn 160 tỷ ở Quy Nhơn Tây thi công 3 năm vẫn dang dở (Báo Mới)\n🔗 https://baomoi.com/duong-hon-3km-thi-cong-3-nam-van-dang-do-nguoi-dan-kho-so-di-lai-c56374166.epi\n\n5. Chủ động ứng phó gió mạnh trên biển, cảnh báo sóng cao 2-4m (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-chu-dong-ung-pho-gio-manh-tren-bien-canh-bao-song-cao-den-4-m-post603385.html\n\n6. Con trai mang xe máy đi độ chế, mẹ bị CSGT xử phạt 5 triệu đồng (Báo Gia Lai)\n🔗 https://baogialai.com.vn/con-mang-xe-may-di-do-che-me-bi-phat-5-trieu-dong-post603373.html\n\n7. CLB Quy Nhơn United thua tiếc nuối 1-2 trước TP.HCM ở giây bù giờ cuối (Báo Gia Lai)\n🔗 https://baogialai.com.vn/quy-nhon-united-thua-tiec-nuoi-truoc-tp-ho-chi-minh-post603390.html\n\nBà con quan tâm tin nào nhất trưa nay? Cùng chia sẻ cảm nghĩ nhé!\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Bắt thêm 1 phạm nhân trốn trại A2; Khai thác đường băng số 2 sân bay Phù Cát | Bản tin trưa 29/10/2026\n\nTổng hợp tin tức Quy Nhơn & Gia Lai trưa 29/10/2026:\n- Công an bắt giữ thêm 1 phạm nhân quê Gia Lai trốn khỏi Trại giam A2\n- Chính thức đưa vào khai thác đường băng số 2 Cảng hàng không Phù Cát\n- UBND tỉnh chỉ đạo phường Quy Nhơn Nam khắc phục sai sót vụ 5 hiệu trưởng\n- Dự án đường 3,3km vốn hơn 160 tỷ ở Quy Nhơn Tây thi công 3 năm còn dang dở\n- Cảnh báo gió Đông Bắc giật cấp 8-9, sóng biển cao 2-4m\n- Con tự ý mang xe máy đi độ chế, mẹ bị CSGT phạt 5 triệu đồng\n- CLB Quy Nhơn United thua sát nút 1-2 trước TP.HCM ở phút bù giờ\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "facebook": "Bắt thêm 1 phạm nhân trốn trại A2; Khai thác đường băng số 2 sân bay Phù Cát? Điểm tin trưa 29/10/2026:\n\n1. Bắt giữ thêm 1 phạm nhân quê Gia Lai trốn khỏi Trại giam A2 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/them-1-pham-nhan-tron-trai-giam-a2-da-bi-bat-post603399.html\n\n2. Chính thức khai thác đường băng số 2 sân bay Phù Cát từ hôm nay 29/10 (Báo Mới)\n🔗 https://baomoi.com/khai-thac-duong-bang-so-2-san-bay-phu-cat-cu-hich-cho-du-lich-gia-lai-cat-canh-c56376153.epi\n\n3. Tỉnh chỉ đạo phường Quy Nhơn Nam khắc phục ngay sai sót vụ 5 hiệu trưởng (Báo Mới)\n🔗 https://baomoi.com/vu-5-hieu-truong-xuong-lam-giao-vien-gia-lai-chi-dao-khac-phuc-sai-sot-c56375896.epi\n\n4. Đường hơn 3km vốn 160 tỷ ở Quy Nhơn Tây thi công 3 năm vẫn dang dở (Báo Mới)\n🔗 https://baomoi.com/duong-hon-3km-thi-cong-3-nam-van-dang-do-nguoi-dan-kho-so-di-lai-c56374166.epi\n\n5. Chủ động ứng phó gió mạnh trên biển, cảnh báo sóng cao 2-4m (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-chu-dong-ung-pho-gio-manh-tren-bien-canh-bao-song-cao-den-4-m-post603385.html\n\n6. Con trai mang xe máy đi độ chế, mẹ bị CSGT xử phạt 5 triệu đồng (Báo Gia Lai)\n🔗 https://baogialai.com.vn/con-mang-xe-may-di-do-che-me-bi-phat-5-trieu-dong-post603373.html\n\n7. CLB Quy Nhơn United thua tiếc nuối 1-2 trước TP.HCM ở giây bù giờ cuối (Báo Gia Lai)\n🔗 https://baogialai.com.vn/quy-nhon-united-thua-tiec-nuoi-truoc-tp-ho-chi-minh-post603390.html\n\nLực lượng chức năng đã bắt giữ được 2/4 phạm nhân trốn Trại giam A2 và hôm nay sân bay Phù Cát chính thức khai thác đường băng số 2! Bà con quan tâm thông tin nào nhất trưa nay?\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
   },
   "needs_review": []
 }
