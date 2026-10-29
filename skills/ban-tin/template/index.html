@@ -49,11 +49,12 @@
       .brand { font-weight: 800; font-size: 32px; letter-spacing: 0.08em; color: var(--ink); text-shadow: 0 2px 8px rgba(0,0,0,0.6); }
       .brand b { color: var(--amber); }
       .chip { font-weight: 700; font-size: 24px; letter-spacing: 0.12em; color: var(--navy-900); background: var(--amber); padding: 6px 16px; border-radius: 8px; }
-      .photo { position: absolute; top: 140px; left: 0; width: 1080px; height: 916px; overflow: hidden; } /* ảnh bắt đầu từ 140px: tránh góc bo tròn và Dynamic Island của iPhone */
-      .photo-inner { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; }
+      .photo { position: absolute; top: 140px; left: 0; width: 1080px; height: 916px; overflow: hidden; background: var(--navy-900); } /* ảnh bắt đầu từ 140px: tránh góc bo tròn và Dynamic Island của iPhone */
+      .photo-inner { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; overflow: hidden; }
       .photo-bg { position: absolute; inset: 0; }
-      .photo-img { position: absolute; inset: 0; width: 1080px; height: 916px; object-fit: cover; display: block; }
-      .photo-img.ai { height: 1016px; object-position: center top; } /* cắt logo góc dưới của ảnh AI */
+      .photo-blur { position: absolute; inset: -40px; width: 1160px; height: 996px; object-fit: cover; filter: blur(26px) brightness(0.45) saturate(1.15); display: block; z-index: 1; }
+      .photo-img { position: relative; width: 1080px; height: 856px; margin-top: 60px; object-fit: contain; display: block; z-index: 2; filter: drop-shadow(0 6px 20px rgba(0,0,0,0.5)); }
+      .photo-img.ai { object-fit: cover; height: 956px; margin-top: 0; object-position: center top; } /* cắt logo góc dưới của ảnh AI */
       .ghost-num { position: absolute; right: 40px; bottom: -40px; width: 400px; height: 560px; display: block; }
       .rain {
         position: absolute; left: 0; top: -300px; width: 1080px; height: 1460px;
@@ -169,7 +170,7 @@
         const label = it.label || cat.label;
         let visual;
         if (it._img) {
-          visual = `<img class="photo-img${it._ai ? " ai" : ""}" src="${esc(it._img)}" alt="" />`;
+          visual = `<img class="photo-blur" id="s${n}-blur" src="${esc(it._img)}" alt="" /><img class="photo-img${it._ai ? " ai" : ""}" src="${esc(it._img)}" alt="" />`;
         } else if (it._text) {
           visual = `<div class="photo-bg" style="background: radial-gradient(circle at 50% 45%, ${cat.bg[0]} 0%, ${cat.bg[1]} 72%)"></div>
             <div class="rain" id="s${n}-rain" data-layout-allow-overflow></div>
@@ -236,7 +237,11 @@
 
       items.forEach((it, i) => {
         const n = i + 1, t = T.cover + i * T.item;
-        tl.fromTo("#s" + n + "-zoom", { scale: 1 }, { scale: 1.06, duration: T.item + 0.5, ease: "sine.inOut" }, t);
+        if (document.getElementById("s" + n + "-blur")) {
+          tl.fromTo("#s" + n + "-blur", { scale: 1.02 }, { scale: 1.12, duration: T.item + 0.5, ease: "sine.inOut" }, t);
+        } else {
+          tl.fromTo("#s" + n + "-zoom", { scale: 1 }, { scale: 1.06, duration: T.item + 0.5, ease: "sine.inOut" }, t);
+        }
         if (document.getElementById("s" + n + "-rain")) tl.fromTo("#s" + n + "-rain", { y: -220 }, { y: 0, duration: T.item + 0.5, ease: "none" }, t);
         tl.fromTo("#s" + n + "-label", { x: -50, opacity: 0 }, { x: 0, opacity: 1, duration: 0.45, ease: "power3.out" }, t + 0.35);
         tl.fromTo("#s" + n + "-counter", { scale: 0.6, opacity: 0 }, { scale: 1, opacity: 1, duration: 0.4, ease: "back.out(2)" }, t + 0.45);
