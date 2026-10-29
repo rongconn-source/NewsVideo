@@ -1,0 +1,148 @@
+{
+  "type": "digest",
+  "output": "anh",
+  "date": "2026-10-29",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "brand": [
+    "QUY NHƠN ",
+    "24H QUA"
+  ],
+  "cover": {
+    "kicker": "ĐIỂM TIN TỐI",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Ngày 29/10/2026",
+    "teaser": "Đón chuyến bay quốc tế Macau hạ cánh đường băng 3.245 tỷ Phù Cát?",
+    "image": "item:1"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "label": "Tin Quy Nhơn",
+      "text": "Chiều 29/10, UBND tỉnh chính thức khánh thành đường băng số 2 sân bay Phù Cát vốn 3.245 tỷ đồng, đồng thời đón chuyến bay quốc tế đầu tiên đưa 166 du khách từ Macau (Trung Quốc) thẳng đến Quy Nhơn.",
+      "image": "press:auto",
+      "ai_prompt": "passenger aircraft landing on new airport runway with water cannon salute in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/khanh-thanh-duong-cat-ha-canh-so-2-cang-hang-khong-phu-cat-va-don-chuyen-bay-charter-tu-macau-trung-quoc-post603467.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-29T17:40:02+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "An ninh trật tự",
+      "text": "Hàng trăm cán bộ, chiến sĩ Bộ Công an và Công an Khánh Hòa chia nhiều mũi tiến sâu vào rừng núi Hòn Dữ hiểm trở, đồng thời lập 6 chốt chặn trên đèo Khánh Lê để vây bắt 2 phạm nhân trốn Trại giam A2.",
+      "image": "press:auto",
+      "ai_prompt": "police officers patrolling along a steep mountain pass road in central Vietnam",
+      "image_credit": "VietNamNet / Báo Mới",
+      "source": "https://baomoi.com/hang-tram-canh-sat-vao-rung-truy-bat-hai-pham-nhan-tron-trai-giam-a2-c56383185.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-29T17:31:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Pháp luật",
+      "text": "Công an tỉnh thông báo tìm bị hại trong vụ người phụ nữ 41 tuổi (trú phường Hoài Nhơn Đông) mở nhiều dây hụi khống giai đoạn 2019–2020 để lừa đảo chiếm đoạt tài sản rồi vỡ nợ tại thị xã Hoài Nhơn cũ.",
+      "image": "press:auto",
+      "ai_prompt": "police investigation office building exterior in Vietnam during daytime",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/tim-nguoi-bi-hai-trong-vu-lua-dao-chiem-doat-tai-san-tai-thi-xa-hoai-nhon-cu-post603445.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-29T13:41:36+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Đô thị Quy Nhơn",
+      "text": "Công ty CP Tập đoàn CNT chính thức khởi công Dự án Khu đô thị phía Tây Nam cầu Long Vân tại phường Quy Nhơn Bắc với quy mô hơn 9 ha, góp phần hoàn thiện không gian đô thị hiện đại cửa ngõ Quy Nhơn.",
+      "image": "press:auto",
+      "ai_prompt": "modern urban area construction groundbreaking ceremony near river bridge in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/diem-tin-trua-gia-lai-khoi-cong-du-an-khu-do-thi-hon-9-ha-tai-quy-nhon-bac-post603427.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-29T11:30:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Quy hoạch Quy Nhơn",
+      "text": "Dự án Khu đô thị Vân Hà (phường Quy Nhơn Bắc) đã chi trả hơn 88,4 tỷ đồng giải phóng mặt bằng qua 18 đợt và đề nghị giao tiếp 9,65 ha đất đợt 2 để ưu tiên sớm hoàn thành khu tái định cư tại chỗ cho dân.",
+      "image": "press:auto",
+      "ai_prompt": "aerial view of new urban residential infrastructure project under construction in Quy Nhon",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/day-nhanh-tien-do-giai-phong-mat-bang-thi-cong-khu-do-thi-van-ha-post603402.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-29T11:04:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Hạ tầng giao thông",
+      "text": "UBND tỉnh phê duyệt đầu tư hơn 376 tỷ đồng giai đoạn 2027–2029 để xây mới, thay thế các cầu yếu trên địa bàn (như cầu qua sông Kôn ở Vĩnh Thạnh, cầu Đăk Pơ) nhằm bảo đảm giao thông an toàn mùa mưa lũ.",
+      "image": "press:auto",
+      "ai_prompt": "concrete bridge crossing a wide river in central highlands Vietnam",
+      "image_credit": "Báo Giao Thông / Báo Mới",
+      "source": "https://baomoi.com/gia-lai-chi-hon-376-ty-dong-thay-the-cac-cau-yeu-dam-bao-an-toan-mua-mua-lu-c56382821.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-29T17:00:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Dân sinh",
+      "text": "Chiều 29/10, Phó Thủ tướng Hồ Quốc Dũng đến thăm, tặng quà bà con khu tái định cư Núi Cấm (xã Cát Tiến) rộng 3,2 ha vốn 32 tỷ đồng – nơi 64 hộ dân vùng sạt lở được giao đất xây nhà mới an toàn.",
+      "image": "press:auto",
+      "ai_prompt": "new resettlement residential houses with paved road near coastal hills in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/pho-thu-tuong-chinh-phu-ho-quoc-dung-tham-tang-qua-cho-nguoi-dan-khu-tai-dinh-cu-nui-cam-post603459.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-29T15:58:48+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Giao thông Quy Nhơn",
+      "text": "Từ dữ liệu giám sát hành trình, Đội CSGT đường bộ số 3 (Phòng CSGT Công an tỉnh) vừa xác minh, lập biên bản xử phạt một tài xế 36 tuổi trú phường Quy Nhơn do điều khiển xe tải chạy quá thời gian quy định.",
+      "image": "press:auto",
+      "ai_prompt": "traffic police checking a commercial truck on highway in Vietnam",
+      "image_credit": "Công an Đà Nẵng / Báo Mới",
+      "source": "https://baomoi.com/xu-ly-tai-xe-lai-xe-qua-thoi-gian-quy-dinh-c56382456.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-29T11:53:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Thể thao – Sự kiện",
+      "text": "Ban tổ chức Giải chạy Gia Lai City Trail 2026 công bố danh mục vật dụng bắt buộc cho các cự ly từ 6 km đến 70 km (BIB, bình nước, còi, bộ sơ cứu, đèn đội đầu, đồng hồ GPX) để đảm bảo an toàn đường chạy.",
+      "image": "press:auto",
+      "ai_prompt": "marathon trail runners running on scenic nature road in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/cong-bo-danh-muc-vat-dung-tham-gia-gia-lai-city-trail-2026-post603375.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-29T13:47:08+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Chính sách mới",
+      "text": "Tỉnh ủy ban hành kế hoạch phấn đấu đến năm 2030 thu hút, trọng dụng 10–20 nhân tài ngành AI, bán dẫn, dữ liệu, y tế và giáo dục, định hướng dành khoảng 0,1% GRDP ngân sách hàng năm cho công tác nhân tài.",
+      "image": "press:auto",
+      "ai_prompt": "modern technology innovation center and university campus in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/gia-lai-phan-dau-thu-hut-trong-dung-10-20-nhan-tai-den-nam-2030-post603415.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-29T15:16:49+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "Chiều nay đường băng số 2 sân bay Phù Cát (3.245 tỷ) đã chính thức khánh thành và đón ngay chuyến bay quốc tế đầu tiên từ Macau đưa 166 du khách đến Quy Nhơn! Bà con ấn tượng với tin nào nhất tối nay?",
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "caption": {
+    "tiktok": "Đón chuyến bay quốc tế Macau hạ cánh đường băng 3.245 tỷ Phù Cát; Khởi công KĐT cầu Long Vân? Điểm tin tối 29/10/2026:\n\n1. Khánh thành đường băng số 2 Phù Cát (3.245 tỷ) & đón chuyến bay quốc tế từ Macau đến Quy Nhơn (Báo Gia Lai)\n🔗 https://baogialai.com.vn/khanh-thanh-duong-cat-ha-canh-so-2-cang-hang-khong-phu-cat-va-don-chuyen-bay-charter-tu-macau-trung-quoc-post603467.html\n\n2. Hàng trăm cảnh sát vào rừng Hòn Dữ, lập chốt đèo Khánh Lê truy bắt 2 phạm nhân trốn Trại giam A2 (Báo Mới)\n🔗 https://baomoi.com/hang-tram-canh-sat-vao-rung-truy-bat-hai-pham-nhan-tron-trai-giam-a2-c56383185.epi\n\n3. Công an tìm bị hại vụ mở dây hụi khống lừa đảo tại Hoài Nhơn (Báo Gia Lai)\n🔗 https://baogialai.com.vn/tim-nguoi-bi-hai-trong-vu-lua-dao-chiem-doat-tai-san-tai-thi-xa-hoai-nhon-cu-post603445.html\n\n4. Khởi công Khu đô thị phía Tây Nam cầu Long Vân hơn 9 ha tại Quy Nhơn Bắc (Báo Gia Lai)\n🔗 https://baogialai.com.vn/diem-tin-trua-gia-lai-khoi-cong-du-an-khu-do-thi-hon-9-ha-tai-quy-nhon-bac-post603427.html\n\n5. Đẩy nhanh giải phóng mặt bằng Khu đô thị Vân Hà, ưu tiên khu tái định cư tại chỗ (Báo Gia Lai)\n🔗 https://baogialai.com.vn/day-nhanh-tien-do-giai-phong-mat-bang-thi-cong-khu-do-thi-van-ha-post603402.html\n\n6. Chi hơn 376 tỷ đồng thay thế các cầu yếu bảo đảm an toàn mùa mưa lũ (Báo Mới)\n🔗 https://baomoi.com/gia-lai-chi-hon-376-ty-dong-thay-the-cac-cau-yeu-dam-bao-an-toan-mua-mua-lu-c56382821.epi\n\n7. Phó Thủ tướng Hồ Quốc Dũng thăm, tặng quà khu tái định cư Núi Cấm, Cát Tiến (Báo Gia Lai)\n🔗 https://baogialai.com.vn/pho-thu-tuong-chinh-phu-ho-quoc-dung-tham-tang-qua-cho-nguoi-dan-khu-tai-dinh-cu-nui-cam-post603459.html\n\n8. Xử phạt tài xế ở phường Quy Nhơn lái xe tải quá thời gian quy định (Báo Mới)\n🔗 https://baomoi.com/xu-ly-tai-xe-lai-xe-qua-thoi-gian-quy-dinh-c56382456.epi\n\n9. Công bố vật dụng bắt buộc tại Giải chạy Gia Lai City Trail 2026 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/cong-bo-danh-muc-vat-dung-tham-gia-gia-lai-city-trail-2026-post603375.html\n\n10. Phấn đấu thu hút, trọng dụng 10–20 nhân tài AI, bán dẫn, y tế đến năm 2030 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-phan-dau-thu-hut-trong-dung-10-20-nhan-tai-den-nam-2030-post603415.html\n\nBà con ấn tượng với thông tin nào nhất tối nay? Cùng chia sẻ cảm nghĩ nhé!\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Khánh thành đường băng 3.245 tỷ Phù Cát đón chuyến bay Macau; Khởi công KĐT cầu Long Vân | Bản tin tối 29/10/2026\n\nTổng hợp 10 tin tức Quy Nhơn & Gia Lai tối 29/10/2026:\n1. Khánh thành đường băng số 2 sân bay Phù Cát (3.245 tỷ) & đón 166 du khách quốc tế từ Macau đến Quy Nhơn\n2. Hàng trăm cảnh sát vào rừng Hòn Dữ, lập chốt đèo Khánh Lê truy bắt 2 phạm nhân trốn Trại giam A2\n3. Công an tìm bị hại vụ mở dây hụi khống lừa đảo tại Hoài Nhơn\n4. Khởi công Dự án Khu đô thị phía Tây Nam cầu Long Vân hơn 9 ha tại Quy Nhơn Bắc\n5. Đẩy nhanh giải phóng mặt bằng Khu đô thị Vân Hà, ưu tiên khu tái định cư tại chỗ\n6. Phê duyệt hơn 376 tỷ đồng thay thế các cầu yếu bảo đảm an toàn mùa mưa lũ\n7. Phó Thủ tướng Hồ Quốc Dũng thăm, tặng quà bà con khu tái định cư Núi Cấm (xã Cát Tiến)\n8. Xử phạt tài xế ở phường Quy Nhơn lái xe tải quá thời gian quy định\n9. Công bố danh mục vật dụng bắt buộc Giải chạy Gia Lai City Trail 2026\n10. Phấn đấu thu hút, trọng dụng 10–20 nhân tài ngành mũi nhọn đến năm 2030\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "facebook": "Đón chuyến bay quốc tế Macau hạ cánh đường băng 3.245 tỷ Phù Cát; Khởi công KĐT cầu Long Vân? Điểm tin tối 29/10/2026:\n\n1. Khánh thành đường băng số 2 Phù Cát (3.245 tỷ) & đón chuyến bay quốc tế từ Macau đến Quy Nhơn (Báo Gia Lai)\n🔗 https://baogialai.com.vn/khanh-thanh-duong-cat-ha-canh-so-2-cang-hang-khong-phu-cat-va-don-chuyen-bay-charter-tu-macau-trung-quoc-post603467.html\n\n2. Hàng trăm cảnh sát vào rừng Hòn Dữ, lập chốt đèo Khánh Lê truy bắt 2 phạm nhân trốn Trại giam A2 (Báo Mới)\n🔗 https://baomoi.com/hang-tram-canh-sat-vao-rung-truy-bat-hai-pham-nhan-tron-trai-giam-a2-c56383185.epi\n\n3. Công an tìm bị hại vụ mở dây hụi khống lừa đảo tại Hoài Nhơn (Báo Gia Lai)\n🔗 https://baogialai.com.vn/tim-nguoi-bi-hai-trong-vu-lua-dao-chiem-doat-tai-san-tai-thi-xa-hoai-nhon-cu-post603445.html\n\n4. Khởi công Khu đô thị phía Tây Nam cầu Long Vân hơn 9 ha tại Quy Nhơn Bắc (Báo Gia Lai)\n🔗 https://baogialai.com.vn/diem-tin-trua-gia-lai-khoi-cong-du-an-khu-do-thi-hon-9-ha-tai-quy-nhon-bac-post603427.html\n\n5. Đẩy nhanh giải phóng mặt bằng Khu đô thị Vân Hà, ưu tiên khu tái định cư tại chỗ (Báo Gia Lai)\n🔗 https://baogialai.com.vn/day-nhanh-tien-do-giai-phong-mat-bang-thi-cong-khu-do-thi-van-ha-post603402.html\n\n6. Chi hơn 376 tỷ đồng thay thế các cầu yếu bảo đảm an toàn mùa mưa lũ (Báo Mới)\n🔗 https://baomoi.com/gia-lai-chi-hon-376-ty-dong-thay-the-cac-cau-yeu-dam-bao-an-toan-mua-mua-lu-c56382821.epi\n\n7. Phó Thủ tướng Hồ Quốc Dũng thăm, tặng quà khu tái định cư Núi Cấm, Cát Tiến (Báo Gia Lai)\n🔗 https://baogialai.com.vn/pho-thu-tuong-chinh-phu-ho-quoc-dung-tham-tang-qua-cho-nguoi-dan-khu-tai-dinh-cu-nui-cam-post603459.html\n\n8. Xử phạt tài xế ở phường Quy Nhơn lái xe tải quá thời gian quy định (Báo Mới)\n🔗 https://baomoi.com/xu-ly-tai-xe-lai-xe-qua-thoi-gian-quy-dinh-c56382456.epi\n\n9. Công bố vật dụng bắt buộc tại Giải chạy Gia Lai City Trail 2026 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/cong-bo-danh-muc-vat-dung-tham-gia-gia-lai-city-trail-2026-post603375.html\n\n10. Phấn đấu thu hút, trọng dụng 10–20 nhân tài AI, bán dẫn, y tế đến năm 2030 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-phan-dau-thu-hut-trong-dung-10-20-nhan-tai-den-nam-2030-post603415.html\n\nChiều nay đường băng số 2 sân bay Phù Cát (3.245 tỷ) đã chính thức khánh thành và đón ngay chuyến bay quốc tế đầu tiên từ Macau đưa 166 du khách đến Quy Nhơn! Bà con ấn tượng với tin nào nhất tối nay?\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "needs_review": []
+}
+
