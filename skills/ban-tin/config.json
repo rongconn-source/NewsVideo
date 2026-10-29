@@ -5,7 +5,7 @@
   "region_scope": "Các phường của Quy Nhơn cũ: Quy Nhơn, Quy Nhơn Nam, Quy Nhơn Bắc, Quy Nhơn Đông, Quy Nhơn Tây; xã đảo Nhơn Châu; tin về công trình/tuyến đường nằm ở hoặc dẫn vào Quy Nhơn",
   "_ghi_chu_pham_vi": "Ưu tiên tin Quy Nhơn (khu-vuc); được lấy thêm tin toàn tỉnh Gia Lai (tinh). Không lấy tin tỉnh khác / trong nước / thế giới.",
   "allowed_categories": ["khu-vuc", "tinh"],
-  "default_output": "video",
+  "default_output": "anh",
   "default_hashtags": ["#quynhon", "#tinquynhon", "#gialai", "#binhdinh", "#tintuc", "#quynhon24hqua"],
   "brand": ["QUY NHƠN ", "24H QUA"],
   "channel_name": "Quy Nhơn 24h Qua",

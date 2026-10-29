@@ -660,25 +660,25 @@ def main() -> None:
     out = a.out or OUTPUT_DIR / f"{a.json.stem}-{mode}"
     out.mkdir(parents=True, exist_ok=True)
     proj = out / "_project"
-    print("1/3 Chuẩn bị mẫu + ảnh…")
-    build_project(d, proj)
-    import datetime
-    stamp = datetime.datetime.now().strftime("%Hh%M")
     for old in out.glob("*.mp4"):  # xoá video cũ, tránh lẫn bản
         old.unlink()
-    mp4 = out / f"{a.json.stem}_{stamp}.mp4"
     if mode == "anh":
-        print("2/3 Chụp ảnh từng trang…")
-        files = render_slides(proj, out, n, t)
-        print("3/3 Ghép ảnh thành video (cho YouTube/Facebook)…")
-        slideshow(files, t, mp4)
+        print("1/2 Chuẩn bị mẫu + ảnh…")
+        build_project(d, proj)
+        print("2/2 Chụp ảnh từng trang (chế độ ảnh lướt - không tạo file video)…")
+        render_slides(proj, out, n, t)
     else:
+        print("1/3 Chuẩn bị mẫu + ảnh…")
+        build_project(d, proj)
+        import datetime
+        stamp = datetime.datetime.now().strftime("%Hh%M")
+        mp4 = out / f"{a.json.stem}_{stamp}.mp4"
         print("2/3 Render video (HyperFrames)…")
         run(hf("render", "-o", str(mp4)), proj)
         print("3/3 Xong render.")
+        if a.preview_music:
+            add_music(mp4, a.preview_music, a.music_start, t["total"], out / f"{a.json.stem}_{stamp}-XEM-THU-co-nhac.mp4")
     write_caption(d, out)
-    if a.preview_music:
-        add_music(mp4, a.preview_music, a.music_start, t["total"], out / f"{a.json.stem}_{stamp}-XEM-THU-co-nhac.mp4")
     print(f"\nKẾT QUẢ: {out}")
     for p in sorted(out.iterdir()):
         if p.name != "_project":

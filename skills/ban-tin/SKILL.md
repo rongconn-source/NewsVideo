@@ -22,7 +22,7 @@ Python 3.10+, Node.js (có `npx`), ffmpeg. Không cần cài thư viện Python 
 - **Đọc `skills/ban-tin/config.json` trước**: khu vực (`region`), địa bàn cụ thể (`region_scope`), **phạm vi tin được phép** (`allowed_categories`), tên kênh (`brand`).
   Hiện tại: **ưu tiên tin Quy Nhơn** (`khu-vuc`), **được lấy tin toàn tỉnh Gia Lai** (`tinh`) – không lấy tin tỉnh khác/trong nước/thế giới. Bài nguồn chỉ cần **có nhắc Quy Nhơn hoặc Gia Lai** và sự việc xảy ra trên địa bàn. Script sẽ báo lỗi nếu có tin ngoài phạm vi.
 - **Khu vực** (`region`): theo cấu hình; người dùng nói khu vực khác thì làm theo người dùng. Ghi thêm `province` nếu tin cấp tỉnh (vd. Quy Nhơn → tỉnh Gia Lai, vì từ 1/7/2025 Bình Định đã sáp nhập vào Gia Lai).
-- **Chế độ** (`output`): mặc định là `"video"` (chỉ render video dọc 9:16 bằng HyperFrames; tạm không render ảnh lướt).
+- **Chế độ** (`output`): mặc định là `"anh"` (**chỉ chụp bộ ảnh lướt 9:16 `anh/01.png…09.png` + `caption.txt`, tạm thời không tạo file video `.mp4`** trừ khi người dùng yêu cầu rõ "làm video").
 - **Ngày**: hôm nay. Bìa ghi "Ngày D/M/YYYY".
 
 ### 2. Thu tin – Kiểm tra chủ đề đang tăng view & chạy `scan` trước (đỡ tốn token, không sai ngày)
@@ -96,16 +96,16 @@ AI chat trên web (không ghi được file): trả về 1 khối ```json để 
 ### 8. Kiểm tra + dựng
 ```bash
 python skills/ban-tin/scripts/ban_tin.py check  skills/ban-tin/inbox/<file>.json
-python skills/ban-tin/scripts/ban_tin.py render skills/ban-tin/inbox/<file>.json            # theo "output" trong JSON
-python skills/ban-tin/scripts/ban_tin.py render skills/ban-tin/inbox/<file>.json --mode video
+python skills/ban-tin/scripts/ban_tin.py render skills/ban-tin/inbox/<file>.json --mode anh   # mặc định: chỉ tạo bộ ảnh lướt anh/01.png...09.png + caption.txt
+python skills/ban-tin/scripts/ban_tin.py render skills/ban-tin/inbox/<file>.json --mode video # chỉ chạy khi người dùng yêu cầu làm video
 ```
 - `check` báo lỗi → sửa JSON rồi chạy lại.
-- Kết quả ở `data/output/<tên>-<chế độ>/`: `ban-tin.mp4` (không nhạc – nhạc gắn trong app khi đăng), `anh/01.png…` (chế độ ảnh), `caption.txt`.
-- Xem thử có nhạc (chỉ nội bộ): thêm `--preview-music <file.mp3> --music-start <giây>`.
-- AI xem được ảnh → mở vài file `anh/*.png` (hoặc vài khung video) kiểm tra chữ đủ dấu, không tràn khung.
+- Kết quả ở `data/output/<tên>-anh/`: `anh/01.png…09.png` (chế độ ảnh lướt mặc định) + `caption.txt`. (Tạm thời không tạo file `.mp4` ở chế độ ảnh để chạy cực nhanh; chỉ tạo `.mp4` khi dùng `--mode video`).
+- AI xem được ảnh → mở vài file `anh/*.png` kiểm tra chữ đủ dấu, không tràn khung.
 
-### 9. Báo lại người dùng
-Danh sách tin (1 dòng/tin + nguồn), đường dẫn file kết quả, thời lượng, các mục `needs_review`, cảnh báo ảnh báo (`press:`), caption chuẩn với đầy đủ 6 hashtag: `#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua`.
+### 9. Báo lại người dùng (BẮT BUỘC kèm "List All Tin")
+1. **Thành phẩm bản tin**: Danh sách 7 tin đã chọn (1 dòng/tin + nguồn), đường dẫn thư mục ảnh `anh/`, caption chuẩn với đầy đủ 6 hashtag (`#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua`) và bình luận ghim (`pin_comment`).
+2. **List All Tin trong 24h qua**: Luôn liệt kê toàn bộ danh sách các tin khu vực quét được trong 24h qua (chia nhóm: *Đã chọn / Tin dự phòng tốt / Tin đã đăng bản trước / Tin hội nghị hoặc ngoài địa bàn*) để người dùng dễ dàng yêu cầu đổi thứ tự hoặc thay tin ngay lập tức.
 
 ### 10. Phân tích kênh & tư vấn chiến lược (BẮT BUỘC mỗi lần làm tin / render)
 - Truy cập / kiểm tra kênh TikTok chính [@quynhon24hqua](https://www.tiktok.com/@quynhon24hqua):
