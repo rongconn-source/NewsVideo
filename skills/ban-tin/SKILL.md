@@ -25,7 +25,11 @@ Python 3.10+, Node.js (có `npx`), ffmpeg. Không cần cài thư viện Python 
 - **Chế độ** (`output`): mặc định là `"video"` (chỉ render video dọc 9:16 bằng HyperFrames; tạm không render ảnh lướt).
 - **Ngày**: hôm nay. Bìa ghi "Ngày D/M/YYYY".
 
-### 2. Thu tin – chạy `scan` trước (đỡ tốn token, không sai ngày)
+### 2. Thu tin – Kiểm tra chủ đề đang tăng view & chạy `scan` trước (đỡ tốn token, không sai ngày)
+- **Bước 2.1 – Bám sát các chủ đề đang tăng view trên kênh (Follow-up Trending Topics)**:
+  - Trước hoặc song song lúc quét tin, kiểm tra các video gần đây trên kênh `@quynhon24hqua` xem **video nào đang tăng view đột biến hoặc có nhiều bình luận quan tâm** (ví dụ: vụ nữ sinh ĐH Quy Nhơn, kiểm tra tiệm vàng, cháy nhà Vĩnh Thịnh, dự án Thị Nại Eco Bay, công viên biển khách sạn Bình Dương, sạt lở núi Một, truy bắt phạm nhân...).
+  - **Nguyên tắc**: Video tăng view nghĩa là chủ đề đó đang được khán giả địa phương ngóng chờ → **video tiếp theo BẮT BUỘC phải chủ động tìm kiếm xem các vụ việc/dự án đó có diễn biến mới, thông báo mới hay kết quả điều tra mới trong 24h qua không**. Nếu có tình tiết mới (không lặp lại thông tin cũ), **ưu tiên đưa ngay vào bản tin mới (đặt ở Tin 1 làm Hook hoặc Tin 2)** để tạo chuỗi tin (Series Follow-up) giữ chân người xem.
+- **Bước 2.2 – Chạy lệnh `scan`**:
 ```bash
 python skills/ban-tin/scripts/ban_tin.py scan --date YYYY-MM-DD
 ```
@@ -106,7 +110,7 @@ Danh sách tin (1 dòng/tin + nguồn), đường dẫn file kết quả, thời
 ### 10. Phân tích kênh & tư vấn chiến lược (BẮT BUỘC mỗi lần làm tin / render)
 - Truy cập / kiểm tra kênh TikTok chính [@quynhon24hqua](https://www.tiktok.com/@quynhon24hqua):
   - Số liệu hiện tại: Followers, số video, lượt Thích tổng, tương tác.
-  - Phân tích hiệu ứng nội dung: Chủ đề nào đang thu hút tương tác tốt (vd. đời sống, an ninh, giao thông, chuyện lạ).
+  - Phân tích hiệu ứng nội dung & **Theo dõi chuỗi tin tăng view (Series Follow-up)**: Xác định các video tăng view mạnh gần đây (chủ đề được quan tâm cao) → chủ động săn lùng diễn biến mới của các chủ đề đó cho bản tin kế tiếp.
   - Đề xuất định hướng chiến lược: Khung giờ đăng tốt nhất, cách đặt câu hỏi ghim bình luận để kích thích tranh luận/chia sẻ, và điều chỉnh pacing/teaser cho video tiếp theo.
 - Theo dõi các kênh tin tức đối thủ / benchmark tại địa phương:
   - [@hong.hot.quy.nhon](https://www.tiktok.com/@hong.hot.quy.nhon) & [@hong.hot.quy.nhon.bd](https://www.tiktok.com/@hong.hot.quy.nhon.bd): Quan sát chủ đề tin giật gân, chuyện dân sinh Quy Nhơn đang lên xu hướng và cách họ đặt tiêu đề/hook để học hỏi và đón đầu.
