@@ -65,7 +65,8 @@ Ngoại lệ duy nhất: tin người dùng tự gửi.
   4. 🌦️ **Dân sinh – Thời tiết – Y tế**: Mưa lũ, sạt lở, lịch cúp điện/nước, dịch bệnh, khám chữa bệnh.
   5. 🏖️ **Du lịch – Văn hóa – Sự kiện – Thể thao**: Sự kiện cuối tuần ở Quảng trường Nguyễn Tất Thành, giải chạy, bắn pháo hoa, điểm check-in mới.
   6. 💼 **Kinh tế – Việc làm – Giáo dục**: Giá cả, chính sách hỗ trợ, trường đại học/học sinh.
-- **Cách sắp xếp thứ tự trong bản tin**: Tin hot nhất đặt ở **tin 1** (làm ảnh bìa + hook teaser), tin hot thứ 2 đặt ở **giữa bài (tin 4–5)** để giữ chân người xem lướt tiếp, các tin sự kiện/văn hóa nhẹ nhàng đặt ở cuối.
+- **Cách sắp xếp thứ tự trong bản tin**: Tin hot nhất đặt ở **tin 1** (làm ảnh bìa + hook teaser), tin hot thứ 2 đặt ở **giữa bài (tin 4–5)** để giữ chân người xem lướt tiếp, 1–2 tin dạng **"Cẩm nang cần lưu"** (lịch sự kiện, lịch cúp điện/nước, lịch bay, thủ tục hành chính, cảnh báo thời tiết) và các tin sự kiện/văn hóa nhẹ nhàng đặt ở cuối để kích thích người xem bấm nút **Lưu bài (Save/Bookmark)**.
+- **Đánh dấu từ khóa nổi bật (Highlight)**: Template `template/index.html` tự động tô vàng có gạch chân (`.hl`) các con số kèm đơn vị và địa danh trọng điểm (`Quy Nhơn`, `Gia Lai`, `Sân bay Phù Cát`, `Trại giam A2`...), đồng thời hỗ trợ đánh dấu `**cụm từ quan trọng**` trong `text` hoặc `cover.teaser` nếu muốn nhấn mạnh cụm từ tùy chỉnh. Mỗi trang đều có nút **`Lướt xem tiếp ➔`** ở góc dưới phải.
 - **Chế độ duyệt thủ công (chỉ bật khi người dùng yêu cầu)**: Nếu người dùng nói "cho tôi chọn tin trước" hoặc "duyệt tin trước khi render", AI mới dừng lại liệt kê danh sách checkbox để người dùng chọn trước khi viết và render.
 
 **Gợi ý chọn tin (để người xem ở lại tới ảnh cuối):**

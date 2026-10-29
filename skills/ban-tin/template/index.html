@@ -70,6 +70,20 @@
       .label svg { width: 46px; height: 46px; display: block; }
       .counter { position: absolute; top: 1124px; right: 56px; font-weight: 800; font-size: 40px; color: var(--amber); border: 3px solid var(--amber); border-radius: 40px; padding: 2px 22px; }
       .body { position: absolute; top: 1220px; left: 56px; width: 968px; font-weight: 700; line-height: 1.42; text-align: left; color: var(--ink); }
+      .hl { color: var(--amber); font-weight: 800; text-decoration: underline; text-decoration-color: rgba(246,185,59,0.55); text-underline-offset: 7px; }
+      .swipe-hint {
+        position: absolute; right: 56px; bottom: 88px;
+        display: flex; align-items: center; gap: 12px;
+        background: rgba(246, 185, 59, 0.16);
+        border: 2.5px solid var(--amber);
+        border-radius: 50px;
+        padding: 10px 26px;
+        font-weight: 800; font-size: 28px; color: var(--amber);
+        letter-spacing: 0.04em;
+        box-shadow: 0 6px 20px rgba(0,0,0,0.45);
+        z-index: 15;
+      }
+      .swipe-hint svg { width: 34px; height: 34px; fill: var(--amber); display: block; }
       .watermark { position: absolute; left: 0; bottom: 40px; width: 1080px; display: flex; flex-direction: column; align-items: center; gap: 6px; opacity: 0.16; }
       .watermark svg { width: 100px; height: 100px; display: block; }
       .watermark span { font-weight: 800; font-size: 44px; letter-spacing: 0.1em; color: var(--ink); }
@@ -140,7 +154,23 @@
         const b = DATA.brand || ["NEWS", "VIDEO"];
         return `<span class="brand">${esc(b[0])}<b>${esc(b[1] || "")}</b></span>${DATA.chip ? `<span class="chip">${esc(DATA.chip)}</span>` : "<span></span>"}`;
       };
-      const bodySize = (t) => (t.length <= 110 ? 56 : t.length <= 160 ? 52 : t.length <= 210 ? 48 : 44);
+      const SWIPE_ICON = '<svg viewBox="0 0 24 24"><path d="M13.5 5.5L20 12l-6.5 6.5-1.4-1.4 4.1-4.1H4v-2h12.2l-4.1-4.1 1.4-1.4z"/></svg>';
+      const highlightText = (raw) => {
+        let s = esc(raw).replace(/\*\*/g, "");
+        // Ưu tiên 1: Nếu kịch bản đánh dấu **cụm từ**, tô sáng theo đánh dấu đó
+        if (/\*\*(.+?)\*\*/.test(String(raw || ""))) {
+          let custom = esc(raw);
+          return custom.replace(/\*\*(.+?)\*\*/g, '<span class="hl">$1</span>');
+        }
+        // Ưu tiên 2: Tự động tô sáng con số đi kèm đơn vị / danh từ quan trọng và các địa danh trọng điểm
+        s = s.replace(/(\b\d+[\d.,–\-]*\s*(?:tỷ|triệu|nghìn|%|ha|km|m2|m³|tuổi|phạm nhân|đối tượng|hành khách|hộ dân|hộ|suất|ca|học sinh|sinh viên|tàu|người|ngày|giờ|phút|chốt|mũi|tuyến|chuyến|tấn|kg|lít|đồng|USD)?)/gi, '<span class="hl">$1</span>');
+        s = s.replace(/(Trại giam A2|Sân bay Phù Cát|Quy Nhơn|Gia Lai|Cụm công nghiệp Diên Phú|Thị Nại Eco Bay|Đầm Thị Nại|Nhơn Châu|Kỳ Co|Eo Gió|Quảng trường Nguyễn Tất Thành)/g, '<span class="hl">$1</span>');
+        return s;
+      };
+      const bodySize = (t) => {
+        const clean = String(t || "").replace(/\*\*/g, "");
+        return clean.length <= 110 ? 56 : clean.length <= 160 ? 52 : clean.length <= 210 ? 48 : 44;
+      };
 
       const T = DATA.timing; // {cover, item, outro, total}
       const root = document.getElementById("root");
@@ -159,8 +189,9 @@
           <h1 class="cover-title" id="s0-title">${esc(DATA.cover.title)}</h1>
           <p class="cover-date" id="s0-date">${esc(DATA.cover.subtitle)}</p>
           <span class="cover-rule" id="s0-rule"></span>
-          ${DATA.cover.teaser ? `<p class="cover-teaser${DATA.cover._img ? " hook" : ""}" id="s0-teaser">${esc(DATA.cover.teaser)}</p>` : ""}
+          ${DATA.cover.teaser ? `<p class="cover-teaser${DATA.cover._img ? " hook" : ""}" id="s0-teaser">${highlightText(DATA.cover.teaser)}</p>` : ""}
         </div>
+        <div class="swipe-hint" id="s0-swipe"><span>Lướt xem ${items.length} tin nóng</span>${SWIPE_ICON}</div>
       </div>`;
 
       // ---- Tin ----
@@ -189,7 +220,8 @@
           <div class="credit" id="s${n}-credit">${esc(it._credit)}</div>
           <div class="label" id="s${n}-label">${PIN}${esc(label)}</div>
           <div class="counter" id="s${n}-counter">${n}/${items.length}</div>
-          <p class="body" id="s${n}-body" style="font-size:${bodySize(it.text)}px">${esc(it.text)}</p>
+          <p class="body" id="s${n}-body" style="font-size:${bodySize(it.text)}px">${highlightText(it.text)}</p>
+          <div class="swipe-hint" id="s${n}-swipe"><span>Lướt xem tiếp</span>${SWIPE_ICON}</div>
           ${DATA.logo ? "" : `<div class="watermark">${GLOBE}<span>${esc((DATA.brand || ["NEWS", "VIDEO"]).join(""))}</span></div>`}
         </div>`;
       });

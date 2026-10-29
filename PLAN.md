@@ -332,4 +332,8 @@ Chỉ dùng khi bài **không cần nhạc kho** (vd. nhạc miễn phí bản q
    - Quét tin tự động 16 luồng (~4s/lần quét).
    - Tự động lọc mốc thời gian từ lần đăng trước đến hiện tại (`--since`).
    - Trình checkbox các tin **đã xác thực bài gốc 100%** để duyệt nhanh trong 1 phút.
+5. **Hệ thống hóa Chiến lược 7 Góc nhìn Chuyên gia (Đã áp dụng từ mốc 1.209 Followers - 29/10/2026):**
+   - **Giao diện ảnh lướt tối ưu thị giác (`skills/ban-tin/template/index.html`):** Khung ảnh báo `object-fit: contain` + nền mờ `.photo-blur` (hiển thị trọn vẹn 100% chiều ngang ảnh báo), tự động **tô vàng có gạch chân (`.hl`)** các con số/địa danh đắt giá (hoặc cụm từ `**...**`), kèm nút **`Lướt xem tiếp ➔`** ở góc dưới phải.
+   - **Tối ưu chỉ số Lưu bài (Save-bait hợp lệ):** Cài cắm 1–2 tin dạng *Cẩm nang cần lưu* (lịch sự kiện cuối tuần, lịch bay/tàu, lịch cúp điện/nước, thủ tục hành chính, cảnh báo mưa lũ) và nhắc khán giả bấm Lưu trong `pin_comment`.
+   - **Chiến lược Kiếm tiền Tỷ lệ 9:1:** Mở kệ **Trưng bày (Showcase) Đặc sản Quy Nhơn – Gia Lai & Đồ tiện ích dân sinh** trên trang cá nhân; giữ 9 bài điểm tin hoàn toàn sạch (không gắn giỏ hàng để không bị bóp reach tự nhiên) + 1 bài chuyên đề Du lịch/Ẩm thực/Thời tiết gắn sản phẩm hợp ngữ cảnh; tiến tới nhận Booking truyền thông sự kiện/doanh nghiệp địa phương ở mốc 5.000+ Followers.
 
