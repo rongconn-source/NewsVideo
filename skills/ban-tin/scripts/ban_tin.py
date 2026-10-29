@@ -404,6 +404,83 @@ def sync_to_cloud(out: Path, conf: dict) -> Path | None:
 
 
 
+def cleanup_old_files(ref_date_str: str | None = None, keep_days: int = 3) -> None:
+    """Tự động xóa các bản tin, dữ liệu quét và thư mục đầu ra trước đó hơn `keep_days` ngày (mặc định 3 ngày),
+    đồng thời dọn bỏ các file/thư mục video cũ vì kênh chỉ dùng chế độ ảnh cuộn (Photo Mode)."""
+    import datetime
+
+    try:
+        ref = datetime.date.fromisoformat(ref_date_str[:10]) if ref_date_str else datetime.date.today()
+    except Exception:
+        ref = datetime.date.today()
+    cutoff = ref - datetime.timedelta(days=keep_days)
+    removed_count = 0
+
+    def parse_item_date(name: str) -> datetime.date | None:
+        m8 = re.match(r"^(\d{4})(\d{2})(\d{2})\b", name)
+        if m8:
+            try:
+                return datetime.date(int(m8.group(1)), int(m8.group(2)), int(m8.group(3)))
+            except ValueError:
+                return None
+        m10 = re.match(r"^(\d{4})-(\d{2})-(\d{2})\b", name)
+        if m10:
+            try:
+                return datetime.date(int(m10.group(1)), int(m10.group(2)), int(m10.group(3)))
+            except ValueError:
+                return None
+        return None
+
+    # 1. Dọn data/output/ (xóa bản cũ > 3 ngày + xóa toàn bộ bản -video / .mp4 cũ)
+    if OUTPUT_DIR.exists():
+        for p in list(OUTPUT_DIR.iterdir()):
+            if p.name == "demo":
+                continue
+            d_item = parse_item_date(p.name)
+            is_video_dir = p.is_dir() and p.name.endswith("-video")
+            if is_video_dir or (d_item and d_item < cutoff):
+                shutil.rmtree(p, ignore_errors=True)
+                removed_count += 1
+            elif p.is_dir():
+                for mp4 in p.glob("*.mp4"):
+                    mp4.unlink(missing_ok=True)
+
+    # 2. Dọn data/scan/ (xóa file scan JSON > 3 ngày)
+    scan_dir = REPO_DIR / "data" / "scan"
+    if scan_dir.exists():
+        for p in list(scan_dir.glob("*.json")):
+            d_item = parse_item_date(p.stem)
+            if d_item and d_item < cutoff:
+                p.unlink(missing_ok=True)
+                removed_count += 1
+
+    # 3. Dọn skills/ban-tin/inbox/ (xóa kịch bản JSON > 3 ngày trên máy; lịch sử vẫn còn trên Git)
+    inbox_dir = SKILL_DIR / "inbox"
+    if inbox_dir.exists():
+        for p in list(inbox_dir.glob("*.json")):
+            d_item = parse_item_date(p.stem)
+            if d_item and d_item < cutoff:
+                p.unlink(missing_ok=True)
+                removed_count += 1
+
+    # 4. Dọn thư mục Cloud Sync (BanTinQuyNhon) nếu có
+    user_home = Path.home()
+    for cand in [
+        Path("G:/My Drive/BanTinQuyNhon"),
+        user_home / "Google Drive" / "BanTinQuyNhon",
+        user_home / "OneDrive" / "BanTinQuyNhon",
+        user_home / "iCloudDrive" / "BanTinQuyNhon",
+    ]:
+        if cand.exists() and cand.is_dir():
+            for p in list(cand.iterdir()):
+                d_item = parse_item_date(p.name)
+                if (p.is_dir() and p.name.endswith("-video")) or (d_item and d_item < cutoff):
+                    shutil.rmtree(p, ignore_errors=True)
+
+    if removed_count:
+        print(f"🧹 Đã tự động dọn dẹp {removed_count} bản tin/dữ liệu cũ (trước {cutoff.isoformat()}) & file video cũ.")
+
+
 # ---------------------------------------------------------------- meta (ngày đăng, ảnh bài gốc)
 def fetch_html(url: str) -> tuple[str, str]:
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/140.0",
@@ -611,6 +688,7 @@ def main() -> None:
     if a.command == "scan":
         import datetime
         date = a.date or datetime.date.today().isoformat()
+        cleanup_old_files(date, keep_days=3)
         scan(date, REPO_DIR / "data" / "scan" / f"{date}.json", a.since)
         return
     if a.command == "meta":
@@ -651,7 +729,8 @@ def main() -> None:
         for e in errors:
             print("  ✗", e)
         raise SystemExit(1)
-    mode = a.mode or d.get("output") or load_config().get("default_output", "anh")
+    mode = "anh"  # Chỉ tạo bộ ảnh cuộn (Photo Mode), không tạo video .mp4 nữa
+    cleanup_old_files(d.get("date"), keep_days=3)
     n = len(d["items"])
     t = timing(n)
     print(f"✓ JSON hợp lệ: {n} tin · chế độ {mode} · {t['item']}s/tin · tổng {t['total']}s")

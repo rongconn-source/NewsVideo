@@ -5,7 +5,7 @@
 > Tổng quan dự án: `PLAN.md`. Phân tích kênh mẫu: `skills/ban-tin/reference/23h59s/PHAN-TICH.md`.
 
 ## 1. Dự án làm gì
-Bản tin tức tổng hợp của một khu vực, dạng **ảnh lướt 9:16 (Photo Mode - mặc định chỉ tạo bộ ảnh lướt `anh/*.png`, tạm thời không render file video `.mp4` trừ khi người dùng yêu cầu rõ làm video)**, đăng TikTok / YouTube Shorts / Facebook Reels. Kênh chính thức: [@quynhon24hqua](https://www.tiktok.com/@quynhon24hqua). Học theo mô hình kênh TikTok @tinchuan23h59s.
+Bản tin tức tổng hợp của một khu vực, dạng **ảnh lướt 9:16 (Photo Mode - 100% chỉ tạo bộ hình ảnh để cuộn `anh/*.png`, KHÔNG tạo file video `.mp4` nữa)**, đăng TikTok / Facebook / YouTube. Kênh chính thức: [@quynhon24hqua](https://www.tiktok.com/@quynhon24hqua). Học theo mô hình kênh TikTok @tinchuan23h59s và @eddytruongdata.
 
 ## 2. Việc của AI → dùng skills tương ứng
 - **Khi làm bản tin**: người dùng nói "làm bản tin", "bản tin hôm nay", "bản tin trưa/tối", "tin <khu vực>", hoặc gửi link tin:
@@ -18,7 +18,8 @@ Bản tin tức tổng hợp của một khu vực, dạng **ảnh lướt 9:16 
 
 
 ## 3. Quy tắc nội dung & xuất bản (bắt buộc)
-- **Định dạng mặc định**: Chỉ tạo **chế độ ảnh lướt (`--mode anh`, xuất bộ ảnh `anh/01.png…` + `caption.txt`)**, **tạm thời không render file video `.mp4`** trừ khi người dùng yêu cầu rõ "làm video".
+- **Định dạng xuất bản duy nhất (Đã chốt)**: **100% chỉ tạo hình ảnh để cuộn (`--mode anh`, xuất bộ ảnh `anh/01.png…` + `caption.txt`)**, **TUYỆT ĐỐI KHÔNG tạo file video `.mp4` nữa**.
+- **Tự động dọn dẹp bản tin cũ trước đó > 3 ngày**: Mỗi lần chạy `ban_tin.py scan` hoặc `render`, hệ thống tự động xóa toàn bộ các bản tin, dữ liệu quét, thư mục đầu ra (`data/output/`, `data/scan/`, `skills/ban-tin/inbox/`, và thư mục Cloud Sync) cũ hơn **3 ngày** cùng toàn bộ các file/thư mục video cũ để giải phóng dung lượng máy.
 - **Số lượng tin & nhịp**:
   - **Chế độ Ảnh cuộn (`--mode anh`, mặc định)**: Chọn **hơn 7 tin (đề xuất 8–12 tin mạnh/bản)** theo chuẩn kênh mẫu `@tinchuan23h59s` để tối ưu thời gian đọc & lướt ảnh trên TikTok Photo Mode (nếu 24h qua ít tin thật sự chất lượng hơn thì lấy tối đa số tin tốt hiện có, không độn tin rác).
   - **Chế độ Video (`--mode video`, khi được yêu cầu)**: Mỗi tin hiện **7 giây**; video ≤ 59 giây nên tối đa 7 tin/bản.

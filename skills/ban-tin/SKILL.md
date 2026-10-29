@@ -22,7 +22,7 @@ Python 3.10+, Node.js (có `npx`), ffmpeg. Không cần cài thư viện Python 
 - **Đọc `skills/ban-tin/config.json` trước**: khu vực (`region`), địa bàn cụ thể (`region_scope`), **phạm vi tin được phép** (`allowed_categories`), tên kênh (`brand`).
   Hiện tại: **ưu tiên tin Quy Nhơn** (`khu-vuc`), **được lấy tin toàn tỉnh Gia Lai** (`tinh`) – không lấy tin tỉnh khác/trong nước/thế giới. Bài nguồn chỉ cần **có nhắc Quy Nhơn hoặc Gia Lai** và sự việc xảy ra trên địa bàn. Script sẽ báo lỗi nếu có tin ngoài phạm vi.
 - **Khu vực** (`region`): theo cấu hình; người dùng nói khu vực khác thì làm theo người dùng. Ghi thêm `province` nếu tin cấp tỉnh (vd. Quy Nhơn → tỉnh Gia Lai, vì từ 1/7/2025 Bình Định đã sáp nhập vào Gia Lai).
-- **Chế độ** (`output`): mặc định là `"anh"` (**chỉ chụp bộ ảnh lướt 9:16 `anh/01.png…09.png` + `caption.txt`, tạm thời không tạo file video `.mp4`** trừ khi người dùng yêu cầu rõ "làm video").
+- **Chế độ** (`output`): **100% chỉ dùng `"anh"`** (**chỉ chụp bộ hình ảnh để cuộn 9:16 `anh/01.png…12.png` + `caption.txt`, KHÔNG tạo file video `.mp4` nữa**). Mỗi lần chạy `scan` hoặc `render`, script tự động xóa các bản tin/dữ liệu trước đó hơn **3 ngày**.
 - **Ngày**: hôm nay. Bìa ghi "Ngày D/M/YYYY".
 
 ### 2. Thu tin – Kiểm tra chủ đề đang tăng view & chạy `scan` trước (đỡ tốn token, không sai ngày)

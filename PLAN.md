@@ -9,7 +9,8 @@ Bạn muốn làm kênh **tin tức ngắn của một khu vực** trên TikTok,
 **Bản demo đã làm** (03/10/2026): `demo\` (mẫu HyperFrames) → `data\output\demo\ban-tin-mau.mp4` (35s, 1080×1920) + `data\output\demo\slides\01–08.png`. Đây là điểm xuất phát cho cả 2 mẫu.
 
 Đã chốt:
-- **2 cách làm, chọn theo từng yêu cầu** (chi tiết ở mục *Hai chế độ đầu ra*):
+- **Định dạng duy nhất (Đã chốt 29/10/2026): 100% chỉ tạo bộ hình ảnh để cuộn (`"output": "anh"` → xuất `anh/01.png…12.png` + `caption.txt`), KHÔNG tạo file video `.mp4` nữa.**
+- **Tự động dọn dẹp 3 ngày:** Mỗi lần tạo tin mới, script `ban_tin.py` tự động xóa toàn bộ các bản tin và dữ liệu cũ trước đó hơn **3 ngày** (`data/output/`, `data/scan/`, `skills/ban-tin/inbox/`, Cloud Sync) để máy luôn nhẹ.
   - **Ảnh** (mặc định, giống 23h59s): ảnh PNG → TikTok ảnh lướt; YouTube/Facebook ghép ảnh thành video bằng ffmpeg
   - **Video**: video có hiệu ứng dựng bằng HyperFrames → cùng 1 file MP4 đăng cả 3 nơi
 - **Nhạc nền chung cho mọi bài:** "Em Nên Dừng Lại" – Kzuy, đoạn từ **5:05** trở đi – **lấy miễn phí, hợp lệ từ kho nhạc trong app của từng nền tảng** (TikTok / YouTube / Facebook), không nhúng file nhạc → app xuất bản **không nhạc**, bạn gắn nhạc lúc đăng
