@@ -1,0 +1,148 @@
+{
+  "type": "digest",
+  "output": "anh",
+  "date": "2026-10-30",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "brand": [
+    "QUY NHƠN ",
+    "24H QUA"
+  ],
+  "cover": {
+    "kicker": "ĐIỂM TIN TỐI",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Ngày 30/10/2026",
+    "teaser": "Yêu cầu khẩn trương di dời dân vùng nguy cơ sạt lở núi Một Quy Nhơn?",
+    "image": "item:1"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "label": "Tin Quy Nhơn",
+      "text": "Chủ tịch UBND tỉnh Gia Lai yêu cầu phường Quy Nhơn rà soát, di dời ngay các hộ dân ở khu vực núi Một có nguy cơ sạt lở mất an toàn, đồng thời giao Sở Xây dựng đề xuất quy hoạch, xử lý tổng thể khu vực này.",
+      "image": "press:auto",
+      "ai_prompt": "residential area near steep rocky mountain slope in coastal city Quy Nhon Vietnam",
+      "image_credit": "Báo Thanh Niên",
+      "source": "https://thanhnien.vn/chu-tich-gia-lai-yeu-cau-di-doi-dan-xu-ly-tong-the-khu-vuc-nui-mot-185261030123810013.htm",
+      "source_name": "Báo Thanh Niên",
+      "published": "2026-10-30T12:48:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "An ninh trật tự",
+      "text": "Phòng Cảnh sát hình sự Công an tỉnh Gia Lai vừa phối hợp Công an phường Pleiku truy xét, bắt khẩn cấp đối tượng áp sát cướp giật điện thoại iPhone 14 Pro Max để trong ngăn cặp của nữ sinh 17 tuổi đi học thêm.",
+      "image": "press:auto",
+      "ai_prompt": "police officers working on investigation at local station in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/bat-khan-cap-doi-tuong-cuop-giat-dien-thoai-cua-nu-sinh-post603536.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-30T14:06:42+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Pháp luật",
+      "text": "Liên quan vụ cháy nhà lúc rạng sáng tại thôn Vĩnh Thái (xã Vĩnh Thịnh) làm 2 người tử vong, ngày 30/10 Cơ quan CSĐT Công an tỉnh Gia Lai đã khởi tố, bắt tạm giam đối tượng H.Q. (81 tuổi) để điều tra hành vi đốt nhà.",
+      "image": "press:auto",
+      "ai_prompt": "police investigation team examining a rural house scene in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/bat-tam-giam-doi-tuong-dot-nha-khien-con-trai-va-chau-noi-tu-vong-post603535.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-30T16:03:47+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Đô thị Quy Nhơn",
+      "text": "Sáng 30/10, kỳ họp thứ 3 HĐND phường Quy Nhơn Nam thông qua 5 nghị quyết quan trọng về đầu tư công và phát triển kinh tế giai đoạn 2026–2030, trọng tâm đẩy mạnh thương mại, du lịch biển tăng trưởng 12%/năm.",
+      "image": "press:auto",
+      "ai_prompt": "modern coastal city skyline and municipal council meeting in Quy Nhon Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/ky-hop-thu-3-hdnd-phuong-quy-nhon-nam-thong-qua-5-nghi-quyet-quan-trong-post603527.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-30T15:49:53+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Quy hoạch – Du lịch",
+      "text": "Tại phường Quy Nhơn Đông, UBND tỉnh Gia Lai phối hợp tổ chức hội thảo bất động sản du lịch trong chu kỳ mới, bàn giải pháp hoàn thiện hành lang pháp lý và nâng cao giá trị vận hành các khu nghỉ dưỡng biển.",
+      "image": "press:auto",
+      "ai_prompt": "coastal resort conference hall and beachfront view in Quy Nhon Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/hoi-thao-ve-bat-dong-san-du-lich-trong-chu-ky-moi-post603547.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-30T15:53:55+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Đầu tư – Dự án",
+      "text": "Đoàn giám sát của Thường trực HĐND tỉnh Gia Lai vừa làm việc với UBND tỉnh nhằm đánh giá tiến độ, rà soát và tháo gỡ các điểm nghẽn đối với loạt dự án đầu tư ngoài ngân sách nhà nước trên địa bàn tỉnh.",
+      "image": "press:auto",
+      "ai_prompt": "provincial government meeting reviewing urban investment projects in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/thuong-truc-hdnd-tinh-gia-lai-lam-viec-voi-ubnd-tinh-ve-cac-du-an-dau-tu-ngoai-ngan-sach-post603548.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-30T15:40:26+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Giáo dục – Dân sinh",
+      "text": "Tổng kết chiến dịch 90 ngày đêm xây dựng 7 trường phổ thông nội trú liên cấp vùng biên giới với hơn 77.000 ngày công bộ đội hỗ trợ; tỉnh đang khẩn trương tháo gỡ vướng mắc tiến độ để sớm đón học sinh ở nội trú.",
+      "image": "press:auto",
+      "ai_prompt": "newly built school campus in highland Vietnam with soldiers helping construction",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/tong-ket-chien-dich-cao-diem-90-ngay-dem-xay-dung-7-truong-pho-thong-noi-tru-lien-cap-tai-cac-xa-bien-gioi-post603544.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-30T14:03:17+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Giáo dục Quy Nhơn",
+      "text": "Vượt qua hơn 22.000 sinh viên từ 30 trường đại học, cao đẳng miền Trung, đội tuyển Trường Đại học Quy Nhơn xuất sắc vào Top 5 chung kết Cuộc thi Sinh viên thông thái 2026 tìm hiểu pháp luật về kinh doanh đa cấp.",
+      "image": "press:auto",
+      "ai_prompt": "university students competing on stage at an academic contest in Quy Nhon Vietnam",
+      "image_credit": "Báo Công Thương / Báo Mới",
+      "source": "https://baomoi.com/5-doi-vao-chung-ket-cuoc-thi-sinh-vien-thong-thai-2026-c56388249.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-30T10:55:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Lịch sự kiện cuối tuần",
+      "text": "Sáng 30/10, chuỗi sự kiện Festival Cồng chiêng – Tuần lễ Hoa dã quỳ – Núi lửa Chư Đang Ya 2026 chính thức khai mạc tại xã Biển Hồ, diễn ra từ ngày 30/10 đến 1/11 với nhiều hoạt động đón du khách dịp cuối tuần.",
+      "image": "press:auto",
+      "ai_prompt": "yellow wild sunflowers blooming on volcano slope with traditional gong festival in Gia Lai",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/xa-bien-ho-khai-mac-chuoi-su-kien-thuoc-festival-cong-chieng-post603517.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-30T10:54:10+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Kinh tế – Làng nghề",
+      "text": "Nguồn vốn tín dụng từ Agribank Chi nhánh Bình Định đang tiếp sức cho các doanh nghiệp chế biến tại phường Hoài Nhơn Tây và các hộ trồng mai cảnh, làng nghề truyền thống phía Đông tỉnh Gia Lai mở rộng sản xuất.",
+      "image": "press:auto",
+      "ai_prompt": "traditional craft workshop and yellow apricot blossom garden in Binh Dinh Vietnam",
+      "image_credit": "Báo Mới",
+      "source": "https://baomoi.com/von-agribank-chi-nhanh-binh-dinh-thuc-day-san-xuat-phat-trien-nghe-truyen-thong-tai-gia-lai-c56391108.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-30T16:16:00+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "Tỉnh đã yêu cầu khẩn trương di dời các hộ dân vùng nguy cơ sạt lở núi Một (Quy Nhơn) và cuối tuần này (30/10 – 1/11) có lễ hội Hoa dã quỳ – Cồng chiêng! Bà con bấm LƯU bài để nắm lịch sự kiện cuối tuần nhé, bạn quan tâm tin nào nhất?",
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "caption": {
+    "tiktok": "Yêu cầu di dời ngay dân vùng nguy cơ sạt lở núi Một Quy Nhơn; Bắt đối tượng cướp giật điện thoại nữ sinh? Điểm tin tối 30/10/2026 (Bấm LƯU bài để xem lịch lễ hội cuối tuần):\n\n1. Chủ tịch tỉnh yêu cầu khẩn trương di dời dân, xử lý tổng thể khu vực núi Một ở Quy Nhơn (Báo Thanh Niên)\n🔗 https://thanhnien.vn/chu-tich-gia-lai-yeu-cau-di-doi-dan-xu-ly-tong-the-khu-vuc-nui-mot-185261030123810013.htm\n\n2. Bắt khẩn cấp đối tượng cướp giật điện thoại iPhone 14 Pro Max của nữ sinh 17 tuổi (Báo Gia Lai)\n🔗 https://baogialai.com.vn/bat-khan-cap-doi-tuong-cuop-giat-dien-thoai-cua-nu-sinh-post603536.html\n\n3. Khởi tố, bắt tạm giam đối tượng đốt nhà tại xã Vĩnh Thịnh khiến 2 người tử vong (Báo Gia Lai)\n🔗 https://baogialai.com.vn/bat-tam-giam-doi-tuong-dot-nha-khien-con-trai-va-chau-noi-tu-vong-post603535.html\n\n4. HĐND phường Quy Nhơn Nam thông qua 5 nghị quyết phát triển đô thị, du lịch biển 2026–2030 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/ky-hop-thu-3-hdnd-phuong-quy-nhon-nam-thong-qua-5-nghi-quyet-quan-trong-post603527.html\n\n5. Hội thảo bất động sản du lịch biển trong chu kỳ mới tại phường Quy Nhơn Đông (Báo Gia Lai)\n🔗 https://baogialai.com.vn/hoi-thao-ve-bat-dong-san-du-lich-trong-chu-ky-moi-post603547.html\n\n6. Thường trực HĐND tỉnh giám sát, tháo gỡ vướng mắc các dự án đầu tư ngoài ngân sách (Báo Gia Lai)\n🔗 https://baogialai.com.vn/thuong-truc-hdnd-tinh-gia-lai-lam-viec-voi-ubnd-tinh-ve-cac-du-an-dau-tu-ngoai-ngan-sach-post603548.html\n\n7. Hơn 77.000 ngày công bộ đội hỗ trợ xây dựng 7 trường phổ thông nội trú liên cấp biên giới (Báo Gia Lai)\n🔗 https://baogialai.com.vn/tong-ket-chien-dich-cao-diem-90-ngay-dem-xay-dung-7-truong-pho-thong-noi-tru-lien-cap-tai-cac-xa-bien-gioi-post603544.html\n\n8. Trường Đại học Quy Nhơn vào Top 5 chung kết Cuộc thi Sinh viên thông thái 2026 (Báo Mới)\n🔗 https://baomoi.com/5-doi-vao-chung-ket-cuoc-thi-sinh-vien-thong-thai-2026-c56388249.epi\n\n9. Khai mạc chuỗi sự kiện Festival Cồng chiêng – Tuần lễ Hoa dã quỳ từ 30/10 đến 1/11 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/xa-bien-ho-khai-mac-chuoi-su-kien-thuoc-festival-cong-chieng-post603517.html\n\n10. Vốn tín dụng tiếp sức doanh nghiệp và làng nghề mai cảnh phía Đông tỉnh Gia Lai (Báo Mới)\n🔗 https://baomoi.com/von-agribank-chi-nhanh-binh-dinh-thuc-day-san-xuat-phat-trien-nghe-truyen-thong-tai-gia-lai-c56391108.epi\n\nBà con quan tâm thông tin nào nhất tối nay? Bấm LƯU bài và chia sẻ cảm nghĩ nhé!\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Yêu cầu di dời dân vùng nguy cơ sạt lở núi Một Quy Nhơn; Bắt cướp giật ĐT nữ sinh | Bản tin tối 30/10/2026\n\nTổng hợp 10 tin tức Quy Nhơn & Gia Lai tối 30/10/2026:\n1. Chủ tịch tỉnh yêu cầu khẩn trương di dời dân, xử lý tổng thể khu vực núi Một ở Quy Nhơn\n2. Bắt khẩn cấp đối tượng cướp giật điện thoại iPhone 14 Pro Max của nữ sinh 17 tuổi\n3. Khởi tố, bắt tạm giam đối tượng đốt nhà tại xã Vĩnh Thịnh khiến 2 người tử vong\n4. HĐND phường Quy Nhơn Nam thông qua 5 nghị quyết phát triển đô thị, du lịch biển\n5. Hội thảo bất động sản du lịch biển trong chu kỳ mới tại phường Quy Nhơn Đông\n6. Thường trực HĐND tỉnh giám sát các dự án đầu tư ngoài ngân sách\n7. Hơn 77.000 ngày công bộ đội hỗ trợ xây dựng 7 trường phổ thông nội trú liên cấp biên giới\n8. Đội tuyển Trường Đại học Quy Nhơn vào Top 5 chung kết Sinh viên thông thái 2026\n9. Khai mạc chuỗi sự kiện Festival Cồng chiêng – Tuần lễ Hoa dã quỳ (30/10 – 1/11)\n10. Vốn tín dụng tiếp sức doanh nghiệp và làng nghề mai cảnh phía Đông tỉnh Gia Lai\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "facebook": "Yêu cầu di dời ngay dân vùng nguy cơ sạt lở núi Một Quy Nhơn; Bắt đối tượng cướp giật điện thoại nữ sinh? Điểm tin tối 30/10/2026:\n\n1. Chủ tịch tỉnh yêu cầu khẩn trương di dời dân, xử lý tổng thể khu vực núi Một ở Quy Nhơn (Báo Thanh Niên)\n🔗 https://thanhnien.vn/chu-tich-gia-lai-yeu-cau-di-doi-dan-xu-ly-tong-the-khu-vuc-nui-mot-185261030123810013.htm\n\n2. Bắt khẩn cấp đối tượng cướp giật điện thoại iPhone 14 Pro Max của nữ sinh 17 tuổi (Báo Gia Lai)\n🔗 https://baogialai.com.vn/bat-khan-cap-doi-tuong-cuop-giat-dien-thoai-cua-nu-sinh-post603536.html\n\n3. Khởi tố, bắt tạm giam đối tượng đốt nhà tại xã Vĩnh Thịnh khiến 2 người tử vong (Báo Gia Lai)\n🔗 https://baogialai.com.vn/bat-tam-giam-doi-tuong-dot-nha-khien-con-trai-va-chau-noi-tu-vong-post603535.html\n\n4. HĐND phường Quy Nhơn Nam thông qua 5 nghị quyết phát triển đô thị, du lịch biển 2026–2030 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/ky-hop-thu-3-hdnd-phuong-quy-nhon-nam-thong-qua-5-nghi-quyet-quan-trong-post603527.html\n\n5. Hội thảo bất động sản du lịch biển trong chu kỳ mới tại phường Quy Nhơn Đông (Báo Gia Lai)\n🔗 https://baogialai.com.vn/hoi-thao-ve-bat-dong-san-du-lich-trong-chu-ky-moi-post603547.html\n\n6. Thường trực HĐND tỉnh giám sát, tháo gỡ vướng mắc các dự án đầu tư ngoài ngân sách (Báo Gia Lai)\n🔗 https://baogialai.com.vn/thuong-truc-hdnd-tinh-gia-lai-lam-viec-voi-ubnd-tinh-ve-cac-du-an-dau-tu-ngoai-ngan-sach-post603548.html\n\n7. Hơn 77.000 ngày công bộ đội hỗ trợ xây dựng 7 trường phổ thông nội trú liên cấp biên giới (Báo Gia Lai)\n🔗 https://baogialai.com.vn/tong-ket-chien-dich-cao-diem-90-ngay-dem-xay-dung-7-truong-pho-thong-noi-tru-lien-cap-tai-cac-xa-bien-gioi-post603544.html\n\n8. Trường Đại học Quy Nhơn vào Top 5 chung kết Cuộc thi Sinh viên thông thái 2026 (Báo Mới)\n🔗 https://baomoi.com/5-doi-vao-chung-ket-cuoc-thi-sinh-vien-thong-thai-2026-c56388249.epi\n\n9. Khai mạc chuỗi sự kiện Festival Cồng chiêng – Tuần lễ Hoa dã quỳ từ 30/10 đến 1/11 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/xa-bien-ho-khai-mac-chuoi-su-kien-thuoc-festival-cong-chieng-post603517.html\n\n10. Vốn tín dụng tiếp sức doanh nghiệp và làng nghề mai cảnh phía Đông tỉnh Gia Lai (Báo Mới)\n🔗 https://baomoi.com/von-agribank-chi-nhanh-binh-dinh-thuc-day-san-xuat-phat-trien-nghe-truyen-thong-tai-gia-lai-c56391108.epi\n\nTỉnh đã yêu cầu khẩn trương di dời các hộ dân vùng nguy cơ sạt lở núi Một (Quy Nhơn) và cuối tuần này (30/10 – 1/11) có lễ hội Hoa dã quỳ – Cồng chiêng! Bà con bấm LƯU bài để nắm lịch sự kiện cuối tuần nhé, bạn quan tâm tin nào nhất?\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "needs_review": []
+}
+
