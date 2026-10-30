@@ -112,6 +112,12 @@ python skills/ban-tin/scripts/ban_tin.py render skills/ban-tin/inbox/<file>.json
 ### 9. Báo lại người dùng (BẮT BUỘC kèm "List All Tin")
 1. **Thành phẩm bản tin**: Danh sách **8–12 tin đã chọn (hơn 7 tin)** (1 dòng/tin + nguồn), đường dẫn thư mục ảnh `anh/`, caption chuẩn với đầy đủ 6 hashtag (`#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua`) và bình luận ghim (`pin_comment`).
 2. **List All Tin trong 24h qua**: Luôn liệt kê toàn bộ danh sách các tin khu vực quét được trong 24h qua (chia nhóm: *Đã chọn / Tin dự phòng tốt / Tin đã đăng bản trước / Tin hội nghị hoặc ngoài địa bàn*) để người dùng dễ dàng yêu cầu đổi thứ tự hoặc thay tin ngay lập tức.
+3. **Rà soát Bình luận Khán giả mới nhất & Đề xuất câu trả lời chuẩn (BẮT BUỘC trong mỗi lần báo cáo bản tin)**:
+   - Dùng trình duyệt kiểm tra `https://www.tiktok.com/tiktokstudio/comment` để lấy các bình luận mới nhất của khán giả trên kênh `@quynhon24hqua`.
+   - Phân tích từng bình luận theo tiêu chuẩn `skills/tra-loi-binh-luan/SKILL.md` và **đề xuất sẵn câu trả lời ngắn gọn, thân thiện, đúng căn cứ báo chí** (kèm hướng dẫn điều hướng khán giả qua xem bản tin mới nhất để kéo view chéo giữa các bài).
+4. **Phân tích Kênh & Lên Chiến thuật Từng ngày (Daily Tactical Plan - BẮT BUỘC trong mỗi lần báo cáo bản tin)**:
+   - Cập nhật bảng số liệu thực tế của `@quynhon24hqua` (Followers, Likes, tốc độ tăng trưởng, lượt xem của từng bài gần nhất, bài nào đang bị 0 view / trùng lặp cần xóa).
+   - Đề xuất **Chiến thuật hành động cụ thể trong ngày hôm đó** (khung giờ vàng đăng bài, cách ghim comment kéo Save/Share, cách trả lời bình luận đẩy tương tác, cách tối ưu kệ Trưng bày TikTok Shop / tỷ lệ 9:1) để đưa kênh đạt nguyện vọng lớn nhất: **Trở thành kênh tin tức số 1 Quy Nhơn – Gia Lai (cán mốc 10.000+ Followers, 50K–100K views/bài và tạo nguồn thu bền vững)**.
 
 ### 10. Phân tích kênh & tư vấn chiến lược (BẮT BUỘC mỗi lần làm tin / render)
 - Truy cập / kiểm tra kênh TikTok chính [@quynhon24hqua](https://www.tiktok.com/@quynhon24hqua):
