@@ -1,0 +1,147 @@
+{
+  "type": "digest",
+  "output": "anh",
+  "date": "2026-10-30",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "brand": [
+    "QUY NHƠN ",
+    "24H QUA"
+  ],
+  "cover": {
+    "kicker": "ĐIỂM TIN TRƯA",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Ngày 30/10/2026",
+    "teaser": "Mưa lớn vẫn xuyên đêm vây bắt 2 phạm nhân trốn Trại giam A2?",
+    "image": "item:1"
+  },
+  "items": [
+    {
+      "category": "tinh",
+      "label": "An ninh trật tự",
+      "text": "Bất chấp mưa lớn, lực lượng Bộ Công an và Công an Khánh Hòa tiếp tục xuyên đêm vây ráp rừng núi Hòn Dữ truy bắt 2 phạm nhân trốn Trại giam A2, đồng thời làm việc với người tung tin giả cả hai đã vượt biên.",
+      "image": "press:auto",
+      "ai_prompt": "police officers patrolling mountain forest road at night under rain in Vietnam",
+      "image_credit": "VOV / Báo Mới",
+      "source": "https://baomoi.com/mua-lon-cong-an-xuyen-dem-truy-bat-hai-pham-nhan-tron-trai-giam-a2-c56387170.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-30T09:07:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Cảnh báo an toàn",
+      "text": "Trung tâm Huấn luyện quân sự quốc gia 2 thông báo bắn đạn thật tại thao trường xã Bình An từ 6h30–11h các ngày 31/10, 2/11 và 3/11 (cự ly đạn đến 6.000 m), người dân không vào vùng nguy hiểm.",
+      "image": "press:auto",
+      "ai_prompt": "military training ground warning sign near hills in central Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/to-chuc-ban-dan-that-tai-xa-binh-an-nguoi-dan-khong-vao-khu-vuc-thao-truong-post603488.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-30T05:20:27+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Pháp luật",
+      "text": "Cơ quan CSĐT Công an tỉnh Gia Lai vừa khởi tố vụ án, khởi tố bị can đối với chủ một cửa hàng ở tổ dân phố Nhơn Thọ (phường An Nhơn Nam) về hành vi buôn bán hàng giả là sơn và bột trét nhãn hiệu Jotun.",
+      "image": "press:auto",
+      "ai_prompt": "police officers inspecting paint cans in a hardware store in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/gia-lai-khoi-to-vu-an-buon-ban-son-bot-tret-gia-nhan-hieu-jotun-post603457.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-30T05:16:27+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Hạ tầng giao thông",
+      "text": "Mặt đường Quốc lộ 19B đoạn qua các xã Bình An, Bình Hiệp và phường An Nhơn xuất hiện nhiều vết nứt vỡ, sụt lún tạo hố sâu kéo dài hơn 200 m cùng vật liệu rơi vãi, tiềm ẩn nguy cơ mất an toàn giao thông.",
+      "image": "press:auto",
+      "ai_prompt": "damaged asphalt highway road with potholes in rural Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/quoc-lo-19b-xuong-cap-tiem-an-nguy-co-mat-an-toan-post603490.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-30T04:57:27+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Dân sinh",
+      "text": "Sau 7 năm triển khai với tổng vốn hơn 13 tỷ đồng, dự án xây dựng 2 nhà lồng chợ Phù Cát (xã Phù Cát) vẫn dang dở, khiến nhiều tiểu thương phải buôn bán tạm bợ và mòn mỏi chờ nơi kinh doanh ổn định.",
+      "image": "press:auto",
+      "ai_prompt": "unfinished local market hall construction in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/nha-long-cho-phu-cat-xay-dung-dang-do-tieu-thuong-mon-moi-cho-post602843.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-30T08:15:51+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Thủy sản – Biển",
+      "text": "UBND xã Đề Gi vừa tổ chức tiếp nhận, tháo dỡ máy móc và phá hủy kết cấu vỏ của 5 tàu cá đầu tiên theo chính sách hỗ trợ giải bản, kiên quyết xử lý dứt điểm phương tiện không đủ điều kiện khai thác.",
+      "image": "press:auto",
+      "ai_prompt": "wooden fishing boats at coastal shipyard in central Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/xa-de-gi-tien-hanh-giai-ban-5-tau-ca-dau-tien-post603464.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-29T18:21:44+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Đền ơn đáp nghĩa",
+      "text": "Từ nguồn tin của người dân về khu vực từng đặt bệnh xá dã chiến, Đội K52 (Bộ CHQS tỉnh Gia Lai) phối hợp Ban CHQS phường An Nhơn Bắc vừa tìm kiếm, quy tập được 5 hài cốt liệt sĩ tại tổ dân phố Lộc Thuận.",
+      "image": "press:auto",
+      "ai_prompt": "soldiers respectfully conducting memorial ceremony at historical site in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/quy-tap-5-hai-cot-liet-si-tai-phuong-an-nhon-bac-post603485.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-29T21:43:12+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Tin Quy Nhơn",
+      "text": "Tại Trung tâm Văn hóa phường Quy Nhơn, đoàn thí sinh Top 20 Miss Asian 2026 phối hợp cùng Hội Liên hiệp Phụ nữ phường Quy Nhơn tổ chức chương trình nhân ái, trao tặng 100 phần quà cho phụ nữ khó khăn.",
+      "image": "press:auto",
+      "ai_prompt": "charity gift giving community event at cultural center in Quy Nhon Vietnam",
+      "image_credit": "Báo Mới",
+      "source": "https://baomoi.com/thi-sinh-miss-asian-2026-cung-hoi-lien-hiep-phu-nu-phuong-quy-nhon-tang-qua-phu-nu-kho-khan-c56384474.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-29T20:10:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Văn hóa – Du lịch",
+      "text": "Chương trình nghệ thuật cuối tuần vừa mang đến màn trình diễn độc đáo khi lần đầu tiên Cồng chiêng Tây Nguyên kết hợp cùng Võ cổ truyền Bình Định, thu hút đông đảo người dân và du khách thưởng thức.",
+      "image": "press:auto",
+      "ai_prompt": "traditional Vietnamese martial arts and highland gong performance on outdoor stage",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/cong-chieng-tay-nguyen-va-vo-co-truyen-binh-dinh-ket-hop-post603370.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-30T08:08:27+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Giá cả thị trường",
+      "text": "Sáng 30/10, giá vàng miếng SJC giảm mạnh 1,3 triệu đồng/lượng về mức 138,4–141,4 triệu đồng/lượng; trong khi giá cà phê điều chỉnh về 88.000–88.500 đồng/kg và hồ tiêu giữ mốc cao 137.000–140.000 đồng/kg.",
+      "image": "press:auto",
+      "ai_prompt": "gold bars and jewelry display at a gold shop in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/ngay-30-10-vang-mieng-giam-13-trieu-dongluong-post603511.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-30T09:13:17+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "Bản tin trưa 30/10 có thông báo lịch bắn đạn thật tại thao trường xã Bình An (31/10, 2/11, 3/11) và biến động giá vàng, nông sản hôm nay — bà con bấm LƯU bài để tiện tra cứu và nhắc người thân chú ý an toàn nhé! Bạn quan tâm tin số mấy nhất?",
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "caption": {
+    "tiktok": "Mưa lớn vẫn xuyên đêm vây bắt 2 phạm nhân trốn Trại giam A2; Thông báo lịch bắn đạn thật tại xã Bình An? Điểm tin trưa 30/10/2026 (Bấm LƯU bài để tiện tra cứu):\n\n1. Mưa lớn, Công an xuyên đêm truy bắt 2 phạm nhân trốn Trại giam A2 & xử lý tin đồn vượt biên (Báo Mới)\n🔗 https://baomoi.com/mua-lon-cong-an-xuyen-dem-truy-bat-hai-pham-nhan-tron-trai-giam-a2-c56387170.epi\n\n2. Thông báo lịch bắn đạn thật tại thao trường xã Bình An ngày 31/10, 2/11 và 3/11 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/to-chuc-ban-dan-that-tai-xa-binh-an-nguoi-dan-khong-vao-khu-vuc-thao-truong-post603488.html\n\n3. Khởi tố vụ án buôn bán sơn, bột trét giả nhãn hiệu Jotun ở An Nhơn Nam (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-khoi-to-vu-an-buon-ban-son-bot-tret-gia-nhan-hieu-jotun-post603457.html\n\n4. Quốc lộ 19B đoạn qua Bình An, Bình Hiệp, An Nhơn xuống cấp, tiềm ẩn mất an toàn (Báo Gia Lai)\n🔗 https://baogialai.com.vn/quoc-lo-19b-xuong-cap-tiem-an-nguy-co-mat-an-toan-post603490.html\n\n5. Nhà lồng chợ Phù Cát hơn 13 tỷ đồng xây dựng dang dở sau 7 năm (Báo Gia Lai)\n🔗 https://baogialai.com.vn/nha-long-cho-phu-cat-xay-dung-dang-do-tieu-thuong-mon-moi-cho-post602843.html\n\n6. Xã Đề Gi tiến hành giải bản, tiêu hủy 5 tàu cá đầu tiên không đủ điều kiện (Báo Gia Lai)\n🔗 https://baogialai.com.vn/xa-de-gi-tien-hanh-giai-ban-5-tau-ca-dau-tien-post603464.html\n\n7. Quy tập 5 hài cốt liệt sĩ tại khu vực bệnh xá dã chiến cũ ở phường An Nhơn Bắc (Báo Gia Lai)\n🔗 https://baogialai.com.vn/quy-tap-5-hai-cot-liet-si-tai-phuong-an-nhon-bac-post603485.html\n\n8. Thí sinh Miss Asian 2026 cùng Hội LHPN phường Quy Nhơn trao 100 phần quà cho phụ nữ khó khăn (Báo Mới)\n🔗 https://baomoi.com/thi-sinh-miss-asian-2026-cung-hoi-lien-hiep-phu-nu-phuong-quy-nhon-tang-qua-phu-nu-kho-khan-c56384474.epi\n\n9. Độc đáo màn kết hợp Cồng chiêng Tây Nguyên và Võ cổ truyền Bình Định (Báo Gia Lai)\n🔗 https://baogialai.com.vn/cong-chieng-tay-nguyen-va-vo-co-truyen-binh-dinh-ket-hop-post603370.html\n\n10. Sáng 30/10: Vàng miếng giảm 1,3 triệu đồng/lượng, hồ tiêu giữ giá cao 140.000 đ/kg (Báo Gia Lai)\n🔗 https://baogialai.com.vn/ngay-30-10-vang-mieng-giam-13-trieu-dongluong-post603511.html\n\nBà con bấm LƯU bài để nhớ lịch bắn đạn thật tại Bình An và chia sẻ cho người thân nhé!\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Mưa lớn vẫn xuyên đêm vây bắt 2 phạm nhân trốn Trại giam A2; Lịch bắn đạn thật Bình An | Bản tin trưa 30/10/2026\n\nTổng hợp 10 tin tức Quy Nhơn & Gia Lai trưa 30/10/2026:\n1. Mưa lớn, Công an xuyên đêm truy bắt 2 phạm nhân trốn Trại giam A2 & làm việc với người tung tin vượt biên\n2. Thông báo lịch bắn đạn thật tại thao trường xã Bình An (31/10, 2/11 và 3/11)\n3. Khởi tố vụ án buôn bán sơn, bột trét giả nhãn hiệu Jotun tại phường An Nhơn Nam\n4. Quốc lộ 19B đoạn qua Bình An, Bình Hiệp, An Nhơn xuống cấp hư hỏng\n5. Nhà lồng chợ Phù Cát vốn hơn 13 tỷ đồng xây dựng dang dở sau 7 năm\n6. Xã Đề Gi tiến hành giải bản 5 tàu cá đầu tiên không đủ điều kiện\n7. Quy tập 5 hài cốt liệt sĩ tại phường An Nhơn Bắc\n8. Thí sinh Miss Asian 2026 cùng Hội LHPN phường Quy Nhơn tặng 100 suất quà cho phụ nữ khó khăn\n9. Lần đầu kết hợp Cồng chiêng Tây Nguyên và Võ cổ truyền Bình Định\n10. Sáng 30/10: Giá vàng miếng SJC giảm 1,3 triệu đồng/lượng, hồ tiêu giữ mốc 140.000 đồng/kg\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "facebook": "Mưa lớn vẫn xuyên đêm vây bắt 2 phạm nhân trốn Trại giam A2; Thông báo lịch bắn đạn thật tại xã Bình An? Điểm tin trưa 30/10/2026:\n\n1. Mưa lớn, Công an xuyên đêm truy bắt 2 phạm nhân trốn Trại giam A2 & xử lý tin đồn vượt biên (Báo Mới)\n🔗 https://baomoi.com/mua-lon-cong-an-xuyen-dem-truy-bat-hai-pham-nhan-tron-trai-giam-a2-c56387170.epi\n\n2. Thông báo lịch bắn đạn thật tại thao trường xã Bình An ngày 31/10, 2/11 và 3/11 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/to-chuc-ban-dan-that-tai-xa-binh-an-nguoi-dan-khong-vao-khu-vuc-thao-truong-post603488.html\n\n3. Khởi tố vụ án buôn bán sơn, bột trét giả nhãn hiệu Jotun ở An Nhơn Nam (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-khoi-to-vu-an-buon-ban-son-bot-tret-gia-nhan-hieu-jotun-post603457.html\n\n4. Quốc lộ 19B đoạn qua Bình An, Bình Hiệp, An Nhơn xuống cấp, tiềm ẩn mất an toàn (Báo Gia Lai)\n🔗 https://baogialai.com.vn/quoc-lo-19b-xuong-cap-tiem-an-nguy-co-mat-an-toan-post603490.html\n\n5. Nhà lồng chợ Phù Cát hơn 13 tỷ đồng xây dựng dang dở sau 7 năm (Báo Gia Lai)\n🔗 https://baogialai.com.vn/nha-long-cho-phu-cat-xay-dung-dang-do-tieu-thuong-mon-moi-cho-post602843.html\n\n6. Xã Đề Gi tiến hành giải bản, tiêu hủy 5 tàu cá đầu tiên không đủ điều kiện (Báo Gia Lai)\n🔗 https://baogialai.com.vn/xa-de-gi-tien-hanh-giai-ban-5-tau-ca-dau-tien-post603464.html\n\n7. Quy tập 5 hài cốt liệt sĩ tại khu vực bệnh xá dã chiến cũ ở phường An Nhơn Bắc (Báo Gia Lai)\n🔗 https://baogialai.com.vn/quy-tap-5-hai-cot-liet-si-tai-phuong-an-nhon-bac-post603485.html\n\n8. Thí sinh Miss Asian 2026 cùng Hội LHPN phường Quy Nhơn trao 100 phần quà cho phụ nữ khó khăn (Báo Mới)\n🔗 https://baomoi.com/thi-sinh-miss-asian-2026-cung-hoi-lien-hiep-phu-nu-phuong-quy-nhon-tang-qua-phu-nu-kho-khan-c56384474.epi\n\n9. Độc đáo màn kết hợp Cồng chiêng Tây Nguyên và Võ cổ truyền Bình Định (Báo Gia Lai)\n🔗 https://baogialai.com.vn/cong-chieng-tay-nguyen-va-vo-co-truyen-binh-dinh-ket-hop-post603370.html\n\n10. Sáng 30/10: Vàng miếng giảm 1,3 triệu đồng/lượng, hồ tiêu giữ giá cao 140.000 đ/kg (Báo Gia Lai)\n🔗 https://baogialai.com.vn/ngay-30-10-vang-mieng-giam-13-trieu-dongluong-post603511.html\n\nBản tin trưa 30/10 có thông báo lịch bắn đạn thật tại thao trường xã Bình An (31/10, 2/11, 3/11) và biến động giá vàng, nông sản hôm nay — bà con bấm LƯU bài để tiện tra cứu và nhắc người thân chú ý an toàn nhé! Bạn quan tâm tin số mấy nhất?\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "needs_review": []
+}
