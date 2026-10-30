@@ -56,7 +56,8 @@ Bản tin tức tổng hợp của một khu vực, dạng **ảnh lướt 9:16 
 - Địa giới: từ 1/7/2025 nhiều tỉnh đã sáp nhập (vd. Bình Định → Gia Lai; Quy Nhơn nay là các phường thuộc tỉnh Gia Lai). Dùng tên đơn vị hành chính mới như bài báo gốc.
 
 ## 4. AI không được
-- Đăng bài hoặc gọi API đăng.
+- **Khi người dùng bảo "đăng lên TikTok / đẩy lên TikTok / post lên" (Quy tắc BẮT BUỘC)**: AI **chỉ được phép đẩy bộ ảnh (`anh/01.png…`) + điền sẵn Tiêu đề + Caption + 6 Hashtags lên màn hình TikTok Studio Upload (`https://www.tiktok.com/tiktokstudio/upload`), rồi chuyển sang tab Music/Images và DỪNG LẠI**, **TUYỆT ĐỐI KHÔNG tự ý bấm nút `Post` / `Đăng` cuối cùng** — phải để nguyên màn hình đó cho người dùng tự tay chọn nhạc và tự bấm nút Đăng.
+- Không tự ý gọi API đăng bài khi chưa có lệnh.
 - Nhúng nhạc có bản quyền vào file để đăng (nhạc chung được gắn trong app mỗi nền tảng khi đăng).
 - Sửa `config/secrets.env`, token, `data/` (trừ thư mục kết quả do script tạo).
 - Sửa `skills/ban-tin/template/` hoặc `scripts/` khi người dùng không yêu cầu.

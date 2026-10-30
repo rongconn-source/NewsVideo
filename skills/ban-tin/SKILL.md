@@ -142,7 +142,7 @@ Người dùng muốn đổi nhịp/bố cục → sửa `scripts/ban_tin.py` (h
 - Dịch vụ ảnh AI miễn phí giới hạn ~1 ảnh/30 giây → script tự chờ; vì vậy luôn ưu tiên ảnh thật bài gốc.
 
 ## Không được làm
-- Không đăng bài, không gọi API đăng.
+- **Khi người dùng yêu cầu đẩy/đăng lên TikTok**: Chỉ mở TikTok Studio (`https://www.tiktok.com/tiktokstudio/upload`), chọn tab `Photos`/`Ảnh`, tải bộ ảnh `anh/01.png…` lên, điền sẵn Tiêu đề + Caption + 6 Hashtags rồi **DỪNG LẠI ĐÓ (TUYỆT ĐỐI KHÔNG bấm nút `Post` / `Đăng`)** để người dùng tự tay chọn nhạc nền và tự bấm Đăng.
 - Không nhúng nhạc có bản quyền vào file để đăng (nhạc chung "Em Nên Dừng Lại" được gắn trong app mỗi nền tảng).
 - Không bịa số liệu; không bỏ tin người dùng gửi.
 - Không sửa `template/` hoặc `scripts/` khi không được yêu cầu.
