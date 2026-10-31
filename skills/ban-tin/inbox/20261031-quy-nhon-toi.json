@@ -1,0 +1,147 @@
+{
+  "type": "digest",
+  "output": "anh",
+  "date": "2026-10-31",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "brand": [
+    "QUY NHƠN ",
+    "24H QUA"
+  ],
+  "cover": {
+    "kicker": "ĐIỂM TIN TỐI",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Ngày 31/10/2026",
+    "teaser": "Tháo gỡ mặt bằng, tăng tốc 34 dự án tại phường Quy Nhơn Bắc?",
+    "image": "item:1"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "label": "Đô thị Quy Nhơn",
+      "text": "Làm việc với UBND phường Quy Nhơn Bắc sáng 31/10, Phó Chủ tịch Thường trực UBND tỉnh Nguyễn Tuấn Thanh yêu cầu tháo gỡ dứt điểm vướng mắc mặt bằng, tái định cư để đẩy nhanh tiến độ 34 dự án trên địa bàn.",
+      "image": "press:auto",
+      "ai_prompt": "urban construction project and infrastructure development in Quy Nhon Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/quyet-liet-thao-go-vuong-mac-day-nhanh-tien-do-cac-du-an-tai-quy-nhon-bac-post603623.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-31T17:40:09+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Kinh tế Quy Nhơn",
+      "text": "Sáng 31/10, tại Khu công nghiệp Nhơn Hội (phường Quy Nhơn Đông), Công ty CP Việt Nam Graphene Global khánh thành Nhà máy sản xuất và ứng dụng vật liệu Graphene công suất 3.600 kg/năm với tổng vốn đầu tư 202 tỷ đồng.",
+      "image": "press:auto",
+      "ai_prompt": "modern high-tech factory inauguration ceremony at industrial park in Quy Nhon Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/khanh-thanh-nha-may-san-xuat-va-ung-dung-graphene-post603631.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-31T13:27:29+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Pháp luật",
+      "text": "Cơ quan CSĐT Công an tỉnh Gia Lai vừa khởi tố bị can, bắt tạm giam đối tượng N.Đ.H. (27 tuổi, trú xã Chư Prông) về hành vi sử dụng trái phép chất ma túy đá tại nhà khi đang thuộc diện quản lý sau cai nghiện.",
+      "image": "press:auto",
+      "ai_prompt": "police officers working on legal case documents at station in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/sau-cai-nghien-van-dap-da-1-doi-tuong-bi-khoi-to-post603521.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-31T13:29:33+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Thông báo điều tra",
+      "text": "Phục vụ điều tra vụ sử dụng tài liệu giả của cơ quan, tổ chức, Cơ quan CSĐT Công an tỉnh Gia Lai thông báo tìm các học viên được Trung tâm dạy nghề Bắc Hà cấp chứng chỉ nghề bậc thợ 4/7 giai đoạn 2013–2016.",
+      "image": "press:auto",
+      "ai_prompt": "official police investigation notice document on desk in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/truy-tim-hoc-vien-duoc-trung-tam-day-nghe-bac-ha-cap-chung-chi-nghe-bac-tho-47-post603644.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-31T16:32:21+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Cảnh báo dịch bệnh",
+      "text": "Trước diễn biến toàn tỉnh ghi nhận 9.755 ca mắc sốt xuất huyết cùng 474 ổ dịch (riêng tuần qua tăng 612 ca mới), UBND tỉnh Gia Lai yêu cầu các xã, phường quyết liệt ra quân diệt lăng quăng, khống chế ổ dịch mùa mưa.",
+      "image": "press:auto",
+      "ai_prompt": "medical workers spraying mosquito prevention in residential neighborhood in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/gia-lai-tang-cuong-cong-tac-phong-chong-sot-xuat-huyet-post603645.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-31T17:40:50+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Hạ tầng dân sinh",
+      "text": "UBND xã Tuy Phước vừa khánh thành đưa vào sử dụng 3 công trình hạ tầng với tổng vốn gần 7 tỷ đồng, gồm Công viên đầu cầu Bạn Xoài rộng hơn 1.070 m² và nâng cấp 2 tuyến đường Hưng Nghĩa – Phước Hiệp, Lộc An – Lộc Ninh.",
+      "image": "press:auto",
+      "ai_prompt": "newly paved rural concrete road and riverside community park in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/xa-tuy-phuoc-khanh-thanh-3-cong-trinh-ha-tang-voi-tong-von-dau-tu-gan-7-ty-dong-post603622.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-31T14:59:25+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "An toàn PCCC",
+      "text": "Ngày 31/10, Đội Chữa cháy và CNCH khu vực 2 điều động 19 cán bộ, chiến sĩ phối hợp Công ty TNHH Đồ gỗ Nghĩa Tín (Cụm công nghiệp Phước An, xã Tuy Phước Tây) thực tập phương án dập lửa và giải cứu người mắc kẹt.",
+      "image": "press:auto",
+      "ai_prompt": "firefighters conducting fire drill with water hoses at wood factory in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/thuc-tap-phuong-an-chua-chay-cuu-nan-cuu-ho-tai-cong-ty-tnhh-do-go-nghia-tin-post603649.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-31T16:35:21+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Tiện ích an ninh số",
+      "text": "Ngày 31/10, Công an phường Tam Quan ra mắt mô hình “Móc khóa An ninh số – Một chạm, vạn tiện ích” tích hợp mã QR và trao tặng trực tiếp cho tiểu thương chợ Tam Quan để tiện tra cứu thủ tục hành chính, báo tin an ninh.",
+      "image": "press:auto",
+      "ai_prompt": "police officers handing QR code keychains to local market vendors in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/cong-an-phuong-tam-quan-ra-mat-mo-hinh-moc-khoa-an-ninh-so-mot-cham-van-tien-ich-post603647.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-31T17:41:22+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Y tế cộng đồng",
+      "text": "Trong 2 ngày 31/10 và 1/11, Bệnh viện Quân y 211 phối hợp UBND phường Thống Nhất tổ chức khám lâm sàng, siêu âm, chụp X-quang, điện tim và cấp phát thuốc miễn phí cho 374 người cao tuổi trên địa bàn.",
+      "image": "press:auto",
+      "ai_prompt": "military doctors examining elderly patients at hospital clinic in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/benh-vien-quan-y-211-kham-suc-khoe-cap-thuoc-mien-phi-cho-374-nguoi-cao-tuoi-post603608.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-31T15:02:59+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Du lịch Quy Nhơn",
+      "text": "Hướng tới Năm Du lịch quốc gia 2026, ngành du lịch tỉnh Gia Lai đang đẩy mạnh kết nối không gian từ biển Quy Nhơn – Eo Gió đến đại ngàn Tây Nguyên, hình thành hành trình liên vùng giữ chân du khách lưu trú dài ngày.",
+      "image": "press:auto",
+      "ai_prompt": "scenic coastal cliffs of Eo Gio Quy Nhon with turquoise sea in Vietnam",
+      "image_credit": "TTXVN / Báo Mới",
+      "source": "https://baomoi.com/gia-lai-day-manh-ket-noi-bien-cao-nguyen-tao-suc-bat-cho-du-lich-c56398852.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-10-31T16:12:00+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "Tỉnh đã chỉ đạo gỡ vướng mặt bằng cho 34 dự án tại phường Quy Nhơn Bắc, khánh thành nhà máy vật liệu công nghệ cao 202 tỷ ở KCN Nhơn Hội và cảnh báo dịch sốt xuất huyết mùa mưa! Bà con bấm LƯU bài để chú ý phòng dịch cho gia đình nhé, bạn quan tâm tin nào nhất tối nay?",
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "caption": {
+    "tiktok": "Tháo gỡ mặt bằng, tăng tốc 34 dự án tại phường Quy Nhơn Bắc; Khánh thành nhà máy 202 tỷ ở KCN Nhơn Hội? Điểm tin tối 31/10/2026 (Bấm LƯU bài để lưu ý phòng dịch sốt xuất huyết mùa mưa):\n\n1. Quyết liệt tháo gỡ mặt bằng, đẩy nhanh tiến độ 34 dự án tại phường Quy Nhơn Bắc (Báo Gia Lai)\n🔗 https://baogialai.com.vn/quyet-liet-thao-go-vuong-mac-day-nhanh-tien-do-cac-du-an-tai-quy-nhon-bac-post603623.html\n\n2. Khánh thành Nhà máy sản xuất và ứng dụng vật liệu Graphene vốn 202 tỷ đồng tại KCN Nhơn Hội, phường Quy Nhơn Đông (Báo Gia Lai)\n🔗 https://baogialai.com.vn/khanh-thanh-nha-may-san-xuat-va-ung-dung-graphene-post603631.html\n\n3. Sau cai nghiện vẫn sử dụng ma túy đá, 1 đối tượng 27 tuổi bị khởi tố, bắt tạm giam (Báo Gia Lai)\n🔗 https://baogialai.com.vn/sau-cai-nghien-van-dap-da-1-doi-tuong-bi-khoi-to-post603521.html\n\n4. Công an thông báo tìm học viên được Trung tâm dạy nghề Bắc Hà cấp chứng chỉ nghề bậc thợ 4/7 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/truy-tim-hoc-vien-duoc-trung-tam-day-nghe-bac-ha-cap-chung-chi-nghe-bac-tho-47-post603644.html\n\n5. Ghi nhận 9.755 ca sốt xuất huyết, tỉnh yêu cầu quyết liệt ra quân dập dịch mùa mưa (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-tang-cuong-cong-tac-phong-chong-sot-xuat-huyet-post603645.html\n\n6. Xã Tuy Phước khánh thành 3 công trình công viên và đường giao thông vốn gần 7 tỷ đồng (Báo Gia Lai)\n🔗 https://baogialai.com.vn/xa-tuy-phuoc-khanh-thanh-3-cong-trinh-ha-tang-voi-tong-von-dau-tu-gan-7-ty-dong-post603622.html\n\n7. Thực tập phương án chữa cháy, cứu nạn cứu hộ tại Cụm công nghiệp Phước An, xã Tuy Phước Tây (Báo Gia Lai)\n🔗 https://baogialai.com.vn/thuc-tap-phuong-an-chua-chay-cuu-nan-cuu-ho-tai-cong-ty-tnhh-do-go-nghia-tin-post603649.html\n\n8. Công an phường Tam Quan ra mắt mô hình “Móc khóa An ninh số” tích hợp mã QR tặng tiểu thương (Báo Gia Lai)\n🔗 https://baogialai.com.vn/cong-an-phuong-tam-quan-ra-mat-mo-hinh-moc-khoa-an-ninh-so-mot-cham-van-tien-ich-post603647.html\n\n9. Bệnh viện Quân y 211 khám sức khỏe, cấp thuốc miễn phí cho 374 người cao tuổi (Báo Gia Lai)\n🔗 https://baogialai.com.vn/benh-vien-quan-y-211-kham-suc-khoe-cap-thuoc-mien-phi-cho-374-nguoi-cao-tuoi-post603608.html\n\n10. Đẩy mạnh kết nối du lịch biển Quy Nhơn – Eo Gió với đại ngàn Tây Nguyên (Báo Mới)\n🔗 https://baomoi.com/gia-lai-day-manh-ket-noi-bien-cao-nguyen-tao-suc-bat-cho-du-lich-c56398852.epi\n\nBà con quan tâm tin nào nhất tối nay? Bấm LƯU bài và chia sẻ cảm nghĩ nhé!\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Tăng tốc 34 dự án tại phường Quy Nhơn Bắc; Khánh thành nhà máy 202 tỷ ở KCN Nhơn Hội | Bản tin tối 31/10/2026\n\nTổng hợp 10 tin tức Quy Nhơn & Gia Lai tối 31/10/2026:\n1. Quyết liệt tháo gỡ mặt bằng, đẩy nhanh tiến độ 34 dự án tại phường Quy Nhơn Bắc\n2. Khánh thành Nhà máy sản xuất vật liệu Graphene vốn 202 tỷ đồng tại KCN Nhơn Hội, phường Quy Nhơn Đông\n3. Sau cai nghiện vẫn sử dụng ma túy đá, 1 đối tượng 27 tuổi bị khởi tố, bắt tạm giam\n4. Công an thông báo tìm học viên được Trung tâm dạy nghề Bắc Hà cấp chứng chỉ nghề bậc thợ 4/7\n5. Ghi nhận 9.755 ca sốt xuất huyết, tỉnh yêu cầu quyết liệt ra quân dập dịch mùa mưa\n6. Xã Tuy Phước khánh thành 3 công trình công viên và đường giao thông vốn gần 7 tỷ đồng\n7. Thực tập phương án chữa cháy, cứu nạn cứu hộ tại Cụm công nghiệp Phước An, xã Tuy Phước Tây\n8. Công an phường Tam Quan ra mắt mô hình “Móc khóa An ninh số” tích hợp mã QR\n9. Bệnh viện Quân y 211 khám sức khỏe, cấp thuốc miễn phí cho 374 người cao tuổi\n10. Đẩy mạnh kết nối du lịch biển Quy Nhơn – Eo Gió với đại ngàn Tây Nguyên\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "facebook": "Tháo gỡ mặt bằng, tăng tốc 34 dự án tại phường Quy Nhơn Bắc; Khánh thành nhà máy 202 tỷ ở KCN Nhơn Hội? Điểm tin tối 31/10/2026:\n\n1. Quyết liệt tháo gỡ mặt bằng, đẩy nhanh tiến độ 34 dự án tại phường Quy Nhơn Bắc (Báo Gia Lai)\n🔗 https://baogialai.com.vn/quyet-liet-thao-go-vuong-mac-day-nhanh-tien-do-cac-du-an-tai-quy-nhon-bac-post603623.html\n\n2. Khánh thành Nhà máy sản xuất và ứng dụng vật liệu Graphene vốn 202 tỷ đồng tại KCN Nhơn Hội, phường Quy Nhơn Đông (Báo Gia Lai)\n🔗 https://baogialai.com.vn/khanh-thanh-nha-may-san-xuat-va-ung-dung-graphene-post603631.html\n\n3. Sau cai nghiện vẫn sử dụng ma túy đá, 1 đối tượng 27 tuổi bị khởi tố, bắt tạm giam (Báo Gia Lai)\n🔗 https://baogialai.com.vn/sau-cai-nghien-van-dap-da-1-doi-tuong-bi-khoi-to-post603521.html\n\n4. Công an thông báo tìm học viên được Trung tâm dạy nghề Bắc Hà cấp chứng chỉ nghề bậc thợ 4/7 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/truy-tim-hoc-vien-duoc-trung-tam-day-nghe-bac-ha-cap-chung-chi-nghe-bac-tho-47-post603644.html\n\n5. Ghi nhận 9.755 ca sốt xuất huyết, tỉnh yêu cầu quyết liệt ra quân dập dịch mùa mưa (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-tang-cuong-cong-tac-phong-chong-sot-xuat-huyet-post603645.html\n\n6. Xã Tuy Phước khánh thành 3 công trình công viên và đường giao thông vốn gần 7 tỷ đồng (Báo Gia Lai)\n🔗 https://baogialai.com.vn/xa-tuy-phuoc-khanh-thanh-3-cong-trinh-ha-tang-voi-tong-von-dau-tu-gan-7-ty-dong-post603622.html\n\n7. Thực tập phương án chữa cháy, cứu nạn cứu hộ tại Cụm công nghiệp Phước An, xã Tuy Phước Tây (Báo Gia Lai)\n🔗 https://baogialai.com.vn/thuc-tap-phuong-an-chua-chay-cuu-nan-cuu-ho-tai-cong-ty-tnhh-do-go-nghia-tin-post603649.html\n\n8. Công an phường Tam Quan ra mắt mô hình “Móc khóa An ninh số” tích hợp mã QR tặng tiểu thương (Báo Gia Lai)\n🔗 https://baogialai.com.vn/cong-an-phuong-tam-quan-ra-mat-mo-hinh-moc-khoa-an-ninh-so-mot-cham-van-tien-ich-post603647.html\n\n9. Bệnh viện Quân y 211 khám sức khỏe, cấp thuốc miễn phí cho 374 người cao tuổi (Báo Gia Lai)\n🔗 https://baogialai.com.vn/benh-vien-quan-y-211-kham-suc-khoe-cap-thuoc-mien-phi-cho-374-nguoi-cao-tuoi-post603608.html\n\n10. Đẩy mạnh kết nối du lịch biển Quy Nhơn – Eo Gió với đại ngàn Tây Nguyên (Báo Mới)\n🔗 https://baomoi.com/gia-lai-day-manh-ket-noi-bien-cao-nguyen-tao-suc-bat-cho-du-lich-c56398852.epi\n\nTỉnh đã chỉ đạo gỡ vướng mặt bằng cho 34 dự án tại phường Quy Nhơn Bắc, khánh thành nhà máy vật liệu công nghệ cao 202 tỷ ở KCN Nhơn Hội và cảnh báo dịch sốt xuất huyết mùa mưa! Bà con bấm LƯU bài để chú ý phòng dịch cho gia đình nhé, bạn quan tâm tin nào nhất tối nay?\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "needs_review": []
+}
