@@ -1,0 +1,147 @@
+{
+  "type": "digest",
+  "output": "anh",
+  "date": "2026-10-31",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "brand": [
+    "QUY NHƠN ",
+    "24H QUA"
+  ],
+  "cover": {
+    "kicker": "ĐIỂM TIN TRƯA",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Ngày 31/10/2026",
+    "teaser": "Phường Quy Nhơn Nam thông tin vụ sắp xếp 3 hiệu trưởng trường học?",
+    "image": "item:1"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "label": "Tin Quy Nhơn",
+      "text": "Thực hiện kiến nghị của Sở GD&ĐT, UBND phường Quy Nhơn Nam đã họp kiểm điểm trách nhiệm và điều chỉnh phương án bố trí nhân sự đối với 3 hiệu trưởng các trường THCS Quang Trung, Ngô Mây và Tiểu học Nguyễn Văn Cừ.",
+      "image": "press:auto",
+      "ai_prompt": "secondary school campus gate and administrative building in Quy Nhon Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/phuong-quy-nhon-nam-thong-tin-ket-qua-ra-soat-sap-xep-nhan-su-truong-hoc-post603597.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-31T11:51:50+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "An toàn giao thông",
+      "text": "Tình trạng đá phong hóa cheo leo, nguy cơ sạt lở tại 3 đèo Vĩnh Hội, Tân Thanh và Chánh Oai trên tuyến đường ven biển ĐT.639 (đoạn Cát Tiến – Đề Gi) khiến người dân và khoảng 150 học sinh qua lại mong sớm được gia cố.",
+      "image": "press:auto",
+      "ai_prompt": "coastal mountain pass road with rocky slope by the sea in central Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/can-som-gia-co-mai-taluy-tai-cac-deo-tren-tuyen-duong-ven-bien-cat-tien-post603586.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-31T09:50:53+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Đô thị Quy Nhơn",
+      "text": "UBND phường Quy Nhơn Đông vừa ra quân làm việc với 17 hộ dân nuôi hơn 320 con trâu, bò, yêu cầu bố trí người trông giữ, chấm dứt cảnh thả rông gia súc trong Khu kinh tế Nhơn Hội và dọc biển Cát Tiến – Nhơn Lý.",
+      "image": "press:auto",
+      "ai_prompt": "urban patrol team working on coastal boulevard in Quy Nhon Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/chan-chinh-tinh-trang-trau-bo-tha-rong-o-phuong-quy-nhon-dong-post603588.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-31T11:53:25+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Quy hoạch – Dự án",
+      "text": "Ghi nhận toàn cảnh dự án Thị Nại Eco Bay vốn 4.998 tỷ đồng (phường Quy Nhơn và Quy Nhơn Đông): việc điều chỉnh quy hoạch 1/500 sang khu nhà ở sinh thái đa chức năng nhằm gỡ vướng pháp lý, tái khởi động dự án.",
+      "image": "press:auto",
+      "ai_prompt": "aerial view of lagoon peninsula urban project in Quy Nhon Vietnam",
+      "image_credit": "Báo VTC News",
+      "source": "https://vtcnews.vn/toan-canh-du-an-gan-5-000-ty-dong-tren-dam-thi-nai-vua-duoc-dieu-chinh-quy-hoach-ar1048329.html",
+      "source_name": "VTC News",
+      "published": "2026-10-31T07:09:54+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Giáo dục Quy Nhơn",
+      "text": "Tại vòng chung kết tối 30/10 do Ủy ban Cạnh tranh Quốc gia (Bộ Công Thương) tổ chức, đội tuyển Trường Đại học Quy Nhơn đã vượt qua 4 trường đại học miền Trung để xuất sắc giành Giải Nhất Sinh viên thông thái 2026.",
+      "image": "press:auto",
+      "ai_prompt": "university students holding first prize trophy on stage in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/truong-dai-hoc-quy-nhon-dat-giai-nhat-cuoc-thi-sinh-vien-thong-thai-2026-post603573.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-31T07:06:08+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "An toàn thực phẩm",
+      "text": "Sau đợt kiểm tra của Sở Y tế tại căn tin Trường Đại học FPT Quy Nhơn (KĐT An Phú Thịnh, phường Quy Nhơn Đông), Công ty TNHH Qfoody đã khắc phục ngay 2 tồn tại, thay mới thiết bị bảo quản và chuẩn hóa lưu mẫu thức ăn.",
+      "image": "press:auto",
+      "ai_prompt": "clean modern university cafeteria kitchen inspection in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/qfoody-khac-phuc-2-ton-tai-sau-kiem-tra-an-toan-thuc-pham-post603558.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-31T07:05:27+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "An toàn PCCC",
+      "text": "Đội Chữa cháy và CNCH khu vực 2 (Công an tỉnh Gia Lai) phối hợp Công an phường Quy Nhơn Bắc tổ chức huấn luyện thực hành kỹ năng xử lý cháy nổ, thoát nạn và sơ cấp cứu tại chỗ cho 152 thành viên đội dân phòng.",
+      "image": "press:auto",
+      "ai_prompt": "firefighters training local civil defense team with fire extinguishers in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/huan-luyen-nghiep-vu-pccc-va-cnch-cho-luc-luong-dan-phong-phuong-quy-nhon-bac-post603565.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-31T04:55:16+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Pháp luật học đường",
+      "text": "Sáng 31/10, Viện Kiểm sát và Tòa án nhân dân khu vực 13 phối hợp tổ chức phiên tòa giả định xét xử vụ án hẹn giải quyết mâu thuẫn mạng xã hội, giúp hơn 1.100 học sinh Trường THPT Nguyễn Trãi nâng cao ý thức pháp luật.",
+      "image": "press:auto",
+      "ai_prompt": "high school students attending a mock trial legal education event in schoolyard Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/hon-1100-hoc-sinh-truong-thpt-nguyen-trai-tham-gia-phien-toa-gia-dinh-ve-gay-roi-trat-tu-cong-cong-post603613.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-31T11:53:10+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Thể thao – Du lịch",
+      "text": "Rạng sáng 31/10, giải chạy Gia Lai City Trail 2026 chính thức khởi tranh tại Khu du lịch Biển Hồ với 1.440 vận động viên tranh tài ở 3 cự ly 70 km, 50 km và 30 km, chinh phục cung đường qua 8 ngọn núi và mùa hoa dã quỳ.",
+      "image": "press:auto",
+      "ai_prompt": "trail runners starting race at dawn near pine forest lake in Gia Lai Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/gia-lai-city-trail-2026-khoi-tranh-cac-cu-ly-30-50-va-70-km-post603595.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-31T08:14:32+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Giá cả thị trường",
+      "text": "Sáng 31/10, giá vàng miếng SJC tiếp tục giảm sâu 2,4 triệu đồng/lượng, lùi về mức 136 triệu đồng/lượng mua vào và 139 triệu đồng/lượng bán ra theo đà giảm hơn 3,6% của giá vàng thế giới dịp cuối tuần.",
+      "image": "press:auto",
+      "ai_prompt": "gold bars and price board at a jewelry shop in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/ngay-31-10-vang-mieng-giam-24-trieu-dongluong-vang-the-gioi-lao-doc-post603603.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-31T09:00:00+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "Phường Quy Nhơn Nam đã thông tin kết quả rà soát nhân sự 3 hiệu trưởng, chúc mừng ĐH Quy Nhơn giành Giải Nhất Sinh viên thông thái 2026 và giá vàng SJC sáng 31/10 giảm tiếp 2,4 triệu/lượng! Bà con bấm LƯU bài để tiện tra cứu giá vàng và cảnh báo đường đèo ven biển Cát Tiến nhé!",
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "caption": {
+    "tiktok": "Phường Quy Nhơn Nam thông tin vụ sắp xếp 3 hiệu trưởng; ĐH Quy Nhơn giành Giải Nhất Sinh viên thông thái 2026? Điểm tin trưa 31/10/2026 (Bấm LƯU bài để tra cứu giá vàng & cảnh báo đèo biển):\n\n1. Phường Quy Nhơn Nam thông tin kết quả rà soát, sắp xếp nhân sự 3 hiệu trưởng trường học (Báo Gia Lai)\n🔗 https://baogialai.com.vn/phuong-quy-nhon-nam-thong-tin-ket-qua-ra-soat-sap-xep-nhan-su-truong-hoc-post603597.html\n\n2. Kiến nghị sớm gia cố mái taluy chống đá rơi tại 3 đèo trên đường ven biển Cát Tiến – Đề Gi (Báo Gia Lai)\n🔗 https://baogialai.com.vn/can-som-gia-co-mai-taluy-tai-cac-deo-tren-tuyen-duong-ven-bien-cat-tien-post603586.html\n\n3. Phường Quy Nhơn Đông ra quân chấn chỉnh 17 hộ dân nuôi hơn 320 con trâu, bò thả rông (Báo Gia Lai)\n🔗 https://baogialai.com.vn/chan-chinh-tinh-trang-trau-bo-tha-rong-o-phuong-quy-nhon-dong-post603588.html\n\n4. Toàn cảnh dự án Thị Nại Eco Bay 4.998 tỷ đồng vừa được điều chỉnh quy hoạch 1/500 (VTC News)\n🔗 https://vtcnews.vn/toan-canh-du-an-gan-5-000-ty-dong-tren-dam-thi-nai-vua-duoc-dieu-chinh-quy-hoach-ar1048329.html\n\n5. Trường Đại học Quy Nhơn xuất sắc đạt Giải Nhất cuộc thi Sinh viên thông thái 2026 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/truong-dai-hoc-quy-nhon-dat-giai-nhat-cuoc-thi-sinh-vien-thong-thai-2026-post603573.html\n\n6. Căn tin Trường ĐH FPT Quy Nhơn (Qfoody) khắc phục ngay 2 tồn tại sau kiểm tra ATTP (Báo Gia Lai)\n🔗 https://baogialai.com.vn/qfoody-khac-phuc-2-ton-tai-sau-kiem-tra-an-toan-thuc-pham-post603558.html\n\n7. Huấn luyện nghiệp vụ PCCC và CNCH cho 152 thành viên dân phòng phường Quy Nhơn Bắc (Báo Gia Lai)\n🔗 https://baogialai.com.vn/huan-luyen-nghiep-vu-pccc-va-cnch-cho-luc-luong-dan-phong-phuong-quy-nhon-bac-post603565.html\n\n8. Hơn 1.100 học sinh Trường THPT Nguyễn Trãi tham gia phiên tòa giả định phòng chống bạo lực (Báo Gia Lai)\n🔗 https://baogialai.com.vn/hon-1100-hoc-sinh-truong-thpt-nguyen-trai-tham-gia-phien-toa-gia-dinh-ve-gay-roi-trat-tu-cong-cong-post603613.html\n\n9. 1.440 vận động viên tranh tài các cự ly 30, 50 và 70 km tại Gia Lai City Trail 2026 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-city-trail-2026-khoi-tranh-cac-cu-ly-30-50-va-70-km-post603595.html\n\n10. Sáng 31/10: Vàng miếng SJC giảm sâu 2,4 triệu đồng/lượng về mốc 139 triệu đồng/lượng (Báo Gia Lai)\n🔗 https://baogialai.com.vn/ngay-31-10-vang-mieng-giam-24-trieu-dongluong-vang-the-gioi-lao-doc-post603603.html\n\nBà con quan tâm tin nào nhất trưa nay? Bấm LƯU bài và chia sẻ cảm nghĩ nhé!\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Phường Quy Nhơn Nam thông tin vụ sắp xếp 3 hiệu trưởng; ĐH Quy Nhơn đạt Giải Nhất | Bản tin trưa 31/10/2026\n\nTổng hợp 10 tin tức Quy Nhơn & Gia Lai trưa 31/10/2026:\n1. Phường Quy Nhơn Nam thông tin kết quả rà soát, sắp xếp nhân sự 3 hiệu trưởng trường học\n2. Kiến nghị sớm gia cố mái taluy chống đá rơi tại 3 đèo trên đường ven biển Cát Tiến – Đề Gi\n3. Phường Quy Nhơn Đông ra quân chấn chỉnh tình trạng 17 hộ nuôi hơn 320 con trâu, bò thả rông\n4. Toàn cảnh dự án Thị Nại Eco Bay 4.998 tỷ đồng vừa được điều chỉnh quy hoạch 1/500\n5. Trường Đại học Quy Nhơn xuất sắc đạt Giải Nhất cuộc thi Sinh viên thông thái 2026\n6. Căn tin Trường ĐH FPT Quy Nhơn (Qfoody) khắc phục ngay 2 tồn tại sau kiểm tra ATTP\n7. Huấn luyện nghiệp vụ PCCC và CNCH cho 152 thành viên dân phòng phường Quy Nhơn Bắc\n8. Hơn 1.100 học sinh Trường THPT Nguyễn Trãi tham gia phiên tòa giả định phòng chống bạo lực\n9. 1.440 vận động viên tranh tài các cự ly 30, 50 và 70 km tại Gia Lai City Trail 2026\n10. Sáng 31/10: Vàng miếng SJC giảm sâu 2,4 triệu đồng/lượng về mốc 139 triệu đồng/lượng\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "facebook": "Phường Quy Nhơn Nam thông tin vụ sắp xếp 3 hiệu trưởng; ĐH Quy Nhơn giành Giải Nhất Sinh viên thông thái 2026? Điểm tin trưa 31/10/2026:\n\n1. Phường Quy Nhơn Nam thông tin kết quả rà soát, sắp xếp nhân sự 3 hiệu trưởng trường học (Báo Gia Lai)\n🔗 https://baogialai.com.vn/phuong-quy-nhon-nam-thong-tin-ket-qua-ra-soat-sap-xep-nhan-su-truong-hoc-post603597.html\n\n2. Kiến nghị sớm gia cố mái taluy chống đá rơi tại 3 đèo trên đường ven biển Cát Tiến – Đề Gi (Báo Gia Lai)\n🔗 https://baogialai.com.vn/can-som-gia-co-mai-taluy-tai-cac-deo-tren-tuyen-duong-ven-bien-cat-tien-post603586.html\n\n3. Phường Quy Nhơn Đông ra quân chấn chỉnh 17 hộ dân nuôi hơn 320 con trâu, bò thả rông (Báo Gia Lai)\n🔗 https://baogialai.com.vn/chan-chinh-tinh-trang-trau-bo-tha-rong-o-phuong-quy-nhon-dong-post603588.html\n\n4. Toàn cảnh dự án Thị Nại Eco Bay 4.998 tỷ đồng vừa được điều chỉnh quy hoạch 1/500 (VTC News)\n🔗 https://vtcnews.vn/toan-canh-du-an-gan-5-000-ty-dong-tren-dam-thi-nai-vua-duoc-dieu-chinh-quy-hoach-ar1048329.html\n\n5. Trường Đại học Quy Nhơn xuất sắc đạt Giải Nhất cuộc thi Sinh viên thông thái 2026 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/truong-dai-hoc-quy-nhon-dat-giai-nhat-cuoc-thi-sinh-vien-thong-thai-2026-post603573.html\n\n6. Căn tin Trường ĐH FPT Quy Nhơn (Qfoody) khắc phục ngay 2 tồn tại sau kiểm tra ATTP (Báo Gia Lai)\n🔗 https://baogialai.com.vn/qfoody-khac-phuc-2-ton-tai-sau-kiem-tra-an-toan-thuc-pham-post603558.html\n\n7. Huấn luyện nghiệp vụ PCCC và CNCH cho 152 thành viên dân phòng phường Quy Nhơn Bắc (Báo Gia Lai)\n🔗 https://baogialai.com.vn/huan-luyen-nghiep-vu-pccc-va-cnch-cho-luc-luong-dan-phong-phuong-quy-nhon-bac-post603565.html\n\n8. Hơn 1.100 học sinh Trường THPT Nguyễn Trãi tham gia phiên tòa giả định phòng chống bạo lực (Báo Gia Lai)\n🔗 https://baogialai.com.vn/hon-1100-hoc-sinh-truong-thpt-nguyen-trai-tham-gia-phien-toa-gia-dinh-ve-gay-roi-trat-tu-cong-cong-post603613.html\n\n9. 1.440 vận động viên tranh tài các cự ly 30, 50 và 70 km tại Gia Lai City Trail 2026 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-city-trail-2026-khoi-tranh-cac-cu-ly-30-50-va-70-km-post603595.html\n\n10. Sáng 31/10: Vàng miếng SJC giảm sâu 2,4 triệu đồng/lượng về mốc 139 triệu đồng/lượng (Báo Gia Lai)\n🔗 https://baogialai.com.vn/ngay-31-10-vang-mieng-giam-24-trieu-dongluong-vang-the-gioi-lao-doc-post603603.html\n\nPhường Quy Nhơn Nam đã thông tin kết quả rà soát nhân sự 3 hiệu trưởng, chúc mừng ĐH Quy Nhơn giành Giải Nhất Sinh viên thông thái 2026 và giá vàng SJC sáng 31/10 giảm tiếp 2,4 triệu/lượng! Bà con bấm LƯU bài để tiện tra cứu giá vàng và cảnh báo đường đèo ven biển Cát Tiến nhé!\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "needs_review": []
+}
