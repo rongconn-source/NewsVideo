@@ -1,0 +1,147 @@
+{
+  "type": "digest",
+  "output": "anh",
+  "date": "2026-11-01",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "brand": [
+    "QUY NHƠN ",
+    "24H QUA"
+  ],
+  "cover": {
+    "kicker": "ĐIỂM TIN SÁNG",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Ngày 1/11/2026",
+    "teaser": "Thông báo bắn đạn thật tại đảo Cù Lao Xanh (Nhơn Châu) sáng 5/11?",
+    "image": "item:1"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "label": "Cảnh báo an toàn biển",
+      "text": "Từ 7h đến 10h ngày 5/11, Bộ CHQS tỉnh Gia Lai tổ chức bắn đạn thật tại Trường bắn Bãi Bấc trên đảo Cù Lao Xanh (thôn Tây, xã Nhơn Châu), đề nghị người dân và tàu thuyền không đi lại, neo đậu trong vùng bắn.",
+      "image": "press:auto",
+      "ai_prompt": "scenic Cu Lao Xanh island coastline and lighthouse in Quy Nhon Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/ngay-5-11-bo-chqs-tinh-gia-lai-to-chuc-ban-chien-dau-tai-dao-cu-lao-xanh-post603666.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-31T20:34:14+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "An ninh – Pháp luật",
+      "text": "Cơ quan CSĐT Công an tỉnh Gia Lai vừa khởi tố, bắt tạm giam shipper N.V.T. (21 tuổi, trú phường Diên Hồng) do sau khi giao nhận 10 đơn hàng và thu hộ COD hơn 23 triệu đồng đã không nộp về công ty mà chiếm đoạt.",
+      "image": "press:auto",
+      "ai_prompt": "police officers reading investigation documents at office in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/bat-tam-giam-shipper-chiem-doat-hon-23-trieu-tien-hang-post603553.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-01T05:32:45+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "An ninh mạng",
+      "text": "Công an xã Ia Hrung (tỉnh Gia Lai) vừa ra quyết định xử phạt hành chính 12,5 triệu đồng đối với ông N.V.H. (52 tuổi) về hành vi chia sẻ, bình luận bài viết trên các trang mạng xã hội của tổ chức khủng bố Việt Tân.",
+      "image": "press:auto",
+      "ai_prompt": "police officer working with citizen at local commune police station in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/tuong-tac-tren-cac-kenh-cua-to-chuc-khung-bo-viet-tan-bi-phat-125-trieu-dong-post603477.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-31T20:42:37+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Gương sáng Quy Nhơn",
+      "text": "Bác sĩ Lê Ngọc Thường (Bệnh viện Y học cổ truyền và Phục hồi chức năng Quy Nhơn) và anh Nguyễn Mạnh Trí (chuyên viên Sở Xây dựng) vinh dự vào danh sách 45 Cán bộ, công chức, viên chức trẻ giỏi toàn quốc 2026.",
+      "image": "press:auto",
+      "ai_prompt": "young Vietnamese doctor examining patient at hospital in Quy Nhon Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/gia-lai-co-2-dai-dien-dat-giai-thuong-can-bo-cong-chuc-vien-chuc-tre-gioi-toan-quoc-nam-2026-post603665.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-31T20:38:13+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Đền ơn đáp nghĩa",
+      "text": "Trong 2 ngày 30 và 31/10, Đội K52 (Bộ CHQS tỉnh Gia Lai) đã tìm kiếm, quy tập thêm 5 hài cốt liệt sĩ, gồm 2 hài cốt tại tổ dân phố Lộc Thuận (phường An Nhơn Bắc) và 3 hài cốt tại làng Bi (xã Ia Dom).",
+      "image": "press:auto",
+      "ai_prompt": "soldiers conducting solemn memorial search mission in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/quy-tap-them-5-hai-cot-liet-si-tai-ia-dom-va-an-nhon-bac-post603661.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-31T19:15:04+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Y tế – Nhân đạo",
+      "text": "Qua các đợt hiến máu tình nguyện tại xã Phù Cát, Xuân An, Hòa Hội, Hội Sơn và phường An Khê, An Bình trong 2 ngày 30–31/10, các bệnh viện trên địa bàn tỉnh Gia Lai đã tiếp nhận 390 đơn vị máu an toàn.",
+      "image": "press:auto",
+      "ai_prompt": "volunteers donating blood at community medical center in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/cac-co-so-y-te-gia-lai-tiep-nhan-390-don-vi-mau-post603648.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-01T05:52:08+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Văn hóa Quy Nhơn",
+      "text": "Chiều 31/10, UBND phường Quy Nhơn Bắc chính thức ra mắt Câu lạc bộ Nghệ thuật bài chòi gồm 20 thành viên, duy trì sinh hoạt định kỳ và phối hợp truyền dạy di sản bài chòi cho học sinh Trường THCS Quy Nhơn Bắc.",
+      "image": "press:auto",
+      "ai_prompt": "traditional Bai Choi folk singing performance in Quy Nhon Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/ra-mat-cau-lac-bo-nghe-thuat-bai-choi-phuong-quy-nhon-bac-post603652.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-10-31T19:22:11+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Sự kiện tại Quy Nhơn",
+      "text": "Tối 31/10, tại Trung tâm Hội nghị tỉnh Gia Lai (phường Quy Nhơn), đêm chung kết cuộc thi Hoa hậu Doanh nhân Châu Á – Miss Asian 2026 với 20 thí sinh tranh tài đã khép lại với ngôi vị cao nhất thuộc về Hoàng Phương Anh.",
+      "image": "press:auto",
+      "ai_prompt": "grand stage cultural event at convention center in Quy Nhon Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/nguoi-dep-hoang-phuong-anh-dang-quang-miss-asian-2026-post603673.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-01T07:35:54+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Lịch sự kiện âm nhạc",
+      "text": "UBND tỉnh Gia Lai vừa thống nhất chủ trương tổ chức đêm giao lưu âm nhạc miễn phí phục vụ người dân và du khách vào tối 8/11 tại Quảng trường Đại Đoàn Kết từ nguồn xã hội hóa dịp Festival Cồng chiêng 2026.",
+      "image": "press:auto",
+      "ai_prompt": "outdoor music concert stage at public square at night in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/gia-lai-to-chuc-dem-giao-luu-am-nhac-phuc-vu-nguoi-dan-du-khach-vao-toi-8-11-post603672.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-01T05:25:30+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Giá cả thị trường",
+      "text": "Mở đầu tháng 11, giá cà phê sáng 1/11 tại Gia Lai giảm tiếp 500 đồng/kg về mức 86.800 đồng/kg; trong khi giá hồ tiêu đồng loạt giảm thêm 1.000 đồng/kg, lùi về ngưỡng 135.000–137.500 đồng/kg.",
+      "image": "press:auto",
+      "ai_prompt": "coffee beans and black pepper agricultural market in Gia Lai Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/gia-nong-san-hom-nay-111-ca-phe-giam-tiep-ho-tieu-mat-moc-138000-dongkg-post603676.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-01T07:34:44+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "Bản tin sáng Chủ Nhật 1/11 có thông báo lịch bắn đạn thật tại đảo Cù Lao Xanh (xã Nhơn Châu) sáng 5/11 và lịch đêm nhạc miễn phí tối 8/11! Bà con và các chủ tàu thuyền bấm LƯU bài để chú ý an toàn khi ra khơi nhé!",
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "caption": {
+    "tiktok": "Thông báo bắn đạn thật tại đảo Cù Lao Xanh (Nhơn Châu) sáng 5/11; Bắt tạm giam shipper chiếm đoạt tiền COD? Điểm tin sáng Chủ Nhật 1/11/2026 (Bấm LƯU bài để nhớ lịch an toàn biển & sự kiện):\n\n1. Ngày 5/11 (7h–10h), Bộ CHQS tỉnh tổ chức bắn đạn thật tại đảo Cù Lao Xanh, xã Nhơn Châu (Báo Gia Lai)\n🔗 https://baogialai.com.vn/ngay-5-11-bo-chqs-tinh-gia-lai-to-chuc-ban-chien-dau-tai-dao-cu-lao-xanh-post603666.html\n\n2. Khởi tố, bắt tạm giam shipper 21 tuổi chiếm đoạt hơn 23 triệu đồng tiền thu hộ COD (Báo Gia Lai)\n🔗 https://baogialai.com.vn/bat-tam-giam-shipper-chiem-doat-hon-23-trieu-tien-hang-post603553.html\n\n3. Tương tác trên các kênh của tổ chức khủng bố “Việt Tân”, 1 cá nhân bị phạt 12,5 triệu đồng (Báo Gia Lai)\n🔗 https://baogialai.com.vn/tuong-tac-tren-cac-kenh-cua-to-chuc-khung-bo-viet-tan-bi-phat-125-trieu-dong-post603477.html\n\n4. Bác sĩ BV Y học cổ truyền & PHCN Quy Nhơn cùng chuyên viên Sở Xây dựng nhận giải thưởng toàn quốc 2026 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-co-2-dai-dien-dat-giai-thuong-can-bo-cong-chuc-vien-chuc-tre-gioi-toan-quoc-nam-2026-post603665.html\n\n5. Đội K52 quy tập thêm 5 hài cốt liệt sĩ tại phường An Nhơn Bắc và xã Ia Dom (Báo Gia Lai)\n🔗 https://baogialai.com.vn/quy-tap-them-5-hai-cot-liet-si-tai-ia-dom-va-an-nhon-bac-post603661.html\n\n6. Các bệnh viện tiếp nhận 390 đơn vị máu tình nguyện tại Phù Cát, Xuân An, An Bình... (Báo Gia Lai)\n🔗 https://baogialai.com.vn/cac-co-so-y-te-gia-lai-tiep-nhan-390-don-vi-mau-post603648.html\n\n7. Phường Quy Nhơn Bắc ra mắt Câu lạc bộ Nghệ thuật bài chòi truyền dạy di sản vào trường học (Báo Gia Lai)\n🔗 https://baogialai.com.vn/ra-mat-cau-lac-bo-nghe-thuat-bai-choi-phuong-quy-nhon-bac-post603652.html\n\n8. Chung kết Hoa hậu Doanh nhân Châu Á – Miss Asian 2026 tại Trung tâm Hội nghị tỉnh ở Quy Nhơn (Báo Gia Lai)\n🔗 https://baogialai.com.vn/nguoi-dep-hoang-phuong-anh-dang-quang-miss-asian-2026-post603673.html\n\n9. Thống nhất tổ chức đêm giao lưu âm nhạc phục vụ người dân, du khách vào tối 8/11 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-to-chuc-dem-giao-luu-am-nhac-phuc-vu-nguoi-dan-du-khach-vao-toi-8-11-post603672.html\n\n10. Sáng 1/11: Giá cà phê giảm về 86.800 đồng/kg, hồ tiêu mất mốc 138.000 đồng/kg (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-nong-san-hom-nay-111-ca-phe-giam-tiep-ho-tieu-mat-moc-138000-dongkg-post603676.html\n\nChúc bà con ngày Chủ Nhật đầu tháng 11 nhiều niềm vui! Bấm LƯU bài để tiện tra cứu nhé!\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Thông báo bắn đạn thật tại đảo Cù Lao Xanh sáng 5/11; Bắt shipper chiếm đoạt COD | Bản tin sáng 1/11/2026\n\nTổng hợp 10 tin tức Quy Nhơn & Gia Lai sáng Chủ Nhật 1/11/2026:\n1. Ngày 5/11 (7h–10h), Bộ CHQS tỉnh tổ chức bắn đạn thật tại đảo Cù Lao Xanh, xã Nhơn Châu\n2. Khởi tố, bắt tạm giam shipper 21 tuổi chiếm đoạt hơn 23 triệu đồng tiền thu hộ COD\n3. Tương tác trên các kênh của tổ chức khủng bố “Việt Tân”, 1 cá nhân bị phạt 12,5 triệu đồng\n4. Bác sĩ BV Y học cổ truyền & PHCN Quy Nhơn cùng chuyên viên Sở Xây dựng nhận giải thưởng toàn quốc\n5. Đội K52 quy tập thêm 5 hài cốt liệt sĩ tại phường An Nhơn Bắc và xã Ia Dom\n6. Các bệnh viện tiếp nhận 390 đơn vị máu tình nguyện tại Phù Cát, Xuân An, An Bình\n7. Phường Quy Nhơn Bắc ra mắt Câu lạc bộ Nghệ thuật bài chòi truyền dạy di sản vào trường học\n8. Chung kết Hoa hậu Doanh nhân Châu Á – Miss Asian 2026 tại Trung tâm Hội nghị tỉnh ở Quy Nhơn\n9. Thống nhất tổ chức đêm giao lưu âm nhạc phục vụ người dân, du khách vào tối 8/11\n10. Sáng 1/11: Giá cà phê giảm về 86.800 đồng/kg, hồ tiêu mất mốc 138.000 đồng/kg\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "facebook": "Thông báo bắn đạn thật tại đảo Cù Lao Xanh (Nhơn Châu) sáng 5/11; Bắt tạm giam shipper chiếm đoạt tiền COD? Điểm tin sáng Chủ Nhật 1/11/2026:\n\n1. Ngày 5/11 (7h–10h), Bộ CHQS tỉnh tổ chức bắn đạn thật tại đảo Cù Lao Xanh, xã Nhơn Châu (Báo Gia Lai)\n🔗 https://baogialai.com.vn/ngay-5-11-bo-chqs-tinh-gia-lai-to-chuc-ban-chien-dau-tai-dao-cu-lao-xanh-post603666.html\n\n2. Khởi tố, bắt tạm giam shipper 21 tuổi chiếm đoạt hơn 23 triệu đồng tiền thu hộ COD (Báo Gia Lai)\n🔗 https://baogialai.com.vn/bat-tam-giam-shipper-chiem-doat-hon-23-trieu-tien-hang-post603553.html\n\n3. Tương tác trên các kênh của tổ chức khủng bố “Việt Tân”, 1 cá nhân bị phạt 12,5 triệu đồng (Báo Gia Lai)\n🔗 https://baogialai.com.vn/tuong-tac-tren-cac-kenh-cua-to-chuc-khung-bo-viet-tan-bi-phat-125-trieu-dong-post603477.html\n\n4. Bác sĩ BV Y học cổ truyền & PHCN Quy Nhơn cùng chuyên viên Sở Xây dựng nhận giải thưởng toàn quốc 2026 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-co-2-dai-dien-dat-giai-thuong-can-bo-cong-chuc-vien-chuc-tre-gioi-toan-quoc-nam-2026-post603665.html\n\n5. Đội K52 quy tập thêm 5 hài cốt liệt sĩ tại phường An Nhơn Bắc và xã Ia Dom (Báo Gia Lai)\n🔗 https://baogialai.com.vn/quy-tap-them-5-hai-cot-liet-si-tai-ia-dom-va-an-nhon-bac-post603661.html\n\n6. Các bệnh viện tiếp nhận 390 đơn vị máu tình nguyện tại Phù Cát, Xuân An, An Bình... (Báo Gia Lai)\n🔗 https://baogialai.com.vn/cac-co-so-y-te-gia-lai-tiep-nhan-390-don-vi-mau-post603648.html\n\n7. Phường Quy Nhơn Bắc ra mắt Câu lạc bộ Nghệ thuật bài chòi truyền dạy di sản vào trường học (Báo Gia Lai)\n🔗 https://baogialai.com.vn/ra-mat-cau-lac-bo-nghe-thuat-bai-choi-phuong-quy-nhon-bac-post603652.html\n\n8. Chung kết Hoa hậu Doanh nhân Châu Á – Miss Asian 2026 tại Trung tâm Hội nghị tỉnh ở Quy Nhơn (Báo Gia Lai)\n🔗 https://baogialai.com.vn/nguoi-dep-hoang-phuong-anh-dang-quang-miss-asian-2026-post603673.html\n\n9. Thống nhất tổ chức đêm giao lưu âm nhạc phục vụ người dân, du khách vào tối 8/11 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-to-chuc-dem-giao-luu-am-nhac-phuc-vu-nguoi-dan-du-khach-vao-toi-8-11-post603672.html\n\n10. Sáng 1/11: Giá cà phê giảm về 86.800 đồng/kg, hồ tiêu mất mốc 138.000 đồng/kg (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-nong-san-hom-nay-111-ca-phe-giam-tiep-ho-tieu-mat-moc-138000-dongkg-post603676.html\n\nBản tin sáng Chủ Nhật 1/11 có thông báo lịch bắn đạn thật tại đảo Cù Lao Xanh (xã Nhơn Châu) sáng 5/11 và lịch đêm nhạc miễn phí tối 8/11! Bà con và các chủ tàu thuyền bấm LƯU bài để chú ý an toàn khi ra khơi nhé!\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "needs_review": []
+}
