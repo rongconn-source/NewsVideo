@@ -1,0 +1,147 @@
+{
+  "type": "digest",
+  "output": "anh",
+  "date": "2026-11-01",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "brand": [
+    "QUY NHƠN ",
+    "24H QUA"
+  ],
+  "cover": {
+    "kicker": "ĐIỂM TIN TỐI",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Ngày 1/11/2026",
+    "teaser": "Điều chỉnh quy hoạch dự án Thị Nại Eco Bay gần 5.000 tỷ; Chuyên gia đề xuất giữ núi Một Quy Nhơn làm công viên?",
+    "image": "item:1"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "label": "Đại dự án Quy Nhơn",
+      "text": "UBND tỉnh vừa điều chỉnh quy hoạch 1/500 Khu nhà ở sinh thái Thị Nại Eco Bay (117,93 ha, vốn gần 5.000 tỷ đồng tại phường Quy Nhơn và Quy Nhơn Đông): chuyển đất biệt thự du lịch sang nhà ở thấp tầng, bổ sung trường liên cấp và giữ rừng ngập mặn.",
+      "image": "press:auto",
+      "ai_prompt": "aerial view of Thi Nai lagoon eco urban project in Quy Nhon Vietnam",
+      "image_credit": "Báo Mới",
+      "source": "https://baomoi.com/du-an-ven-dam-nuoc-man-lon-nhat-gia-lai-dieu-chinh-bo-xay-biet-thu-chuyen-thanh-nha-thap-tang-c56402744.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-11-01T09:58:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Quy hoạch Núi Một",
+      "text": "Về phương án xử lý núi Một rộng gần 7 ha ở phường Quy Nhơn, Viện Địa công nghệ và Môi trường khuyến cáo không nên san phẳng núi vì mất mảng xanh và tốn 50.000–90.000 lượt xe tải chở đất đá; đề xuất di dời dân vùng nguy hiểm để làm công viên.",
+      "image": "press:auto",
+      "ai_prompt": "aerial view of Nui Mot green hill in the middle of Quy Nhon coastal city Vietnam",
+      "image_credit": "VnExpress",
+      "source": "https://vnexpress.net/chuyen-gia-san-phang-nui-o-quy-nhon-se-mat-mang-xanh-canh-quan-5139277.html",
+      "source_name": "VnExpress",
+      "published": "2026-11-01T10:35:35+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Chỉnh trang đô thị",
+      "text": "Sáng 1/11, Chủ tịch UBND tỉnh Phạm Anh Tuấn đi kiểm tra thực địa khu vực núi Bà Hỏa, Bến xe khách Trung tâm Quy Nhơn, Khu A1 Bắc sông Hà Thanh, phía Nam Cảng Quy Nhơn, Mũi Tấn và công viên đường Xuân Diệu để chỉ đạo quy hoạch, thu hút đầu tư.",
+      "image": "press:auto",
+      "ai_prompt": "provincial leaders inspecting urban planning map near Quy Nhon port Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/chu-tich-ubnd-tinh-pham-anh-tuan-kiem-tra-thuc-te-tai-cac-phuong-quy-nhon-quy-nhon-nam-va-quy-nhon-dong-post603702.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-01T12:15:59+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Giáo dục Quy Nhơn",
+      "text": "Diễn biến mới vụ sắp xếp nhân sự trường học: UBND phường Quy Nhơn Nam đã rà soát, điều chỉnh phương án bố trí đối với 3 hiệu trưởng sau khi Sở GD&ĐT chỉ ra việc phân công tại trường mới chưa đúng quy định.",
+      "image": "press:auto",
+      "ai_prompt": "primary school campus courtyard in Quy Nhon city Vietnam",
+      "image_credit": "VTC News",
+      "source": "https://vtcnews.vn/dien-bien-moi-vu-hieu-truong-xuong-lam-giao-vien-o-gia-lai-ar1048581.html",
+      "source_name": "VTC News",
+      "published": "2026-11-01T15:49:46+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Hạ tầng giao thông",
+      "text": "Tỉnh đầu tư hơn 866 tỷ đồng xây dựng tuyến đường phía Tây tỉnh kết nối Quốc lộ 19 với Sân bay Phù Cát, góp phần hoàn thiện mạng lưới hạ tầng giao thông chiến lược liên vùng và tăng cường kết nối trực tiếp đến cảng hàng không.",
+      "image": "press:auto",
+      "ai_prompt": "modern highway construction connecting to Phu Cat airport in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/hon-866-ty-dong-xay-dung-duong-phia-tay-tinh-ket-noi-quoc-lo-19-voi-san-bay-phu-cat-post603670.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-01T06:00:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Cảnh báo mưa lớn",
+      "text": "Đài Khí tượng Thủy văn tỉnh dự báo trong tháng 11/2026, Gia Lai có khả năng xuất hiện 1–2 đợt mưa lớn diện rộng tập trung chủ yếu ở khu vực phía Đông tỉnh kèm không khí lạnh gia tăng; bà con cần đề phòng ngập úng, lũ lụt và sạt lở đất.",
+      "image": "press:auto",
+      "ai_prompt": "heavy rain clouds over coastal city and mountains in central Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/gia-lai-co-the-xuat-hien-1-2-dot-mua-lon-dien-rong-trong-thang-11-post603717.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-01T15:40:41+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Lịch cúp điện 4–10/11",
+      "text": "Công ty Điện lực Gia Lai vừa thông báo kế hoạch tạm ngừng cung cấp điện để bảo trì, sửa chữa lưới điện tại nhiều khu vực từ ngày 4 đến ngày 10/11; người dân và cơ sở sản xuất lưu ý tra cứu khung giờ cụ thể để chủ động sinh hoạt.",
+      "image": "press:auto",
+      "ai_prompt": "electricians maintaining power grid lines in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/cong-ty-dien-luc-gia-lai-thong-bao-ke-hoach-tam-ngung-cung-cap-dien-tu-ngay-4-den-ngay-10-11-post603712.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-01T14:24:54+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "An sinh Quy Nhơn",
+      "text": "Phường Quy Nhơn phối hợp Hội Cựu Công an nhân dân tỉnh vừa khánh thành, bàn giao 2 ngôi nhà Đại đoàn kết cho 2 hộ dân có hoàn cảnh đặc biệt khó khăn dưới chân núi Một (tổ dân phố 20, phường Quy Nhơn) từng bị sập nhà do bão số 13.",
+      "image": "press:auto",
+      "ai_prompt": "handing over new charity house to local family in Quy Nhon Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/trao-nha-dai-doan-ket-cho-2-ho-dan-o-phuong-quy-nhon-post603699.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-01T13:35:56+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Tự hào giáo dục",
+      "text": "Giáo viên Trường THPT chuyên Lê Quý Đôn (phường Quy Nhơn) và THPT chuyên Chu Văn An (phường Bồng Sơn) vừa xuất sắc giành 4 giải thưởng (2 giải Nhất, 1 giải Nhì, 1 giải Ba) tại Hội thảo khoa học các trường THPT chuyên năm 2026.",
+      "image": "press:auto",
+      "ai_prompt": "high school teachers receiving science awards on stage in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/giao-vien-gia-lai-dat-4-giai-tai-hoi-thao-khoa-hoc-cac-truong-thpt-chuyen-post603689.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-01T12:01:52+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Bóng đá quốc tế U23",
+      "text": "Giải bóng đá giao hữu quốc tế U23-Gia Lai VTV Cup 2026 sẽ chính thức khởi tranh từ ngày 10 đến 14/11 với sự góp mặt của 4 đội tuyển U23 Việt Nam, Thái Lan, Qatar và Singapore, hứa hẹn mang đến những trận cầu đỉnh cao.",
+      "image": "press:auto",
+      "ai_prompt": "football stadium pitch prepared for international U23 tournament in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/giai-bong-da-giao-huu-quoc-te-u23-gia-lai-vtv-cup-2026-hua-hen-nhung-tran-cau-hap-dan-post603620.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-01T13:46:22+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "📌 Bà con bấm LƯU bài ngay để tra cứu kế hoạch tạm ngừng cấp điện từ ngày 4 đến 10/11, cảnh báo 1–2 đợt mưa lớn diện rộng tháng 11 ở phía Đông tỉnh và lịch giải bóng đá quốc tế U23-Gia Lai VTV Cup 2026 (10–14/11) nhé! Tối nay bạn quan tâm tin nào nhất?",
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "caption": {
+    "tiktok": "Điều chỉnh quy hoạch dự án Thị Nại Eco Bay gần 5.000 tỷ; Chuyên gia đề xuất giữ núi Một Quy Nhơn làm công viên? Điểm tin tối Chủ Nhật 1/11/2026 (Bấm LƯU bài để xem lịch cúp điện 4–10/11 & cảnh báo mưa lớn):\n\n1. Điều chỉnh quy hoạch 1/500 Khu nhà ở sinh thái Thị Nại Eco Bay gần 5.000 tỷ đồng tại phường Quy Nhơn & Quy Nhơn Đông (Báo Mới)\n🔗 https://baomoi.com/du-an-ven-dam-nuoc-man-lon-nhat-gia-lai-dieu-chinh-bo-xay-biet-thu-chuyen-thanh-nha-thap-tang-c56402744.epi\n\n2. Chuyên gia đề xuất giữ lại núi Một (phường Quy Nhơn) cải tạo thành công viên thay vì san phẳng (VnExpress)\n🔗 https://vnexpress.net/chuyen-gia-san-phang-nui-o-quy-nhon-se-mat-mang-xanh-canh-quan-5139277.html\n\n3. Chủ tịch UBND tỉnh kiểm tra thực địa núi Bà Hỏa, Mũi Tấn, Bắc sông Hà Thanh và công viên đường Xuân Diệu (Báo Gia Lai)\n🔗 https://baogialai.com.vn/chu-tich-ubnd-tinh-pham-anh-tuan-kiem-tra-thuc-te-tai-cac-phuong-quy-nhon-quy-nhon-nam-va-quy-nhon-dong-post603702.html\n\n4. Diễn biến mới vụ sắp xếp nhân sự 3 hiệu trưởng tại phường Quy Nhơn Nam (VTC News)\n🔗 https://vtcnews.vn/dien-bien-moi-vu-hieu-truong-xuong-lam-giao-vien-o-gia-lai-ar1048581.html\n\n5. Hơn 866 tỷ đồng xây dựng đường phía Tây tỉnh kết nối Quốc lộ 19 với Sân bay Phù Cát (Báo Gia Lai)\n🔗 https://baogialai.com.vn/hon-866-ty-dong-xay-dung-duong-phia-tay-tinh-ket-noi-quoc-lo-19-voi-san-bay-phu-cat-post603670.html\n\n6. Cảnh báo 1–2 đợt mưa lớn diện rộng ở phía Đông tỉnh trong tháng 11/2026 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-co-the-xuat-hien-1-2-dot-mua-lon-dien-rong-trong-thang-11-post603717.html\n\n7. Điện lực Gia Lai thông báo kế hoạch tạm ngừng cung cấp điện từ ngày 4 đến 10/11 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/cong-ty-dien-luc-gia-lai-thong-bao-ke-hoach-tam-ngung-cung-cap-dien-tu-ngay-4-den-ngay-10-11-post603712.html\n\n8. Khánh thành, bàn giao 2 nhà Đại đoàn kết cho hộ dân dưới chân núi Một, phường Quy Nhơn (Báo Gia Lai)\n🔗 https://baogialai.com.vn/trao-nha-dai-doan-ket-cho-2-ho-dan-o-phuong-quy-nhon-post603699.html\n\n9. Giáo viên THPT chuyên Lê Quý Đôn (Quy Nhơn) và Chu Văn An (Bồng Sơn) giành 4 giải lớn (Báo Gia Lai)\n🔗 https://baogialai.com.vn/giao-vien-gia-lai-dat-4-giai-tai-hoi-thao-khoa-hoc-cac-truong-thpt-chuyen-post603689.html\n\n10. Giải bóng đá quốc tế U23-Gia Lai VTV Cup 2026 khởi tranh từ 10–14/11 với U23 Việt Nam, Thái Lan, Qatar, Singapore (Báo Gia Lai)\n🔗 https://baogialai.com.vn/giai-bong-da-giao-huu-quoc-te-u23-gia-lai-vtv-cup-2026-hua-hen-nhung-tran-cau-hap-dan-post603620.html\n\nBà con quan tâm tin nào nhất tối nay? Bấm LƯU bài để tiện tra cứu nhé!\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Điều chỉnh quy hoạch Thị Nại Eco Bay 5.000 tỷ; Đề xuất giữ núi Một Quy Nhơn làm công viên | Bản tin tối 1/11/2026\n\nTổng hợp 10 tin tức Quy Nhơn & Gia Lai tối Chủ Nhật 1/11/2026:\n1. Điều chỉnh quy hoạch 1/500 Khu nhà ở sinh thái Thị Nại Eco Bay gần 5.000 tỷ đồng\n2. Chuyên gia đề xuất giữ lại núi Một (phường Quy Nhơn) cải tạo thành công viên thay vì san phẳng\n3. Chủ tịch UBND tỉnh kiểm tra thực địa núi Bà Hỏa, Mũi Tấn, Bắc sông Hà Thanh và đường Xuân Diệu\n4. Diễn biến mới vụ sắp xếp nhân sự 3 hiệu trưởng tại phường Quy Nhơn Nam\n5. Hơn 866 tỷ đồng xây dựng đường phía Tây tỉnh kết nối Quốc lộ 19 với Sân bay Phù Cát\n6. Cảnh báo 1–2 đợt mưa lớn diện rộng ở phía Đông tỉnh trong tháng 11/2026\n7. Điện lực Gia Lai thông báo kế hoạch tạm ngừng cung cấp điện từ ngày 4 đến 10/11\n8. Khánh thành, bàn giao 2 nhà Đại đoàn kết cho hộ dân dưới chân núi Một, phường Quy Nhơn\n9. Giáo viên THPT chuyên Lê Quý Đôn (Quy Nhơn) và Chu Văn An (Bồng Sơn) giành 4 giải lớn\n10. Giải bóng đá quốc tế U23-Gia Lai VTV Cup 2026 khởi tranh từ 10–14/11\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "facebook": "Điều chỉnh quy hoạch dự án Thị Nại Eco Bay gần 5.000 tỷ; Chuyên gia đề xuất giữ núi Một Quy Nhơn làm công viên? Điểm tin tối Chủ Nhật 1/11/2026:\n\n1. Điều chỉnh quy hoạch 1/500 Khu nhà ở sinh thái Thị Nại Eco Bay gần 5.000 tỷ đồng tại phường Quy Nhơn & Quy Nhơn Đông (Báo Mới)\n🔗 https://baomoi.com/du-an-ven-dam-nuoc-man-lon-nhat-gia-lai-dieu-chinh-bo-xay-biet-thu-chuyen-thanh-nha-thap-tang-c56402744.epi\n\n2. Chuyên gia đề xuất giữ lại núi Một (phường Quy Nhơn) cải tạo thành công viên thay vì san phẳng (VnExpress)\n🔗 https://vnexpress.net/chuyen-gia-san-phang-nui-o-quy-nhon-se-mat-mang-xanh-canh-quan-5139277.html\n\n3. Chủ tịch UBND tỉnh kiểm tra thực địa núi Bà Hỏa, Mũi Tấn, Bắc sông Hà Thanh và công viên đường Xuân Diệu (Báo Gia Lai)\n🔗 https://baogialai.com.vn/chu-tich-ubnd-tinh-pham-anh-tuan-kiem-tra-thuc-te-tai-cac-phuong-quy-nhon-quy-nhon-nam-va-quy-nhon-dong-post603702.html\n\n4. Diễn biến mới vụ sắp xếp nhân sự 3 hiệu trưởng tại phường Quy Nhơn Nam (VTC News)\n🔗 https://vtcnews.vn/dien-bien-moi-vu-hieu-truong-xuong-lam-giao-vien-o-gia-lai-ar1048581.html\n\n5. Hơn 866 tỷ đồng xây dựng đường phía Tây tỉnh kết nối Quốc lộ 19 với Sân bay Phù Cát (Báo Gia Lai)\n🔗 https://baogialai.com.vn/hon-866-ty-dong-xay-dung-duong-phia-tay-tinh-ket-noi-quoc-lo-19-voi-san-bay-phu-cat-post603670.html\n\n6. Cảnh báo 1–2 đợt mưa lớn diện rộng ở phía Đông tỉnh trong tháng 11/2026 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-co-the-xuat-hien-1-2-dot-mua-lon-dien-rong-trong-thang-11-post603717.html\n\n7. Điện lực Gia Lai thông báo kế hoạch tạm ngừng cung cấp điện từ ngày 4 đến 10/11 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/cong-ty-dien-luc-gia-lai-thong-bao-ke-hoach-tam-ngung-cung-cap-dien-tu-ngay-4-den-ngay-10-11-post603712.html\n\n8. Khánh thành, bàn giao 2 nhà Đại đoàn kết cho hộ dân dưới chân núi Một, phường Quy Nhơn (Báo Gia Lai)\n🔗 https://baogialai.com.vn/trao-nha-dai-doan-ket-cho-2-ho-dan-o-phuong-quy-nhon-post603699.html\n\n9. Giáo viên THPT chuyên Lê Quý Đôn (Quy Nhơn) và Chu Văn An (Bồng Sơn) giành 4 giải lớn (Báo Gia Lai)\n🔗 https://baogialai.com.vn/giao-vien-gia-lai-dat-4-giai-tai-hoi-thao-khoa-hoc-cac-truong-thpt-chuyen-post603689.html\n\n10. Giải bóng đá quốc tế U23-Gia Lai VTV Cup 2026 khởi tranh từ 10–14/11 với U23 Việt Nam, Thái Lan, Qatar, Singapore (Báo Gia Lai)\n🔗 https://baogialai.com.vn/giai-bong-da-giao-huu-quoc-te-u23-gia-lai-vtv-cup-2026-hua-hen-nhung-tran-cau-hap-dan-post603620.html\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "needs_review": []
+}
