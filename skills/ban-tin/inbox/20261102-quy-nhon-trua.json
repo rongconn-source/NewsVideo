@@ -1,0 +1,147 @@
+{
+  "type": "digest",
+  "output": "anh",
+  "date": "2026-11-02",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "brand": [
+    "QUY NHƠN ",
+    "24H QUA"
+  ],
+  "cover": {
+    "kicker": "ĐIỂM TIN TRƯA",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Ngày 2/11/2026",
+    "teaser": "Ca sĩ Đen Vâu sắp đến Gia Lai ngày 7/11; Chấp thuận đầu tư Cảng cạn 250 tỷ đồng?",
+    "image": "item:1"
+  },
+  "items": [
+    {
+      "category": "tinh",
+      "label": "Bảo vệ trẻ em trên mạng",
+      "text": "Công an tỉnh Gia Lai vừa ban hành kế hoạch phối hợp triển khai Chiến dịch “Không một mình” vào 14h ngày 7/11 với sự tham gia của Đại sứ Đen Vâu và chuyên gia Cục A05 nhằm trang bị kỹ năng phòng chống xâm hại trẻ em trên mạng.",
+      "image": "press:auto",
+      "ai_prompt": "cybersecurity workshop for students at high school hall in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/den-vau-se-cung-gia-lai-lan-toa-thong-diep-bao-ve-tre-em-tren-khong-gian-mang-post603745.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-02T04:31:20+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "An toàn Cảng Quy Nhơn",
+      "text": "Cảnh sát đường thủy Công an tỉnh tăng cường tuần tra, kiểm tra thiết bị cứu sinh, PCCC và quy trình phối hợp của 7 tàu lai công suất từ 1.000 CV trở lên tại Cảng Quy Nhơn nhằm bảo đảm an toàn tuyệt đối luồng hàng hải.",
+      "image": "press:auto",
+      "ai_prompt": "waterway police inspecting tugboats at Quy Nhon seaport Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/kiem-soat-chat-bao-dam-an-toan-duong-thuy-post602963.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-02T08:48:55+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Hạ tầng Logistics",
+      "text": "UBND tỉnh Gia Lai vừa chấp thuận chủ trương đầu tư dự án Cảng cạn Nam Pleiku giai đoạn 1 tại phường Hội Phú rộng 10 ha, tổng vốn 250 tỷ đồng, công suất 50.000 TEU/năm, dự kiến khởi công vào tháng 12/2026.",
+      "image": "press:auto",
+      "ai_prompt": "modern dry port container logistics hub in Gia Lai Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/gia-lai-chap-thuan-dau-tu-cang-can-nam-pleiku-giai-doan-1-von-dau-tu-250-ty-dong-post603726.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-01T21:38:07+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Dân sinh xã Phù Cát",
+      "text": "Hàng chục hộ dân đầu đường Phan Đình Phùng (thôn An Hành, xã Phù Cát) phản ánh tình trạng ngập sâu 20 cm mỗi khi mưa lớn do thiếu hệ thống thoát nước; chính quyền địa phương đang kiểm tra thực tế để có hướng khắc phục.",
+      "image": "press:auto",
+      "ai_prompt": "rainwater flooded residential alley after heavy rain in central Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/bat-an-vi-khu-dan-cu-khong-co-loi-thoat-nuoc-post603738.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-02T04:57:44+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Đại học Quy Nhơn",
+      "text": "Trường Đại học Quy Nhơn vừa tổng kết phong trào thi đua năm học 2025–2026, trao 2.550 suất học bổng khuyến khích học tập và tuyên dương 223 Sinh viên xuất sắc, ghi nhận 133 đề tài nghiên cứu khoa học cùng 3 giải Nhất quốc tế.",
+      "image": "press:auto",
+      "ai_prompt": "university students receiving excellence awards at Quy Nhon University Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/truong-dai-hoc-quy-nhon-bieu-duong-sinh-vien-tieu-bieu-nam-hoc-2025-2026-post603722.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-01T18:13:44+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Bóng đá Quy Nhơn",
+      "text": "Tại vòng 6 Giải bóng đá Hạng Nhất Quốc gia 2026–2027 chiều 1/11, CLB Quy Nhơn United chia điểm với Long An với tỷ số hòa 0–0 trên sân nhà Quy Nhơn, hiện có 5 điểm và tạm xếp thứ 10 trên bảng xếp hạng.",
+      "image": "press:auto",
+      "ai_prompt": "football match action at Quy Nhon stadium Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/quy-nhon-united-chia-diem-voi-long-an-tren-san-nha-post603734.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-01T21:38:28+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Du lịch Biển – Rừng",
+      "text": "Hơn 30 doanh nghiệp thuộc Hội Lữ hành Quy Nhơn vừa hoàn thành đợt khảo sát thực tế tại núi lửa Chư Đang Ya và làng du lịch cộng đồng Ia Nueng để mở rộng các chương trình tour kết nối biển Quy Nhơn với cao nguyên.",
+      "image": "press:auto",
+      "ai_prompt": "tour operators surveying Chu Dang Ya volcano landscape in Gia Lai Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/hoi-lu-hanh-quy-nhon-khao-sat-du-lich-phia-tay-gia-lai-post603698.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-01T12:02:29+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Y tế cơ sở 2030",
+      "text": "UBND tỉnh đặt mục tiêu đến năm 2030 có 100% xã, phường đạt Bộ tiêu chí quốc gia về y tế; phấn đấu các trạm y tế thực hiện từ 80% trở lên danh mục dịch vụ kỹ thuật cấp xã và cập nhật hồ sơ sức khỏe điện tử cho người dân.",
+      "image": "press:auto",
+      "ai_prompt": "modern commune health station medical checkup in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/gia-lai-phan-dau-den-nam-2030-co-100-xa-dat-bo-tieu-chi-quoc-gia-ve-y-te-post603692.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-01T13:27:50+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Tâm lý học đường",
+      "text": "Sở GD&ĐT tỉnh vừa tổ chức tập huấn chuyên đề hỗ trợ tâm lý cho trẻ có nguy cơ vi phạm pháp luật, khó khăn về cảm xúc và hành vi cho hơn 300 giáo viên nhằm nâng cao kỹ năng tư vấn, bảo vệ học sinh trong trường học.",
+      "image": "press:auto",
+      "ai_prompt": "teachers attending school psychology training seminar in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/hon-300-giao-vien-tham-gia-tap-huan-ky-nang-ho-tro-tam-ly-cho-tre-co-nguy-co-vi-pham-phap-luat-post603700.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-01T13:23:49+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Giá nông sản 2/11",
+      "text": "Sáng thứ Hai 2/11, giá cà phê tại Gia Lai giữ ổn định ở mức 86.800 đồng/kg trong khi giá cà phê thế giới bật tăng trở lại; riêng giá hồ tiêu tiếp tục giảm thêm 1.000 đồng/kg, dao động từ 134.000–136.500 đồng/kg.",
+      "image": "press:auto",
+      "ai_prompt": "coffee beans and black pepper drying in the sun in Gia Lai Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/gia-nong-san-hom-nay-211-ca-phe-giu-vung-thap-ho-tieu-giam-tiep-post603747.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-02T08:33:53+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "📌 Bà con và các bạn học sinh, sinh viên bấm LƯU bài để nhớ lịch Chiến dịch “Không một mình” bảo vệ trẻ em trên không gian mạng cùng ca sĩ Đen Vâu (14h ngày 7/11) và bảng giá nông sản đầu tuần 2/11 nhé! Trưa đầu tuần bạn quan tâm tin nào nhất?",
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "caption": {
+    "tiktok": "Ca sĩ Đen Vâu sắp đến Gia Lai ngày 7/11; Chấp thuận đầu tư Cảng cạn 250 tỷ đồng? Điểm tin trưa thứ Hai 2/11/2026 (Bấm LƯU bài để nhớ lịch sự kiện & giá nông sản đầu tuần):\n\n1. Công an tỉnh phối hợp triển khai Chiến dịch “Không một mình” bảo vệ trẻ em trên mạng ngày 7/11 cùng Đại sứ Đen Vâu (Báo Gia Lai)\n🔗 https://baogialai.com.vn/den-vau-se-cung-gia-lai-lan-toa-thong-diep-bao-ve-tre-em-tren-khong-gian-mang-post603745.html\n\n2. Cảnh sát đường thủy kiểm soát chặt an toàn luồng hàng hải và 7 tàu lai tại Cảng Quy Nhơn (Báo Gia Lai)\n🔗 https://baogialai.com.vn/kiem-soat-chat-bao-dam-an-toan-duong-thuy-post602963.html\n\n3. Chấp thuận chủ trương đầu tư Cảng cạn Nam Pleiku giai đoạn 1 vốn 250 tỷ đồng, khởi công tháng 12/2026 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-chap-thuan-dau-tu-cang-can-nam-pleiku-giai-doan-1-von-dau-tu-250-ty-dong-post603726.html\n\n4. Người dân thôn An Hành, xã Phù Cát phản ánh khu dân cư ngập nước khi mưa lớn do thiếu lối thoát nước (Báo Gia Lai)\n🔗 https://baogialai.com.vn/bat-an-vi-khu-dan-cu-khong-co-loi-thoat-nuoc-post603738.html\n\n5. Trường Đại học Quy Nhơn trao 2.550 suất học bổng và tuyên dương 223 Sinh viên xuất sắc (Báo Gia Lai)\n🔗 https://baogialai.com.vn/truong-dai-hoc-quy-nhon-bieu-duong-sinh-vien-tieu-bieu-nam-hoc-2025-2026-post603722.html\n\n6. Vòng 6 giải Hạng Nhất: CLB Quy Nhơn United hòa Long An 0–0 trên sân nhà Quy Nhơn (Báo Gia Lai)\n🔗 https://baogialai.com.vn/quy-nhon-united-chia-diem-voi-long-an-tren-san-nha-post603734.html\n\n7. Hơn 30 doanh nghiệp Hội Lữ hành Quy Nhơn khảo sát mở rộng tour kết nối biển Quy Nhơn – Chư Đang Ya (Báo Gia Lai)\n🔗 https://baogialai.com.vn/hoi-lu-hanh-quy-nhon-khao-sat-du-lich-phia-tay-gia-lai-post603698.html\n\n8. Phấn đấu đến năm 2030 có 100% xã, phường đạt Bộ tiêu chí quốc gia về y tế (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-phan-dau-den-nam-2030-co-100-xa-dat-bo-tieu-chi-quoc-gia-ve-y-te-post603692.html\n\n9. Hơn 300 giáo viên tập huấn kỹ năng hỗ trợ tâm lý cho trẻ có nguy cơ vi phạm pháp luật (Báo Gia Lai)\n🔗 https://baogialai.com.vn/hon-300-giao-vien-tham-gia-tap-huan-ky-nang-ho-tro-tam-ly-cho-tre-co-nguy-co-vi-pham-phap-luat-post603700.html\n\n10. Giá nông sản sáng 2/11: Cà phê giữ mức 86.800 đồng/kg, hồ tiêu giảm về 134.000–136.500 đồng/kg (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-nong-san-hom-nay-211-ca-phe-giu-vung-thap-ho-tieu-giam-tiep-post603747.html\n\nChúc bà con tuần mới làm việc hiệu quả! Bấm LƯU bài để tiện tra cứu nhé!\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Ca sĩ Đen Vâu sắp đến Gia Lai ngày 7/11; Đầu tư Cảng cạn 250 tỷ đồng | Bản tin trưa 2/11/2026\n\nTổng hợp 10 tin tức Quy Nhơn & Gia Lai trưa thứ Hai 2/11/2026:\n1. Công an tỉnh phối hợp triển khai Chiến dịch “Không một mình” ngày 7/11 cùng Đại sứ Đen Vâu\n2. Cảnh sát đường thủy kiểm soát chặt an toàn luồng hàng hải tại Cảng Quy Nhơn\n3. Chấp thuận chủ trương đầu tư Cảng cạn Nam Pleiku giai đoạn 1 vốn 250 tỷ đồng\n4. Người dân thôn An Hành, xã Phù Cát phản ánh khu dân cư thiếu lối thoát nước mùa mưa\n5. Trường Đại học Quy Nhơn trao 2.550 suất học bổng và tuyên dương 223 Sinh viên xuất sắc\n6. Vòng 6 giải Hạng Nhất: CLB Quy Nhơn United hòa Long An 0–0 trên sân nhà\n7. Hơn 30 doanh nghiệp Hội Lữ hành Quy Nhơn khảo sát mở rộng tour kết nối biển – rừng\n8. Phấn đấu đến năm 2030 có 100% xã, phường đạt Bộ tiêu chí quốc gia về y tế\n9. Hơn 300 giáo viên tập huấn kỹ năng hỗ trợ tâm lý học đường\n10. Giá nông sản sáng 2/11: Cà phê giữ mức 86.800 đồng/kg, hồ tiêu giảm nhẹ\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "facebook": "Ca sĩ Đen Vâu sắp đến Gia Lai ngày 7/11; Chấp thuận đầu tư Cảng cạn 250 tỷ đồng? Điểm tin trưa thứ Hai 2/11/2026:\n\n1. Công an tỉnh phối hợp triển khai Chiến dịch “Không một mình” bảo vệ trẻ em trên mạng ngày 7/11 cùng Đại sứ Đen Vâu (Báo Gia Lai)\n🔗 https://baogialai.com.vn/den-vau-se-cung-gia-lai-lan-toa-thong-diep-bao-ve-tre-em-tren-khong-gian-mang-post603745.html\n\n2. Cảnh sát đường thủy kiểm soát chặt an toàn luồng hàng hải và 7 tàu lai tại Cảng Quy Nhơn (Báo Gia Lai)\n🔗 https://baogialai.com.vn/kiem-soat-chat-bao-dam-an-toan-duong-thuy-post602963.html\n\n3. Chấp thuận chủ trương đầu tư Cảng cạn Nam Pleiku giai đoạn 1 vốn 250 tỷ đồng, khởi công tháng 12/2026 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-chap-thuan-dau-tu-cang-can-nam-pleiku-giai-doan-1-von-dau-tu-250-ty-dong-post603726.html\n\n4. Người dân thôn An Hành, xã Phù Cát phản ánh khu dân cư ngập nước khi mưa lớn do thiếu lối thoát nước (Báo Gia Lai)\n🔗 https://baogialai.com.vn/bat-an-vi-khu-dan-cu-khong-co-loi-thoat-nuoc-post603738.html\n\n5. Trường Đại học Quy Nhơn trao 2.550 suất học bổng và tuyên dương 223 Sinh viên xuất sắc (Báo Gia Lai)\n🔗 https://baogialai.com.vn/truong-dai-hoc-quy-nhon-bieu-duong-sinh-vien-tieu-bieu-nam-hoc-2025-2026-post603722.html\n\n6. Vòng 6 giải Hạng Nhất: CLB Quy Nhơn United hòa Long An 0–0 trên sân nhà Quy Nhơn (Báo Gia Lai)\n🔗 https://baogialai.com.vn/quy-nhon-united-chia-diem-voi-long-an-tren-san-nha-post603734.html\n\n7. Hơn 30 doanh nghiệp Hội Lữ hành Quy Nhơn khảo sát mở rộng tour kết nối biển Quy Nhơn – Chư Đang Ya (Báo Gia Lai)\n🔗 https://baogialai.com.vn/hoi-lu-hanh-quy-nhon-khao-sat-du-lich-phia-tay-gia-lai-post603698.html\n\n8. Phấn đấu đến năm 2030 có 100% xã, phường đạt Bộ tiêu chí quốc gia về y tế (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-phan-dau-den-nam-2030-co-100-xa-dat-bo-tieu-chi-quoc-gia-ve-y-te-post603692.html\n\n9. Hơn 300 giáo viên tập huấn kỹ năng hỗ trợ tâm lý cho trẻ có nguy cơ vi phạm pháp luật (Báo Gia Lai)\n🔗 https://baogialai.com.vn/hon-300-giao-vien-tham-gia-tap-huan-ky-nang-ho-tro-tam-ly-cho-tre-co-nguy-co-vi-pham-phap-luat-post603700.html\n\n10. Giá nông sản sáng 2/11: Cà phê giữ mức 86.800 đồng/kg, hồ tiêu giảm về 134.000–136.500 đồng/kg (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-nong-san-hom-nay-211-ca-phe-giu-vung-thap-ho-tieu-giam-tiep-post603747.html\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "needs_review": []
+}
