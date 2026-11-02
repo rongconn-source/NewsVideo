@@ -1,0 +1,147 @@
+{
+  "type": "digest",
+  "output": "anh",
+  "date": "2026-11-02",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "brand": [
+    "QUY NHƠN ",
+    "24H QUA"
+  ],
+  "cover": {
+    "kicker": "ĐIỂM TIN TỐI",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Ngày 2/11/2026",
+    "teaser": "Điều chỉnh quy hoạch hồ Phú Hòa hơn 317 ha; Lộ trình di dời 2 cụm công nghiệp giữa đô thị Quy Nhơn?",
+    "image": "item:1"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "label": "Quy hoạch Hồ Phú Hòa",
+      "text": "UBND tỉnh Gia Lai vừa phê duyệt điều chỉnh quy hoạch 1/2.000 Khu đô thị – Du lịch – Văn hóa – Thể thao hồ Phú Hòa rộng 317,52 ha (các phường Quy Nhơn, Quy Nhơn Bắc, Quy Nhơn Nam), tăng đất nhà ở và bổ sung Trung tâm Đổi mới sáng tạo.",
+      "image": "press:auto",
+      "ai_prompt": "aerial view of Phu Hoa lake urban planning area in Quy Nhon city Vietnam",
+      "image_credit": "Báo Mới",
+      "source": "https://baomoi.com/gia-lai-dieu-chinh-quy-hoach-khu-do-thi-du-lich-ho-phu-hoa-hon-317-ha-c56412530.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-11-02T17:15:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Chỉnh trang đô thị",
+      "text": "Nhằm chỉnh trang không gian đô thị Quy Nhơn và khắc phục ô nhiễm khu dân cư, tỉnh lập phương án bồi thường gần 900 tỷ đồng để di dời 2 cụm công nghiệp Quang Trung và Nhơn Bình về CCN Bùi Thị Xuân (phường Quy Nhơn Tây) trước 1/10/2027.",
+      "image": "press:auto",
+      "ai_prompt": "industrial cluster relocation urban renewal in Quy Nhon Vietnam",
+      "image_credit": "Báo Mới",
+      "source": "https://baomoi.com/khan-truong-di-doi-2-cum-cong-nghiep-mac-ket-giua-long-do-thi-quy-nhon-c56413096.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-11-02T18:27:39+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "An toàn cầu Hà Thanh",
+      "text": "UBND phường Quy Nhơn vừa thông báo yêu cầu các chủ phương tiện khẩn trương di dời tàu thuyền neo đậu dưới gầm cầu Hà Thanh 1 và Hà Thanh 2 trên Quốc lộ 19 (đường Võ Nguyên Giáp) để bảo đảm thoát lũ, PCCC và an toàn công trình cầu.",
+      "image": "press:auto",
+      "ai_prompt": "fishing boats anchored near Ha Thanh bridge in Quy Nhon Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/de-nghi-di-doi-tau-thuyen-ra-khoi-pham-vi-cau-ha-thanh-1-2-tren-quoc-lo-19-post603781.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-02T15:53:54+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Diễn tập bắn đạn thật",
+      "text": "Sáng 2/11, tại trường bắn Trung tâm Huấn luyện Quân sự Quốc gia 2 (xã Bình An), Quân đoàn 34 tổ chức diễn tập hiệp đồng thực binh bắn đạn thật quy mô lớn giữa bộ binh, pháo binh, tăng thiết giáp và không quân, tiêu diệt hoàn toàn mục tiêu.",
+      "image": "press:auto",
+      "ai_prompt": "military live fire exercise on training range in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/quan-doan-34-to-chuc-thuc-binh-ban-dan-that-tai-gia-lai-post603771.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-02T12:01:02+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Cao tốc Bắc – Nam",
+      "text": "Bộ Xây dựng vừa yêu cầu Ban QLDA 2 thúc đẩy giải ngân và hoàn thiện thiết kế xử lý sạt trượt mái taluy tại Km 61+400 cùng cửa Nam hầm số 3 trước ngày 5/11, khẩn trương lắp đặt thiết bị hầm để hoàn thành đồng bộ cao tốc Quảng Ngãi – Hoài Nhơn.",
+      "image": "press:auto",
+      "ai_prompt": "modern expressway tunnel construction in central Vietnam",
+      "image_credit": "Báo Mới",
+      "source": "https://baomoi.com/bo-xay-dung-thuc-giai-ngan-yeu-cau-som-hoan-thanh-dong-bo-cao-toc-quang-ngai-hoai-nhon-c56412685.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-11-02T17:38:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Đại học Quy Nhơn",
+      "text": "Vượt qua hơn 22.000 thí sinh từ 30 trường đại học, cao đẳng miền Trung dự vòng sơ khảo, đội thi Trường Đại học Quy Nhơn xuất sắc giành giải Nhất cuộc thi “Sinh viên thông thái 2026” về kỹ năng nhận diện và phòng tránh bẫy đa cấp.",
+      "image": "press:auto",
+      "ai_prompt": "university students winning first prize trophy on stage in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/sinh-vien-quy-nhon-ban-linh-truoc-cam-bay-da-cap-post603736.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-02T14:46:57+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Dân sinh Quy Nhơn Tây",
+      "text": "Tiếp xúc đại biểu HĐND tỉnh ngày 2/11, cử tri phường Quy Nhơn Tây kiến nghị rà soát bồi thường tại dự án Trung tâm Trí tuệ nhân tạo, cải tạo tiêu thoát lũ suối Trầu (KĐT Long Vân) và hướng dẫn thủ tục đăng ký đất đai lần đầu.",
+      "image": "press:auto",
+      "ai_prompt": "voters speaking at provincial council meeting hall in Quy Nhon Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/cu-tri-phuong-quy-nhon-tay-va-xa-van-canh-kien-nghi-nhieu-van-de-dan-sinh-post603802.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-02T18:31:51+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Cảnh báo bệnh giao mùa",
+      "text": "Thời tiết chuyển mùa khiến lượng trẻ mắc bệnh đường hô hấp tăng gần gấp đôi, chiếm tới 80% trong hơn 400 bệnh nhi khám mỗi ngày tại Bệnh viện Sản – Nhi tỉnh; bác sĩ khuyến cáo phụ huynh theo dõi sát dấu hiệu khó thở để khám kịp thời.",
+      "image": "press:auto",
+      "ai_prompt": "pediatrician examining child respiratory health at hospital in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/benh-duong-ho-hap-gia-tang-nhieu-ca-dien-tien-nang-post603737.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-02T12:02:44+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Siết chặt hàng giả y tế",
+      "text": "Ban Chỉ đạo 389 tỉnh Gia Lai vừa yêu cầu các xã, phường và lực lượng chức năng tăng cường kiểm tra, xử lý nghiêm thuốc giả, sản phẩm y tế không rõ nguồn gốc, quảng cáo sai sự thật trên mạng xã hội và vi phạm về thuốc lá điện tử.",
+      "image": "press:auto",
+      "ai_prompt": "market surveillance officers inspecting pharmacy medicine products in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/gia-lai-quyet-liet-ngan-chan-hang-gia-gian-lan-thuong-mai-trong-linh-vuc-y-te-post603719.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-02T13:31:07+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Chi lương hưu tháng 11",
+      "text": "Từ hôm nay 2/11, cơ quan Bảo hiểm xã hội chính thức triển khai chi trả lương hưu và trợ cấp BHXH tháng 11 qua tài khoản cá nhân tại tỉnh Gia Lai cùng 20 tỉnh, thành phố; người nhận tiền mặt sẽ lĩnh theo lịch thông báo của bưu điện.",
+      "image": "press:auto",
+      "ai_prompt": "elderly citizens receiving pension payment notification via bank card in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/gia-lai-cung-20-tinh-thanh-chi-luong-huu-thang-11-qua-tai-khoan-ca-nhan-post603774.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-02T13:36:43+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "📌 Bà con bấm LƯU bài để nhớ thông báo di dời tàu thuyền dưới cầu Hà Thanh 1 & 2 (Quốc lộ 19), lưu ý phòng bệnh hô hấp trẻ em tăng mạnh lúc giao mùa và lịch chi trả lương hưu tháng 11 nhé! Tối nay bạn quan tâm tin nào nhất?",
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "caption": {
+    "tiktok": "Điều chỉnh quy hoạch hồ Phú Hòa hơn 317 ha; Lộ trình di dời 2 cụm công nghiệp giữa đô thị Quy Nhơn? Điểm tin tối thứ Hai 2/11/2026 (Bấm LƯU bài để xem lịch chi lương hưu tháng 11 & cảnh báo bệnh giao mùa):\n\n1. Phê duyệt điều chỉnh quy hoạch 1/2.000 Khu đô thị – Du lịch – Văn hóa – Thể thao hồ Phú Hòa rộng 317,52 ha tại Quy Nhơn (Báo Mới)\n🔗 https://baomoi.com/gia-lai-dieu-chinh-quy-hoach-khu-do-thi-du-lich-ho-phu-hoa-hon-317-ha-c56412530.epi\n\n2. Lập phương án bồi thường gần 900 tỷ đồng di dời 2 CCN Quang Trung & Nhơn Bình về CCN Bùi Thị Xuân nhằm chỉnh trang đô thị Quy Nhơn (Báo Mới)\n🔗 https://baomoi.com/khan-truong-di-doi-2-cum-cong-nghiep-mac-ket-giua-long-do-thi-quy-nhon-c56413096.epi\n\n3. Phường Quy Nhơn yêu cầu di dời tàu thuyền neo đậu dưới gầm cầu Hà Thanh 1, 2 trên Quốc lộ 19 để bảo đảm thoát lũ và PCCC (Báo Gia Lai)\n🔗 https://baogialai.com.vn/de-nghi-di-doi-tau-thuyen-ra-khoi-pham-vi-cau-ha-thanh-1-2-tren-quoc-lo-19-post603781.html\n\n4. Quân đoàn 34 tổ chức diễn tập hiệp đồng thực binh bắn đạn thật quy mô lớn tại xã Bình An (Báo Gia Lai)\n🔗 https://baogialai.com.vn/quan-doan-34-to-chuc-thuc-binh-ban-dan-that-tai-gia-lai-post603771.html\n\n5. Bộ Xây dựng thúc tiến độ, yêu cầu sớm hoàn thành đồng bộ cao tốc Quảng Ngãi – Hoài Nhơn (Báo Mới)\n🔗 https://baomoi.com/bo-xay-dung-thuc-giai-ngan-yeu-cau-som-hoan-thanh-dong-bo-cao-toc-quang-ngai-hoai-nhon-c56412685.epi\n\n6. Đội thi Trường Đại học Quy Nhơn xuất sắc giành giải Nhất cuộc thi “Sinh viên thông thái 2026” phòng tránh bẫy đa cấp (Báo Gia Lai)\n🔗 https://baogialai.com.vn/sinh-vien-quy-nhon-ban-linh-truoc-cam-bay-da-cap-post603736.html\n\n7. Cử tri phường Quy Nhơn Tây và xã Vân Canh kiến nghị nhiều vấn đề đất đai, tiêu thoát lũ và dân sinh (Báo Gia Lai)\n🔗 https://baogialai.com.vn/cu-tri-phuong-quy-nhon-tay-va-xa-van-canh-kien-nghi-nhieu-van-de-dan-sinh-post603802.html\n\n8. Cảnh báo bệnh đường hô hấp ở trẻ nhỏ tăng gần gấp đôi thời điểm giao mùa (Báo Gia Lai)\n🔗 https://baogialai.com.vn/benh-duong-ho-hap-gia-tang-nhieu-ca-dien-tien-nang-post603737.html\n\n9. Quyết liệt kiểm tra, ngăn chặn thuốc giả và hàng gian lận thương mại lĩnh vực y tế trên mạng xã hội (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-quyet-liet-ngan-chan-hang-gia-gian-lan-thuong-mai-trong-linh-vuc-y-te-post603719.html\n\n10. Từ ngày 2/11, triển khai chi trả lương hưu và trợ cấp BHXH tháng 11 qua tài khoản cá nhân tại Gia Lai (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-cung-20-tinh-thanh-chi-luong-huu-thang-11-qua-tai-khoan-ca-nhan-post603774.html\n\nBà con quan tâm tin nào nhất tối nay? Bấm LƯU bài để tiện tra cứu nhé!\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Điều chỉnh quy hoạch hồ Phú Hòa hơn 317 ha; Lộ trình di dời 2 CCN ở Quy Nhơn | Bản tin tối 2/11/2026\n\nTổng hợp 10 tin tức Quy Nhơn & Gia Lai tối thứ Hai 2/11/2026:\n1. Phê duyệt điều chỉnh quy hoạch 1/2.000 Khu đô thị – Du lịch – Văn hóa – Thể thao hồ Phú Hòa rộng 317,52 ha\n2. Lập phương án bồi thường gần 900 tỷ đồng di dời 2 CCN Quang Trung & Nhơn Bình về CCN Bùi Thị Xuân\n3. Phường Quy Nhơn yêu cầu di dời tàu thuyền neo đậu dưới gầm cầu Hà Thanh 1, 2 trên Quốc lộ 19\n4. Quân đoàn 34 tổ chức diễn tập hiệp đồng thực binh bắn đạn thật tại xã Bình An\n5. Bộ Xây dựng yêu cầu sớm hoàn thành đồng bộ cao tốc Quảng Ngãi – Hoài Nhơn\n6. Đội thi Trường Đại học Quy Nhơn giành giải Nhất cuộc thi “Sinh viên thông thái 2026”\n7. Cử tri phường Quy Nhơn Tây và xã Vân Canh kiến nghị nhiều vấn đề dân sinh\n8. Cảnh báo bệnh đường hô hấp ở trẻ nhỏ tăng gần gấp đôi thời điểm giao mùa\n9. Quyết liệt ngăn chặn thuốc giả và gian lận thương mại lĩnh vực y tế\n10. Từ ngày 2/11, triển khai chi trả lương hưu tháng 11 qua tài khoản cá nhân tại Gia Lai\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "facebook": "Điều chỉnh quy hoạch hồ Phú Hòa hơn 317 ha; Lộ trình di dời 2 cụm công nghiệp giữa đô thị Quy Nhơn? Điểm tin tối thứ Hai 2/11/2026:\n\n1. Phê duyệt điều chỉnh quy hoạch 1/2.000 Khu đô thị – Du lịch – Văn hóa – Thể thao hồ Phú Hòa rộng 317,52 ha tại Quy Nhơn (Báo Mới)\n🔗 https://baomoi.com/gia-lai-dieu-chinh-quy-hoach-khu-do-thi-du-lich-ho-phu-hoa-hon-317-ha-c56412530.epi\n\n2. Lập phương án bồi thường gần 900 tỷ đồng di dời 2 CCN Quang Trung & Nhơn Bình về CCN Bùi Thị Xuân nhằm chỉnh trang đô thị Quy Nhơn (Báo Mới)\n🔗 https://baomoi.com/khan-truong-di-doi-2-cum-cong-nghiep-mac-ket-giua-long-do-thi-quy-nhon-c56413096.epi\n\n3. Phường Quy Nhơn yêu cầu di dời tàu thuyền neo đậu dưới gầm cầu Hà Thanh 1, 2 trên Quốc lộ 19 để bảo đảm thoát lũ và PCCC (Báo Gia Lai)\n🔗 https://baogialai.com.vn/de-nghi-di-doi-tau-thuyen-ra-khoi-pham-vi-cau-ha-thanh-1-2-tren-quoc-lo-19-post603781.html\n\n4. Quân đoàn 34 tổ chức diễn tập hiệp đồng thực binh bắn đạn thật quy mô lớn tại xã Bình An (Báo Gia Lai)\n🔗 https://baogialai.com.vn/quan-doan-34-to-chuc-thuc-binh-ban-dan-that-tai-gia-lai-post603771.html\n\n5. Bộ Xây dựng thúc tiến độ, yêu cầu sớm hoàn thành đồng bộ cao tốc Quảng Ngãi – Hoài Nhơn (Báo Mới)\n🔗 https://baomoi.com/bo-xay-dung-thuc-giai-ngan-yeu-cau-som-hoan-thanh-dong-bo-cao-toc-quang-ngai-hoai-nhon-c56412685.epi\n\n6. Đội thi Trường Đại học Quy Nhơn xuất sắc giành giải Nhất cuộc thi “Sinh viên thông thái 2026” phòng tránh bẫy đa cấp (Báo Gia Lai)\n🔗 https://baogialai.com.vn/sinh-vien-quy-nhon-ban-linh-truoc-cam-bay-da-cap-post603736.html\n\n7. Cử tri phường Quy Nhơn Tây và xã Vân Canh kiến nghị nhiều vấn đề đất đai, tiêu thoát lũ và dân sinh (Báo Gia Lai)\n🔗 https://baogialai.com.vn/cu-tri-phuong-quy-nhon-tay-va-xa-van-canh-kien-nghi-nhieu-van-de-dan-sinh-post603802.html\n\n8. Cảnh báo bệnh đường hô hấp ở trẻ nhỏ tăng gần gấp đôi thời điểm giao mùa (Báo Gia Lai)\n🔗 https://baogialai.com.vn/benh-duong-ho-hap-gia-tang-nhieu-ca-dien-tien-nang-post603737.html\n\n9. Quyết liệt kiểm tra, ngăn chặn thuốc giả và hàng gian lận thương mại lĩnh vực y tế trên mạng xã hội (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-quyet-liet-ngan-chan-hang-gia-gian-lan-thuong-mai-trong-linh-vuc-y-te-post603719.html\n\n10. Từ ngày 2/11, triển khai chi trả lương hưu và trợ cấp BHXH tháng 11 qua tài khoản cá nhân tại Gia Lai (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-cung-20-tinh-thanh-chi-luong-huu-thang-11-qua-tai-khoan-ca-nhan-post603774.html\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "needs_review": []
+}
