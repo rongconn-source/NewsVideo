@@ -1,0 +1,158 @@
+{
+  "type": "digest",
+  "output": "anh",
+  "date": "2026-11-03",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "brand": [
+    "QUY NHƠN ",
+    "24H QUA"
+  ],
+  "cover": {
+    "kicker": "ĐIỂM TIN TRƯA",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Ngày 3/11/2026",
+    "teaser": "Đấu giá nhiều trụ sở công ở trung tâm Quy Nhơn hơn 86 triệu/m²?",
+    "image": "item:1"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "label": "Đấu giá đất công Quy Nhơn",
+      "text": "Nhằm sắp xếp hiệu quả tài sản công dôi dư sau sáp nhập, nhiều trụ sở cũ tại trung tâm phường Quy Nhơn (49 Phan Bội Châu, 52 và 75 Mai Xuân Thưởng) được đưa ra đấu giá từ gần 70 đến 86,14 triệu đồng/m².",
+      "image": "press:https://wsrv.nl/?url=https://cdnphoto.dantri.com.vn/2LyXalhq_kEmSU_ab-LUMV7YmGQ=/zoom/1200_630/2026/11/02/bat-dong-sandau-gia-nhieu-tru-so-cong-o-quy-nhon-gia-khoi-diem-cao-nhat-hon-86-trieu-dong-m2doan-cong-1-cropped-1793627233637.jpg&output=jpg",
+      "ai_prompt": "urban street corner commercial building in Quy Nhon coastal city Vietnam",
+      "image_credit": "Dân Trí",
+      "source": "https://dantri.com.vn/bat-dong-san/dau-gia-tai-san-doi-du-o-quy-nhon-khoi-diem-cao-nhat-hon-86-trieu-dongm2-20261102205002651.htm",
+      "source_name": "Dân Trí",
+      "published": "2026-11-03T06:33:05+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Rủi ro nếu san núi Một",
+      "text": "UBND phường Quy Nhơn xác nhận đã nhận góp ý của chuyên gia địa chất: cảnh báo nếu san phẳng núi Một sẽ vướng tầng đá quarzit cứng, gây bụi và rung chấn kéo dài 3–5 năm, kiến nghị giữ lại làm công viên.",
+      "image": "press:https://wsrv.nl/?url=https://cdnphoto.dantri.com.vn/-gHc-r9cQeLBkY6e-QN4Wx2lezo=/zoom/1200_630/2026/11/02/vu-de-xuat-san-phan-nui-mot-vien-dia-cong-nghe-moi-truong-gop-ydoan-cong-1-cropped-1793608031698.jpg&output=jpg",
+      "ai_prompt": "aerial view of green hill surrounded by urban houses in Quy Nhon Vietnam",
+      "image_credit": "Dân Trí",
+      "source": "https://dantri.com.vn/thoi-su/san-phang-nui-mot-o-quy-nhon-nhung-nguy-co-rui-ro-phai-doi-dien-20261102153035254.htm",
+      "source_name": "Dân Trí",
+      "published": "2026-11-03T08:10:04+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Cảnh báo giao thông QL19",
+      "text": "Người dân xã An Nhơn Tây phản ánh nút giao Quốc lộ 19 vào Cụm công nghiệp An Mơ chưa đấu nối hoàn chỉnh, tạo nhiều hố sâu đọng nước dễ gây tai nạn; đơn vị quản lý tuyến đề nghị chủ đầu tư sớm khắc phục.",
+      "image": "press:auto",
+      "ai_prompt": "national highway intersection road surface maintenance in central Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/tiem-an-nguy-co-tai-nan-tai-nut-giao-thong-va-duong-dan-vao-cum-cong-nghiep-an-mo-post603821.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-03T09:30:48+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Trật tự đô thị Quy Nhơn",
+      "text": "Lãnh đạo tỉnh chỉ đạo các phường Quy Nhơn, Quy Nhơn Nam, Quy Nhơn Đông kiên quyết xử lý lấn chiếm đất đai, xây dựng trái phép tại chân núi Bà Hỏa, đồng thời rà soát khu đất Tỉnh đội để thu hút đầu tư.",
+      "image": "press:auto",
+      "ai_prompt": "urban planning inspection along coastal park in Quy Nhon city Vietnam",
+      "image_credit": "Báo Mới",
+      "source": "https://baomoi.com/siet-trat-tu-xay-dung-mo-khong-gian-phat-trien-cho-quy-nhon-c56417508.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-11-03T09:33:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Giao thông xanh Quy Nhơn",
+      "text": "Tỉnh vừa duyệt Đề án tín chỉ carbon giai đoạn 2026–2030: triển khai dự án bảo tồn biển vịnh Quy Nhơn, thí điểm 1–3 dự án carbon rừng, phấn đấu năm 2030 có 30% xe buýt xanh và 100% taxi mới dùng điện.",
+      "image": "press:auto",
+      "ai_prompt": "scenic blue Quy Nhon bay coastline and green mountains in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/gia-lai-trien-khai-thi-diem-1-3-du-an-tin-chi-carbon-rung-post603764.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-02T13:54:51+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Phòng chống thiên tai",
+      "text": "Chủ động ứng phó mùa mưa bão, UBND xã Đề Gi vừa tổ chức tập huấn phòng chống thiên tai và thực hành bơi cứu sinh, tiếp cận cứu người đuối nước bằng phao tại hồ Hố Xoài cho lực lượng xung kích cơ sở.",
+      "image": "press:auto",
+      "ai_prompt": "water rescue training drill with life buoys on lake in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/xa-de-gi-tap-huan-nang-cao-nang-luc-phong-chong-thien-tai-va-cuu-nan-cuu-ho-post603611.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-03T05:18:15+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Nâng chất lượng bệnh viện",
+      "text": "Đến ngày 5/11, Sở Y tế khảo sát, tập huấn cải tiến quy trình đón tiếp và ứng xử lấy người bệnh làm trung tâm tại BVĐK Gia Lai, BVĐK khu vực Bồng Sơn cùng 3 Trung tâm Y tế Tuy Phước, An Nhơn, Chư Prông.",
+      "image": "press:auto",
+      "ai_prompt": "doctors and nurses welcoming patients at hospital reception desk in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/gia-lai-khao-sat-tap-huan-cai-tien-chat-luong-phuc-vu-tai-5-co-so-y-te-post603784.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-02T18:30:44+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Ngân hàng giảm lãi vay",
+      "text": "Nhiều ngân hàng thương mại trên địa bàn tỉnh (Agribank, BIDV, Vietcombank, LPBank...) đồng loạt giảm lãi suất cho vay từ 1,5–3%/năm nhằm hỗ trợ hộ kinh doanh và doanh nghiệp bổ sung vốn sản xuất cuối năm.",
+      "image": "press:auto",
+      "ai_prompt": "bank staff advising small business customer at counter in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/ngan-hang-giam-lai-suat-tiep-suc-doanh-nghiep-post603393.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-02T14:51:34+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Bầu cử khu dân cư 11/2026",
+      "text": "Các xã, phường toàn tỉnh đang khẩn trương chuẩn bị bầu 1.400 trưởng thôn, tổ trưởng tổ dân phố nhiệm kỳ 2026–2031; danh sách ứng cử niêm yết chậm nhất 7 ngày trước ngày bầu và hoàn thành trước 30/11/2026.",
+      "image": "press:auto",
+      "ai_prompt": "community residential meeting hall preparing local election in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/gia-lai-khan-truong-chuan-bi-bau-truong-thon-to-truong-to-dan-pho-post603811.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-03T09:21:10+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Mùa hội Chư Đang Ya",
+      "text": "Sắc vàng hoa dã quỳ đang phủ rực triền núi lửa Chư Đang Ya (xã Biển Hồ), hòa cùng tiếng cồng chiêng và lễ mừng nhà rông mới làng Ia Gri, thu hút đông đảo du khách thập phương trải nghiệm mùa lễ hội.",
+      "image": "press:auto",
+      "ai_prompt": "yellow wild sunflowers blooming on Chu Dang Ya volcano slope in Gia Lai Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/chu-dang-ya-vao-mua-hoi-post603815.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-03T09:48:36+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Giá nông sản ngày 3/11",
+      "text": "Sáng thứ Ba 3/11, giá cà phê tại Gia Lai giảm thêm 1.100 đồng/kg xuống mức 85.700 đồng/kg do nguồn cung vụ thu hoạch mới tăng dần dù sàn London hồi phục; giá hồ tiêu tạm ổn định ở mức 134.000–136.500 đồng/kg.",
+      "image": "press:auto",
+      "ai_prompt": "ripe coffee berries and black pepper agricultural market in Gia Lai Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/gia-nong-san-hom-nay-311-gia-ca-phe-giam-ho-tieu-tam-on-dinh-post603826.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-03T05:52:46+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "📌 Bà con bấm LƯU bài để tiện tra cứu thông tin đấu giá tài sản công dôi dư ở trung tâm Quy Nhơn, lịch bầu tổ trưởng tổ dân phố trước 30/11 và bảng giá nông sản ngày 3/11 nhé! Bà con đánh giá thế nào về việc sắp xếp, khai thác hiệu quả các trụ sở dôi dư tại phố biển?",
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "caption": {
+    "tiktok": "Đấu giá nhiều trụ sở công ở trung tâm Quy Nhơn khởi điểm cao nhất hơn 86 triệu/m²; Chuyên gia cảnh báo rủi ro nếu san phẳng núi Một? Điểm tin trưa thứ Ba 3/11/2026 (Bấm LƯU bài để xem lịch bầu tổ dân phố & giá nông sản 3/11):\n\n1. Đấu giá nhiều trụ sở công dôi dư tại trung tâm phường Quy Nhơn (49 Phan Bội Châu, 52 và 75 Mai Xuân Thưởng), khởi điểm cao nhất 86,14 triệu đồng/m² (Dân Trí)\n🔗 https://dantri.com.vn/bat-dong-san/dau-gia-tai-san-doi-du-o-quy-nhon-khoi-diem-cao-nhat-hon-86-trieu-dongm2-20261102205002651.htm\n\n2. Phường Quy Nhơn tiếp nhận góp ý chuyên gia địa chất cảnh báo rủi ro bụi, rung chấn 3–5 năm nếu san phẳng núi Một, kiến nghị giữ làm công viên (Dân Trí)\n🔗 https://dantri.com.vn/thoi-su/san-phang-nui-mot-o-quy-nhon-nhung-nguy-co-rui-ro-phai-doi-dien-20261102153035254.htm\n\n3. Người dân xã An Nhơn Tây phản ánh nút giao Quốc lộ 19 vào CCN An Mơ sụt lún nhiều hố sâu tiềm ẩn tai nạn; đơn vị quản lý tuyến đề nghị sớm đấu nối (Báo Gia Lai)\n🔗 https://baogialai.com.vn/tiem-an-nguy-co-tai-nan-tai-nut-giao-thong-va-duong-dan-vao-cum-cong-nghiep-an-mo-post603821.html\n\n4. Chỉ đạo xử lý nghiêm vi phạm lấn chiếm, xây dựng trái phép tại chân núi Bà Hỏa và rà soát đất đai mở không gian phát triển cho Quy Nhơn (Báo Mới)\n🔗 https://baomoi.com/siet-trat-tu-xay-dung-mo-khong-gian-phat-trien-cho-quy-nhon-c56417508.epi\n\n5. Duyệt Đề án tín chỉ carbon 2026–2030: bảo tồn biển vịnh Quy Nhơn, hướng tới 30% xe buýt xanh và 100% taxi mới dùng điện vào năm 2030 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-trien-khai-thi-diem-1-3-du-an-tin-chi-carbon-rung-post603764.html\n\n6. Xã Đề Gi tập huấn phòng chống thiên tai và thực hành cứu nạn dưới nước tại hồ Hố Xoài ứng phó mùa mưa bão (Báo Gia Lai)\n🔗 https://baogialai.com.vn/xa-de-gi-tap-huan-nang-cao-nang-luc-phong-chong-thien-tai-va-cuu-nan-cuu-ho-post603611.html\n\n7. Sở Y tế khảo sát, tập huấn cải tiến quy trình đón tiếp người bệnh tại BVĐK Gia Lai, BVĐK khu vực Bồng Sơn và 3 TTYT Tuy Phước, An Nhơn, Chư Prông (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-khao-sat-tap-huan-cai-tien-chat-luong-phuc-vu-tai-5-co-so-y-te-post603784.html\n\n8. Nhiều ngân hàng thương mại trên địa bàn tỉnh đồng loạt giảm lãi suất vay 1,5–3%/năm tiếp sức doanh nghiệp cuối năm (Báo Gia Lai)\n🔗 https://baogialai.com.vn/ngan-hang-giam-lai-suat-tiep-suc-doanh-nghiep-post603393.html\n\n9. Khẩn trương chuẩn bị bầu 1.400 trưởng thôn, tổ trưởng tổ dân phố nhiệm kỳ 2026–2031 hoàn thành trước 30/11/2026 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-khan-truong-chuan-bi-bau-truong-thon-to-truong-to-dan-pho-post603811.html\n\n10. Núi lửa Chư Đang Ya rực sắc hoa dã quỳ bước vào mùa hội cồng chiêng hút khách đầu tháng 11 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/chu-dang-ya-vao-mua-hoi-post603815.html\n\n11. Giá nông sản sáng 3/11: Cà phê giảm về 85.700 đồng/kg, hồ tiêu ổn định 134.000–136.500 đồng/kg (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-nong-san-hom-nay-311-gia-ca-phe-giam-ho-tieu-tam-on-dinh-post603826.html\n\nTrưa nay bà con quan tâm tin nào nhất? Bấm LƯU bài để tiện tra cứu nhé!\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Đấu giá đất công trung tâm Quy Nhơn hơn 86 triệu/m²; Cảnh báo rủi ro san núi Một | Bản tin trưa 3/11/2026\n\nTổng hợp 11 tin tức Quy Nhơn & Gia Lai trưa thứ Ba 3/11/2026:\n1. Đấu giá nhiều trụ sở công dôi dư tại trung tâm phường Quy Nhơn, khởi điểm cao nhất 86,14 triệu đồng/m²\n2. Phường Quy Nhơn tiếp nhận góp ý chuyên gia cảnh báo rủi ro bụi, rung chấn 3–5 năm nếu san phẳng núi Một\n3. Phản ánh nút giao Quốc lộ 19 vào CCN An Mơ hư hỏng tiềm ẩn tai nạn giao thông\n4. Xử lý nghiêm xây dựng trái phép tại chân núi Bà Hỏa, mở không gian phát triển cho Quy Nhơn\n5. Duyệt Đề án tín chỉ carbon: bảo tồn biển vịnh Quy Nhơn, hướng tới 100% taxi mới dùng điện năm 2030\n6. Xã Đề Gi tập huấn phòng chống thiên tai và thực hành cứu nạn dưới nước\n7. Khảo sát, tập huấn cải tiến quy trình đón tiếp người bệnh tại 5 cơ sở y tế\n8. Nhiều ngân hàng đồng loạt giảm lãi suất vay 1,5–3%/năm tiếp sức doanh nghiệp cuối năm\n9. Chuẩn bị bầu 1.400 trưởng thôn, tổ trưởng tổ dân phố hoàn thành trước 30/11/2026\n10. Núi lửa Chư Đang Ya rực sắc hoa dã quỳ bước vào mùa hội cồng chiêng\n11. Giá nông sản sáng 3/11: Cà phê giảm về 85.700 đồng/kg, hồ tiêu ổn định\n\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "facebook": "Đấu giá nhiều trụ sở công ở trung tâm Quy Nhơn khởi điểm cao nhất hơn 86 triệu/m²; Chuyên gia cảnh báo rủi ro nếu san phẳng núi Một? Điểm tin trưa thứ Ba 3/11/2026:\n\n1. Đấu giá nhiều trụ sở công dôi dư tại trung tâm phường Quy Nhơn (49 Phan Bội Châu, 52 và 75 Mai Xuân Thưởng), khởi điểm cao nhất 86,14 triệu đồng/m² (Dân Trí)\n🔗 https://dantri.com.vn/bat-dong-san/dau-gia-tai-san-doi-du-o-quy-nhon-khoi-diem-cao-nhat-hon-86-trieu-dongm2-20261102205002651.htm\n\n2. Phường Quy Nhơn tiếp nhận góp ý chuyên gia địa chất cảnh báo rủi ro bụi, rung chấn 3–5 năm nếu san phẳng núi Một, kiến nghị giữ làm công viên (Dân Trí)\n🔗 https://dantri.com.vn/thoi-su/san-phang-nui-mot-o-quy-nhon-nhung-nguy-co-rui-ro-phai-doi-dien-20261102153035254.htm\n\n3. Người dân xã An Nhơn Tây phản ánh nút giao Quốc lộ 19 vào CCN An Mơ sụt lún nhiều hố sâu tiềm ẩn tai nạn; đơn vị quản lý tuyến đề nghị sớm đấu nối (Báo Gia Lai)\n🔗 https://baogialai.com.vn/tiem-an-nguy-co-tai-nan-tai-nut-giao-thong-va-duong-dan-vao-cum-cong-nghiep-an-mo-post603821.html\n\n4. Chỉ đạo xử lý nghiêm vi phạm lấn chiếm, xây dựng trái phép tại chân núi Bà Hỏa và rà soát đất đai mở không gian phát triển cho Quy Nhơn (Báo Mới)\n🔗 https://baomoi.com/siet-trat-tu-xay-dung-mo-khong-gian-phat-trien-cho-quy-nhon-c56417508.epi\n\n5. Duyệt Đề án tín chỉ carbon 2026–2030: bảo tồn biển vịnh Quy Nhơn, hướng tới 30% xe buýt xanh và 100% taxi mới dùng điện vào năm 2030 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-trien-khai-thi-diem-1-3-du-an-tin-chi-carbon-rung-post603764.html\n\n6. Xã Đề Gi tập huấn phòng chống thiên tai và thực hành cứu nạn dưới nước tại hồ Hố Xoài ứng phó mùa mưa bão (Báo Gia Lai)\n🔗 https://baogialai.com.vn/xa-de-gi-tap-huan-nang-cao-nang-luc-phong-chong-thien-tai-va-cuu-nan-cuu-ho-post603611.html\n\n7. Sở Y tế khảo sát, tập huấn cải tiến quy trình đón tiếp người bệnh tại BVĐK Gia Lai, BVĐK khu vực Bồng Sơn và 3 TTYT Tuy Phước, An Nhơn, Chư Prông (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-khao-sat-tap-huan-cai-tien-chat-luong-phuc-vu-tai-5-co-so-y-te-post603784.html\n\n8. Nhiều ngân hàng thương mại trên địa bàn tỉnh đồng loạt giảm lãi suất vay 1,5–3%/năm tiếp sức doanh nghiệp cuối năm (Báo Gia Lai)\n🔗 https://baogialai.com.vn/ngan-hang-giam-lai-suat-tiep-suc-doanh-nghiep-post603393.html\n\n9. Khẩn trương chuẩn bị bầu 1.400 trưởng thôn, tổ trưởng tổ dân phố nhiệm kỳ 2026–2031 hoàn thành trước 30/11/2026 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-khan-truong-chuan-bi-bau-truong-thon-to-truong-to-dan-pho-post603811.html\n\n10. Núi lửa Chư Đang Ya rực sắc hoa dã quỳ bước vào mùa hội cồng chiêng hút khách đầu tháng 11 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/chu-dang-ya-vao-mua-hoi-post603815.html\n\n11. Giá nông sản sáng 3/11: Cà phê giảm về 85.700 đồng/kg, hồ tiêu ổn định 134.000–136.500 đồng/kg (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-nong-san-hom-nay-311-gia-ca-phe-giam-ho-tieu-tam-on-dinh-post603826.html\n\n📌 Bà con bấm LƯU bài để tiện tra cứu thông tin đấu giá tài sản công dôi dư ở trung tâm Quy Nhơn, lịch bầu tổ trưởng tổ dân phố trước 30/11 và bảng giá nông sản ngày 3/11 nhé! Bà con đánh giá thế nào về việc sắp xếp, khai thác hiệu quả các trụ sở dôi dư tại phố biển?\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "needs_review": []
+}
