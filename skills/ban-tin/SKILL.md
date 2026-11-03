@@ -34,6 +34,8 @@ Python 3.10+, Node.js (có `npx`), ffmpeg. Không cần cài thư viện Python 
 python skills/ban-tin/scripts/ban_tin.py scan --date YYYY-MM-DD
 ```
 Lệnh đọc các trang nguồn trong `skills/ban-tin/config.json` (`sources` và `user_links`), lấy giờ đăng thật của từng bài, **chỉ in tin đăng trong 24 giờ tính lùi từ lúc quét** (quét ngày cũ thì tính lùi từ 23:59 ngày đó), gộp tin trùng giữa các nguồn, đánh dấu ✓ tin có từ khoá khu vực (`region_keywords`), báo bài nào không có ảnh. Kết quả lưu `data/scan/<ngày>.json`.
+- **Bước 2.3 – Chủ động săn thêm "vụ việc đời thực gay cấn" trên báo chính thống (BẮT BUỘC)**:
+  - Ngoài danh sách `scan` tự động, AI **phải chủ động tìm kiếm bổ sung** trên các báo chính thống (Công an Nhân dân, Pháp Luật TP.HCM, Người Lao Động, Dân Trí, Tuổi Trẻ, Thanh Niên, VnExpress, Báo Gia Lai...) với các từ khóa sự vụ 24h qua tại **Quy Nhơn / Gia Lai** (*công an, truy bắt, khởi tố, lừa đảo tình – tiền, kiểm tra đột xuất, trật tự đô thị, tai nạn, phản ánh bạn đọc...*) để không bỏ sót các vụ việc nóng mà trang RSS chung chưa kịp đẩy lên.
 Sau đó:
 1. Link bài người dùng dán trong `user_links` (`skills/ban-tin/config.json`) hoặc gửi qua chat / thư mục `input/` → **luôn đưa vào** (`"from_user": true`)
 2. Chọn từ danh sách `scan` (ưu tiên dòng ✓); `scan` lỗi hoặc thiếu tin → tự tìm thêm trên báo địa phương
@@ -59,12 +61,15 @@ Ngoại lệ duy nhất: tin người dùng tự gửi.
 ### 4. Chọn lọc tin & Tự động dựng (Mặc định: Tự động hóa 100% - Run skill là ra luôn thành phẩm)
 - **Chế độ mặc định (Tự động 100%)**: AI tự động chọn ra **8–12 tin mạnh nhất, nóng nhất (hơn 7 tin)** ở chế độ Ảnh cuộn (`--mode anh`) từ danh sách đã quét (hoặc từ `user_links` người dùng đưa), kiểm tra bài gốc chuẩn xác, tự động viết kịch bản và tự động render bộ ảnh lướt ngay lập tức. (Chỉ khi người dùng yêu cầu làm `--mode video` mới rút gọn còn 6–7 tin để video ≤ 59 giây).
 - **Thứ tự 6 nhóm lĩnh vực ưu tiên chọn lọc tin (đã chốt với người dùng)**:
-  1. 🔥 **Chuỗi tin đang tăng view trên kênh (Follow-up)**: Diễn biến mới của các vụ việc khán giả đang ngóng (như vụ trốn trại, đại dự án Thị Nại Eco Bay, kiểm tra tiệm vàng...).
-  2. 🚨 **An ninh – Pháp luật – Cứu hộ**: Vụ việc nóng, cảnh báo an toàn, giao thông, tàu cá.
-  3. 🏗️ **Quy hoạch – Hạ tầng – Đại dự án**: Sân bay Phù Cát, cao tốc Quy Nhơn – Pleiku, công viên biển, giải phóng mặt bằng, khu đô thị.
-  4. 🌦️ **Dân sinh – Thời tiết – Y tế**: Mưa lũ, sạt lở, lịch cúp điện/nước, dịch bệnh, khám chữa bệnh.
+  1. 🔥 **Chuỗi tin đang tăng view trên kênh (Follow-up)**: Diễn biến mới của các vụ việc khán giả đang ngóng (như vụ trốn trại, đại dự án Thị Nại Eco Bay, kiểm tra tiệm vàng, núi Một...).
+  2. 🚨 **An ninh – Pháp luật – Trật tự đô thị – Cứu hộ ("Biến nóng phố nhà")**: Ưu tiên lọc mạnh các vụ việc đời thực gay cấn ngay tại Quy Nhơn – Gia Lai như **truy bắt tội phạm, khởi tố, lừa đảo tình – tiền / công nghệ cao, kiểm tra đột xuất cơ sở kinh doanh, xử lý lấn chiếm / xây dựng trái phép, va chạm giao thông đáng chú ý, cứu nạn khẩn cấp** (100% đã lên báo chính thống, viết tắt tên đúng luật).
+  3. 🏗️ **Quy hoạch – Hạ tầng – Đại dự án**: Đấu giá đất vàng, sân bay Phù Cát, cao tốc Quy Nhơn – Pleiku, công viên biển, giải phóng mặt bằng, khu đô thị.
+  4. 🌦️ **Dân sinh sát sườn – Thời tiết – Y tế**: Mưa lũ, sạt lở, sụt lún đường dân sinh, lịch cúp điện/nước, cảnh báo dịch bệnh.
   5. 🏖️ **Du lịch – Văn hóa – Sự kiện – Thể thao**: Sự kiện cuối tuần ở Quảng trường Nguyễn Tất Thành, giải chạy, bắn pháo hoa, điểm check-in mới.
-  6. 💼 **Kinh tế – Việc làm – Giáo dục**: Giá cả, chính sách hỗ trợ, trường đại học/học sinh.
+  6. 💼 **Kinh tế túi tiền – Việc làm – Giáo dục**: Giá vàng/nông sản/xăng dầu, lãi suất vay, việc làm, chuyện trường lớp sát thực tế.
+- **Nguyên tắc cốt lõi "Đúng gu thích hóng chuyện đời thực – Cắt sạch tin hội họp khô khan" (BẮT BUỘC)**:
+  - Khán giả (kể cả Follower ruột địa phương) **thích hóng chuyện đời thực, vụ việc gay cấn, đụng chạm trực tiếp đời sống hơn là tin hội họp khô khan**.
+  - **Mạnh tay loại bỏ**: Các tin *hội nghị, sơ kết, tổng kết, tập huấn chung chung, đoàn khảo sát quy trình, lễ ký kết, lễ tân* nếu không mang lại thông tin/quyền lợi trực tiếp cho người dân. Thà bản tin cô đọng **8–9 tin toàn chuyện nóng đời thực cuốn từ đầu đến cuối** còn hơn nhồi đủ 11–12 tin nhưng lẫn tin tập huấn/hội họp làm tụt tỷ lệ lướt hết ảnh.
 - **Cách sắp xếp thứ tự trong bản tin**: Tin hot nhất đặt ở **tin 1** (làm ảnh bìa + hook teaser), tin hot thứ 2 đặt ở **giữa bài (tin 4–5)** để giữ chân người xem lướt tiếp, 1–2 tin dạng **"Cẩm nang cần lưu"** (lịch sự kiện, lịch cúp điện/nước, lịch bay, thủ tục hành chính, cảnh báo thời tiết) và các tin sự kiện/văn hóa nhẹ nhàng đặt ở cuối để kích thích người xem bấm nút **Lưu bài (Save/Bookmark)**.
 - **Đánh dấu từ khóa nổi bật (Highlight)**: Template `template/index.html` tự động tô vàng có gạch chân (`.hl`) các con số kèm đơn vị và địa danh trọng điểm (`Quy Nhơn`, `Gia Lai`, `Sân bay Phù Cát`, `Trại giam A2`...), đồng thời hỗ trợ đánh dấu `**cụm từ quan trọng**` trong `text` hoặc `cover.teaser` nếu muốn nhấn mạnh cụm từ tùy chỉnh. Mỗi trang đều có nút **`Lướt xem tiếp ➔`** ở góc dưới phải.
 - **Chế độ duyệt thủ công (chỉ bật khi người dùng yêu cầu)**: Nếu người dùng nói "cho tôi chọn tin trước" hoặc "duyệt tin trước khi render", AI mới dừng lại liệt kê danh sách checkbox để người dùng chọn trước khi viết và render.
@@ -74,7 +79,7 @@ Ngoại lệ duy nhất: tin người dùng tự gửi.
 - Xếp cuối hoặc bỏ: hội nghị, bế giảng, khai giảng, tin lễ tân (ít người quan tâm). Khi trình danh sách `List All Tin`, đánh dấu ⭐ tin mạnh, ▫ tin yếu để người dùng dễ đổi tin nếu muốn.
 
 ### 5. Viết
-- Mỗi tin **1–2 câu, 80–200 ký tự**, đủ ý không cần đọc thêm, viết lại bằng lời mình (không chép tít).
+- Mỗi tin **1–2 câu, 80–200 ký tự**, đủ ý không cần đọc thêm, viết lại bằng lời mình (không chép tít). Mở câu trực diện vào **tình tiết đời thực / sự việc đáng chú ý / địa điểm quen thuộc ở Quy Nhơn – Gia Lai**, tránh mở đầu bằng tên cơ quan hay văn phong báo cáo hành chính khô khan.
 - Có số liệu cụ thể, địa danh (phường/xã), mốc thời gian.
 - **Tin quy hoạch, di dời, giải tỏa, dự án**: BẮT BUỘC nêu rõ lý do chính thức từ cơ quan nhà nước (vd: *"theo quy hoạch mở rộng không gian bờ biển ngắm cảnh cho cộng đồng"*, *"hết hạn thuê đất theo hợp đồng"*), không để khuyết thông tin khiến người xem suy đoán tiêu cực, bôi nhọ uy tín doanh nghiệp (như đồn đoán *"kinh doanh kém nên bị dẹp"*).
 - Án hình sự / tai nạn: không nêu tên đầy đủ, không giật gân, không từ lóng.

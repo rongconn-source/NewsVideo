@@ -23,13 +23,14 @@ Bản tin tức tổng hợp của một khu vực, dạng **ảnh lướt 9:16 
 - **Số lượng tin & nhịp**:
   - **Chế độ Ảnh cuộn (`--mode anh`, mặc định)**: Chọn **hơn 7 tin (đề xuất 8–12 tin mạnh/bản)** theo chuẩn kênh mẫu `@tinchuan23h59s` để tối ưu thời gian đọc & lướt ảnh trên TikTok Photo Mode (nếu 24h qua ít tin thật sự chất lượng hơn thì lấy tối đa số tin tốt hiện có, không độn tin rác).
   - **Chế độ Video (`--mode video`, khi được yêu cầu)**: Mỗi tin hiện **7 giây**; video ≤ 59 giây nên tối đa 7 tin/bản.
-- **Thứ tự 6 nhóm lĩnh vực ưu tiên khi chọn lọc tin (đã chốt)**:
-  1. 🔥 **Chuỗi tin đang tăng view trên kênh (Follow-up)**: Diễn biến mới của các vụ việc khán giả đang ngóng (như vụ trốn trại, đại dự án Thị Nại Eco Bay, kiểm tra tiệm vàng...).
-  2. 🚨 **An ninh – Pháp luật – Cứu hộ**: Vụ việc nóng, cảnh báo an toàn, giao thông, tàu cá.
-  3. 🏗️ **Quy hoạch – Hạ tầng – Đại dự án**: Sân bay Phù Cát, cao tốc Quy Nhơn – Pleiku, công viên biển, giải phóng mặt bằng, khu đô thị.
-  4. 🌦️ **Dân sinh – Thời tiết – Y tế**: Mưa lũ, sạt lở, lịch cúp điện/nước, dịch bệnh, khám chữa bệnh.
+- **Thứ tự 6 nhóm lĩnh vực ưu tiên khi chọn lọc tin & Gu "Hóng chuyện đời thực phố nhà" (đã chốt)**:
+  1. 🔥 **Chuỗi tin đang tăng view trên kênh (Follow-up)**: Diễn biến mới của các vụ việc khán giả đang ngóng (như vụ trốn trại, đại dự án Thị Nại Eco Bay, kiểm tra tiệm vàng, núi Một...).
+  2. 🚨 **An ninh – Pháp luật – Trật tự đô thị – Cứu hộ ("Biến nóng phố nhà")**: Ưu tiên lọc mạnh các vụ việc đời thực gay cấn tại Quy Nhơn – Gia Lai như **truy bắt, khởi tố, lừa đảo tình – tiền / công nghệ cao, kiểm tra đột xuất, xử lý lấn chiếm / xây dựng trái phép, va chạm giao thông, bức xúc dân sinh** (đã lên báo chính thống, viết tắt tên cá nhân đúng luật).
+  3. 🏗️ **Quy hoạch – Hạ tầng – Đại dự án**: Đấu giá đất vàng, sân bay Phù Cát, cao tốc Quy Nhơn – Pleiku, công viên biển, giải phóng mặt bằng, khu đô thị.
+  4. 🌦️ **Dân sinh sát sườn – Thời tiết – Y tế**: Mưa lũ, sạt lở, hư hỏng đường sá dân sinh, lịch cúp điện/nước, cảnh báo dịch bệnh.
   5. 🏖️ **Du lịch – Văn hóa – Sự kiện – Thể thao**: Sự kiện cuối tuần ở Quảng trường Nguyễn Tất Thành, giải chạy, bắn pháo hoa, điểm check-in mới.
-  6. 💼 **Kinh tế – Việc làm – Giáo dục**: Giá cả, chính sách hỗ trợ, trường đại học/học sinh.
+  6. 💼 **Kinh tế túi tiền – Việc làm – Giáo dục**: Giá cả thiết yếu, lãi suất, chính sách sát sườn người dân, trường học/học sinh.
+  - **Cắt sạch tin hội họp khô khan (BẮT BUỘC)**: Khán giả thích hóng chuyện đời thực, vụ việc gay cấn hơn tin hội họp khô khan. Chủ động tìm kiếm sâu các vụ việc an ninh/đời sống trên báo chính thống và **mạnh tay loại bỏ** các tin *hội nghị, sơ kết, tập huấn chung chung, khảo sát quy trình, lễ tân* không tác động trực tiếp đến túi tiền/an toàn/đi lại của người dân (thà chọn 8–9 tin toàn chuyện nóng cuốn từ đầu tới cuối còn hơn độn tin hành chính cho đủ số lượng).
 - **Bố cục mỗi trang tin (đã chốt)**: **ảnh 55% phía trên – chữ 45% phía dưới** (`object-fit: contain` + nền mờ `.photo-blur` để không bị cắt mất chi tiết ngang của ảnh báo); **không có thanh header**, tên kênh "QUY NHƠN 24H QUA" nằm thẳng trên ảnh (góc trên trái); tự động **tô vàng có gạch chân (`.hl`) các con số/địa danh trọng điểm** (hoặc cụm từ được đánh dấu `**...**` trong JSON) kèm nút **`Lướt xem tiếp ➔`** ở góc dưới phải.
 - **Chiến lược tăng lượt Lưu bài (Save-bait hợp lệ) & Kiếm tiền (Tỷ lệ 9:1)**: Khuyến khích chọn **1–2 tin dạng "Cẩm nang cần lưu"** (lịch cúp điện/nước, lịch sự kiện cuối tuần, lịch bay/tàu, thủ tục hành chính mới, cảnh báo thời tiết/an toàn) ở nửa cuối bản tin và nhắc khán giả *"Bấm LƯU bài để tiện tra cứu"* trong `pin_comment` nhằm tối ưu chỉ số Save/Bookmark. Duy trì **Tỷ lệ 9:1** đối với thương mại: 9 bài điểm tin hoàn toàn không gắn giỏ hàng để tối đa hóa view tự nhiên (hướng khách vào kệ Trưng bày Đặc sản Quy Nhơn – Gia Lai trên trang cá nhân) + 1 bài chuyên đề Du lịch/Ẩm thực/Dân sinh gắn sản phẩm hợp ngữ cảnh.
 - **Trang cuối**: logo + "Follow để nắm bắt tin tức Quy Nhơn nhé" + dòng vàng **"Nhà bạn có tin? Nhắn kênh, kênh đưa!"** (script tự thêm).
