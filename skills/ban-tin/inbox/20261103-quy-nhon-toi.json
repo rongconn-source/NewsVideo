@@ -1,0 +1,136 @@
+{
+  "type": "digest",
+  "output": "anh",
+  "date": "2026-11-03",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "brand": [
+    "QUY NHƠN ",
+    "24H QUA"
+  ],
+  "cover": {
+    "kicker": "ĐIỂM TIN TỐI",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Ngày 3/11/2026",
+    "teaser": "Vây rừng truy bắt phạm nhân cuối cùng trốn Trại giam A2 quê Gia Lai?",
+    "image": "item:1"
+  },
+  "items": [
+    {
+      "category": "tinh",
+      "label": "Truy bắt trốn trại A2",
+      "text": "Sau khi bắt phạm nhân thứ 3 rạng sáng 3/11, hàng trăm chiến sĩ đang **khép chặt vòng vây rừng núi** truy bắt đối tượng cuối cùng trốn Trại giam A2 là H.V.T. (24 tuổi, trú tỉnh Gia Lai).",
+      "image": "press:auto",
+      "ai_prompt": "police officers patrolling mountain forest road checkpoint in Vietnam",
+      "image_credit": "Báo Mới",
+      "source": "https://baomoi.com/cuoc-truy-bat-pham-nhan-cuoi-cung-tron-trai-giam-a2-giua-rung-sau-khanh-hoa-c56420016.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-11-03T16:01:14+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Xử lý clip quậy TikTok",
+      "text": "CSGT tỉnh phối hợp Công an xã Chư Sê vừa mời làm việc, lập hồ sơ xử lý thiếu niên T.Q.N. (SN 2009, chưa có bằng lái) do **chở 3 không mũ, mang ná cao su cải tiến** phóng nhanh khoe lên TikTok.",
+      "image": "press:auto",
+      "ai_prompt": "traffic police working at local police station desk in Gia Lai Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/gia-lai-xu-ly-nam-thanh-nien-can-quay-dang-clip-len-tiktok-post603875.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-03T15:50:17+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Điều tra vụ án Diên Hồng",
+      "text": "Công an tỉnh vừa **tạm giữ hình sự** N.T.V. (SN 1979, phường Diên Hồng) để điều tra vụ xô xát gây chết người tại quán cà phê đường Lý Thái Tổ sau cuộc nhậu chiều 2/11, cảnh báo hệ lụy rượu bia.",
+      "image": "press:auto",
+      "ai_prompt": "police patrol car outside urban street in Pleiku Gia Lai Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/tam-giu-doi-tuong-giet-nguoi-trong-quan-ca-phe-o-phuong-dien-hong-post603858.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-03T13:07:43+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Dân sinh Quy Nhơn Bắc",
+      "text": "Cử tri **phường Quy Nhơn Bắc** phản ánh dự án KĐT mới Vân Hà mượn đường dân sinh xong vẫn chắn lối chưa trả và lo ngập khu Phước Trung – Phước Nhơn; Chủ tịch tỉnh yêu cầu kiểm tra, xử lý dứt điểm.",
+      "image": "press:auto",
+      "ai_prompt": "residential road infrastructure inspection in Quy Nhon city Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/giai-quyet-kien-nghi-cua-nguoi-dan-theo-huong-nhanh-thuc-chat-post603859.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-03T14:12:02+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Đại dự án hơn 8.090 tỷ",
+      "text": "UBND tỉnh vừa chấp thuận chủ trương đầu tư, **đấu thầu quốc tế** Khu đô thị Diên Hồng rộng 51,5 ha với vốn hơn 8.090 tỷ đồng, dự kiến có 850–890 căn liền kề, biệt thự và 20% đất nhà ở xã hội.",
+      "image": "press:auto",
+      "ai_prompt": "modern urban township masterplan aerial view in Gia Lai Vietnam",
+      "image_credit": "Báo Mới",
+      "source": "https://baomoi.com/gia-lai-tim-nha-dau-tu-quoc-te-cho-khu-do-thi-hon-8-000-ty-dong-c56419936.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-11-03T15:51:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Bảo vệ di tích Quy Nhơn",
+      "text": "Tỉnh vừa ra công văn chấn chỉnh việc tu bổ di tích (như **Tháp Đôi ở phường Quy Nhơn**, Đền thờ Tây Sơn Tam kiệt): nghiêm cấm tự ý tháo dỡ cấu kiện gốc, yêu cầu các xã, phường rà soát trong 15 ngày.",
+      "image": "press:https://photo-baomoi.bmcdn.me/w1000_r1/2026_11_03_125_56418925/e33799c83c83d5dd8c92.jpg",
+      "ai_prompt": "ancient Cham Twin Towers heritage site in Quy Nhon city Vietnam",
+      "image_credit": "Báo Mới",
+      "source": "https://baomoi.com/phat-lenh-khan-gia-lai-tang-cuong-bao-ve-di-san-van-hoa-c56418925.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-11-03T10:43:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Phát hiện đạn pháo cũ",
+      "text": "Hai người dân làm đất tại làng Kon Brung (xã Ayun) bất ngờ phát hiện **đạn pháo 105mm và đầu đạn M27**; Công an xã đã khoanh vùng xử lý, khuyến cáo bà con tuyệt đối không tự ý chạm hay di dời vật nổ.",
+      "image": "press:auto",
+      "ai_prompt": "rural farmland safety cordon warning tape in Central Highlands Vietnam",
+      "image_credit": "Báo Mới",
+      "source": "https://baomoi.com/gia-lai-phat-hien-qua-dan-phao-105mm-va-dau-dan-m27-duoi-long-dat-c56419339.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-11-03T14:57:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Phòng lừa đảo học đường",
+      "text": "Phòng An ninh mạng Công an tỉnh phối hợp **Trường iSchool Quy Nhơn** triển khai chiến dịch “Không một mình”, hướng dẫn học sinh nhận diện sớm các chiêu trò kết bạn dụ dỗ và **lừa đảo trên mạng**.",
+      "image": "press:auto",
+      "ai_prompt": "cybersecurity awareness workshop for high school students in Quy Nhon Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/trien-khai-chien-dich-khong-mot-minh-tai-truong-hoi-nhap-quoc-te-ischool-quy-nhon-post603868.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-03T15:46:53+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "434 tân cử nhân Quy Nhơn",
+      "text": "Sáng 3/11, **Trường Đại học Quy Nhơn** trao bằng tốt nghiệp đợt 2 cho 434 tân cử nhân, kỹ sư thuộc 12 khoa, nâng tổng số sinh viên tốt nghiệp năm 2026 của trường tốp 23 toàn quốc lên 2.620 người.",
+      "image": "press:auto",
+      "ai_prompt": "university graduation ceremony hall at Quy Nhon University Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/truong-dai-hoc-quy-nhon-trao-bang-tot-nghiep-cho-434-sinh-vien-he-chinh-quy-dot-2-nam-2026-post603852.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-03T14:09:03+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "📌 Bà con bấm LƯU bài để chia sẻ kỹ năng phòng bẫy dụ dỗ, lừa đảo qua mạng cho con em và quy tắc an toàn khi phát hiện vật nổ dưới đất nhé! Mong lực lượng chức năng sớm hoàn thành nhiệm vụ vây bắt an toàn — tối nay bà con quan tâm vụ việc nào nhất?",
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "caption": {
+    "tiktok": "Vây rừng truy bắt phạm nhân cuối cùng trốn Trại giam A2 quê Gia Lai; Thiếu niên chở 3 cầm ná cao su phóng nhanh khoe lên TikTok bị xử lý? Điểm tin tối thứ Ba 3/11/2026 (Bấm LƯU bài để xem cảnh báo an toàn mạng & vật nổ):\n\n1. Sau khi bắt phạm nhân thứ 3 rạng sáng 3/11, hàng trăm chiến sĩ khép chặt vòng vây rừng núi truy bắt đối tượng cuối cùng trốn Trại giam A2 quê Gia Lai (Báo Mới)\n🔗 https://baomoi.com/cuoc-truy-bat-pham-nhan-cuoi-cung-tron-trai-giam-a2-giua-rung-sau-khanh-hoa-c56420016.epi\n\n2. CSGT tỉnh phối hợp Công an xã Chư Sê lập hồ sơ xử lý thiếu niên SN 2009 chở 3 không mũ, mang ná cao su cải tiến chạy tốc độ cao đăng clip lên TikTok (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-xu-ly-nam-thanh-nien-can-quay-dang-clip-len-tiktok-post603875.html\n\n3. Tạm giữ hình sự đối tượng N.T.V. (SN 1979) điều tra vụ xô xát gây chết người tại quán cà phê ở phường Diên Hồng sau cuộc nhậu chiều 2/11 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/tam-giu-doi-tuong-giet-nguoi-trong-quan-ca-phe-o-phuong-dien-hong-post603858.html\n\n4. Cử tri phường Quy Nhơn Bắc phản ánh dự án KĐT mới Vân Hà mượn đường dân sinh xong vẫn chắn lối chưa trả và lo ngập khu Phước Trung – Phước Nhơn; Chủ tịch tỉnh chỉ đạo xử lý dứt điểm (Báo Gia Lai)\n🔗 https://baogialai.com.vn/giai-quyet-kien-nghi-cua-nguoi-dan-theo-huong-nhanh-thuc-chat-post603859.html\n\n5. Chấp thuận chủ trương đầu tư, đấu thầu quốc tế Khu đô thị Diên Hồng rộng 51,5 ha, tổng vốn hơn 8.090 tỷ đồng (Báo Mới)\n🔗 https://baomoi.com/gia-lai-tim-nha-dau-tu-quoc-te-cho-khu-do-thi-hon-8-000-ty-dong-c56419936.epi\n\n6. Ra công văn khẩn chấn chỉnh tu bổ di tích (Tháp Đôi Quy Nhơn, Đền thờ Tây Sơn Tam kiệt): cấm tự ý tháo dỡ cấu kiện gốc, rà soát trong 15 ngày (Báo Mới)\n🔗 https://baomoi.com/phat-lenh-khan-gia-lai-tang-cuong-bao-ve-di-san-van-hoa-c56418925.epi\n\n7. Người dân xã Ayun làm đất phát hiện đạn pháo 105mm và đầu đạn M27; Công an khoanh vùng xử lý, cảnh báo không tự ý di dời vật nổ (Báo Mới)\n🔗 https://baomoi.com/gia-lai-phat-hien-qua-dan-phao-105mm-va-dau-dan-m27-duoi-long-dat-c56419339.epi\n\n8. Công an an ninh mạng tỉnh phối hợp Trường iSchool Quy Nhơn hướng dẫn học sinh nhận diện bẫy dụ dỗ, lừa đảo trên mạng (Báo Gia Lai)\n🔗 https://baogialai.com.vn/trien-khai-chien-dich-khong-mot-minh-tai-truong-hoi-nhap-quoc-te-ischool-quy-nhon-post603868.html\n\n9. Trường Đại học Quy Nhơn trao bằng tốt nghiệp đợt 2 cho 434 tân cử nhân, kỹ sư, nâng tổng năm 2026 lên 2.620 người (Báo Gia Lai)\n🔗 https://baogialai.com.vn/truong-dai-hoc-quy-nhon-trao-bang-tot-nghiep-cho-434-sinh-vien-he-chinh-quy-dot-2-nam-2026-post603852.html\n\nTối nay bà con quan tâm vụ việc nào nhất? Bấm LƯU bài để chia sẻ cảnh báo an toàn cho người thân nhé!",
+    "youtube": "Vây bắt phạm nhân cuối cùng trốn Trại giam A2 quê Gia Lai; Xử lý clip quậy trên TikTok | Bản tin tối 3/11/2026\n\nTổng hợp 9 tin nóng Quy Nhơn & Gia Lai tối thứ Ba 3/11/2026:\n1. Hàng trăm chiến sĩ vây rừng truy bắt phạm nhân cuối cùng trốn Trại giam A2 quê Gia Lai\n2. Xử lý thiếu niên chở 3 không mũ, mang ná cao su cải tiến phóng nhanh khoe lên TikTok\n3. Tạm giữ hình sự đối tượng liên quan vụ xô xát gây chết người tại quán cà phê ở phường Diên Hồng\n4. Cử tri phường Quy Nhơn Bắc phản ánh đường dân sinh bị chắn tại KĐT mới Vân Hà; Chủ tịch tỉnh chỉ đạo xử lý dứt điểm\n5. Đấu thầu quốc tế Khu đô thị Diên Hồng rộng 51,5 ha, tổng vốn hơn 8.090 tỷ đồng\n6. Công văn khẩn chấn chỉnh tu bổ di tích Tháp Đôi Quy Nhơn, Đền thờ Tây Sơn Tam kiệt\n7. Phát hiện đạn pháo 105mm và đầu đạn M27 khi làm đất tại xã Ayun\n8. Công an tỉnh phối hợp Trường iSchool Quy Nhơn hướng dẫn học sinh phòng lừa đảo qua mạng\n9. Trường Đại học Quy Nhơn trao bằng tốt nghiệp đợt 2 cho 434 tân cử nhân, kỹ sư",
+    "facebook": "Vây rừng truy bắt phạm nhân cuối cùng trốn Trại giam A2 quê Gia Lai; Thiếu niên chở 3 cầm ná cao su phóng nhanh khoe lên TikTok bị xử lý? Điểm tin tối thứ Ba 3/11/2026:\n\n1. Sau khi bắt phạm nhân thứ 3 rạng sáng 3/11, hàng trăm chiến sĩ khép chặt vòng vây rừng núi truy bắt đối tượng cuối cùng trốn Trại giam A2 quê Gia Lai (Báo Mới)\n🔗 https://baomoi.com/cuoc-truy-bat-pham-nhan-cuoi-cung-tron-trai-giam-a2-giua-rung-sau-khanh-hoa-c56420016.epi\n\n2. CSGT tỉnh phối hợp Công an xã Chư Sê lập hồ sơ xử lý thiếu niên SN 2009 chở 3 không mũ, mang ná cao su cải tiến chạy tốc độ cao đăng clip lên TikTok (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-xu-ly-nam-thanh-nien-can-quay-dang-clip-len-tiktok-post603875.html\n\n3. Tạm giữ hình sự đối tượng N.T.V. (SN 1979) điều tra vụ xô xát gây chết người tại quán cà phê ở phường Diên Hồng sau cuộc nhậu chiều 2/11 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/tam-giu-doi-tuong-giet-nguoi-trong-quan-ca-phe-o-phuong-dien-hong-post603858.html\n\n4. Cử tri phường Quy Nhơn Bắc phản ánh dự án KĐT mới Vân Hà mượn đường dân sinh xong vẫn chắn lối chưa trả và lo ngập khu Phước Trung – Phước Nhơn; Chủ tịch tỉnh chỉ đạo xử lý dứt điểm (Báo Gia Lai)\n🔗 https://baogialai.com.vn/giai-quyet-kien-nghi-cua-nguoi-dan-theo-huong-nhanh-thuc-chat-post603859.html\n\n5. Chấp thuận chủ trương đầu tư, đấu thầu quốc tế Khu đô thị Diên Hồng rộng 51,5 ha, tổng vốn hơn 8.090 tỷ đồng (Báo Mới)\n🔗 https://baomoi.com/gia-lai-tim-nha-dau-tu-quoc-te-cho-khu-do-thi-hon-8-000-ty-dong-c56419936.epi\n\n6. Ra công văn khẩn chấn chỉnh tu bổ di tích (Tháp Đôi Quy Nhơn, Đền thờ Tây Sơn Tam kiệt): cấm tự ý tháo dỡ cấu kiện gốc, rà soát trong 15 ngày (Báo Mới)\n🔗 https://baomoi.com/phat-lenh-khan-gia-lai-tang-cuong-bao-ve-di-san-van-hoa-c56418925.epi\n\n7. Người dân xã Ayun làm đất phát hiện đạn pháo 105mm và đầu đạn M27; Công an khoanh vùng xử lý, cảnh báo không tự ý di dời vật nổ (Báo Mới)\n🔗 https://baomoi.com/gia-lai-phat-hien-qua-dan-phao-105mm-va-dau-dan-m27-duoi-long-dat-c56419339.epi\n\n8. Công an an ninh mạng tỉnh phối hợp Trường iSchool Quy Nhơn hướng dẫn học sinh nhận diện bẫy dụ dỗ, lừa đảo trên mạng (Báo Gia Lai)\n🔗 https://baogialai.com.vn/trien-khai-chien-dich-khong-mot-minh-tai-truong-hoi-nhap-quoc-te-ischool-quy-nhon-post603868.html\n\n9. Trường Đại học Quy Nhơn trao bằng tốt nghiệp đợt 2 cho 434 tân cử nhân, kỹ sư, nâng tổng năm 2026 lên 2.620 người (Báo Gia Lai)\n🔗 https://baogialai.com.vn/truong-dai-hoc-quy-nhon-trao-bang-tot-nghiep-cho-434-sinh-vien-he-chinh-quy-dot-2-nam-2026-post603852.html\n\n📌 Bà con bấm LƯU bài để chia sẻ kỹ năng phòng bẫy dụ dỗ, lừa đảo qua mạng cho con em và quy tắc an toàn khi phát hiện vật nổ dưới đất nhé! Mong lực lượng chức năng sớm hoàn thành nhiệm vụ vây bắt an toàn — tối nay bà con quan tâm vụ việc nào nhất?"
+  },
+  "needs_review": []
+}
