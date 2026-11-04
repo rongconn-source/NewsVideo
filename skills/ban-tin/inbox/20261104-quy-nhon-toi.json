@@ -1,0 +1,169 @@
+{
+  "type": "digest",
+  "output": "anh",
+  "date": "2026-11-04",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "brand": [
+    "QUY NHƠN ",
+    "24H QUA"
+  ],
+  "cover": {
+    "kicker": "ĐIỂM TIN TỐI",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Ngày 4/11/2026",
+    "teaser": "3 dự án ven biển Quy Nhơn gần 4.000 tỷ sắp đấu giá có điều kiện gì?",
+    "image": "item:1"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "label": "Đấu giá đất biển Quy Nhơn",
+      "text": "Tỉnh chuẩn bị đấu giá 3 dự án du lịch tại **phường Quy Nhơn Đông** (sườn đông núi Phương Mai, **Eo Vượt 1 và 2**) tổng vốn gần **4.000 tỷ đồng**, chỉ xây nghỉ dưỡng, **cấm phân lô bán nền**.",
+      "image": "press:auto",
+      "ai_prompt": "scenic Phuong Mai peninsula coastline and turquoise sea in Quy Nhon Vietnam",
+      "image_credit": "Thanh Niên",
+      "source": "https://thanhnien.vn/3-du-an-du-lich-ven-bien-quy-nhon-gan-4000-ti-dong-cho-dau-gia-185261104141752004.htm",
+      "source_name": "Báo Thanh Niên",
+      "published": "2026-11-04T15:04:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Khởi tố vụ phá rừng",
+      "text": "Vụ cưa hạ **538 cây rừng** ở xã Ia Mơ và phá **8,8 ha rừng** tại xã Ia Pia đã bị Công an tỉnh cùng Kiểm lâm **khởi tố hình sự**; nhiều cán bộ bảo vệ rừng và 5 kiểm lâm địa bàn bị kỷ luật, phê bình.",
+      "image": "press:auto",
+      "ai_prompt": "forest rangers inspecting highland forest protection zone in Gia Lai Vietnam",
+      "image_credit": "Báo Mới",
+      "source": "https://baomoi.com/lien-tuc-de-mat-rung-lanh-dao-ban-quan-ly-rung-va-hat-kiem-lam-xin-rut-kinh-nghiem-c56430230.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-11-04T18:00:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Khởi tố 3 tên trộm đêm",
+      "text": "Thấy nữ công nhân dựng xe máy đi cạo mủ cao su lúc **0h đêm** ở xã Ia Chia, 3 thanh thiếu niên S.D. (SN 2008), P.I. (SN 2006) và P.D. (SN 2009) lẻn lấy cắp; cả 3 vừa bị **khởi tố bị can**.",
+      "image": "press:auto",
+      "ai_prompt": "military criminal investigation officers working on case file in Gia Lai Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/trom-xe-may-cua-cong-nhan-cao-mu-cao-su-3-doi-tuong-bi-khoi-to-post603958.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-04T14:46:10+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Cảnh báo giông, mưa đá",
+      "text": "Đài Khí tượng thủy văn phát cảnh báo rủi ro cấp 2 tối 4/11: mây đối lưu gây **mưa giông, lốc, sét, mưa đá** đang mở rộng sang nhiều xã, phường phía Đông (**Phù Cát, Đề Gi, Tây Sơn, Hoài Nhơn**) và phía Tây.",
+      "image": "press:auto",
+      "ai_prompt": "dark storm clouds gathering over coastal plains and mountains in central Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/gia-lai-canh-bao-giong-loc-set-mua-da-va-mua-lon-cuc-bo-tren-dien-rong-post603965.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-04T16:02:07+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Sự kiện ở FLC Quy Nhơn",
+      "text": "Tại **Quần thể FLC Quy Nhơn**, lễ kỷ niệm 25 năm Tập đoàn FLC vừa quy tụ lãnh đạo tỉnh cùng Chủ tịch Geleximco Vũ Văn Tiền, Chủ tịch Đèo Cả Hồ Minh Hoàng, mở ra kỳ vọng hợp tác mới tại địa phương.",
+      "image": "press:auto",
+      "ai_prompt": "coastal resort convention center event hall in Quy Nhon Vietnam",
+      "image_credit": "Báo Mới",
+      "source": "https://baomoi.com/ong-vu-van-tien-vua-ham-ho-minh-hoang-xuat-hien-trong-ngay-dac-biet-cua-ong-trinh-van-quyet-c56429634.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-11-04T17:02:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Đông Gia Lai sắp mưa lớn",
+      "text": "Trung tâm Dự báo KTTV quốc gia cảnh báo từ ngày **9 đến 12/11**, không khí lạnh mạnh kết hợp nhiễu động gió Đông sẽ gây đợt **mưa lớn diện rộng** tại khu vực **Đông Gia Lai** (Bình Định cũ).",
+      "image": "press:auto",
+      "ai_prompt": "heavy rain falling on coastal city street with umbrellas in Quy Nhon Vietnam",
+      "image_credit": "Báo Mới",
+      "source": "https://baomoi.com/mien-trung-sap-don-mua-lon-nhu-trut-c56430331.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-11-04T17:54:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Giao nộp tê tê quý hiếm",
+      "text": "Phát hiện cá thể **tê tê Java cái nặng 2,2 kg** (động vật rừng nguy cấp, quý hiếm **nhóm IB**) lạc vào vườn dừa lúc 2h sáng, bà Trần Thị Tư ở **xã Ân Hảo** đã chủ động báo Công an và Kiểm lâm tiếp nhận.",
+      "image": "press:auto",
+      "ai_prompt": "forest rangers receiving rescued pangolin wildlife conservation in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/nguoi-dan-xa-an-hao-tu-nguyen-giao-nop-ca-the-te-te-java-quy-hiem-post603893.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-03T21:02:30+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Chặt vườn điều tìm liệt sĩ",
+      "text": "Thấy mảnh tăng, võng mục lộ dưới gốc cây ở làng Bi (**xã Ia Dom**), cựu chiến binh **Siu Pich (74 tuổi)** tự nguyện **chặt bỏ vườn điều**, hiến đất rẫy để Đội K52 đào tìm hài cốt liệt sĩ hy sinh.",
+      "image": "press:auto",
+      "ai_prompt": "soldiers and elderly veteran surveying cashew orchard in border commune Gia Lai Vietnam",
+      "image_credit": "Báo Mới",
+      "source": "https://baomoi.com/hien-dat-chat-vuon-dieu-tim-hai-cot-liet-si-noi-bien-gioi-c56429795.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-11-04T17:10:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Du lịch thu 29.210 tỷ",
+      "text": "Đón hơn **13,5 triệu lượt khách**, thu **29.210 tỷ đồng** trong 9 tháng (tăng 25%), tỉnh phát triển 4 nhóm sản phẩm du lịch kết nối biển **Kỳ Co, Eo Gió, Hòn Khô (Quy Nhơn)** với Biển Hồ, Chư Đang Ya.",
+      "image": "press:auto",
+      "ai_prompt": "Ky Co Eo Gio turquoise beach connected with green highlands in Vietnam",
+      "image_credit": "VietNamNet",
+      "source": "https://vietnamnet.vn/gia-lai-phat-trien-4-nhom-san-pham-du-lich-ket-noi-bien-quy-nhon-voi-cao-nguyen-2571432.html",
+      "source_name": "VietNamNet",
+      "published": "2026-11-04T15:40:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Hội nghị quốc tế ở ICISE",
+      "text": "Sáng 4/11, Trung tâm **ICISE (phường Quy Nhơn Nam)** khai mạc Hội nghị quốc tế công nghệ chỉnh sửa gen FGE 2026, quy tụ gần **150 nhà khoa học từ 15 quốc gia** với gần 60 báo cáo chuyên sâu.",
+      "image": "press:auto",
+      "ai_prompt": "international science conference auditorium at ICISE Quy Nhon Vietnam",
+      "image_credit": "Thanh Niên",
+      "source": "https://thanhnien.vn/gan-150-nha-khoa-hoc-quoc-te-ban-ve-cong-nghe-chinh-sua-gen-o-gia-lai-185261104160504147.htm",
+      "source_name": "Báo Thanh Niên",
+      "published": "2026-11-04T16:46:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "26 cầu thủ U23 Việt Nam",
+      "text": "VFF vừa công bố **26 cầu thủ U23 Việt Nam** dự giải quốc tế **Gia Lai VTV Cup 2026** (thi đấu ngày **10, 12 và 14/11** tại sân Pleiku), gồm 3 cầu thủ Việt kiều và **4 gương mặt của HAGL**.",
+      "image": "press:auto",
+      "ai_prompt": "Vietnam U23 national football team training on green stadium pitch",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/lo-dien-26-cau-thu-cua-u23-viet-nam-tham-du-gia-lai-vtv-cup-2026-post603967.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-04T16:01:07+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "36 gian hàng lễ hội 6–8/11",
+      "text": "Từ **18h ngày 6 đến 8/11**, không gian **“Ẩm thực Gia Lai hội tụ”** mở cửa tại đường Anh hùng Núp (phường Pleiku) với **36 gian hàng** đặc sản địa phương và vùng miền dịp lễ hội Hoa dã quỳ.",
+      "image": "press:auto",
+      "ai_prompt": "vibrant night food festival booths with local specialties in Gia Lai Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/gia-lai-to-chuc-khong-gian-am-thuc-hoi-tu-tai-festival-cong-chieng-post603936.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-04T16:05:23+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "📌 Bà con bấm LƯU bài để theo dõi cảnh báo mưa lớn diện rộng tại Đông Gia Lai (Quy Nhơn – Bình Định cũ) từ 9–12/11, lịch U23 Việt Nam đá giải quốc tế ngày 10–14/11 và lễ hội ẩm thực 6–8/11 nhé! Bà con kỳ vọng gì khi 3 dự án nghỉ dưỡng ven biển Phương Mai – Eo Vượt gần 4.000 tỷ đi vào hoạt động phục vụ du lịch Quy Nhơn?",
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "caption": {
+    "tiktok": "3 dự án du lịch ven biển Quy Nhơn gần 4.000 tỷ sắp đấu giá cấm phân lô bán nền; Khởi tố vụ cưa hạ 538 cây rừng và phá 8,8 ha rừng? Điểm tin tối thứ Tư 4/11/2026 (Bấm LƯU bài để xem cảnh báo mưa lớn 9–12/11 & lịch U23 Việt Nam):\n\n1. Chuẩn bị đấu giá 3 dự án du lịch ven biển tại phường Quy Nhơn Đông (sườn đông núi Phương Mai, Eo Vượt 1 và 2) gần 4.000 tỷ đồng, cấm phân lô bán nền (Báo Thanh Niên)\n🔗 https://thanhnien.vn/3-du-an-du-lich-ven-bien-quy-nhon-gan-4000-ti-dong-cho-dau-gia-185261104141752004.htm\n\n2. Khởi tố hình sự các vụ cưa hạ 538 cây rừng ở xã Ia Mơ và phá 8,8 ha rừng ở xã Ia Pia; kỷ luật, phê bình nhiều cán bộ kiểm lâm và bảo vệ rừng (Báo Mới)\n🔗 https://baomoi.com/lien-tuc-de-mat-rung-lanh-dao-ban-quan-ly-rung-va-hat-kiem-lam-xin-rut-kinh-nghiem-c56430230.epi\n\n3. Khởi tố 3 thanh thiếu niên lẻn trộm xe máy của nữ công nhân cạo mủ cao su lúc 0h đêm tại xã Ia Chia (Báo Gia Lai)\n🔗 https://baogialai.com.vn/trom-xe-may-cua-cong-nhan-cao-mu-cao-su-3-doi-tuong-bi-khoi-to-post603958.html\n\n4. Cảnh báo giông, lốc, sét, mưa đá cấp độ 2 tối 4/11 mở rộng sang nhiều xã, phường phía Đông (Phù Cát, Đề Gi, Tây Sơn, Hoài Nhơn) và phía Tây tỉnh (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-canh-bao-giong-loc-set-mua-da-va-mua-lon-cuc-bo-tren-dien-rong-post603965.html\n\n5. Lãnh đạo tỉnh cùng Chủ tịch Geleximco Vũ Văn Tiền, Chủ tịch Đèo Cả Hồ Minh Hoàng dự lễ kỷ niệm 25 năm FLC tại Quần thể FLC Quy Nhơn (Báo Mới)\n🔗 https://baomoi.com/ong-vu-van-tien-vua-ham-ho-minh-hoang-xuat-hien-trong-ngay-dac-biet-cua-ong-trinh-van-quyet-c56429634.epi\n\n6. Cảnh báo từ ngày 9–12/11: Khu vực Đông Gia Lai (Bình Định cũ) và miền Trung đón đợt mưa lớn diện rộng do không khí lạnh mạnh (Báo Mới)\n🔗 https://baomoi.com/mien-trung-sap-don-mua-lon-nhu-trut-c56430331.epi\n\n7. Người dân xã Ân Hảo tự nguyện giao nộp cá thể tê tê Java cái quý hiếm nhóm IB nặng 2,2 kg đi lạc vào vườn dừa lúc 2h sáng (Báo Gia Lai)\n🔗 https://baogialai.com.vn/nguoi-dan-xa-an-hao-tu-nguyen-giao-nop-ca-the-te-te-java-quy-hiem-post603893.html\n\n8. Cựu chiến binh Siu Pich (74 tuổi, xã Ia Dom) tự nguyện chặt vườn điều, hiến đất giúp Đội K52 đào tìm hài cốt liệt sĩ (Báo Mới)\n🔗 https://baomoi.com/hien-dat-chat-vuon-dieu-tim-hai-cot-liet-si-noi-bien-gioi-c56429795.epi\n\n9. Du lịch 9 tháng đón hơn 13,5 triệu lượt khách, thu 29.210 tỷ đồng; phát triển 4 nhóm sản phẩm kết nối biển Kỳ Co – Eo Gió (Quy Nhơn) với cao nguyên (VietNamNet)\n🔗 https://vietnamnet.vn/gia-lai-phat-trien-4-nhom-san-pham-du-lich-ket-noi-bien-quy-nhon-voi-cao-nguyen-2571432.html\n\n10. Gần 150 nhà khoa học từ 15 quốc gia hội tụ tại ICISE (phường Quy Nhơn Nam) bàn về công nghệ chỉnh sửa gen FGE 2026 (Báo Thanh Niên)\n🔗 https://thanhnien.vn/gan-150-nha-khoa-hoc-quoc-te-ban-ve-cong-nghe-chinh-sua-gen-o-gia-lai-185261104160504147.htm\n\n11. Lộ diện 26 tuyển thủ U23 Việt Nam (3 cầu thủ Việt kiều, 4 cầu thủ HAGL) tranh tài tại Gia Lai VTV Cup ngày 10, 12 và 14/11 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/lo-dien-26-cau-thu-cua-u23-viet-nam-tham-du-gia-lai-vtv-cup-2026-post603967.html\n\n12. Mở cửa không gian “Ẩm thực Gia Lai hội tụ” với 36 gian hàng đặc sản từ 18h ngày 6 đến 8/11 dịp lễ hội Hoa dã quỳ (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-to-chuc-khong-gian-am-thuc-hoi-tu-tai-festival-cong-chieng-post603936.html\n\nTối nay bà con quan tâm tin nào nhất? Bấm LƯU bài để tiện tra cứu nhé!",
+    "youtube": "Đấu giá 3 dự án ven biển Quy Nhơn gần 4.000 tỷ; Cảnh báo mưa lớn 9–12/11 | Bản tin tối 4/11/2026\n\nTổng hợp 12 tin nóng Quy Nhơn & Gia Lai tối thứ Tư 4/11/2026:\n1. Chuẩn bị đấu giá 3 dự án du lịch ven biển phường Quy Nhơn Đông (Phương Mai, Eo Vượt 1 & 2) gần 4.000 tỷ đồng, cấm phân lô bán nền\n2. Khởi tố các vụ cưa hạ 538 cây rừng ở xã Ia Mơ và phá 8,8 ha rừng ở xã Ia Pia; kỷ luật kiểm lâm địa bàn\n3. Khởi tố 3 thanh thiếu niên trộm xe máy của nữ công nhân cạo mủ cao su lúc 0h đêm tại xã Ia Chia\n4. Cảnh báo giông, lốc, sét, mưa đá tối 4/11 tại nhiều xã, phường phía Đông và phía Tây tỉnh\n5. Nhiều doanh nhân lớn dự lễ kỷ niệm 25 năm Tập đoàn FLC tại Quần thể FLC Quy Nhơn\n6. Cảnh báo đợt mưa lớn diện rộng tại khu vực Đông Gia Lai (Bình Định cũ) từ ngày 9–12/11\n7. Người dân xã Ân Hảo tự nguyện giao nộp tê tê Java quý hiếm nhóm IB đi lạc vào vườn lúc 2h sáng\n8. Cựu chiến binh 74 tuổi ở xã Ia Dom tự nguyện chặt vườn điều, hiến đất tìm hài cốt liệt sĩ\n9. Du lịch 9 tháng thu 29.210 tỷ đồng, phát triển 4 nhóm sản phẩm kết nối biển Quy Nhơn với cao nguyên\n10. Gần 150 nhà khoa học từ 15 quốc gia dự hội nghị công nghệ chỉnh sửa gen tại ICISE Quy Nhơn Nam\n11. Công bố 26 cầu thủ U23 Việt Nam dự giải quốc tế Gia Lai VTV Cup ngày 10, 12 và 14/11\n12. Mở cửa 36 gian hàng “Ẩm thực Gia Lai hội tụ” từ ngày 6 đến 8/11 dịp lễ hội Hoa dã quỳ",
+    "facebook": "3 dự án du lịch ven biển Quy Nhơn gần 4.000 tỷ sắp đấu giá cấm phân lô bán nền; Khởi tố vụ cưa hạ 538 cây rừng và phá 8,8 ha rừng? Điểm tin tối thứ Tư 4/11/2026:\n\n1. Chuẩn bị đấu giá 3 dự án du lịch ven biển tại phường Quy Nhơn Đông (sườn đông núi Phương Mai, Eo Vượt 1 và 2) gần 4.000 tỷ đồng, cấm phân lô bán nền (Báo Thanh Niên)\n🔗 https://thanhnien.vn/3-du-an-du-lich-ven-bien-quy-nhon-gan-4000-ti-dong-cho-dau-gia-185261104141752004.htm\n\n2. Khởi tố hình sự các vụ cưa hạ 538 cây rừng ở xã Ia Mơ và phá 8,8 ha rừng ở xã Ia Pia; kỷ luật, phê bình nhiều cán bộ kiểm lâm và bảo vệ rừng (Báo Mới)\n🔗 https://baomoi.com/lien-tuc-de-mat-rung-lanh-dao-ban-quan-ly-rung-va-hat-kiem-lam-xin-rut-kinh-nghiem-c56430230.epi\n\n3. Khởi tố 3 thanh thiếu niên lẻn trộm xe máy của nữ công nhân cạo mủ cao su lúc 0h đêm tại xã Ia Chia (Báo Gia Lai)\n🔗 https://baogialai.com.vn/trom-xe-may-cua-cong-nhan-cao-mu-cao-su-3-doi-tuong-bi-khoi-to-post603958.html\n\n4. Cảnh báo giông, lốc, sét, mưa đá cấp độ 2 tối 4/11 mở rộng sang nhiều xã, phường phía Đông (Phù Cát, Đề Gi, Tây Sơn, Hoài Nhơn) và phía Tây tỉnh (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-canh-bao-giong-loc-set-mua-da-va-mua-lon-cuc-bo-tren-dien-rong-post603965.html\n\n5. Lãnh đạo tỉnh cùng Chủ tịch Geleximco Vũ Văn Tiền, Chủ tịch Đèo Cả Hồ Minh Hoàng dự lễ kỷ niệm 25 năm FLC tại Quần thể FLC Quy Nhơn (Báo Mới)\n🔗 https://baomoi.com/ong-vu-van-tien-vua-ham-ho-minh-hoang-xuat-hien-trong-ngay-dac-biet-cua-ong-trinh-van-quyet-c56429634.epi\n\n6. Cảnh báo từ ngày 9–12/11: Khu vực Đông Gia Lai (Bình Định cũ) và miền Trung đón đợt mưa lớn diện rộng do không khí lạnh mạnh (Báo Mới)\n🔗 https://baomoi.com/mien-trung-sap-don-mua-lon-nhu-trut-c56430331.epi\n\n7. Người dân xã Ân Hảo tự nguyện giao nộp cá thể tê tê Java cái quý hiếm nhóm IB nặng 2,2 kg đi lạc vào vườn dừa lúc 2h sáng (Báo Gia Lai)\n🔗 https://baogialai.com.vn/nguoi-dan-xa-an-hao-tu-nguyen-giao-nop-ca-the-te-te-java-quy-hiem-post603893.html\n\n8. Cựu chiến binh Siu Pich (74 tuổi, xã Ia Dom) tự nguyện chặt vườn điều, hiến đất giúp Đội K52 đào tìm hài cốt liệt sĩ (Báo Mới)\n🔗 https://baomoi.com/hien-dat-chat-vuon-dieu-tim-hai-cot-liet-si-noi-bien-gioi-c56429795.epi\n\n9. Du lịch 9 tháng đón hơn 13,5 triệu lượt khách, thu 29.210 tỷ đồng; phát triển 4 nhóm sản phẩm kết nối biển Kỳ Co – Eo Gió (Quy Nhơn) với cao nguyên (VietNamNet)\n🔗 https://vietnamnet.vn/gia-lai-phat-trien-4-nhom-san-pham-du-lich-ket-noi-bien-quy-nhon-voi-cao-nguyen-2571432.html\n\n10. Gần 150 nhà khoa học từ 15 quốc gia hội tụ tại ICISE (phường Quy Nhơn Nam) bàn về công nghệ chỉnh sửa gen FGE 2026 (Báo Thanh Niên)\n🔗 https://thanhnien.vn/gan-150-nha-khoa-hoc-quoc-te-ban-ve-cong-nghe-chinh-sua-gen-o-gia-lai-185261104160504147.htm\n\n11. Lộ diện 26 tuyển thủ U23 Việt Nam (3 cầu thủ Việt kiều, 4 cầu thủ HAGL) tranh tài tại Gia Lai VTV Cup ngày 10, 12 và 14/11 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/lo-dien-26-cau-thu-cua-u23-viet-nam-tham-du-gia-lai-vtv-cup-2026-post603967.html\n\n12. Mở cửa không gian “Ẩm thực Gia Lai hội tụ” với 36 gian hàng đặc sản từ 18h ngày 6 đến 8/11 dịp lễ hội Hoa dã quỳ (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-to-chuc-khong-gian-am-thuc-hoi-tu-tai-festival-cong-chieng-post603936.html\n\n📌 Bà con bấm LƯU bài để theo dõi cảnh báo mưa lớn diện rộng tại Đông Gia Lai (Quy Nhơn – Bình Định cũ) từ 9–12/11, lịch U23 Việt Nam đá giải quốc tế ngày 10–14/11 và lễ hội ẩm thực 6–8/11 nhé! Bà con kỳ vọng gì khi 3 dự án nghỉ dưỡng ven biển Phương Mai – Eo Vượt gần 4.000 tỷ đi vào hoạt động phục vụ du lịch Quy Nhơn?"
+  },
+  "needs_review": []
+}
