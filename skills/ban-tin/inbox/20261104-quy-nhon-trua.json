@@ -1,0 +1,169 @@
+{
+  "type": "digest",
+  "output": "anh",
+  "date": "2026-11-04",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "brand": [
+    "QUY NHƠN ",
+    "24H QUA"
+  ],
+  "cover": {
+    "kicker": "ĐIỂM TIN TRƯA",
+    "title": "Tin tức Quy Nhơn",
+    "subtitle": "Ngày 4/11/2026",
+    "teaser": "Đẩy xe nôi bé gái vài tháng tuổi xin ăn ở đường Nguyễn Tất Thành?",
+    "image": "item:1"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "label": "Xác minh xin ăn Quy Nhơn",
+      "text": "Kiểm tra đột xuất đường Nguyễn Tất Thành, tổ công tác **phường Quy Nhơn** phát hiện bà T.T.L. (SN 1974) đẩy xe nôi bé gái sinh tháng 1/2026 xin ăn nhiều nghi vấn, đã chuyển Công an phường xác minh.",
+      "image": "press:auto",
+      "ai_prompt": "urban order patrol officers walking along coastal boulevard sidewalk in Quy Nhon Vietnam",
+      "image_credit": "Báo Mới",
+      "source": "https://baomoi.com/quan-ly-nguoi-lang-thang-xin-an-gan-voi-an-sinh-xa-hoi-c56424647.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-11-04T08:42:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Giá trị lịch sử núi Một",
+      "text": "Đề xuất chi 500 tỷ đồng san phẳng 6,88 ha **núi Một** (phường Quy Nhơn) dự thu 850 tỷ đấu giá đất, nhưng giới sử học lưu ý tỉnh đã đưa “Chiến thắng núi Một” vào danh mục kiểm kê **di tích lịch sử**.",
+      "image": "press:auto",
+      "ai_prompt": "green mountain hill surrounded by urban houses in Quy Nhon coastal city Vietnam",
+      "image_credit": "Báo Mới",
+      "source": "https://baomoi.com/gia-lai-danh-gia-ky-luong-truoc-de-xuat-san-nui-mot-c56423994.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-11-04T07:16:41+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Kêu gọi đầu thú vụ A2",
+      "text": "Khi lực lượng chức năng vây núi Cây Cày tìm phạm nhân cuối trốn **Trại giam A2** là H.V.T. (SN 2002, phường An Phú, Gia Lai), tổ dân phố và **người mẹ 50 tuổi** ở quê nhà mong con sớm ra đầu thú.",
+      "image": "press:auto",
+      "ai_prompt": "police checkpoint on misty mountain forest road in central Vietnam",
+      "image_credit": "Tiền Phong",
+      "source": "https://tienphong.vn/me-cua-ho-van-tinh-pham-nhan-cuoi-cung-dang-lan-tron-mong-con-som-ra-dau-thu-post1891049.tpo",
+      "source_name": "Báo Tiền Phong",
+      "published": "2026-11-03T13:14:34+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "12 năm tù vì đánh người",
+      "text": "TAND tỉnh vừa tuyên phạt N.Q.H. (SN 2000, xã Chư Prông) **12 năm tù**: nghe cãi vã đòi nợ 13 triệu đồng ở xã Ia Boòng, bị cáo cầm **thanh sắt dài 1m** đánh vào đầu người đòi nợ gây thương tích 37%.",
+      "image": "press:auto",
+      "ai_prompt": "provincial people courtroom trial session in Gia Lai Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/lanh-an-12-nam-tu-vi-dung-thanh-sat-danh-nguoi-doi-no-post603890.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-03T21:00:25+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Bế mạc Năm Du lịch 2026",
+      "text": "Thường trực Tỉnh ủy thống nhất dời Lễ bế mạc **Năm Du lịch quốc gia 2026** từ Pleiku về **Quảng trường Nguyễn Tất Thành** (phường Quy Nhơn) ngày 6/12, gắn kết với Hội nghị ISOM APEC 2027 từ 7–9/12.",
+      "image": "press:auto",
+      "ai_prompt": "Nguyen Tat Thanh central coastal square stage and beach in Quy Nhon Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/le-be-mac-nam-du-lich-quoc-gia-gia-lai-2026-se-dien-ra-tai-phuong-quy-nhon-post603884.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-03T18:00:45+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Di dời 2 CCN ở Quy Nhơn",
+      "text": "Để chỉnh trang đô thị và hỗ trợ ổn định sản xuất tại **CCN Bùi Thị Xuân**, tỉnh chỉ đạo 2 phường làm việc từng doanh nghiệp chưa nhận bồi thường ở **CCN Nhơn Bình** (22/38 đơn vị) và **Quang Trung**.",
+      "image": "press:auto",
+      "ai_prompt": "industrial zone factory relocation urban planning in Quy Nhon city Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/gia-lai-khan-truong-di-doi-doanh-nghiep-tai-cac-cum-cong-nghiep-nhon-binh-quang-trung-post603805.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-04T08:38:06+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Bắt đối tượng hỗn chiến",
+      "text": "Công an tỉnh vừa khởi tố, **bắt tạm giam** Đ.M.Đ. (SN 2006, có 2 tiền án, trú xã Chư Prông) sau thời gian phát lệnh truy tìm do dùng bàn ghế, mũ bảo hiểm đánh nhau gây náo loạn quán nước rồi bỏ trốn.",
+      "image": "press:auto",
+      "ai_prompt": "police investigator working on case file at station in Gia Lai Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/tam-giam-doi-tuong-gay-roi-danh-nguoi-o-xa-chu-prong-post603881.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-03T20:32:40+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Tái định cư cao tốc",
+      "text": "Phục vụ dự án **Cao tốc Quy Nhơn – Pleiku**, tỉnh triển khai 9 khu tái định cư; riêng dự án thành phần 1 tại phường An Nhơn và các xã Bình Hiệp, Bình An đã **giao đất cho 220 hộ**, 84 hộ đang xây nhà.",
+      "image": "press:auto",
+      "ai_prompt": "new residential resettlement area paved roads and houses under construction in Vietnam",
+      "image_credit": "Báo Mới",
+      "source": "https://baomoi.com/gia-lai-day-tien-do-hoan-thien-ha-tang-tai-dinh-cu-du-an-cao-toc-quy-nhon-pleiku-c56422473.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-11-03T20:41:00+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Phòng bệnh não mô cầu",
+      "text": "Lo ngại **bệnh não mô cầu** diễn tiến nhanh, nhiều phụ huynh trong tỉnh chủ động đưa con đi tiêm vắc xin; Sở Y tế yêu cầu các xã, phường và cơ sở y tế **giám sát chặt**, xử lý sớm ca nghi mắc.",
+      "image": "press:auto",
+      "ai_prompt": "doctor consulting parents at vaccination clinic in Gia Lai Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/chu-dong-trien-khai-cac-bien-phap-phong-benh-nao-mo-cau-post603904.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-04T08:47:31+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Lương tối thiểu 1/1/2027",
+      "text": "Theo Nghị định 399/2026/NĐ-CP tăng **lương tối thiểu vùng** từ 1/1/2027, Gia Lai xếp **Vùng II** tại 5 phường Quy Nhơn (Quy Nhơn, Đông, Tây, Nam, Bắc) và Pleiku; **16 phường, 2 xã** thuộc Vùng III.",
+      "image": "press:auto",
+      "ai_prompt": "workers on modern manufacturing line in Quy Nhon Vietnam",
+      "image_credit": "Báo Mới",
+      "source": "https://baomoi.com/danh-muc-dia-ban-ap-dung-muc-luong-toi-thieu-tu-ngay-1-1-2027-c56425226.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-11-04T09:51:00+07:00"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Sinh viên Quy Nhơn đạt giải",
+      "text": "Vượt qua 31 đội từ 10 trường đại học sau 6 giờ lập trình, hai đội sinh viên **ĐH Quy Nhơn** và **ĐH FPT Quy Nhơn** cùng giành **giải Nhì** Olympic Trí tuệ nhân tạo miền Trung, vào chung kết toàn quốc.",
+      "image": "press:auto",
+      "ai_prompt": "university students receiving AI competition award on stage in Vietnam",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baogialai.com.vn/gia-lai-co-2-doi-tuyen-gianh-giai-nhi-olympic-tri-tue-nhan-tao-khu-vuc-mien-trung-post603882.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-03T18:04:22+07:00"
+    },
+    {
+      "category": "tinh",
+      "label": "Giá nông sản ngày 4/11",
+      "text": "Sáng thứ Tư 4/11, **giá cà phê** tại Gia Lai giảm nhẹ 200 đồng/kg về mức **84.500 đồng/kg** do nguồn cung vụ thu hoạch mới tăng lên dù sàn thế giới khởi sắc; **hồ tiêu** giữ ổn định 134.000 đồng/kg.",
+      "image": "press:auto",
+      "ai_prompt": "farmers harvesting red ripe coffee berries in Gia Lai Central Highlands Vietnam",
+      "image_credit": "Báo Mới",
+      "source": "https://baomoi.com/gia-nong-san-hom-nay-4-11-ca-phe-giam-nhe-ho-tieu-giu-gia-c56424998.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-11-04T09:14:00+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "📌 Bà con bấm LƯU bài để tra cứu phân vùng lương tối thiểu mới áp dụng từ 1/1/2027 tại Quy Nhơn – Gia Lai, lịch Lễ bế mạc Năm Du lịch quốc gia ngày 6/12 ở Quảng trường Nguyễn Tất Thành và giá nông sản 4/11 nhé! Bà con ủng hộ xây dựng Quy Nhơn văn minh, không còn cảnh chăn dắt trẻ nhỏ xin ăn không ạ?",
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "caption": {
+    "tiktok": "Đẩy xe nôi bé gái vài tháng tuổi xin ăn ở đường Nguyễn Tất Thành; Lễ bế mạc Năm Du lịch quốc gia 2026 dời về Quảng trường Nguyễn Tất Thành ngày 6/12? Điểm tin trưa thứ Tư 4/11/2026 (Bấm LƯU bài để tra cứu vùng lương tối thiểu mới từ 1/1/2027 & giá nông sản 4/11):\n\n1. Tổ công tác phường Quy Nhơn kiểm tra đường Nguyễn Tất Thành, chuyển Công an xác minh trường hợp phụ nữ đẩy xe nôi bé gái vài tháng tuổi xin ăn nhiều nghi vấn (Báo Mới)\n🔗 https://baomoi.com/quan-ly-nguoi-lang-thang-xin-an-gan-voi-an-sinh-xa-hoi-c56424647.epi\n\n2. Đề xuất chi 500 tỷ san phẳng 6,88 ha núi Một dự thu 850 tỷ đấu giá đất: giới sử học lưu ý địa danh “Chiến thắng núi Một” nằm trong danh mục kiểm kê di tích lịch sử (Báo Mới)\n🔗 https://baomoi.com/gia-lai-danh-gia-ky-luong-truoc-de-xuat-san-nui-mot-c56423994.epi\n\n3. Lực lượng chức năng vây núi Cây Cày tìm phạm nhân cuối trốn Trại giam A2 quê Gia Lai; tổ dân phố và người mẹ 50 tuổi ở phường An Phú mong con sớm đầu thú (Báo Tiền Phong)\n🔗 https://tienphong.vn/me-cua-ho-van-tinh-pham-nhan-cuoi-cung-dang-lan-tron-mong-con-som-ra-dau-thu-post1891049.tpo\n\n4. TAND tỉnh tuyên phạt N.Q.H. (SN 2000, xã Chư Prông) 12 năm tù vì cầm thanh sắt đánh vào đầu người đòi khoản nợ 13 triệu đồng gây thương tích 37% (Báo Gia Lai)\n🔗 https://baogialai.com.vn/lanh-an-12-nam-tu-vi-dung-thanh-sat-danh-nguoi-doi-no-post603890.html\n\n5. Dời Lễ bế mạc Năm Du lịch quốc gia 2026 về Quảng trường Nguyễn Tất Thành (phường Quy Nhơn) ngày 6/12, gắn kết Hội nghị ISOM APEC 2027 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/le-be-mac-nam-du-lich-quoc-gia-gia-lai-2026-se-dien-ra-tai-phuong-quy-nhon-post603884.html\n\n6. Chỉ đạo 2 phường Quy Nhơn Đông, Quy Nhơn Nam làm việc từng doanh nghiệp chưa nhận bồi thường tại CCN Nhơn Bình và Quang Trung để di dời về CCN Bùi Thị Xuân trước 1/10/2027 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-khan-truong-di-doi-doanh-nghiep-tai-cac-cum-cong-nghiep-nhon-binh-quang-trung-post603805.html\n\n7. Bắt tạm giam Đ.M.Đ. (SN 2006, xã Chư Prông) sau thời gian truy tìm vụ dùng bàn ghế, mũ bảo hiểm hỗn chiến gây náo loạn quán nước (Báo Gia Lai)\n🔗 https://baogialai.com.vn/tam-giam-doi-tuong-gay-roi-danh-nguoi-o-xa-chu-prong-post603881.html\n\n8. Dự án Cao tốc Quy Nhơn – Pleiku: đã giao đất tái định cư cho 220 hộ dân tại An Nhơn, Bình Hiệp, Bình An; 84 hộ đang xây dựng nhà mới (Báo Mới)\n🔗 https://baomoi.com/gia-lai-day-tien-do-hoan-thien-ha-tang-tai-dinh-cu-du-an-cao-toc-quy-nhon-pleiku-c56422473.epi\n\n9. Nhiều phụ huynh chủ động đưa con tiêm vắc xin phòng bệnh não mô cầu; Sở Y tế yêu cầu các xã, phường giám sát chặt ca nghi mắc (Báo Gia Lai)\n🔗 https://baogialai.com.vn/chu-dong-trien-khai-cac-bien-phap-phong-benh-nao-mo-cau-post603904.html\n\n10. Công bố phân vùng lương tối thiểu mới từ 1/1/2027 (Nghị định 399/2026/NĐ-CP): 5 phường Quy Nhơn và Pleiku thuộc Vùng II; 16 phường, 2 xã thuộc Vùng III (Báo Mới)\n🔗 https://baomoi.com/danh-muc-dia-ban-ap-dung-muc-luong-toi-thieu-tu-ngay-1-1-2027-c56425226.epi\n\n11. Hai đội tuyển ĐH Quy Nhơn và ĐH FPT Quy Nhơn cùng giành giải Nhì Olympic Trí tuệ nhân tạo miền Trung, lọt vào chung kết toàn quốc (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-co-2-doi-tuyen-gianh-giai-nhi-olympic-tri-tue-nhan-tao-khu-vuc-mien-trung-post603882.html\n\n12. Giá nông sản sáng 4/11: Cà phê tại Gia Lai giảm nhẹ về 84.500 đồng/kg, hồ tiêu giữ giá 134.000 đồng/kg (Báo Mới)\n🔗 https://baomoi.com/gia-nong-san-hom-nay-4-11-ca-phe-giam-nhe-ho-tieu-giu-gia-c56424998.epi\n\nTrưa nay bà con quan tâm tin nào nhất? Bấm LƯU bài để tiện tra cứu nhé!",
+    "youtube": "Xác minh xin ăn ở đường Nguyễn Tất Thành; Lễ bế mạc Năm Du lịch về Quy Nhơn | Bản tin trưa 4/11/2026\n\nTổng hợp 12 tin nóng Quy Nhơn & Gia Lai trưa thứ Tư 4/11/2026:\n1. Phường Quy Nhơn chuyển Công an xác minh trường hợp đẩy xe nôi bé gái vài tháng tuổi xin ăn trên đường Nguyễn Tất Thành\n2. Đề xuất san núi Một: giới sử học lưu ý địa danh “Chiến thắng núi Một” thuộc danh mục kiểm kê di tích lịch sử\n3. Vụ trốn Trại giam A2: tổ dân phố và người mẹ 50 tuổi ở Gia Lai mong con trai sớm ra đầu thú\n4. Tuyên phạt 12 năm tù đối tượng dùng thanh sắt đánh người đi đòi khoản nợ 13 triệu đồng\n5. Dời Lễ bế mạc Năm Du lịch quốc gia 2026 về Quảng trường Nguyễn Tất Thành (Quy Nhơn) ngày 6/12 gắn với ISOM APEC 2027\n6. Làm việc từng doanh nghiệp chưa nhận bồi thường tại CCN Nhơn Bình và Quang Trung để di dời về CCN Bùi Thị Xuân\n7. Bắt tạm giam đối tượng có 2 tiền án bỏ trốn sau vụ hỗn chiến tại quán nước xã Chư Prông\n8. Dự án Cao tốc Quy Nhơn – Pleiku: giao đất tái định cư cho 220 hộ dân, 84 hộ đang xây nhà\n9. Chủ động tiêm vắc xin và giám sát chặt phòng bệnh não mô cầu trên địa bàn tỉnh\n10. Phân vùng lương tối thiểu mới từ 1/1/2027: 5 phường Quy Nhơn và Pleiku thuộc Vùng II\n11. Sinh viên ĐH Quy Nhơn và ĐH FPT Quy Nhơn giành cú đúp giải Nhì Olympic AI miền Trung\n12. Giá nông sản sáng 4/11: Cà phê giảm nhẹ về 84.500 đồng/kg, hồ tiêu ổn định 134.000 đồng/kg",
+    "facebook": "Đẩy xe nôi bé gái vài tháng tuổi xin ăn ở đường Nguyễn Tất Thành; Lễ bế mạc Năm Du lịch quốc gia 2026 dời về Quảng trường Nguyễn Tất Thành ngày 6/12? Điểm tin trưa thứ Tư 4/11/2026:\n\n1. Tổ công tác phường Quy Nhơn kiểm tra đường Nguyễn Tất Thành, chuyển Công an xác minh trường hợp phụ nữ đẩy xe nôi bé gái vài tháng tuổi xin ăn nhiều nghi vấn (Báo Mới)\n🔗 https://baomoi.com/quan-ly-nguoi-lang-thang-xin-an-gan-voi-an-sinh-xa-hoi-c56424647.epi\n\n2. Đề xuất chi 500 tỷ san phẳng 6,88 ha núi Một dự thu 850 tỷ đấu giá đất: giới sử học lưu ý địa danh “Chiến thắng núi Một” nằm trong danh mục kiểm kê di tích lịch sử (Báo Mới)\n🔗 https://baomoi.com/gia-lai-danh-gia-ky-luong-truoc-de-xuat-san-nui-mot-c56423994.epi\n\n3. Lực lượng chức năng vây núi Cây Cày tìm phạm nhân cuối trốn Trại giam A2 quê Gia Lai; tổ dân phố và người mẹ 50 tuổi ở phường An Phú mong con sớm đầu thú (Báo Tiền Phong)\n🔗 https://tienphong.vn/me-cua-ho-van-tinh-pham-nhan-cuoi-cung-dang-lan-tron-mong-con-som-ra-dau-thu-post1891049.tpo\n\n4. TAND tỉnh tuyên phạt N.Q.H. (SN 2000, xã Chư Prông) 12 năm tù vì cầm thanh sắt đánh vào đầu người đòi khoản nợ 13 triệu đồng gây thương tích 37% (Báo Gia Lai)\n🔗 https://baogialai.com.vn/lanh-an-12-nam-tu-vi-dung-thanh-sat-danh-nguoi-doi-no-post603890.html\n\n5. Dời Lễ bế mạc Năm Du lịch quốc gia 2026 về Quảng trường Nguyễn Tất Thành (phường Quy Nhơn) ngày 6/12, gắn kết Hội nghị ISOM APEC 2027 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/le-be-mac-nam-du-lich-quoc-gia-gia-lai-2026-se-dien-ra-tai-phuong-quy-nhon-post603884.html\n\n6. Chỉ đạo 2 phường Quy Nhơn Đông, Quy Nhơn Nam làm việc từng doanh nghiệp chưa nhận bồi thường tại CCN Nhơn Bình và Quang Trung để di dời về CCN Bùi Thị Xuân trước 1/10/2027 (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-khan-truong-di-doi-doanh-nghiep-tai-cac-cum-cong-nghiep-nhon-binh-quang-trung-post603805.html\n\n7. Bắt tạm giam Đ.M.Đ. (SN 2006, xã Chư Prông) sau thời gian truy tìm vụ dùng bàn ghế, mũ bảo hiểm hỗn chiến gây náo loạn quán nước (Báo Gia Lai)\n🔗 https://baogialai.com.vn/tam-giam-doi-tuong-gay-roi-danh-nguoi-o-xa-chu-prong-post603881.html\n\n8. Dự án Cao tốc Quy Nhơn – Pleiku: đã giao đất tái định cư cho 220 hộ dân tại An Nhơn, Bình Hiệp, Bình An; 84 hộ đang xây dựng nhà mới (Báo Mới)\n🔗 https://baomoi.com/gia-lai-day-tien-do-hoan-thien-ha-tang-tai-dinh-cu-du-an-cao-toc-quy-nhon-pleiku-c56422473.epi\n\n9. Nhiều phụ huynh chủ động đưa con tiêm vắc xin phòng bệnh não mô cầu; Sở Y tế yêu cầu các xã, phường giám sát chặt ca nghi mắc (Báo Gia Lai)\n🔗 https://baogialai.com.vn/chu-dong-trien-khai-cac-bien-phap-phong-benh-nao-mo-cau-post603904.html\n\n10. Công bố phân vùng lương tối thiểu mới từ 1/1/2027 (Nghị định 399/2026/NĐ-CP): 5 phường Quy Nhơn và Pleiku thuộc Vùng II; 16 phường, 2 xã thuộc Vùng III (Báo Mới)\n🔗 https://baomoi.com/danh-muc-dia-ban-ap-dung-muc-luong-toi-thieu-tu-ngay-1-1-2027-c56425226.epi\n\n11. Hai đội tuyển ĐH Quy Nhơn và ĐH FPT Quy Nhơn cùng giành giải Nhì Olympic Trí tuệ nhân tạo miền Trung, lọt vào chung kết toàn quốc (Báo Gia Lai)\n🔗 https://baogialai.com.vn/gia-lai-co-2-doi-tuyen-gianh-giai-nhi-olympic-tri-tue-nhan-tao-khu-vuc-mien-trung-post603882.html\n\n12. Giá nông sản sáng 4/11: Cà phê tại Gia Lai giảm nhẹ về 84.500 đồng/kg, hồ tiêu giữ giá 134.000 đồng/kg (Báo Mới)\n🔗 https://baomoi.com/gia-nong-san-hom-nay-4-11-ca-phe-giam-nhe-ho-tieu-giu-gia-c56424998.epi\n\n📌 Bà con bấm LƯU bài để tra cứu phân vùng lương tối thiểu mới áp dụng từ 1/1/2027 tại Quy Nhơn – Gia Lai, lịch Lễ bế mạc Năm Du lịch quốc gia ngày 6/12 ở Quảng trường Nguyễn Tất Thành và giá nông sản 4/11 nhé! Bà con ủng hộ xây dựng Quy Nhơn văn minh, không còn cảnh chăn dắt trẻ nhỏ xin ăn không ạ?"
+  },
+  "needs_review": []
+}
