@@ -1,0 +1,138 @@
+{
+  "type": "digest",
+  "output": "anh",
+  "date": "2026-11-08",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "brand": [
+    "QUY NHƠN",
+    "24H QUA"
+  ],
+  "chip": "",
+  "cover": {
+    "kicker": "BẢN TIN TỐI",
+    "title": "Quy Nhơn 24h Qua",
+    "subtitle": "Tối Chủ Nhật 8/11/2026",
+    "teaser": "Công điện khẩn số 04: Hoàn thành sơ tán dân vùng nguy hiểm trong sáng 9/11 trước đợt mưa >400mm",
+    "icon": "warning"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "label": "Cảnh báo mưa lũ >400mm",
+      "text": "Tối **8/11**, Chủ tịch UBND tỉnh ra **Công điện số 04** yêu cầu hoàn thành sơ tán dân vùng nguy hiểm ngay trong **sáng 9/11**, trước đợt mưa lớn phía Đông tỉnh có nơi **trên 400 mm** từ **9–12/11**.",
+      "source": "https://baogialai.com.vn/khan-truong-ra-soat-hoan-thanh-so-tan-dan-khoi-vung-nguy-hiem-trong-sang-9-11-post604372.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-08T19:34:38+07:00",
+      "from_user": false
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Pháp luật • Hoài Ân",
+      "text": "Công an tỉnh vừa khởi tố **3 đối tượng** ở **xã Hoài Ân** gồm **L.T.P.** (SN 2001), **Đ.T.C.** (SN 1992) và **T.N.T.** (SN 1989) về hành vi mua bán, tổ chức sử dụng trái phép ma túy tại nhà riêng.",
+      "source": "https://baogialai.com.vn/khoi-to-3-doi-tuong-to-chuc-su-dung-mua-ban-trai-phep-chat-ma-tuy-o-xa-hoai-an-post604323.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-08T13:49:44+07:00",
+      "from_user": false
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Chấn chỉnh giá giữ xe",
+      "text": "Ngày **8/11**, UBND tỉnh yêu cầu các phường **Pleiku, Hội Phú, Diên Hồng, Biển Hồ** xử lý nghiêm nạn thu tiền giữ xe quá quy định, ép giá, bán hàng rong và duy trì đường dây nóng **24/7** dịp lễ hội.",
+      "source": "https://baogialai.com.vn/tang-cuong-cong-tac-dam-bao-an-ninh-trat-tu-quan-ly-gia-dich-vu-va-ve-sinh-moi-truong-tai-festival-cong-chieng-post604339.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-08T13:43:20+07:00",
+      "from_user": false
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Cao tốc Quy Nhơn",
+      "text": "Dự án **cao tốc Quy Nhơn – Pleiku** dài **125 km** (vốn **43.734 tỷ đồng**) đã bàn giao **122/125 km** mặt bằng (**97,3%**); phần còn lại của Dự án thành phần 2 sẽ bàn giao xong trước **15/11/2026**.",
+      "source": "https://baomoi.com/gia-lai-quyet-liet-go-tung-nut-mat-bang-thuan-loi-thi-cong-cao-toc-quy-nhon-pleiku-c56460105.epi",
+      "source_name": "Báo Xây Dựng",
+      "published": "2026-11-08T12:39:00+07:00",
+      "from_user": false
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Cẩm nang • VNeID",
+      "text": "Từ nay đến **15/12/2026**, tỉnh mở đợt cao điểm hỗ trợ người dân tại các thôn, tổ dân phố tích hợp tài khoản hưởng **an sinh xã hội trên VNeID**, phấn đấu đạt **80%** công dân từ **15 tuổi** trở lên.",
+      "source": "https://baogialai.com.vn/gia-lai-dat-muc-tieu-80-cong-dan-tu-15-tuoi-tro-len-tich-hop-tai-khoan-thanh-toan-tren-vneid-post604359.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-08T18:41:25+07:00",
+      "from_user": false
+    },
+    {
+      "category": "khu-vuc",
+      "label": "An toàn giao thông",
+      "text": "Ngày **8/11**, Công an **xã Ia Ly** phối hợp Phòng CSGT Công an tỉnh dán phản quang miễn phí trước và sau thùng xe cho **hơn 100 xe công nông, máy cày**, yêu cầu chủ xe cam kết không tự ý độ chế.",
+      "source": "https://baogialai.com.vn/hon-100-xe-cong-nong-may-cay-o-xa-ia-ly-duoc-dan-phan-quang-post604337.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-08T11:05:33+07:00",
+      "from_user": false
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Chống lừa đảo mạng",
+      "text": "**Rapper Đen** và ca sĩ **Hiền VK** vừa đồng hành cùng **hơn 1.000 học sinh Gia Lai** trong Chiến dịch **“Không một mình”**, trang bị kỹ năng bảo vệ dữ liệu cá nhân và nhận diện lừa đảo trực tuyến.",
+      "source": "https://baogialai.com.vn/toan-canh-gia-lai-24h-hon-1000-hoc-sinh-gia-lai-tham-gia-chien-dich-khong-mot-minh-post604362.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-08T18:30:00+07:00",
+      "from_user": false
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Giáo dục • Tự hào",
+      "text": "**3 học sinh Gia Lai** thuộc **Trường THPT Chi Lăng** và **Trường Sao Việt** vừa xuất sắc giành **Huy chương Vàng** tại Vòng quốc tế Kỳ thi **Olympic Nhà Vật lý trẻ thế giới 2026** ở Bali (Indonesia).",
+      "source": "https://baogialai.com.vn/3-hoc-sinh-gia-lai-dat-huy-chuong-vang-ky-thi-olympic-nha-vat-ly-tre-the-gioi-2026-post604352.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-08T15:49:56+07:00",
+      "from_user": false
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Thể thao • U23 VTV Cup",
+      "text": "Chiều **8/11**, **U23 Singapore** (34 thành viên) đã đến Gia Lai sau **U23 Qatar**, sẵn sàng cùng **U23 Việt Nam** và **U23 Thái Lan** tranh tài giải quốc tế **U23 – Gia Lai VTV Cup** từ **10–14/11**.",
+      "source": "https://baogialai.com.vn/u23-singapore-den-gia-lai-du-giai-bong-da-giao-huu-quoc-te-post604369.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-08T19:37:25+07:00",
+      "from_user": false
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Thể thao • HAGL",
+      "text": "HLV **Kim Sang-sik** vừa gọi bổ sung tiền vệ đội trưởng **Hoàng Vĩnh Nguyên** (SN 2002) của **CLB HAGL** lên **Đội tuyển Việt Nam** cùng thủ môn **Trần Trung Kiên**, chuẩn bị đá giải **Casper Cup**.",
+      "source": "https://baogialai.com.vn/doi-truong-cua-hagl-duoc-trieu-tap-len-tuyen-quoc-gia-post604368.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-08T18:38:14+07:00",
+      "from_user": false
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Nhịp sống • Quy Nhơn",
+      "text": "**Ban Quản lý Dịch vụ công Quy Nhơn** phối hợp **Agribank** và chính quyền địa phương vừa trao tặng sổ tiết kiệm **10 triệu đồng** giúp hộ nghèo ở **thôn 9, xã Kbang** có thêm vốn phát triển sinh kế.",
+      "source": "https://baogialai.com.vn/ban-quan-ly-dich-vu-cong-quy-nhon-tang-so-tiet-kiem-cho-ho-ngheo-xa-kbang-post604278.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-07T22:09:26+07:00",
+      "from_user": false
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Cùng chia sẻ góc nhìn văn minh với cộng đồng!",
+  "outro_question": "Bà con ở khu vực nào của Quy Nhơn – Gia Lai, tối nay thời tiết chỗ mình ra sao rồi ạ?",
+  "pin_comment": "📌 Bấm LƯU bài để tiện tra cứu mốc ứng phó mưa lớn >400mm từ chiều 9–12/11, đợt cao điểm tích hợp VNeID đến 15/12 và lịch giải bóng đá U23 quốc tế (10–14/11) bà con nhé! Nhà mình ở khu vực nào của Quy Nhơn – Gia Lai, thời tiết tối nay ra sao rồi ạ?",
+  "caption": {
+    "tiktok": "Điểm tin tối Chủ Nhật 8/11/2026 – Quy Nhơn 24h Qua:\n1. Công điện khẩn số 04: Hoàn thành sơ tán dân vùng nguy hiểm ngay trong sáng 9/11 trước đợt mưa lớn >400mm (9–12/11)\n2. Hoài Ân: Khởi tố 3 đối tượng mua bán, tổ chức sử dụng ma túy tại nhà riêng\n3. Chấn chỉnh thu tiền giữ xe quá quy định, ép giá, bán hàng rong dịp Festival\n4. Cao tốc Quy Nhơn – Pleiku đạt 97,3% mặt bằng (122/125 km)\n5. Cẩm nang: Cao điểm hỗ trợ tích hợp tài khoản an sinh xã hội trên VNeID đến 15/12\n6. Công an xã Ia Ly dán phản quang miễn phí cho hơn 100 xe công nông, máy cày\n7. Rapper Đen & hơn 1.000 học sinh Gia Lai tham gia Chiến dịch “Không một mình” chống lừa đảo mạng\n8. Tự hào 3 học sinh Gia Lai giành HCV Olympic Nhà Vật lý trẻ thế giới 2026\n9. U23 Singapore đến Gia Lai dự giải quốc tế U23 VTV Cup (10–14/11)\n10. Đội trưởng HAGL Hoàng Vĩnh Nguyên được gọi bổ sung lên Tuyển Việt Nam\n11. BQL Dịch vụ công Quy Nhơn trao sổ tiết kiệm 10 triệu đồng tặng hộ nghèo xã Kbang\n\nNguồn: Báo Gia Lai, Báo Xây Dựng\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Điểm tin tối Chủ Nhật 8/11/2026 – Quy Nhơn 24h Qua: Công điện khẩn số 04 ứng phó mưa lớn >400mm, khởi tố 3 đối tượng ma túy ở Hoài Ân, cao tốc Quy Nhơn – Pleiku đạt 97,3% mặt bằng, cao điểm tích hợp VNeID... #quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "facebook": "Điểm tin tối Chủ Nhật 8/11/2026 – Quy Nhơn 24h Qua: Công điện khẩn số 04 hoàn thành sơ tán dân vùng nguy hiểm trong sáng 9/11 trước đợt mưa lớn >400mm; khởi tố 3 đối tượng ma túy ở Hoài Ân; cao tốc Quy Nhơn – Pleiku đạt 97,3% mặt bằng... #quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "needs_review": []
+}
