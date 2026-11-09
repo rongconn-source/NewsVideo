@@ -1,0 +1,142 @@
+{
+  "type": "digest",
+  "output": "anh",
+  "date": "2026-11-09",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "brand": [
+    "QUY NHƠN",
+    "24H QUA"
+  ],
+  "chip": "",
+  "cover": {
+    "kicker": "BẢN TIN TRƯA",
+    "title": "Quy Nhơn 24h Qua",
+    "subtitle": "Thứ Hai 9/11/2026",
+    "teaser": "Xuyên đêm sơ tán khẩn cấp 29/30 hộ dân vùng nguy cơ sạt lở núi Một ở Quy Nhơn",
+    "image": "item:2",
+    "icon": "warning"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "label": "Sơ tán đêm • Núi Một",
+      "text": "Đến khuya **8/11**, **phường Quy Nhơn** đã xuyên đêm sơ tán khẩn cấp **29/30 hộ dân** vùng nguy hiểm tại **núi Một** (TDP 19, 20), đồng thời túc trực ở **núi Bà Hỏa**, **xóm Đăng**, **xóm Đò** và **Hải Minh**.",
+      "source": "https://baogialai.com.vn/phuong-quy-nhon-khan-truong-so-tan-nguoi-dan-khoi-khu-vuc-co-nguy-co-sat-lo-post604387.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-09T05:01:38+07:00",
+      "from_user": false
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Cảnh báo vùng ngập",
+      "text": "Lưu vực **sông Hà Thanh** (**Quy Nhơn Tây, Quy Nhơn Bắc, Quy Nhơn Đông, Tuy Phước**), **sông Kôn** và **Lại Giang** cảnh báo nguy cơ ngập cao từ **9–12/11**; vùng biển gió giật **cấp 7–8**, sóng cao **2–4 m**.",
+      "image": "press:https://baomoi-photo-fbcrawler.bmcdn.me/w1200_r16x9/2026_11_08_425_56463195/2dc70953ae1847461e09.jpg",
+      "image_credit": "Báo Gia Lai",
+      "source": "https://baomoi.com/gia-lai-canh-bao-nhieu-khu-vuc-co-nguy-co-cao-xay-ra-ngap-lut-sat-lo-c56464215.epi",
+      "source_name": "Báo Xây Dựng",
+      "published": "2026-11-09T08:16:00+07:00",
+      "from_user": false
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Cảnh giác lừa đảo",
+      "text": "Công an **phường Hoài Nhơn Nam** phát cảnh báo thủ đoạn giả danh cán bộ gọi điện yêu cầu **“cập nhật sổ hộ khẩu điện tử”**, gửi link giả mạo và xin **mã OTP** để chiếm đoạt tiền trong tài khoản ngân hàng.",
+      "source": "https://baogialai.com.vn/canh-giac-thu-doan-lua-dao-bang-kich-ban-cap-nhat-so-ho-khau-dien-tu-post604386.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-09T04:57:55+07:00",
+      "from_user": false
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Dân sinh • Nước sạch",
+      "text": "Tại **xã Ân Tường**, **Nhà máy nước sạch Ân Hữu** vốn **gần 13 tỷ đồng** hoàn thành từ năm **2023** vẫn chưa vận hành do thiếu đường ống dẫn, trong khi nhà máy cũ xuống cấp khiến hàng nghìn hộ thiếu nước.",
+      "source": "https://baogialai.com.vn/co-nha-may-nuoc-nguoi-dan-van-khat-nuoc-sach-post603903.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-09T07:14:23+07:00",
+      "from_user": false
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Giáo dục • Tuy Phước",
+      "text": "Có bằng đại học sư phạm từ năm **2011**, một giáo viên **Trường Tiểu học Phước Hiệp** (**xã Tuy Phước Bắc**) đến nay vẫn phải hưởng lương trình độ **cao đẳng** do vướng quy định về vị trí việc làm.",
+      "source": "https://baogialai.com.vn/vuong-vi-tri-viec-lam-giao-vien-chua-duoc-chuyen-xep-luong-post604379.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-09T05:06:06+07:00",
+      "from_user": false
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Kinh tế • Sản phẩm OCOP",
+      "text": "Sau **9 tháng** năm **2026**, toàn tỉnh còn **846 sản phẩm OCOP** còn hiệu lực của **441 chủ thể** (giảm **135 sản phẩm** và **66 chủ thể** so với cuối năm 2025) do nhiều cơ sở hết hạn nhưng chưa đánh giá lại.",
+      "source": "https://baogialai.com.vn/go-kho-de-duy-tri-chung-nhan-nang-chat-san-pham-post603582.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-09T07:14:22+07:00",
+      "from_user": false
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Khởi nghiệp • Quy Nhơn",
+      "text": "Kiên trì nghiên cứu hơn **3 năm** không dùng chất bảo quản, chị **Thái Thị Thu Thủy** (SN 1993, **phường Quy Nhơn Bắc**) đã đưa đặc sản **bánh canh, bún cá Quy Nhơn** đóng gói tiện lợi vươn ra thị trường.",
+      "image": "press:https://cdn.baogialai.com.vn/images/MNaBrTlOuJYPBlNmJ3ocatH9F42aggoXTPDMrIdtf5K8ZPCbqEHITdAb7ytcnDjTX_QdTHP_49iNKOFx69GM4cxHl9aUMhWBdNyVImJU-CVfSUXxd1GimNeht71Cc9__b1vwFp9qrIuXnBAGYCy0wQ/nguoi-tre-gia-lai-khoi-nghiep-nam-bat-nhu-cau-tao-gia-tri-moi.jpg",
+      "source": "https://baogialai.com.vn/nguoi-tre-gia-lai-khoi-nghiep-nam-bat-nhu-cau-tao-gia-tri-moi-post603727.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-09T07:15:10+07:00",
+      "from_user": false
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Thể thao • Quy Nhơn",
+      "text": "Vượt qua **hơn 100 cơ thủ**, cơ thủ **Phạm Bá Đạt** (**phường Quy Nhơn**) xuất sắc vô địch **Giải billiards carom 3 băng CLB Quy Nhơn mở rộng 2026**; **Ngô Đình Thịnh** (**phường Bình Định**) đoạt giải nhì.",
+      "source": "https://baomoi.com/co-thu-pham-ba-dat-gianh-chuc-vo-dich-giai-billiards-carom-3-bang-clb-quy-nhon-mo-rong-2026-c56462877.epi",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-08T22:06:00+07:00",
+      "from_user": false
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Thể thao • V-League",
+      "text": "Trên sân Pleiku tại vòng 7 **V.League 2026/27**, **CLB HAGL** xuất sắc đánh bại **Hà Nội FC** với tỷ số **2–1** nhờ bàn thắng của **Châu Phi** và **Luann Xavier**, vươn lên vị trí thứ **12** bảng xếp hạng.",
+      "source": "https://baomoi.com/day-bang-xon-xao-c56464741.epi",
+      "source_name": "Báo Pháp Luật TP.HCM",
+      "published": "2026-11-09T09:20:00+07:00",
+      "from_user": false
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Văn hóa • Đêm nhạc",
+      "text": "Tối **8/11**, **NSND Thanh Lam**, **rapper Đen**, **Phạm Anh Khoa** và **Lynk Lee** khuấy động Quảng trường Đại Đoàn Kết với gần **20 tiết mục** tại đêm nhạc **“Pleiku ơi”** thuộc Festival Cồng chiêng.",
+      "source": "https://baogialai.com.vn/nsnd-thanh-lam-rapper-den-cung-nhieu-nghe-si-khuay-dong-dem-nhac-pleiku-oi-post604371.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-09T04:50:04+07:00",
+      "from_user": false
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Giá nông sản 9/11",
+      "text": "Mở phiên đầu tuần **9/11**, giá **hồ tiêu** tại Gia Lai giữ mức **135.500 đồng/kg** (tăng **1.000–1.500 đồng/kg** sau 1 tuần, đỉnh cả nước **138.000 đồng/kg**); giá **cà phê** đạt **84.500 đồng/kg**.",
+      "source": "https://baogialai.com.vn/gia-nong-san-ngay-9-11-ho-tieu-giu-gia-138000-dongkg-ca-phe-di-ngang-post604395.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-09T08:00:00+07:00",
+      "from_user": false
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Cùng chia sẻ góc nhìn văn minh với cộng đồng!",
+  "outro_question": "Sáng nay khu vực nhà bạn ở Quy Nhơn – Gia Lai đã có mưa lớn chưa? Bà con vùng trũng nhớ chủ động phòng tránh nhé!",
+  "pin_comment": "📌 Bấm LƯU bài để tiện tra cứu danh sách các phường/xã cảnh báo ngập cao (9–12/11), cảnh báo lừa đảo hộ khẩu điện tử và bảng giá cà phê, hồ tiêu đầu tuần 9/11 bà con nhé! Sáng nay chỗ mình thời tiết thế nào rồi ạ?",
+  "caption": {
+    "tiktok": "Điểm tin trưa Thứ Hai 9/11/2026 – Quy Nhơn 24h Qua:\n1. Phường Quy Nhơn xuyên đêm sơ tán khẩn cấp 29/30 hộ dân vùng nguy cơ sạt lở núi Một, túc trực tại núi Bà Hỏa, xóm Đăng, xóm Đò, Hải Minh\n2. Cảnh báo các địa bàn nguy cơ ngập cao lưu vực sông Hà Thanh, sông Kôn, Lại Giang (9–12/11); biển động gió giật cấp 7–8\n3. Hoài Nhơn Nam: Cảnh báo chiêu giả danh Công an gọi điện “cập nhật sổ hộ khẩu điện tử” chiếm đoạt tiền\n4. Xã Ân Tường: Nhà máy nước sạch gần 13 tỷ đồng hoàn thành từ 2023 vẫn chưa vận hành vì thiếu đường ống\n5. Tuy Phước Bắc: Có bằng đại học từ 2011, giáo viên tiểu học vẫn hưởng lương cao đẳng do vướng vị trí việc làm\n6. Toàn tỉnh giảm 135 sản phẩm OCOP còn hiệu lực sau 9 tháng do hết hạn chưa đánh giá lại\n7. Cô gái 9X phường Quy Nhơn Bắc khởi nghiệp đưa bánh canh, bún cá Quy Nhơn đóng gói vươn xa\n8. Cơ thủ Phạm Bá Đạt vô địch Giải billiards carom 3 băng CLB Quy Nhơn mở rộng 2026\n9. V-League: CLB HAGL thắng Hà Nội FC 2–1 trên sân Pleiku, vươn lên hạng 12\n10. NSND Thanh Lam, rapper Đen khuấy động đêm nhạc “Pleiku ơi”\n11. Giá nông sản 9/11: Hồ tiêu Gia Lai 135.500 đ/kg, cà phê 84.500 đ/kg\n\nNguồn: Báo Gia Lai, Báo Xây Dựng, Báo Pháp Luật TP.HCM\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Điểm tin trưa Thứ Hai 9/11/2026 – Quy Nhơn 24h Qua: Xuyên đêm sơ tán 29/30 hộ dân vùng sạt lở núi Một ở Quy Nhơn, cảnh báo vùng ngập cao sông Hà Thanh – sông Kôn, cảnh giác lừa đảo cập nhật hộ khẩu điện tử... #quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "facebook": "Điểm tin trưa Thứ Hai 9/11/2026 – Quy Nhơn 24h Qua: Phường Quy Nhơn xuyên đêm sơ tán khẩn cấp 29/30 hộ dân vùng nguy cơ sạt lở núi Một; cảnh báo vùng ngập cao lưu vực sông Hà Thanh, sông Kôn; cảnh giác lừa đảo sổ hộ khẩu điện tử... #quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "needs_review": []
+}
