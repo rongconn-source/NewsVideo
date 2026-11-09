@@ -1,0 +1,138 @@
+{
+  "type": "digest",
+  "output": "anh",
+  "date": "2026-11-09",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "brand": [
+    "QUY NHƠN",
+    "24H QUA"
+  ],
+  "chip": "",
+  "cover": {
+    "kicker": "BẢN TIN TỐI",
+    "title": "Quy Nhơn 24h Qua",
+    "subtitle": "Tối Thứ Hai 9/11/2026",
+    "teaser": "Di dời 33 hộ dân dưới chân núi Gành (Đề Gi) & Lịch tạm ngừng cấp điện từ 11–17/11",
+    "icon": "warning"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "label": "Di dời dân • Đề Gi",
+      "text": "Tiếp nối Quy Nhơn, sáng **9/11**, **xã Đề Gi** đã kích hoạt phương án di dời **33 hộ dân** (**111 nhân khẩu**) dưới chân **núi Gành** (thôn Đức Phổ, Cát Khánh) đến nơi an toàn trước đợt mưa lớn kéo dài.",
+      "source": "https://baogialai.com.vn/de-gi-chu-dong-di-doi-33-ho-dan-khoi-khu-vuc-nui-ganh-de-phong-ngua-mua-lon-sat-lo-post604460.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-09T17:27:14+07:00",
+      "from_user": false
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Lịch cúp điện 11–17/11",
+      "text": "**Công ty Điện lực Gia Lai** vừa thông báo lịch tạm ngừng cấp điện kế hoạch từ ngày **11 đến 17/11/2026** tại nhiều khu vực dân cư, trạm biến áp trên toàn tỉnh để bảo trì, sửa chữa lưới điện.",
+      "source": "https://baogialai.com.vn/cong-ty-dien-luc-gia-lai-thong-bao-ke-hoach-tam-ngung-cung-cap-dien-tu-ngay-11-den-17-11-post604449.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-09T15:54:13+07:00",
+      "from_user": false
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Pháp luật • Súng đạn",
+      "text": "Công an tỉnh vừa tạm giữ **N.V.P.** (SN 1995, **phường Pleiku**, có tiền án ma túy) sau khi kiểm tra nhà ở **hẻm 19 Ngô Gia Khảm**, thu giữ **ma túy đá, thuốc lắc** cùng **1 khẩu súng ổ quay** và **2 viên đạn**.",
+      "source": "https://baogialai.com.vn/gia-lai-tam-giu-doi-tuong-tang-tru-trai-phep-chat-ma-tuy-cung-sung-dan-post604409.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-09T10:30:09+07:00",
+      "from_user": false
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Cứu hộ • Tam Quan",
+      "text": "Đến chiều **9/11**, tàu cá **BĐ 97511-TS** cùng tàu bạn vẫn đang nỗ lực tìm kiếm thuyền viên **C.V.H.** (SN 1988, trú **phường Tam Quan**) không may rơi xuống biển mất tích khi câu cá ngừ ở **Trường Sa**.",
+      "source": "https://baogialai.com.vn/1-thuyen-vien-tinh-gia-lai-roi-xuong-bien-mat-tich-post604455.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-09T18:56:36+07:00",
+      "from_user": false
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Giáo dục • Mưa lũ",
+      "text": "Trước đợt mưa lớn **9–12/11**, **Sở GD&ĐT Gia Lai** yêu cầu các trường chủ động cho học sinh **nghỉ học** trước khi ngập sâu, kiên quyết không để các em qua ngầm tràn và dự trữ đủ nhu yếu phẩm bán trú.",
+      "source": "https://baogialai.com.vn/cac-don-vi-truong-hoc-phai-chu-dong-ung-pho-voi-mua-lon-lu-quet-sat-lo-dat-post604412.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-09T14:01:03+07:00",
+      "from_user": false
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Quy hoạch • Dự án lớn",
+      "text": "Rà soát **784 dự án** ngoài ngân sách (vốn hơn **326.000 tỷ đồng**), tỉnh ghi nhận **149 dự án chậm tiến độ**, đã thu hồi **82 dự án**, đồng thời đôn đốc tăng tốc **10 dự án lớn** như khu **Nhơn Hội**.",
+      "source": "https://vtcnews.vn/nhieu-du-an-ngoai-ngan-sach-tai-gia-lai-cham-tien-do-do-dau-ar1050141.html",
+      "source_name": "VTC News",
+      "published": "2026-11-09T16:02:06+07:00",
+      "from_user": false
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Cao tốc Quy Nhơn",
+      "text": "Dự án **cao tốc Quy Nhơn – Pleiku** đã giải ngân **9.499,8/9.529,9 tỷ đồng** vốn năm 2026 (đạt **99,7%**), thiết lập **100 mũi thi công** ở Dự án thành phần 2 và phấn đấu thông xe kỹ thuật cuối **2027**.",
+      "source": "https://baogialai.com.vn/giai-ngan-du-an-cao-toc-quy-nhon-pleiku-dat-997-post604280.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-09T14:06:10+07:00",
+      "from_user": false
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Y tế • Xạ trị ung thư",
+      "text": "Nhờ chuyển giao từ **Bệnh viện Chợ Rẫy**, **Bệnh viện Đa khoa Gia Lai** đã xạ trị thành công cho **15 bệnh nhân ung thư** (trong đó **5 ca** dùng kỹ thuật hiện đại **VMAT**), giúp người bệnh đỡ phải đi xa.",
+      "source": "https://baogialai.com.vn/nhieu-benh-nhan-ung-thu-duoc-xa-tri-tai-benh-vien-da-khoa-gia-lai-post604049.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-09T09:33:21+07:00",
+      "from_user": false
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Sự kiện • Quy Nhơn 6/12",
+      "text": "Tối **6/12**, Lễ bế mạc **Năm Du lịch quốc gia 2026** tại **Quảng trường Nguyễn Tất Thành** (**phường Quy Nhơn**) sẽ trình diễn ánh sáng **drone, laser, mapping**, kết nối hội nghị **ISOM APEC 2027**.",
+      "source": "https://baomoi.com/gia-lai-ket-noi-chuoi-su-kien-apec-2027-voi-le-be-mac-nam-du-lich-quoc-gia-c56469544.epi",
+      "source_name": "Báo Văn Hóa",
+      "published": "2026-11-09T17:38:00+07:00",
+      "from_user": false
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Bóng đá • Quy Nhơn",
+      "text": "Tại vòng 7 **Giải hạng Nhất Quốc gia 2026/27**, **CLB Quy Nhơn United** thi đấu kiên cường cầm hòa **0–0** trên sân của đội nhóm đầu **Hưng Yên**, khiến đối thủ lỡ cơ hội vươn lên ngôi đầu bảng.",
+      "source": "https://baomoi.com/ket-qua-va-xep-hang-moi-nhat-vong-7-giai-hang-nhat-quoc-gia-2026-27-c56466258.epi",
+      "source_name": "Báo Giáo Dục & Thời Đại",
+      "published": "2026-11-09T12:06:00+07:00",
+      "from_user": false
+    },
+    {
+      "category": "khu-vuc",
+      "label": "U23 Việt Nam – Thái Lan",
+      "text": "Chiều **9/11**, HLV 4 đội **U23 Việt Nam, Thái Lan, Qatar, Singapore** họp báo trước ngày khai màn **Gia Lai VTV Cup 2026** (**10/11**) trên sân Pleiku với tâm điểm đại chiến **U23 Việt Nam – Thái Lan**.",
+      "source": "https://baogialai.com.vn/cac-doi-bong-hao-huc-truoc-them-gia-lai-vtv-cup-2026-post604443.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-09T16:00:42+07:00",
+      "from_user": false
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Cùng chia sẻ góc nhìn văn minh với cộng đồng!",
+  "outro_question": "Tối nay khu vực nhà bạn ở Quy Nhơn – Gia Lai mưa gió thế nào rồi? Bà con nhớ bấm LƯU bài để tra cứu lịch cúp điện 11–17/11 nhé!",
+  "pin_comment": "📌 Bấm LƯU bài để tiện tra cứu kế hoạch tạm ngừng cấp điện (11–17/11), thông báo cho học sinh nghỉ học khi ngập sâu và lịch đại chiến U23 Việt Nam – U23 Thái Lan ngày mai 10/11 bà con nhé! Tối nay chỗ mình mưa lớn chưa ạ?",
+  "caption": {
+    "tiktok": "Điểm tin tối Thứ Hai 9/11/2026 – Quy Nhơn 24h Qua:\n1. Xã Đề Gi di dời 33 hộ dân (111 nhân khẩu) dưới chân núi Gành đến nơi an toàn trước đợt mưa lớn\n2. Cẩm nang: Công ty Điện lực Gia Lai thông báo lịch tạm ngừng cấp điện từ 11 đến 17/11\n3. Tạm giữ đối tượng tàng trữ ma túy đá, thuốc lắc cùng 1 khẩu súng ổ quay và 2 viên đạn\n4. Nỗ lực tìm kiếm thuyền viên phường Tam Quan rơi xuống biển mất tích khi câu cá ngừ\n5. Sở GD&ĐT yêu cầu các trường chủ động cho học sinh nghỉ học trước khi mưa lớn gây ngập sâu\n6. Rà soát 784 dự án ngoài ngân sách: 149 dự án chậm tiến độ, thu hồi 82 dự án, đôn đốc 10 dự án lớn\n7. Giải ngân dự án cao tốc Quy Nhơn – Pleiku đạt 99,7% kế hoạch vốn năm 2026\n8. BVĐK Gia Lai xạ trị thành công cho 15 bệnh nhân ung thư nhờ chuyển giao từ BV Chợ Rẫy\n9. Tối 6/12: Quảng trường Nguyễn Tất Thành (Quy Nhơn) sẽ trình diễn drone, laser, mapping bế mạc Năm Du lịch quốc gia & đón APEC 2027\n10. Giải hạng Nhất: CLB Quy Nhơn United cầm hòa 0–0 đội nhóm đầu Hưng Yên\n11. Ngày mai 10/11 khai màn U23 Gia Lai VTV Cup: Đại chiến U23 Việt Nam – U23 Thái Lan\n\nNguồn: Báo Gia Lai, VTC News, Báo Văn Hóa\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Điểm tin tối Thứ Hai 9/11/2026 – Quy Nhơn 24h Qua: Di dời 33 hộ dân núi Gành (Đề Gi), lịch cúp điện 11–17/11, tạm giữ đối tượng tàng trữ ma túy và súng đạn, trường học chủ động cho nghỉ học khi mưa lũ... #quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "facebook": "Điểm tin tối Thứ Hai 9/11/2026 – Quy Nhơn 24h Qua: Xã Đề Gi di dời 33 hộ dân dưới chân núi Gành; lịch tạm ngừng cấp điện từ 11–17/11; tạm giữ đối tượng tàng trữ ma túy cùng súng ổ quay... #quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "needs_review": []
+}
