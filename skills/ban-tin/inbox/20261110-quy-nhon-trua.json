@@ -1,0 +1,139 @@
+{
+  "type": "digest",
+  "output": "anh",
+  "date": "2026-11-10",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "brand": [
+    "QUY NHƠN",
+    "24H QUA"
+  ],
+  "chip": "",
+  "cover": {
+    "kicker": "BẢN TIN TRƯA",
+    "title": "Quy Nhơn 24h Qua",
+    "subtitle": "Trưa Thứ Ba 10/11/2026",
+    "teaser": "Mưa lớn kéo đất đá tràn đèo **Nha Sam** & Di dời tàu thuyền **sông Hà Thanh**",
+    "icon": "warning"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "label": "Cấm đèo Nha Sam",
+      "text": "Sáng **10/11**, mưa lớn kéo đất đá tràn mặt đường khiến **xã Canh Vinh** phải tạm cấm người và phương tiện qua tuyến **đèo Nha Sam** (dẫn vào làng Canh Tiến) để đảm bảo an toàn.",
+      "source": "https://baomoi.com/nuoc-do-xoi-xa-keo-dat-da-tran-deo-gia-lai-tam-cam-tuyen-duong-156-ty-dong-c56474592.epi",
+      "source_name": "Báo Tiền Phong",
+      "published": "2026-11-10T11:16:00+07:00",
+      "image": "press:https://photo-baomoi.bmcdn.me/w700_r1/2026_11_10_20_56474592/92f2b114115ff801a14e.jpg",
+      "ai_prompt": "Heavy rain and mud rocks flowing across a mountain pass road in central Vietnam with warning barrier"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Sông Hà Thanh • Quy Nhơn",
+      "text": "**Phường Quy Nhơn** vừa ra quân tháo dỡ công trình tạm dưới gầm **cầu Hà Thanh 1** (QL19) và yêu cầu di dời **hơn 20 tàu thuyền** neo đậu tự phát cản dòng chảy thoát lũ.",
+      "source": "https://baogialai.com.vn/lap-lai-trat-tu-neo-dau-tau-thuyen-tren-song-ha-thanh-post604484.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-10T04:53:47+07:00",
+      "ai_prompt": "Small fishing boats anchored under a river bridge in Quy Nhon Vietnam during rainy season"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Cảnh báo • Bắn đạn thật",
+      "text": "Từ **6h đến 17h ngày 12/11**, **Trung đoàn 34** sẽ kiểm tra bắn đạn thật tại **thao trường Hóc Ké** (**phường Hoài Nhơn** và **Hoài Nhơn Nam**); khuyến cáo bà con không đi lại, chăn thả gia súc.",
+      "source": "https://baogialai.com.vn/trung-doan-34-se-ban-dan-that-tai-thao-truong-hoc-ke-vao-ngay-12-11-post604507.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-10T10:47:55+07:00",
+      "ai_prompt": "Military training range warning sign in a rural hillside area in Vietnam"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Cao tốc • Xã Bình An",
+      "text": "Trước phản ánh xe chở vật liệu thi công **cao tốc Quy Nhơn – Pleiku** làm hư **đường ĐH26** và nứt nhà dân **xã Bình An**, chủ đầu tư cho biết sẽ thuê giám định độc lập để bồi thường và hoàn trả đường.",
+      "source": "https://baomoi.com/gia-lai-nguoi-dan-bat-an-vi-duong-hu-hong-nha-nut-tren-tuyen-cho-vat-lieu-cao-toc-c56473709.epi",
+      "source_name": "Báo Xây Dựng",
+      "published": "2026-11-10T09:52:00+07:00",
+      "ai_prompt": "Dump trucks carrying construction soil on a rural road in Vietnam"
+    },
+    {
+      "category": "tinh",
+      "label": "Pháp luật • Vụ trốn trại",
+      "text": "Sau **17 ngày** truy bắt đủ **4 phạm nhân** trốn **Trại giam A2**, người dân kể lại phút giáp mặt phạm nhân cuối cùng **H.V.T.** (SN 2002, quê Gia Lai) mặc áo mưa vào nhà xin ăn trước khi báo công an.",
+      "source": "https://baomoi.com/nguoi-bao-tin-ke-phut-nghet-tho-doi-mat-pham-nhan-tron-trai-cuoi-cung-ho-van-tinh-c56473955.epi",
+      "source_name": "Báo Tiền Phong",
+      "published": "2026-11-10T10:24:00+07:00",
+      "ai_prompt": "Police officers patrolling a forested mountain area in central Vietnam"
+    },
+    {
+      "category": "tinh",
+      "label": "Cảnh báo • Rượu bia",
+      "text": "Công an tỉnh cảnh báo từ **tháng 5/2026** đến nay toàn tỉnh xảy ra **14 vụ án mạng** làm **16 người** tử vong, trong đó **hơn 80%** vụ việc bắt nguồn từ mâu thuẫn bộc phát sau khi uống rượu bia.",
+      "source": "https://baogialai.com.vn/ruou-bia-va-nhung-vu-an-mang-dau-long-post604482.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-10T10:50:56+07:00",
+      "ai_prompt": "Police officers giving legal awareness talk to local residents in Vietnam"
+    },
+    {
+      "category": "tinh",
+      "label": "Hạ tầng • Xây 4 cầu mới",
+      "text": "Tỉnh vừa phê duyệt **hơn 376,5 tỷ đồng** xây mới **4 cây cầu vượt lũ** thay thế cầu yếu, ngầm tràn tại **Vĩnh Thạnh – Vĩnh Thịnh** (qua **sông Côn**), **SRó, Ia Pa** và **Ia Rsai**.",
+      "source": "https://baogialai.com.vn/go-noi-lo-cau-yeu-ngam-tran-mat-an-toan-post604195.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-10T10:50:24+07:00",
+      "ai_prompt": "Concrete bridge across a river in central Vietnam highlands"
+    },
+    {
+      "category": "tinh",
+      "label": "Dự án • Điện gió 1.630 tỷ",
+      "text": "UBND tỉnh vừa chấp thuận chủ trương đầu tư dự án **Nhà máy điện gió Lơ Pang** công suất **42 MW** với tổng vốn **hơn 1.630 tỷ đồng** tại **xã Lơ Pang** và **xã Mang Yang**.",
+      "source": "https://vtcnews.vn/gia-lai-co-them-nha-may-dien-gio-hon-1-600-ty-dong-ar1050324.html",
+      "source_name": "VTC News",
+      "published": "2026-11-10T09:28:29+07:00",
+      "ai_prompt": "Wind turbines standing on green hills in Gia Lai Vietnam"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Phòng lũ • Tuy Phước",
+      "text": "Nằm ở hạ lưu **sông Côn** và **Hà Thanh**, **xã Tuy Phước** huy động **25 dân quân** cùng **8 xe múc, 4 xe ủi** khẩn trương khơi thông dòng chảy, gia cố đê đất xung yếu trước đợt mưa lớn.",
+      "source": "https://baogialai.com.vn/xa-tuy-phuoc-chu-dong-khoi-thong-dong-chay-phong-chong-lu-post604478.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-10T09:23:38+07:00",
+      "ai_prompt": "Excavators clearing river channel and reinforcing dike before flood in Vietnam"
+    },
+    {
+      "category": "tinh",
+      "label": "Tối nay • U23 Việt Nam",
+      "text": "Đúng **19h tối nay 10/11** trên **sân Pleiku**, đội tuyển **U23 Việt Nam** chính thức bước vào trận đại chiến mở màn gặp **U23 Thái Lan** tại giải giao hữu quốc tế **Gia Lai VTV Cup 2026**.",
+      "source": "https://baogialai.com.vn/u23-viet-nam-tich-cuc-tap-luyen-san-sang-tranh-tai-tai-gia-lai-vtv-cup-2026-post604469.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-10T04:56:56+07:00",
+      "ai_prompt": "Vietnam U23 football players training on a stadium pitch before an international match"
+    },
+    {
+      "category": "tinh",
+      "label": "Kinh tế • Giá nông sản",
+      "text": "Sáng **10/11**, giá **cà phê** nhân xô tại Gia Lai bật tăng **500 đồng/kg** lên mức **85.000 đồng/kg**; trong khi **hồ tiêu** tiếp tục duy trì mặt bằng giá cao **138.000 đồng/kg**.",
+      "source": "https://baogialai.com.vn/gia-nong-san-ngay-10-11-ca-phe-bat-tang-600-dongkg-ho-tieu-tiep-tuc-di-ngang-post604498.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-10T08:30:00+07:00",
+      "ai_prompt": "Farmers drying coffee beans and black pepper in Vietnam central highlands"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Cùng chia sẻ góc nhìn văn minh với cộng đồng!",
+  "outro_question": "Trưa nay khu vực nhà bạn ở Quy Nhơn – Gia Lai thời tiết thế nào? Bà con nhớ bấm LƯU bài để chú ý lịch bắn đạn thật 12/11 và lịch U23 Việt Nam tối nay nhé!",
+  "pin_comment": "📌 Bấm LƯU bài để nhớ lịch cảnh báo bắn đạn thật tại thao trường Hóc Ké (12/11), thông báo tạm cấm đèo Nha Sam do sạt lở và lịch đại chiến U23 Việt Nam – U23 Thái Lan lúc 19h tối nay 10/11 bà con nhé! Trưa nay chỗ mình có mưa không ạ?",
+  "caption": {
+    "tiktok": "Điểm tin trưa Thứ Ba 10/11/2026 – Quy Nhơn 24h Qua:\n1. Xã Canh Vinh tạm cấm qua đèo Nha Sam do mưa lớn kéo đất đá tràn mặt đường\n2. Phường Quy Nhơn tháo dỡ công trình tạm, di dời hơn 20 tàu thuyền dưới gầm cầu Hà Thanh 1 & 2\n3. Cẩm nang: Trung đoàn 34 thông báo bắn đạn thật tại thao trường Hóc Ké (Hoài Nhơn) ngày 12/11\n4. Sẽ giám định độc lập vụ đường ĐH26 hư hỏng, nhà dân xã Bình An nứt trên tuyến chở vật liệu cao tốc\n5. Người dân kể phút đối mặt phạm nhân cuối cùng trốn Trại giam A2 vào nhà xin ăn trước khi báo công an\n6. Cảnh báo hơn 80% trong 14 vụ án mạng từ tháng 5/2026 bắt nguồn từ mâu thuẫn sau chầu nhậu\n7. Phê duyệt hơn 376,5 tỷ đồng xây mới 4 cây cầu vượt lũ thay thế cầu yếu, ngầm tràn\n8. Chấp thuận đầu tư Nhà máy điện gió Lơ Pang hơn 1.630 tỷ đồng (công suất 42 MW)\n9. Xã Tuy Phước huy động 8 xe múc, 4 xe ủi khơi thông dòng chảy sông Côn, Hà Thanh phòng lũ\n10. Đúng 19h tối nay 10/11: U23 Việt Nam đại chiến U23 Thái Lan trên sân Pleiku\n11. Giá nông sản 10/11: Cà phê tăng lên 85.000 đ/kg, hồ tiêu giữ mức 138.000 đ/kg\n\nNguồn: Báo Gia Lai, Báo Tiền Phong, Báo Xây Dựng, VTC News\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Điểm tin trưa Thứ Ba 10/11/2026 – Quy Nhơn 24h Qua: Tạm cấm đèo Nha Sam (Canh Vinh) do đất đá tràn đường, di dời tàu thuyền dưới cầu Hà Thanh (Quy Nhơn), lịch bắn đạn thật 12/11, đại chiến U23 Việt Nam – Thái Lan 19h tối nay... #quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "facebook": "Điểm tin trưa Thứ Ba 10/11/2026 – Quy Nhơn 24h Qua: Tạm cấm đèo Nha Sam do mưa lớn kéo đất đá tràn đường; phường Quy Nhơn dẹp tàu thuyền neo đậu tự phát dưới cầu Hà Thanh; lịch bắn đạn thật tại thao trường Hóc Ké ngày 12/11... #quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "needs_review": []
+}
