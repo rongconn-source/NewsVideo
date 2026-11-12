@@ -1,0 +1,137 @@
+{
+  "type": "digest",
+  "output": "anh",
+  "date": "2026-11-12",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "brand": [
+    "QUY NHƠN",
+    "24H QUA"
+  ],
+  "chip": "",
+  "cover": {
+    "kicker": "BẢN TIN TỐI • MƯA LŨ",
+    "title": "Quy Nhơn 24h Qua",
+    "subtitle": "Tối Thứ Năm 12/11/2026",
+    "teaser": "Bệnh nhân lội nước vào viện ở **Quy Nhơn Bắc**, sập mố cầu **QL19C** & **16.783 học sinh** nghỉ học!",
+    "icon": "warning"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "label": "Ngập sâu • Đường vào viện",
+      "text": "Đường **Hồ Đắc Di** (**phường Quy Nhơn Bắc**) dẫn vào **BV Tâm thần** và **BV Lao – Bệnh phổi Quy Nhơn** ngập sâu hơn **0,6 m**, nhiều bệnh nhân phải gửi xe đầu đường rồi lội nước **200–400 m** đi khám.",
+      "source": "https://thanhnien.vn/mua-lon-o-gia-lai-khien-duong-vao-benh-vien-ngap-benh-nhan-loi-nuoc-di-kham-benh-185261112113531574.htm",
+      "source_name": "Báo Thanh Niên",
+      "published": "2026-11-12T15:35:00+07:00",
+      "ai_prompt": "Patients wading through flooded street outside a hospital in Quy Nhon Vietnam during heavy rain"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Quy Nhơn Bắc • 1.605 hộ",
+      "text": "Toàn **phường Quy Nhơn Bắc** hiện có khoảng **1.605 hộ dân** bị ngập úng (nhiều nơi sâu **1,2–1,5 m**); lực lượng dân quân đã xuất xuồng **ST450** vượt lũ đưa một cháu bé bị sốt ở khu phố 1 đến trạm y tế.",
+      "source": "https://baogialai.com.vn/mua-lu-tiep-dien-nhieu-khu-vuc-o-quy-nhon-bi-anh-huong-post604737.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-12T16:11:34+07:00",
+      "ai_prompt": "Rescue boat moving through flooded residential neighborhood in Quy Nhon Vietnam"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Sập mố cầu • Quốc lộ 19C",
+      "text": "Nước lũ chảy xiết đã đánh **sập toàn bộ 2 bên mố cầu Bà Lương** trên **QL19C** (đoạn qua thôn Hiển Đông, **xã Canh Vinh**), lực lượng chức năng phải phong tỏa hai đầu cầu và cấm phương tiện qua lại.",
+      "source": "https://baogialai.com.vn/mua-lu-lam-sap-toan-bo-mo-cau-ba-luong-tren-quoc-lo-19c-post604720.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-12T13:36:32+07:00",
+      "ai_prompt": "Collapsed bridge abutment caused by rushing floodwater on a national highway in Vietnam"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Đê Vân Hội • Sơ tán 23 hộ",
+      "text": "Phát hiện điểm xung yếu thứ 2 trên thân **đê Vân Hội** (**xã Tuy Phước**) bị lũ **sông Hà Thanh** thấm qua tạo dòng xoáy, địa phương đã huy động xe ben, bao cát gia cố và sơ tán khẩn cấp **23 hộ dân**.",
+      "source": "https://thanhnien.vn/nuoc-lu-uy-hiep-tuyen-de-nhieu-ho-dan-o-gia-lai-so-tan-185261112165700544.htm",
+      "source_name": "Báo Thanh Niên",
+      "published": "2026-11-12T17:53:00+07:00",
+      "ai_prompt": "Soldiers and residents reinforcing a river dike with sandbags during flood in central Vietnam"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Mưa lũ • 16.783 học sinh",
+      "text": "Do nước lũ tràn vào nhiều trường học tại **Quy Nhơn, Tuy Phước, Vân Canh, Canh Vinh**, trong ngày **12/11** toàn tỉnh có **16.783 học sinh** các cấp được nghỉ học để bảo đảm an toàn.",
+      "source": "https://baomoi.com/nhieu-truong-bi-ngap-do-mua-lu-hon-16-700-hoc-sinh-gia-lai-nghi-hoc-c56496321.epi",
+      "source_name": "Báo Xây Dựng",
+      "published": "2026-11-12T17:02:00+07:00",
+      "ai_prompt": "Flooded schoolyard in central Vietnam during monsoon rain"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Cảnh báo • Lũ sông Kôn",
+      "text": "Chiều **12/11**, mực nước **sông Kôn** tại trạm **Thạnh Hòa** đạt **6,96 m** và có xu hướng tăng vượt **báo động 2**; cảnh báo ngập úng, sạt lở tại **18 xã, phường** từ **Tây Sơn, An Nhơn, Tuy Phước** đến **Vân Canh**.",
+      "source": "https://baogialai.com.vn/lu-tren-song-kon-co-xu-huong-tang-canh-bao-nguy-co-ngap-lut-nhieu-khu-vuc-post604752.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-12T16:07:53+07:00",
+      "ai_prompt": "Rising floodwater on Kon river in central Vietnam under dark rain clouds"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Chỉ đạo • Sơ tán khẩn cấp",
+      "text": "Chiều **12/11**, Chủ tịch UBND tỉnh **Phạm Anh Tuấn** yêu cầu các xã, phường trực **24/24 giờ**, chủ động sơ tán ngay người dân vùng nguy cơ ngập sâu, lũ quét, sạt lở tại **Vân Canh** và hạ du **sông Hà Thanh**.",
+      "source": "https://baogialai.com.vn/chu-tich-ubnd-tinh-pham-anh-tuan-yeu-cau-so-tan-ngay-nguoi-dan-khoi-vung-nguy-co-lu-quet-sat-lo-post604764.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-12T17:23:43+07:00",
+      "ai_prompt": "Emergency flood response command meeting in Vietnam"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Quốc lộ 1 • Đèo Cù Mông",
+      "text": "Mưa lớn làm đất đá tràn mặt đường tại **Km1237+200 QL1** (gần cầu vượt cao tốc) và sạt lở tắc rãnh thoát nước trên đỉnh **đèo Cù Mông**; CSGT Tuy Phước đã phối hợp hốt dọn thông tuyến.",
+      "source": "https://baogialai.com.vn/gia-lai-dam-bao-an-toan-giao-thong-cac-tuyen-duong-huyet-mach-trong-thoi-gian-mua-lu-post604744.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-12T16:09:00+07:00",
+      "ai_prompt": "Traffic police clearing rockslide debris on mountain pass highway during rain in Vietnam"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Cao tốc • Giảm 1.000 tỷ",
+      "text": "Dự án **cao tốc Quy Nhơn – Pleiku** đã bàn giao **97,3% mặt bằng**, huy động **206 mũi thi công**; phương án điều chỉnh hướng tuyến qua **đèo An Khê** giúp tiết kiệm **hơn 1.000 tỷ đồng**.",
+      "source": "https://thanhnien.vn/cao-toc-quy-nhon-pleiku-tiet-kiem-hon-1000-ti-dong-nho-doi-tuyen-185261112154415746.htm",
+      "source_name": "Báo Thanh Niên",
+      "published": "2026-11-12T16:02:00+07:00",
+      "ai_prompt": "Highway construction site with excavators and bridges in central Vietnam highlands"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Pháp luật • Chở thuốc lậu",
+      "text": "Tài xế **Đ.X.T.** (SN 1999, trú **phường Quy Nhơn**) vừa bị khởi tố, bắt tạm giam vì lái ô tô chở **27.000 bao thuốc lá lậu** (trị giá **hơn 500 triệu đồng**) và tăng ga bỏ chạy khi bị kiểm tra.",
+      "source": "https://baomoi.com/tai-xe-o-to-cho-27-000-bao-thuoc-la-lau-tang-toc-bo-chay-khi-bi-kiem-tra-c56495772.epi",
+      "source_name": "Báo VTC News",
+      "published": "2026-11-12T16:17:37+07:00",
+      "ai_prompt": "Police inspecting boxes of confiscated contraband goods beside a car in Vietnam"
+    },
+    {
+      "category": "tinh",
+      "label": "Thể thao • Sân Pleiku",
+      "text": "Chiều **12/11** trên **sân Pleiku**, **U23 Qatar** đánh bại **U23 Thái Lan** với tỷ số **2–1** tại Giải U23 Gia Lai VTV Cup, tạo cục diện kịch tính trước trận **U23 Việt Nam** gặp **U23 Singapore**.",
+      "source": "https://baogialai.com.vn/u23-qatar-pho-dien-suc-manh-khuat-phuc-u23-thai-lan-post604757.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-12T17:35:46+07:00",
+      "ai_prompt": "International youth football match at Pleiku stadium in Vietnam"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "📌 Bấm LƯU bài để lưu ý thông tin cấm cầu Bà Lương (QL19C), cảnh báo lũ sông Kôn vượt báo động 2 tại 18 xã phường và các điểm ngập ở Quy Nhơn Bắc, Tuy Phước tối 12/11 bà con nhé! Tối nay khu nhà mình nước đã rút chưa ạ?",
+  "caption": {
+    "tiktok": "Điểm tin tối Thứ Năm 12/11/2026 – Quy Nhơn 24h Qua:\n1. Đường Hồ Đắc Di (Quy Nhơn Bắc) ngập sâu hơn 0,6 m, bệnh nhân phải lội nước 200–400 m vào BV Tâm thần và BV Lao – Bệnh phổi\n2. Phường Quy Nhơn Bắc có 1.605 hộ ngập úng (sâu 1,2–1,5 m); dân quân xuất xuồng ST450 đưa cháu bé bị sốt đi cấp cứu\n3. Sập toàn bộ 2 bên mố cầu Bà Lương trên QL19C (xã Canh Vinh), phong tỏa cấm phương tiện qua lại\n4. Phát hiện điểm xung yếu thứ 2 trên đê Vân Hội (xã Tuy Phước), khẩn cấp gia cố và sơ tán 23 hộ dân\n5. Nước lũ tràn vào nhiều trường học, 16.783 học sinh toàn tỉnh nghỉ học ngày 12/11\n6. Lũ sông Kôn tại Thạnh Hòa đạt 6,96 m và có xu hướng vượt báo động 2; cảnh báo ngập tại 18 xã, phường\n7. Chủ tịch UBND tỉnh yêu cầu trực 24/24 giờ, sơ tán ngay người dân vùng nguy cơ lũ quét, sạt lở\n8. Đất đá tràn mặt đường QL1 (Km1237+200) và sạt lở trên đỉnh đèo Cù Mông, CSGT phối hợp hốt dọn thông tuyến\n9. Cao tốc Quy Nhơn – Pleiku đạt 97,3% mặt bằng, tiết kiệm hơn 1.000 tỷ đồng nhờ đổi hướng tuyến qua đèo An Khê\n10. Khởi tố tài xế ở phường Quy Nhơn chở 27.000 bao thuốc lá lậu (hơn 500 triệu đồng), tăng ga bỏ chạy khi bị kiểm tra\n11. Giải U23 Gia Lai VTV Cup trên sân Pleiku: U23 Qatar thắng U23 Thái Lan 2–1\n\nNguồn: Báo Gia Lai, Báo Thanh Niên, Báo Xây Dựng, VTC News\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Điểm tin tối 12/11/2026 – Quy Nhơn 24h Qua: Bệnh nhân lội nước vào viện ở Quy Nhơn Bắc, 1.605 hộ ngập sâu, sập toàn bộ 2 mố cầu Bà Lương trên QL19C, sơ tán 23 hộ dân đê Vân Hội, 16.783 học sinh nghỉ học... #quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "facebook": "Điểm tin tối Thứ Năm 12/11/2026 – Quy Nhơn 24h Qua: Đường Hồ Đắc Di dẫn vào 2 bệnh viện ở Quy Nhơn Bắc ngập sâu hơn 0,6m; toàn phường Quy Nhơn Bắc có 1.605 hộ ngập; sập toàn bộ 2 bên mố cầu Bà Lương (QL19C); đê Vân Hội xuất hiện điểm xung yếu thứ 2 phải sơ tán 23 hộ dân... 📌 Bấm LƯU bài để lưu ý thông tin cấm cầu Bà Lương (QL19C), cảnh báo lũ sông Kôn vượt báo động 2 tại 18 xã phường và các điểm ngập ở Quy Nhơn Bắc, Tuy Phước tối 12/11 bà con nhé! Tối nay khu nhà mình nước đã rút chưa ạ? #quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "needs_review": []
+}
