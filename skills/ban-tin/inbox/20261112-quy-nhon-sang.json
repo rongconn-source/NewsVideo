@@ -1,0 +1,140 @@
+{
+  "type": "digest",
+  "output": "anh",
+  "date": "2026-11-12",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "brand": [
+    "QUY NHƠN",
+    "24H QUA"
+  ],
+  "chip": "",
+  "cover": {
+    "kicker": "BẢN TIN SÁNG • MƯA LŨ",
+    "title": "Quy Nhơn 24h Qua",
+    "subtitle": "Sáng Thứ Năm 12/11/2026",
+    "teaser": "Người dân **Quy Nhơn** chèo thuyền giữa phố ngập, sóng lớn đánh hư **kè An Dương Vương** & Dự báo khi nào mưa giảm?",
+    "icon": "warning"
+  },
+  "items": [
+    {
+      "category": "khu-vuc",
+      "label": "Ngập sâu • Quy Nhơn",
+      "text": "Mưa lớn kết hợp lũ **sông Hà Thanh** đổ về khiến nhiều khu dân cư ở **phường Quy Nhơn Đông, Quy Nhơn Bắc** (đường Phùng Chí Kiên, Nguyễn Trọng Trì) ngập sâu, bà con phải **chèo thuyền** đi lại.",
+      "source": "https://thanhnien.vn/mua-lon-gay-ngap-lut-o-quy-nhon-nguoi-dan-cheo-thuyen-giua-khu-dan-cu-185261111181638263.htm",
+      "source_name": "Báo Thanh Niên",
+      "published": "2026-11-11T19:06:00+07:00",
+      "ai_prompt": "Residents rowing a small boat through a flooded residential street in Quy Nhon Vietnam during heavy rain"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Đắp bờ bao • Sông Dinh",
+      "text": "Tối **11/11**, khoảng **200 người dân** khu phố 5 (**phường Quy Nhơn Bắc**) xuyên đêm đóng **hơn 500 bao cát**, đắp 2 bờ bao cao **1 m** đầu cầu Sắt chặn lũ **sông Dinh** bảo vệ gần **1.300 hộ dân**.",
+      "source": "https://baomoi.com/huy-dong-200-nguoi-dan-hon-500-bao-cat-dap-bo-chan-lu-song-dinh-c56489783.epi",
+      "source_name": "Báo SGGP",
+      "published": "2026-11-11T22:18:29+07:00",
+      "ai_prompt": "Local residents stacking sandbags at night along a riverbank bridge in Vietnam to block floodwater"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Mưa sóng • Kè biển & đê",
+      "text": "Mưa rất to kèm sóng biển cao **2–4 m** đánh hư hỏng **150 m** mái kè đường **An Dương Vương** (Quy Nhơn), sụt lún **50 m²** đường dạo bộ; xã **Tuy Phước Bắc** phải khẩn cấp gia cố bờ bao.",
+      "source": "https://baogialai.com.vn/mua-lon-tiep-dien-nhieu-khu-vuc-o-gia-lai-xay-ra-sat-lo-ngap-lut-post604641.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-11T17:11:55+07:00",
+      "ai_prompt": "High sea waves hitting a coastal seawall promenade during monsoon storm in Quy Nhon Vietnam"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Cảnh báo • 23 xã, phường",
+      "text": "Sáng **12/11**, Đài Khí tượng Thủy văn tỉnh cảnh báo nguy cơ lũ quét, sạt lở tại **23 xã, phường** (gồm **Quy Nhơn Tây, Quy Nhơn Đông, Quy Nhơn Nam, Tuy Phước, Canh Vinh, đèo Cù Mông, An Khê**...).",
+      "source": "https://baogialai.com.vn/23-xa-phuong-o-gia-lai-co-nguy-co-xay-ra-lu-quet-sat-lo-dat-post604692.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-12T09:01:31+07:00",
+      "ai_prompt": "Heavy rain over mountain pass road in central Vietnam with landslide warning sign"
+    },
+    {
+      "category": "tinh",
+      "label": "Hồ chứa • 41 hồ qua tràn",
+      "text": "Sau đợt mưa lớn **50–150 mm** (có nơi trên **500 mm**), toàn tỉnh hiện có **41/282 hồ chứa** đã chảy qua tràn (trong đó **29 hồ đầy nước** tập trung ở phía Đông); **92 hộ dân** vùng nguy hiểm đã sơ tán.",
+      "source": "https://baomoi.com/thong-tin-ve-tinh-hinh-ho-chua-tren-dia-ban-gia-lai-sau-mua-lon-c56490312.epi",
+      "source_name": "Báo Tiền Phong",
+      "published": "2026-11-12T06:00:00+07:00",
+      "ai_prompt": "Water flowing over a reservoir spillway surrounded by hills in central Vietnam after heavy rain"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Cứu hộ • Quy Nhơn Bắc",
+      "text": "Cảnh sát PCCC & CNCH Công an tỉnh đã vận động, hỗ trợ khoảng **150 hộ dân** khu phố 4 (**phường Quy Nhơn Bắc**) kê cao tài sản, di dời tránh ngập và giải cứu ô tô kẹt giữa đất đá trên **QL1D**.",
+      "source": "https://baogialai.com.vn/cong-an-tinh-gia-lai-khan-truong-ho-tro-nguoi-dan-ung-pho-mua-lu-post604645.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-11T20:15:53+07:00",
+      "ai_prompt": "Vietnamese rescue officers helping residents move household items during flood"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Giao thông • Điểm chia cắt",
+      "text": "Mưa lũ làm xói lở mố **cầu tạm An Lão** (**ĐT.629**) buộc tạm dừng phương tiện, tràn ngập **20 cm** đường tạm **cầu Công Lương** (**ĐT.639**) và xói lở hạ lưu **cầu Bà Lương** trên tuyến **QL19C**.",
+      "source": "https://baomoi.com/gia-lai-mua-lu-uy-hiep-nhieu-cong-trinh-giao-thong-nhung-du-an-nao-bi-anh-huong-c56490143.epi",
+      "source_name": "Báo Xây Dựng",
+      "published": "2026-11-12T00:11:00+07:00",
+      "ai_prompt": "Flooded provincial road bridge with warning barriers in central Vietnam"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Dự báo • Chiều giảm mưa",
+      "text": "Ngày **12/11**, phía Đông tỉnh Gia Lai còn mưa vừa đến mưa to (**30–70 mm**, có nơi trên **120 mm**); dự báo từ **chiều tối 12/11** mưa lớn tại miền Trung bắt đầu **giảm dần**, nước lũ rút chậm.",
+      "source": "https://baomoi.com/thoi-tiet-hom-nay-12-11-trung-bo-mua-rat-to-co-noi-mua-tren-200mm-c56491346.epi",
+      "source_name": "Báo Thanh Niên",
+      "published": "2026-11-12T08:50:00+07:00",
+      "image": "press:https://images2.thanhnien.vn/528068263637045248/2026/11/11/tnw-z8477272958750f2baabd981dc65049c2771a426d58074-1794394724615874893973.jpg",
+      "image_credit": "Báo Thanh Niên",
+      "ai_prompt": "Rainy city street in coastal central Vietnam with people in raincoats"
+    },
+    {
+      "category": "khu-vuc",
+      "label": "Dân sinh • Bãi dăm gỗ",
+      "text": "Hàng trăm hộ dân tổ dân phố 2, 3 dọc bờ kè đường **Phan Chu Trinh – Trần Hưng Đạo** (**phường Quy Nhơn**) phản ánh các bãi chứa dăm gỗ phát tán bụi mịn kèm mùi hôi ẩm mốc sau những đợt mưa.",
+      "source": "https://baomoi.com/bai-chua-dam-go-gay-o-nhiem-khu-dan-cu-c56490287.epi",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-12T05:54:00+07:00",
+      "ai_prompt": "Large woodchip storage piles near a seaport in Vietnam under cloudy sky"
+    },
+    {
+      "category": "tinh",
+      "label": "Pháp luật • Răng giả lậu",
+      "text": "Công an tỉnh vừa khởi tố bị can **T.H.H.** (SN 1982, Giám đốc Công ty Hoàng Anh Lab) về tội Lừa dối khách hàng do sản xuất, bán răng giả khi chưa được cấp phép, thu lợi bất chính **hơn 400 triệu đồng**.",
+      "source": "https://baogialai.com.vn/khoi-to-giam-doc-cong-ty-tnhh-mtv-hoang-anh-lab-ve-toi-lua-doi-khach-hang-post604639.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-11T17:17:32+07:00",
+      "ai_prompt": "Dental laboratory equipment inspection by authorities in Vietnam"
+    },
+    {
+      "category": "tinh",
+      "label": "Tối nay • U23 Việt Nam",
+      "text": "Sau chiến thắng mở màn trước **U23 Thái Lan** nhờ cú đúp của tiền đạo Nguyễn Minh Tâm, đúng **19h tối nay 12/11** trên **sân Pleiku**, **U23 Việt Nam** sẽ chạm trán **U23 Singapore** tranh ngôi đầu.",
+      "source": "https://baogialai.com.vn/u23-viet-nam-tap-nhe-truoc-dai-chien-voi-u23-singapore-post604680.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-12T09:12:43+07:00",
+      "ai_prompt": "Vietnam U23 football players training on a green pitch in Pleiku stadium"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Cùng chia sẻ góc nhìn văn minh với cộng đồng!",
+  "outro_question": "Sáng nay khu vực nhà bạn ở Quy Nhơn – Tuy Phước nước đã rút bớt chưa? Bà con nhớ bấm LƯU bài để lưu ý các tuyến cầu đường tạm cấm và 23 xã, phường nguy cơ sạt lở nhé!",
+  "pin_comment": "📌 Bấm LƯU bài để tra cứu danh sách 23 xã, phường cảnh báo sạt lở sáng 12/11, các cầu tạm đang rào chắn (ĐT.629, ĐT.639, QL19C) và dự báo thời điểm giảm mưa chiều tối nay bà con nhé! Sáng nay chỗ nhà mình nước rút chưa ạ?",
+  "caption": {
+    "tiktok": "Toàn cảnh mưa lũ sáng Thứ Năm 12/11/2026 – Quy Nhơn 24h Qua:\n1. Phường Quy Nhơn Đông, Quy Nhơn Bắc ngập sâu, người dân phải chèo thuyền đi lại giữa khu dân cư\n2. Xuyên đêm: 200 người dân Quy Nhơn Bắc đóng hơn 500 bao cát đắp bờ bao chặn lũ sông Dinh bảo vệ 1.300 hộ\n3. Sóng cao 2–4 m đánh hư hỏng nặng 150 m mái kè biển An Dương Vương (Quy Nhơn) và sụt lún 50 m² đường dạo bộ\n4. Cảnh báo khẩn sáng 12/11: 23 xã, phường nguy cơ lũ quét, sạt lở (Quy Nhơn Tây, Đông, Nam, Tuy Phước, đèo Cù Mông...)\n5. Toàn tỉnh có 41/282 hồ chứa đã qua tràn (29 hồ phía Đông đầy nước); đã sơ tán 92 hộ dân vùng nguy hiểm\n6. Cảnh sát PCCC & CNCH hỗ trợ 150 hộ dân Quy Nhơn Bắc kê cao tài sản, giải cứu ô tô kẹt trên QL1D\n7. Tạm dừng qua cầu tạm An Lão (ĐT.629), rào chắn đường tạm cầu Công Lương (ĐT.639) do xói lở, ngập nước\n8. Dự báo: Hôm nay 12/11 phía Đông tỉnh còn mưa 30–70 mm (có nơi >120 mm), từ chiều tối mưa giảm dần\n9. Hàng trăm hộ dân dọc bờ kè Phan Chu Trinh – Trần Hưng Đạo (Quy Nhơn) khổ sở vì bụi và mùi hôi dăm gỗ sau mưa\n10. Khởi tố Giám đốc Công ty Hoàng Anh Lab sản xuất răng giả khi chưa cấp phép, thu lợi hơn 400 triệu\n11. 19h tối nay 12/11: U23 Việt Nam chạm trán U23 Singapore sau trận thắng U23 Thái Lan\n\nNguồn: Báo Gia Lai, Báo Thanh Niên, Báo SGGP, Báo Tiền Phong, Báo Xây Dựng\n#quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "youtube": "Toàn cảnh mưa lũ sáng 12/11/2026 – Quy Nhơn 24h Qua: Người dân Quy Nhơn chèo thuyền giữa phố ngập, 200 người đắp bao cát chặn lũ sông Dinh, sóng lớn đánh hư 150m kè An Dương Vương, cảnh báo sạt lở 23 xã phường... #quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua",
+    "facebook": "Toàn cảnh mưa lũ sáng Thứ Năm 12/11/2026 – Quy Nhơn 24h Qua: Khu dân cư Quy Nhơn Đông, Quy Nhơn Bắc ngập sâu phải chèo thuyền; 200 người dân đắp hơn 500 bao cát chắn lũ sông Dinh; sóng cao 2–4m làm hư hỏng 150m kè biển An Dương Vương; dự báo từ chiều tối nay mưa giảm dần... Sáng nay chỗ nhà bà con nước rút chưa ạ? #quynhon #tinquynhon #gialai #binhdinh #tintuc #quynhon24hqua"
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ],
+  "needs_review": []
+}
