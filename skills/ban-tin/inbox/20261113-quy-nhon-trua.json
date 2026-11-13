@@ -1,0 +1,123 @@
+{
+  "type": "digest",
+  "brand": [
+    "QUY NHƠN",
+    "24H QUA"
+  ],
+  "output": "anh",
+  "date": "2026-11-13",
+  "session": "trua",
+  "region": "Quy Nhơn",
+  "title": "Điểm tin trưa 13/11: Làm rõ sạt lở QL1D, cấm xe qua cầu Bà Lương",
+  "cover": {
+    "title": "TRƯA 13/11: SẠT LỞ QL1D & CẤM CẦU BÀ LƯƠNG",
+    "subtitle": "Trưa Thứ Sáu, 13/11/2026",
+    "teaser": "ĐH 26 bồi thường, hồ Định Bình điều tiết, chiều nay lũ xuống."
+  },
+  "items": [
+    {
+      "label": "Sạt lở • Quốc lộ 1D",
+      "category": "khu-vuc",
+      "text": "Chủ tịch tỉnh Gia Lai chỉ đạo làm rõ nguyên nhân vụ **sạt lở Km18+900 QL1D** qua đèo Quy Hòa, P. Quy Nhơn Nam, đồng thời rà soát lấn chiếm, xây dựng trái phép.",
+      "source": "https://thanhnien.vn/sat-lo-tai-quoc-lo-1d-chu-tich-gia-lai-chi-dao-lam-ro-nguyen-nhan-185261112214131245.htm",
+      "source_name": "Báo Thanh Niên",
+      "published": "2026-11-13T04:22:00+07:00"
+    },
+    {
+      "label": "Cao tốc • Bồi thường ĐH 26",
+      "category": "khu-vuc",
+      "text": "**137 xe ben** chở đất thi công cao tốc Quy Nhơn - Pleiku chạy qua đường **ĐH 26** (xã Bình An) gây bụi, nứt nhà dân; chủ đầu tư dự kiến bồi thường từ **28/11**.",
+      "source": "https://thanhnien.vn/nguoi-dan-chan-duong-thi-cong-cao-toc-quy-nhon-pleiku-len-phuong-an-boi-thuong-18526111307330198.htm",
+      "source_name": "Báo Thanh Niên",
+      "published": "2026-11-13T08:11:00+07:00"
+    },
+    {
+      "label": "Cảnh báo • Lũ & thủy triều",
+      "category": "khu-vuc",
+      "text": "Tỉnh yêu cầu chốt chặn **24/24 giờ** tại các ngầm tràn, cầu yếu ngập sâu và nghiêm cấm người dân **bắt cá, vớt gỗ** trên sông, suối khi nước lũ chảy xiết.",
+      "source": "https://thanhnien.vn/gia-lai-khong-de-nguoi-dan-bat-ca-vot-go-vung-nuoc-lu-chay-xiet-185261112191341691.htm",
+      "source_name": "Báo Thanh Niên",
+      "published": "2026-11-12T19:37:00+07:00"
+    },
+    {
+      "label": "Phân luồng • QL19C",
+      "category": "khu-vuc",
+      "text": "Sở Xây dựng **cấm toàn bộ xe** qua cầu Bà Lương (**Km17+595 QL19C**, Canh Vinh): xe **≤13 tấn** rẽ đường dân sinh Nguyễn Nhạc, xe **>13 tấn** đi ĐT.644.",
+      "source": "https://baogialai.com.vn/phan-luong-giao-thong-qua-cau-ba-luong-tren-quoc-lo-19c-post604774.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-13T07:46:54+07:00"
+    },
+    {
+      "label": "Hồ Định Bình • Điều tiết",
+      "category": "khu-vuc",
+      "text": "Từ **6h sáng 13/11**, hồ **Định Bình** điều tiết nước về hạ du sông Kôn từ **32 lên 180 m³/s** (tối đa **350 m³/s**), cảnh báo **17 xã, phường** chủ động phòng tránh.",
+      "source": "https://baogialai.com.vn/dieu-tiet-nuoc-ho-dinh-binh-de-chu-dong-ung-pho-voi-mua-lon-tu-6-gio-ngay-13-11-post604771.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-12T18:50:19+07:00"
+    },
+    {
+      "label": "Dự báo • Chiều nay lũ xuống",
+      "category": "khu-vuc",
+      "text": "Mưa ở phía Đông tỉnh **Gia Lai** chỉ còn trong sáng **13/11** rồi giảm dần; dự báo chiều nay lũ trên **sông Kôn** sẽ xuống nhanh quanh mức **báo động 1**.",
+      "source": "https://baomoi.com/bac-bo-chieu-hung-nang-mua-lon-o-trung-bo-giam-dan-c56500226.epi",
+      "source_name": "Báo Thanh Hóa",
+      "published": "2026-11-13T08:19:00+07:00"
+    },
+    {
+      "label": "Toàn tỉnh • 1.857 nhà ngập",
+      "category": "khu-vuc",
+      "text": "Đợt mưa lũ khiến Gia Lai còn **1.857 nhà dân** bị ngập, tập trung ở **phường Quy Nhơn Bắc, Quy Nhơn Tây** (sâu **0,5 m**); **102 hộ** vùng nguy hiểm đã được sơ tán.",
+      "source": "https://baomoi.com/so-tan-1-887-ho-dan-khu-vuc-co-nguy-co-cao-ngap-lut-sat-lo-c56499015.epi",
+      "source_name": "Báo Quân Đội Nhân Dân",
+      "published": "2026-11-12T21:00:00+07:00"
+    },
+    {
+      "label": "Di dời • 50 chiến sĩ hỗ trợ",
+      "category": "tinh",
+      "text": "Công an tỉnh tăng cường **50 cán bộ, chiến sĩ** về xã **Ia Hiao** giúp **44/100 hộ** vùng thiên tai tháo dỡ, dựng lại nhà tại khu tái định cư thôn Điểm 9.",
+      "source": "https://baogialai.com.vn/50-can-bo-chien-si-ho-tro-nguoi-dan-ia-hiao-di-doi-den-noi-o-moi-post604761.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-13T07:46:37+07:00"
+    },
+    {
+      "label": "Đô thị • 19 công trình xanh",
+      "category": "tinh",
+      "text": "Gia Lai hiện có **19 tòa nhà** đạt chứng nhận công trình xanh (**18 EDGE** đứng thứ **9 cả nước**, **1 LEED** ở Phù Cát) với tổng diện tích sàn **679.285 m²**.",
+      "source": "https://baogialai.com.vn/gia-lai-co-19-toa-nha-dat-chung-nhan-cong-trinh-xanh-post604778.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-13T04:49:56+07:00"
+    },
+    {
+      "label": "Nông sản • Cà phê giảm",
+      "category": "tinh",
+      "text": "Sáng **13/11**, giá **cà phê** tại Gia Lai giảm tiếp **300 đ/kg** xuống mức **83.700 đ/kg**; trong khi đó giá **hồ tiêu** vẫn giữ ổn định ở mức cao **135.500 đ/kg**.",
+      "source": "https://baogialai.com.vn/gia-nong-san-hom-nay-13-11-ca-phe-tiep-da-giam-tai-gia-lai-chi-con-83700-dongkg-post604800.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-13T08:00:00+07:00"
+    },
+    {
+      "label": "Thể thao • U23 Việt Nam",
+      "category": "tinh",
+      "text": "Tối **12/11** trên sân Pleiku, **U23 Việt Nam** thắng **U23 Singapore 1-0** nhờ bàn duy nhất của **Nguyễn Bảo Long**, chuẩn bị gặp **U23 Qatar** ở lượt cuối.",
+      "source": "https://baomoi.com/thang-singapore-1-0-hlv-dinh-hong-vinh-chua-hai-long-c56500308.epi",
+      "source_name": "Báo VTC News",
+      "published": "2026-11-13T08:24:13+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "Bấm LƯU bài để tiện tra cứu lộ trình phân luồng cầu Bà Lương (QL19C) và thông tin điều tiết hồ Định Bình hôm nay! Khu vực bạn ở tình hình nước rút thế nào rồi ạ?",
+  "caption": {
+    "tiktok": "Điểm tin trưa 13/11: Làm rõ sạt lở QL1D đèo Quy Hòa, 137 xe ben cao tốc qua ĐH 26 dự kiến bồi thường từ 28/11, cấm toàn bộ xe qua cầu Bà Lương QL19C và hồ Định Bình điều tiết nước.",
+    "youtube": "Điểm tin trưa 13/11/2026 tại Quy Nhơn - Gia Lai: Làm rõ sạt lở QL1D, phương án bồi thường ĐH 26, phân luồng cầu Bà Lương QL19C, điều tiết hồ Định Bình và dự báo lũ chiều nay.",
+    "facebook": "Tổng hợp 11 tin nóng trưa Thứ Sáu 13/11/2026 tại Quy Nhơn - Gia Lai: Chỉ đạo làm rõ sạt lở QL1D đèo Quy Hòa, phân luồng qua cầu Bà Lương QL19C, hồ Định Bình điều tiết nước và dự báo mưa lũ giảm dần chiều nay."
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ]
+}
