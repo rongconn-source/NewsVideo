@@ -1,0 +1,135 @@
+{
+  "type": "digest",
+  "brand": [
+    "QUY NHƠN",
+    "24H QUA"
+  ],
+  "output": "anh",
+  "date": "2026-11-13",
+  "session": "toi",
+  "region": "Quy Nhơn",
+  "title": "Điểm tin tối 13/11: Container ùn ứ Quy Nhơn Đông, xử lý gara lấn chiếm QL19",
+  "cover": {
+    "title": "TỐI 13/11: XE KẸT & LẤN CHIẾM QL19",
+    "subtitle": "Tối Thứ Sáu, 13/11/2026",
+    "teaser": "Tin sông Côn, thu 2 súng AK, lịch mổ miễn phí."
+  },
+  "items": [
+    {
+      "label": "Ùn ứ • P. Quy Nhơn Đông",
+      "category": "khu-vuc",
+      "text": "Dù trời tạnh mưa, **ngầm tràn đường Điện Biên Phủ** (P. Quy Nhơn Đông) còn ngập **0,4 m**, lực lượng chốt chặn 2 đầu khiến hàng chục **xe container** chờ lưu thông.",
+      "source": "https://thanhnien.vn/mua-tanh-hang-chuc-xe-container-van-mac-ket-o-quy-nhon-185261113112849273.htm",
+      "source_name": "Báo Thanh Niên",
+      "published": "2026-11-13T13:06:00+07:00"
+    },
+    {
+      "label": "Sông Côn • Đã tìm thấy",
+      "category": "khu-vuc",
+      "image": "input:song-con-20261113.jpg",
+      "image_credit": "Ảnh minh hoạ AI",
+      "text": "Người dân phát hiện thi thể **ông Đ.M.H. (SN 1994, xã Tây Sơn)** trôi trên sông Côn qua **xã Tuy Phước Bắc**, cách nơi bị lũ cuốn hơn **20 km** về hạ nguồn.",
+      "source": "https://baogialai.com.vn/phat-hien-thi-the-nguoi-dan-ong-bi-lu-cuon-troi-khi-tha-luoi-tren-song-con-post604815.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-13T17:35:50+07:00"
+    },
+    {
+      "label": "Trật tự • Lấn chiếm QL19",
+      "category": "khu-vuc",
+      "text": "Tại **Km18+00 QL19** (Eo Bà Nho, P. An Nhơn Nam), hộ dân chiếm mặt đường dôi dư làm **gara ô tô**, đấu nối trái phép khiến hàng chục xe tải ra vào mỗi ngày.",
+      "source": "https://vtcnews.vn/ngang-nhien-chiem-dung-hanh-lang-quoc-lo-qua-gia-lai-lam-gara-o-to-ar1050568.html",
+      "source_name": "Báo VTC News",
+      "published": "2026-11-13T13:56:16+07:00"
+    },
+    {
+      "label": "An ninh • Thu 2 súng AK",
+      "category": "tinh",
+      "image": "input:police-tape-20261113.jpg",
+      "image_credit": "Ảnh minh hoạ AI",
+      "text": "Phòng An ninh điều tra Công an tỉnh **Gia Lai** phối hợp thu giữ **2 khẩu súng tiểu liên AK** cùng gần **90 viên đạn** và bắt giữ nhiều đối tượng liên quan.",
+      "source": "https://baogialai.com.vn/gia-lai-thu-giu-2-khau-sung-tieu-lien-ak-cung-gan-90-vien-dan-post604751.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-13T10:59:01+07:00"
+    },
+    {
+      "label": "Cao tốc • Đẩy tiến độ",
+      "category": "khu-vuc",
+      "text": "Cao tốc **Quy Nhơn - Pleiku** giữ **55 mũi thi công** thành phần 1 đạt **880/4.230 tỷ đồng** (**21%**) và **51 mũi** thành phần 2 đạt **890/5.910 tỷ đồng** (**15%**).",
+      "source": "https://baomoi.com/gia-lai-day-nhanh-giai-ngan-von-cao-toc-quy-nhon-pleiku-c56505380.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-11-13T17:32:00.000+07:00"
+    },
+    {
+      "label": "Giao thông • Sạt ĐT.629",
+      "category": "khu-vuc",
+      "text": "Mưa lũ làm **cầu Bà Lương** phải đổ **126 m³ đá** gia cố; **ĐT.629** dừng qua cầu tạm **An Lão** do xói lở mố M1 và đường **ĐX.246** (Vĩnh Thạnh) sạt lở **150 m**.",
+      "source": "https://baogialai.com.vn/gia-lai-mua-lu-gay-ngap-lut-va-sat-lo-nhieu-cong-trinh-giao-thong-hu-hong-post604817.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-13T10:58:00+07:00"
+    },
+    {
+      "label": "Dân sinh • Bờ tràn 4 m",
+      "category": "khu-vuc",
+      "text": "Người dân tổ **Thuận Lạc** (P. Quy Nhơn Đông) bất an vì **ngầm tràn Lạc Trường** dài **30 m**, rộng chỉ **4 m** nối tới trường học thường xuyên ngập sâu mùa mưa.",
+      "source": "https://baogialai.com.vn/bat-an-vi-tran-lac-truong-thuong-xuyen-bi-ngap-post604826.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-13T16:55:37+07:00"
+    },
+    {
+      "label": "Sau lũ • P. Quy Nhơn Bắc",
+      "category": "khu-vuc",
+      "text": "Trưa **13/11**, nước tại rốn lũ **P. Quy Nhơn Bắc** rút dần nhưng nhiều tuyến đường còn ngập; người dân trở về dọn bùn đất và vẫn kê chắn phòng lũ quay lại.",
+      "source": "https://baomoi.com/vung-ron-lu-gia-lai-tat-bat-don-dep-khoi-phuc-doi-song-c56505734.epi",
+      "source_name": "Báo Sài Gòn Giải Phóng",
+      "published": "2026-11-13T17:56:11.000+07:00"
+    },
+    {
+      "label": "Giáo dục • Khử khuẩn lớp",
+      "category": "khu-vuc",
+      "text": "Nước lũ rút dần, hơn **30 giáo viên** Trường Mầm non **Quy Nhơn Bắc** cào bùn, khử khuẩn **2 điểm trường** bị ngập **30 cm** để sớm đón **730 trẻ** đi học lại.",
+      "source": "https://baomoi.com/truong-hoc-khan-truong-don-dep-sau-lu-don-hoc-sinh-tro-lai-c56503971.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-11-13T15:28:00.000+07:00"
+    },
+    {
+      "label": "Y tế • Mổ miễn phí trẻ",
+      "category": "khu-vuc",
+      "text": "Từ **15–28/11**, BV Đa khoa Trung tâm tỉnh (**106 Nguyễn Huệ, P. Quy Nhơn**) phối hợp bác sĩ tuyến Trung ương khám, **phẫu thuật miễn phí** cho **trẻ khuyết tật** khó khăn.",
+      "source": "https://baogialai.com.vn/gia-lai-kham-phau-thuat-mien-phi-cho-tre-em-khuyet-tat-co-hoan-canh-kho-khan-post604818.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-13T15:00:19+07:00"
+    },
+    {
+      "label": "Sự kiện • Chạy Chư Pưh",
+      "category": "tinh",
+      "text": "Ngày **27–28/11**, UBND xã **Chư Pưh** tổ chức Giải bán marathon lần thứ I năm 2026 với **4 cự ly** (**3 km, 5 km, 10 km, 21 km**) phục vụ cộng đồng yêu chạy bộ.",
+      "source": "https://baogialai.com.vn/xa-chu-puh-to-chuc-giai-ban-marathon-lan-thu-i-nam-2026-post604780.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-13T15:00:44+07:00"
+    },
+    {
+      "label": "Thể thao • U23 đấu Qatar",
+      "category": "tinh",
+      "text": "Hai cầu thủ Việt kiều **Khoa Ngô** và **Williams Minh Hoàng** tiếp tục ở lại **U23 Việt Nam** chuẩn bị đấu **U23 Qatar** lúc **19h ngày 14/11** trên sân Pleiku.",
+      "source": "https://baomoi.com/hai-ngoi-sao-viet-kieu-bao-tin-vui-cho-u23-viet-nam-truoc-tran-gap-qatar-c56506270.epi",
+      "source_name": "Báo Mới",
+      "published": "2026-11-13T19:14:00.000+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "Bấm LƯU bài để ghi nhớ lịch khám phẫu thuật miễn phí cho trẻ khuyết tật tại BV Đa khoa Trung tâm (106 Nguyễn Huệ, Quy Nhơn, 15–28/11) và lịch thi đấu U23 Việt Nam tối 14/11 nhé ạ!",
+  "caption": {
+    "tiktok": "Điểm tin tối 13/11: Xe container ùn ứ tại Quy Nhơn Đông, phát hiện nạn nhân lũ cuốn trên sông Côn, xử lý gara lấn chiếm QL19 và lịch khám mổ miễn phí cho trẻ khuyết tật.",
+    "youtube": "Điểm tin tối 13/11/2026 tại Quy Nhơn - Gia Lai: Xe container kẹt ngầm tràn Điện Biên Phủ, tin sông Côn, thu giữ 2 súng AK, đẩy nhanh cao tốc Quy Nhơn - Pleiku và lịch khám miễn phí.",
+    "facebook": "Tổng hợp 12 tin nóng tối Thứ Sáu 13/11/2026 tại Quy Nhơn - Gia Lai: Container chờ thông ngầm tràn Điện Biên Phủ, phát hiện nạn nhân sông Côn, xử lý lấn chiếm QL19 và dọn lũ ở Quy Nhơn Bắc."
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ]
+}
