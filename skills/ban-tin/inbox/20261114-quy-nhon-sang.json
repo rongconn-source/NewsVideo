@@ -1,0 +1,136 @@
+{
+  "type": "digest",
+  "brand": [
+    "QUY NHƠN",
+    "24H QUA"
+  ],
+  "output": "anh",
+  "date": "2026-11-14",
+  "session": "sang",
+  "region": "Quy Nhơn",
+  "title": "Điểm tin sáng 14/11: Thanh tra 6 trại heo Gia Lai, bác sổ đỏ giấy tay & đấu giá đất Quy Nhơn Đông",
+  "cover": {
+    "title": "SÁNG 14/11: 6 TRẠI HEO & SỔ ĐỎ",
+    "subtitle": "Sáng Thứ Bảy, 14/11/2026",
+    "teaser": "Lũ 2.600m kênh, làm sạch đất & U23 đấu Qatar."
+  },
+  "items": [
+    {
+      "label": "Sau lũ • Sạt 2.600m kênh",
+      "category": "khu-vuc",
+      "text": "Mưa lũ làm sạt mái đập **Nhà Mười** (Vạn Đức) và hư hại **2.600 m** kênh mương; hiện **4 điểm** cầu Bà Lương, đèo Nha Sam, ĐT.629 và **ĐT.640 (Phước Sơn – Cát Tiến)** vẫn chốt chặn.",
+      "source": "https://baogialai.com.vn/gia-lai-khan-truong-khac-phuc-thiet-hai-sau-mua-lu-post604851.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-13T19:39:42+07:00"
+    },
+    {
+      "label": "Thanh tra • 6 trại heo",
+      "category": "tinh",
+      "text": "Thanh tra tỉnh chỉ ra nhiều **thiếu sót môi trường** tại **6 dự án nuôi heo**: chậm xử lý bùn **biogas**, chưa thu khí hố tiêu hủy, **tưới nước thải** khi chưa công bố hợp quy.",
+      "source": "https://thanhtra.com.vn/ket-luan-thanh-tra-E17BD7A25/thanh-tra-tinh-gia-lai-chi-ra-nhieu-sai-pham-tai-6-du-an-chan-nuoi-cba90abbc.html",
+      "source_name": "Báo Thanh Tra",
+      "published": "2026-11-13T19:51:31+07:00"
+    },
+    {
+      "label": "Tìm người • Xã Chư Prông",
+      "category": "tinh",
+      "image": "input:chu-prong-search-20261114.jpg",
+      "image_credit": "Ảnh minh hoạ AI",
+      "text": "Công an xã **Chư Prông** tìm chị **N.T.H.L. (SN 1998)** mất tích từ chiều **2/11** khi đi xe **Honda RSX 81B3-268.79**; cao **1m55**, tóc ngắn, áo khoác nâu, quần sọc đỏ.",
+      "source": "https://baogialai.com.vn/cong-an-xa-chu-prong-tim-1-phu-nu-mat-tich-hon-10-ngay-post604812.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-13T15:01:42+07:00"
+    },
+    {
+      "label": "Đất đai • Bác giấy tay",
+      "category": "khu-vuc",
+      "text": "UBND tỉnh **bác khiếu nại** xin cấp **sổ đỏ** tại xã **Tuy Phước Tây** dù có **4 giấy mua bán viết tay**, do đất thuộc chính quyền quản lý và nằm trong **hành lang thoát lũ sông Hà Thanh**.",
+      "source": "https://thanhtra.com.vn/khieu-nai-to-cao-AAE7E0F0E/gia-lai-bac-khieu-nai-xin-cap-so-do-dua-tren-4-giay-sang-nhuong-viet-tay-492b4e9b3.html",
+      "source_name": "Báo Thanh Tra",
+      "published": "2026-11-13T19:35:25+07:00"
+    },
+    {
+      "label": "Cẩm nang • Sổ đỏ 30/11",
+      "category": "tinh",
+      "text": "Gia Lai chuẩn hóa xong **1.955.033 thửa đất** (**96%**); còn **82.713 thửa** vướng người đứng tên đã mất (**52.720 thửa**) hoặc sai thông tin, đôn đốc hoàn tất chậm nhất **30/11/2026**.",
+      "source": "https://baogialai.com.vn/gia-lai-96-so-thua-dat-co-du-lieu-duoc-lam-sach-chuan-hoa-post604721.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-14T05:35:08+07:00"
+    },
+    {
+      "label": "Đấu giá • Quy Nhơn Đông",
+      "category": "khu-vuc",
+      "image": "input:nhon-hoi-villa-20261114.jpg",
+      "image_credit": "Ảnh minh hoạ AI",
+      "text": "Ban Quản lý KKT tỉnh tìm đơn vị **đấu giá** gần **19,63 ha** đất sạch tại **KKT Nhơn Hội** (P. Quy Nhơn Đông) làm **331 lô** biệt thự du lịch Học viện Golf, dự kiến đấu giá **quý IV/2026**.",
+      "source": "https://cafeland.vn/tin-tuc/bat-dong-san-24h-tphcm-cam-moc-thu-hoi-dat-lam-metro-332km-gia-lai-dau-gia-20ha-dat-lam-biet-thu-du-lich-156768.html",
+      "source_name": "CafeLand",
+      "published": "2026-11-13T22:54:56+07:00"
+    },
+    {
+      "label": "Đầu tư • 3.820 tỷ đồng",
+      "category": "tinh",
+      "text": "UBND tỉnh chấp thuận **3 dự án** điện gió, điện mặt trời nổi tổng vốn **3.820 tỷ đồng** (**126 MW**); trong đó **2 dự án** tại khu vực **Bàu Cạn – Chư Prông** dự kiến khởi công **18/11**.",
+      "source": "https://tuoitre.vn/3-du-an-nang-luong-tai-tao-dau-tu-3800-ti-dong-vao-gia-lai-100261113164138394.htm",
+      "source_name": "Tuổi Trẻ",
+      "published": "2026-11-13T16:59:00+07:00"
+    },
+    {
+      "label": "Xây dựng • Thu hồi tiền",
+      "category": "tinh",
+      "text": "Rà soát **15 kết luận thanh tra** xây dựng – giao thông trên địa bàn **Gia Lai – Bình Định cũ**, tỉnh đã **thu hồi 560,3 triệu đồng** từ 10 kết luận và tiếp tục xử lý **5 hồ sơ** còn lại.",
+      "source": "https://thanhtra.com.vn/xu-ly-sau-thanh-tra-976EADF26/gia-lai-thu-hoi-hon-560-trieu-dong-tiep-tuc-ra-soat-5-ket-luan-thanh-tra-con-lai-492b4de59.html",
+      "source_name": "Báo Thanh Tra",
+      "published": "2026-11-13T19:41:14+07:00"
+    },
+    {
+      "label": "Nhân văn • 24 liệt sĩ",
+      "category": "tinh",
+      "text": "Đội **K52** cùng già làng **Siu Pích** quy tập được **24 hài cốt liệt sĩ** tại rẫy điều **xã Ia Dom**, phát hiện manh mối liệt sĩ **Nguyễn Thanh Trì** (hy sinh **18/5/1970**) và lấy mẫu **ADN** xác minh.",
+      "source": "https://thanhnien.vn/gia-lai-tim-hai-cot-liet-si-co-thong-tin-nguyen-thanh-tri-hy-sinh-ngay-1851970-185261113140336314.htm",
+      "source_name": "Báo Thanh Niên",
+      "published": "2026-11-13T14:31:00+07:00"
+    },
+    {
+      "label": "Giáo dục • Lớp 10 chuyên",
+      "category": "khu-vuc",
+      "text": "Dự thảo mới đề xuất thi **lớp 10 chuyên** theo **3 khối** (Tự nhiên, Xã hội, Ngoại ngữ) với **1 điểm chuẩn chung** từ năm **2027–2028**; THPT chuyên **Lê Quý Đôn** lưu ý học sinh sớm theo dõi.",
+      "source": "https://baogialai.com.vn/nhieu-ban-khoan-ve-thi-tuyen-vao-lop-10-thpt-chuyen-theo-khoi-post604816.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-13T19:44:20+07:00"
+    },
+    {
+      "label": "Thể thao • 19h tối nay",
+      "category": "tinh",
+      "text": "**19h tối nay (14/11)** trên **sân Pleiku**, **U23 Việt Nam** quyết đấu **U23 Qatar** ở lượt cuối **Gia Lai VTV Cup 2026**; đang dẫn đầu **6 điểm**, thầy trò HLV Đinh Hồng Vinh **chỉ cần hòa** là vô địch.",
+      "source": "https://tuoitre.vn/u23-viet-nam-khao-khat-nang-cup-o-pleiku-100261113163441498.htm",
+      "source_name": "Tuổi Trẻ",
+      "published": "2026-11-14T07:00:00+07:00"
+    },
+    {
+      "label": "Nông sản • 14/11 giảm",
+      "category": "tinh",
+      "text": "Sáng **14/11**, giá **cà phê** tại **Gia Lai** giảm tiếp **900 đ/kg** (phiên giảm thứ **4** liên tiếp) về mức **82.800 đ/kg**, trong khi **hồ tiêu** giữ vững mốc **135.500–138.000 đ/kg**.",
+      "source": "https://baogialai.com.vn/gia-nong-san-hom-nay-14-11-ca-phe-rot-gia-phien-thu-tu-ho-tieu-tru-vung-lua-tuoi-khoi-sac-post604892.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-14T08:00:00+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "Bấm LƯU bài để ghi nhớ mốc hạn làm sạch dữ liệu đất đai trước 30/11/2026 và lịch U23 Việt Nam quyết đấu U23 Qatar lúc 19h tối nay trên sân Pleiku nhé ạ!",
+  "caption": {
+    "tiktok": "Điểm tin sáng 14/11: Thanh tra 6 trại heo ở Gia Lai, bác đơn cấp sổ đỏ 4 giấy tay, đấu giá 19,63 ha đất Quy Nhơn Đông và 19h tối nay U23 Việt Nam đấu U23 Qatar.",
+    "youtube": "Điểm tin sáng 14/11/2026 tại Quy Nhơn - Gia Lai: Khắc phục 2.600 m kênh mương sau lũ, thanh tra 6 trại heo, làm sạch 96% dữ liệu đất đai và U23 Việt Nam tranh cúp VTV Cup tối nay.",
+    "facebook": "Tổng hợp 12 tin nóng sáng Thứ Bảy 14/11/2026 tại Quy Nhơn - Gia Lai: Sạt 2.600 m kênh mương sau lũ, thanh tra 6 trang trại heo, bác khiếu nại sổ đỏ giấy tay ở Tuy Phước Tây và 19h U23 Việt Nam gặp Qatar."
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ]
+}
+
