@@ -1,0 +1,132 @@
+{
+  "type": "digest",
+  "brand": [
+    "QUY NHƠN",
+    "24H QUA"
+  ],
+  "output": "anh",
+  "date": "2026-11-15",
+  "session": "toi",
+  "region": "Quy Nhơn",
+  "title": "Điểm tin tối 15/11: QL19B đi sân bay Phù Cát xuống cấp, ĐH Quy Nhơn được đầu tư phòng lab bán dẫn",
+  "cover": {
+    "title": "TỐI 15/11: QL19B ĐI SÂN BAY XUỐNG CẤP",
+    "subtitle": "Tối Chủ Nhật, 15/11/2026",
+    "teaser": "ĐH Quy Nhơn có lab bán dẫn, phạt 3 hãng vận tải, cầu QL19C tạm đóng."
+  },
+  "items": [
+    {
+      "label": "Giao thông • QL19B",
+      "category": "khu-vuc",
+      "text": "Tuyến **QL19B** từ **sân bay Phù Cát** đi cao tốc qua **P. An Nhơn Bắc, P. An Nhơn, xã Bình Hiệp** xuống cấp, đọng nước; Ban QLDA tỉnh yêu cầu **vá tạm ổ gà** và trình duyệt hoàn trả.",
+      "source": "https://baomoi.com/gia-lai-quoc-lo-19b-xuong-cap-tiem-an-nguy-co-tai-nan-c56515279.epi",
+      "source_name": "Báo Xây Dựng",
+      "published": "2026-11-15T08:21:00+07:00"
+    },
+    {
+      "label": "Vận tải • Phạt giá vé",
+      "category": "khu-vuc",
+      "text": "Qua rà soát hồ sơ kê khai và giám sát giá cước **856 xe khách**, **1.800 taxi**, **7.331 xe tải**, **Sở Xây dựng tỉnh** xử phạt **3 đơn vị** vi phạm quy định về giá với tổng mức **48 triệu đồng**.",
+      "source": "https://baomoi.com/kiem-tra-xu-ly-nghiem-tinh-trang-tang-gia-cuoc-khong-dung-quy-dinh-c56518896.epi",
+      "source_name": "Báo Kiểm toán",
+      "published": "2026-11-15T15:13:00+07:00"
+    },
+    {
+      "label": "Phân luồng • Cầu QL19C",
+      "category": "khu-vuc",
+      "text": "Đến chiều **15/11**, toàn bộ quốc lộ Trung ương đã thông suốt; riêng **cầu Bà Lương (Km17+595 QL19C)** qua **xã Canh Vinh, Vân Canh** bị xói lở mố cầu sau mưa lớn vẫn tạm dừng để phân luồng.",
+      "source": "https://baomoi.com/con-3-diem-tac-duong-do-thien-tai-tai-thanh-hoa-gia-lai-va-lao-cai-c56518251.epi",
+      "source_name": "Báo Công Luận",
+      "published": "2026-11-15T17:28:00+07:00"
+    },
+    {
+      "label": "Bán dẫn • ĐH Quy Nhơn",
+      "category": "khu-vuc",
+      "text": "**Trường ĐH Quy Nhơn** vừa được Bộ GD&ĐT bổ sung vào danh sách **25 đại học** ưu tiên đầu tư **phòng thí nghiệm bán dẫn**; người học ngành bán dẫn đủ điều kiện được hỗ trợ **4,5–8,4 triệu/tháng**.",
+      "source": "https://baomoi.com/25-dai-hoc-duoc-uu-tien-dau-tu-phong-thi-nghiem-ban-dan-c56517922.epi",
+      "source_name": "Báo Công Luận",
+      "published": "2026-11-15T16:32:00+07:00"
+    },
+    {
+      "label": "An ninh • Học đường QN",
+      "category": "khu-vuc",
+      "text": "**Công an tỉnh** triển khai chương trình **'Kết nối không tổn thương'** tại **THPT Trưng Vương, THCS Lê Hồng Phong (P. Quy Nhơn)**, hướng dẫn học sinh nhận diện ma túy, quấy rối mạng và gọi **111**.",
+      "source": "https://baogialai.com.vn/giup-hoc-sinh-nhan-dien-nguy-co-xam-hai-tu-bao-ve-post604877.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-15T17:11:00+07:00"
+    },
+    {
+      "label": "Du lịch • Kỳ Co Eo Gió",
+      "category": "khu-vuc",
+      "image": "press:https://photo-baomoi.bmcdn.me/w1000_r1/2026_11_15_425_56516124/f8b8d546770d9e53c71c.jpg",
+      "text": "Sở hữu **Kỳ Co, Eo Gió, Hòn Khô**, **P. Quy Nhơn Đông** đón hơn **1,2 triệu lượt khách** trong 10 tháng năm 2026, đưa giá trị thương mại - dịch vụ - du lịch đạt khoảng **3.600 tỷ đồng** (tăng **15%**).",
+      "source": "https://baogialai.com.vn/moi-dia-phuong-mot-dong-luc-tang-truong-post604382.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-15T09:53:00+07:00"
+    },
+    {
+      "label": "Kinh tế • Quy Nhơn Nam",
+      "category": "khu-vuc",
+      "text": "Tổ chức điểm Ngày hội Đại đoàn kết tại **P. Quy Nhơn Nam**, **PISICO Bình Định** ước đạt doanh thu năm 2026 hơn **1.877 tỷ đồng** (vượt **23%**), giữ việc làm cho gần **2.000 người** và **15.000 lao động**.",
+      "source": "https://baogialai.com.vn/tong-cong-ty-pisico-binh-dinh-ctcp-to-chuc-ngay-hoi-dai-doan-ket-toan-dan-toc-nam-2026-post605007.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-15T12:43:00+07:00"
+    },
+    {
+      "label": "Giải thưởng • Học sinh",
+      "category": "khu-vuc",
+      "text": "Em **Võ Lê Bảo Khánh** (**THCS số 1 Bình Định**, P. Bình Định) và **Nguyễn Hoài Băng** (**THPT số 1 Phù Mỹ**, xã Phù Mỹ) xuất sắc giành **2 giải Ba** toàn quốc Hội thi pháp luật phòng, chống ma túy.",
+      "source": "https://baogialai.com.vn/hoc-sinh-gia-lai-gianh-2-giai-ba-tai-hoi-thi-tim-hieu-phap-luat-ve-phong-chong-ma-tuy-cap-toan-quoc-post605011.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-15T13:53:00+07:00"
+    },
+    {
+      "label": "Đầu tư • Chư Sê 166 tỷ",
+      "category": "tinh",
+      "text": "Chủ tịch UBND tỉnh **Phạm Anh Tuấn** cùng **15 doanh nghiệp** làm việc với **4 xã Chư Sê, Bờ Ngoong, Al Bá, Ia Ko**; riêng **xã Chư Sê** thu ngân sách hơn **166 tỷ đồng** (**239%** dự toán), hút **9 dự án**.",
+      "source": "https://baogialai.com.vn/chu-tich-ubnd-tinh-pham-anh-tuan-yeu-cau-xay-dung-kich-ban-tang-truong-sat-thuc-tien-post605022.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-15T15:02:00+07:00"
+    },
+    {
+      "label": "Hành chính • Điểm GPMB",
+      "category": "tinh",
+      "text": "UBND tỉnh ban hành Kế hoạch **452/KH-UBND** chấm điểm mô hình **'Dân vận khéo'** giai đoạn **2026–2030** theo **thang 100 điểm** (tối thiểu **80/100**), trọng tâm là **cải cách hành chính** và **GPMB**.",
+      "source": "https://baomoi.com/gia-lai-cham-diem-mo-hinh-dan-van-kheo-theo-thang-100-c56518367.epi",
+      "source_name": "Báo Văn Hóa",
+      "published": "2026-11-15T17:46:00+07:00"
+    },
+    {
+      "label": "Dân sinh • Bầu tổ dân",
+      "category": "tinh",
+      "text": "Sáng **15/11**, **7.801 cử tri** đại diện hộ gia đình tại **P. Thống Nhất** bỏ phiếu bầu tổ trưởng **11 tổ dân phố** nhiệm kỳ **2026–2031** (đạt **72,06%**), trong đó **7/11 tổ** đắc cử với **100%** phiếu bầu.",
+      "source": "https://baogialai.com.vn/phuong-thong-nhat-hoan-thanh-bau-to-truong-to-dan-pho-nhiem-ky-2026-2031-post605013.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-15T17:11:00+07:00"
+    },
+    {
+      "label": "An sinh • Bếp ăn BVĐK",
+      "category": "tinh",
+      "text": "**Hội Bảo trợ bệnh nhân nghèo tỉnh** và **Chi hội Bác ái Pleiku** trực tiếp nấu, trao **500 suất cơm miễn phí** (**25.000 đồng/suất**) định kỳ chiều thứ Bảy cho bệnh nhân khó khăn tại **BV Đa khoa Gia Lai**.",
+      "source": "https://baogialai.com.vn/trao-500-suat-com-cho-benh-nhan-co-hoan-canh-kho-khan-tai-benh-vien-da-khoa-gia-lai-post604968.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-15T07:58:00+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "Bấm LƯU bài để tiện tra cứu lộ trình phân luồng qua cầu Bà Lương QL19C (xã Canh Vinh - Vân Canh), mức hỗ trợ học tập ngành bán dẫn (4,5–8,4 triệu/tháng) khi Trường ĐH Quy Nhơn được đầu tư phòng thí nghiệm bán dẫn và Tổng đài bảo vệ trẻ em 111 nhé ạ!",
+  "caption": {
+    "tiktok": "Điểm tin tối 15/11: QL19B đi sân bay Phù Cát xuống cấp chờ hoàn trả, Trường ĐH Quy Nhơn vào danh sách 25 đại học được ưu tiên đầu tư phòng thí nghiệm bán dẫn, phạt 3 đơn vị vận tải vi phạm giá cước và phân luồng cầu Bà Lương QL19C.",
+    "youtube": "Điểm tin tối 15/11/2026 tại Quy Nhơn - Gia Lai: QL19B đoạn từ sân bay Phù Cát đi cao tốc xuống cấp, ĐH Quy Nhơn được đầu tư phòng thí nghiệm bán dẫn, phạt 3 đơn vị vận tải vi phạm giá cước và du lịch P. Quy Nhơn Đông đạt 3.600 tỷ đồng.",
+    "facebook": "Tổng hợp 12 tin nóng tối Chủ Nhật 15/11/2026 tại Quy Nhơn - Gia Lai: QL19B đi sân bay Phù Cát xuống cấp chờ hoàn trả, Trường ĐH Quy Nhơn được đầu tư phòng lab bán dẫn, xử phạt 3 đơn vị vận tải vi phạm giá cước và phân luồng cầu Bà Lương QL19C."
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ]
+}
