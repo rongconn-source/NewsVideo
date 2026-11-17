@@ -1,0 +1,144 @@
+{
+  "type": "digest",
+  "brand": [
+    "QUY NHƠN",
+    "24H QUA"
+  ],
+  "output": "anh",
+  "date": "2026-11-17",
+  "session": "toi",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "title": "Điểm tin tối 17/11: Đấu giá đất vàng ven biển Quy Nhơn khởi điểm 132 tỷ, 4 vùng biển vào mùa cấm đánh bắt",
+  "cover": {
+    "title": "TỐI 17/11: ĐẤU GIÁ ĐẤT VÀNG QUY NHƠN",
+    "subtitle": "Tối Thứ Ba, 17/11/2026",
+    "teaser": "Lô 2.246 m² ven biển khởi điểm 132 tỷ; 4 vùng biển cấm đánh bắt."
+  },
+  "items": [
+    {
+      "label": "Đấu giá • Đất vàng QN",
+      "category": "khu-vuc",
+      "text": "Theo quy hoạch xây khu dịch vụ du lịch **25 tầng**, tỉnh đấu giá lô đất trống **DV-3 rộng 2.246 m²** đường **An Dương Vương** (**P. Quy Nhơn Nam**, đất CĐ KTCN cũ) khởi điểm gần **132 tỷ đồng**.",
+      "ai_prompt": "aerial view of coastal avenue An Duong Vuong in Quy Nhon city Vietnam, daytime",
+      "source": "https://tuoitre.vn/dau-gia-lo-dat-vang-2246m-ven-bien-quy-nhon-khoi-diem-132-ti-dong-100261117111227316.htm",
+      "source_name": "Báo Tuổi Trẻ",
+      "published": "2026-11-17T11:54:00+07:00"
+    },
+    {
+      "label": "Kè biển • Quy Nhơn Nam",
+      "category": "khu-vuc",
+      "text": "Sóng lớn cuốn cát làm sụt lún **150 m mái kè** và **50 m² đường dạo bộ An Dương Vương** (**P. Quy Nhơn Nam**); lề taluy âm **đèo Quy Hòa – QL1D** cũng sạt lở, đang giăng dây cảnh báo.",
+      "ai_prompt": "coastal seawall promenade after storm waves in central Vietnam, daytime",
+      "source": "https://baogialai.com.vn/khac-phuc-hu-hong-bao-dam-an-toan-cong-trinh-sau-mua-lu-post605053.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-17T13:09:02+07:00"
+    },
+    {
+      "label": "Điều tra • Khai thác đá",
+      "category": "tinh",
+      "text": "Vụ Phó Chủ tịch **xã Ia Hrú** bị người tên **C.** gọi đe dọa sau khi phạt **45 triệu đồng**, thu **8.000 viên đá chẻ**: khu vực cuối **làng Ring** lộ nhiều điểm múc đá lậu trên **10 ha**.",
+      "ai_prompt": "rocky hillside quarry inspection in rural central highlands Vietnam, daytime",
+      "source": "https://baomoi.com/vu-pho-chu-tich-xa-bi-de-doa-o-gia-lai-tan-thay-cong-truong-khai-thac-da-trai-phep-c56531394.epi",
+      "source_name": "Báo Tiền Phong",
+      "published": "2026-11-17T12:21:00+07:00"
+    },
+    {
+      "label": "Rừng thông • Xã Ayun",
+      "category": "tinh",
+      "text": "Tiếp nối cuộc điều tra ở tiểu khu 438, cơ quan chức năng làm rõ vụ nhiều vạt thông phòng hộ trồng năm **1998** tại **khoảnh 6, tiểu khu 437 (xã Ayun)** bị cưa hạ mới và **ken gốc chết đứng**.",
+      "ai_prompt": "pine forest conservation area in central highlands Vietnam, daytime",
+      "source": "https://congluan.vn/gia-lai-canh-rung-phong-ho-tiep-tuc-bi-tan-pha-tung-vat-thong-co-thu-bi-ha-trang-post367807.html",
+      "source_name": "Báo Công Luận",
+      "published": "2026-11-17T15:54:37+07:00"
+    },
+    {
+      "label": "Cẩm nang • Cấm đánh bắt",
+      "category": "khu-vuc",
+      "text": "Từ **tháng 11/2026 đến hết tháng 2/2027**, **4 vùng biển** tại **Nhơn Lý, Nhơn Hải, Ghềnh Ráng và Nhơn Châu** vào mùa cấm khai thác thủy sản; cá nhân vi phạm bị phạt **5–80 triệu đồng**.",
+      "ai_prompt": "fishing boats anchored near rocky peninsula in Quy Nhon bay Vietnam, sunny day",
+      "source": "https://baogialai.com.vn/gia-lai-co-5-vung-cam-khai-thac-thuy-san-co-thoi-han-4-khu-vuc-dang-vao-mua-cam-post605181.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-17T15:04:05+07:00"
+    },
+    {
+      "label": "Khởi công • 1.200 tỷ",
+      "category": "tinh",
+      "text": "Sáng **17/11**, tại **P. Thống Nhất**, khởi công dự án **Hoàng Thành - Victoria Apartments** vốn **1.200 tỷ đồng** (**15 tầng**, **588 căn hộ**, **43 shophouse & nhà ở**), hoàn thành sau **20 tháng**.",
+      "ai_prompt": "modern apartment building construction site groundbreaking in Vietnam, daytime",
+      "source": "https://baogialai.com.vn/khoi-cong-du-an-chung-cu-hoang-thanh-victoria-apartments-tai-phuong-thong-nhat-post605200.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-17T15:03:31+07:00"
+    },
+    {
+      "label": "Tiện ích • Hồ sơ Bưu điện",
+      "category": "tinh",
+      "text": "Bộ Tư pháp đề xuất thí điểm tại **Gia Lai, Hà Nội và Huế** mô hình **Điểm dịch vụ công qua mạng bưu chính**, giao nhân viên **Bưu điện** tiếp nhận, số hóa hồ sơ và trả kết quả gần dân.",
+      "ai_prompt": "public postal service counter interior in Vietnam, bright clean lighting",
+      "source": "https://baomoi.com/de-xuat-thi-diem-trien-khai-dich-vu-cong-qua-mang-buu-chinh-cong-cong-tai-ha-noi-hue-gia-lai-c56534617.epi",
+      "source_name": "Báo Chính phủ",
+      "published": "2026-11-17T17:08:00+07:00"
+    },
+    {
+      "label": "Kho vận • Cảng Quy Nhơn",
+      "category": "khu-vuc",
+      "text": "Gỡ khó cho DN hải sản **P. Quy Nhơn Đông** phải đưa hàng đi cảng xa, **Trung tâm kho vận Quý Phước** rộng **8,5 ha** trên **QL19 mới** (**xã Tuy Phước**) bổ sung gần **40.000 m² kho** gần cảng.",
+      "ai_prompt": "container port and logistics warehouse near coastal highway in Vietnam, daytime",
+      "source": "https://baogialai.com.vn/noi-mach-kho-van-mo-duong-xuat-khau-post605152.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-17T15:04:32+07:00"
+    },
+    {
+      "label": "Giúp dân • Tái định cư",
+      "category": "tinh",
+      "text": "**50 chiến sĩ Công an tỉnh** và **100 bộ đội Sư đoàn 2** đội mưa giúp dân vùng lũ **xã Ia Hiao** tháo dỡ, dựng nhà tại khu tái định cư (đã di dời **44/180 hộ**, phấn đấu đạt **100 hộ** cuối năm).",
+      "ai_prompt": "newly built rural resettlement houses in central highlands Vietnam, daytime",
+      "source": "https://baomoi.com/cong-an-bo-doi-giup-dan-vung-thien-tai-di-doi-den-khu-tai-dinh-cu-c56529555.epi",
+      "source_name": "Báo Công an TP.HCM",
+      "published": "2026-11-17T09:06:00+07:00"
+    },
+    {
+      "label": "Tri ân • 18 liệt sĩ",
+      "category": "tinh",
+      "text": "Sáng **17/11**, tại **Nghĩa trang Liệt sĩ Chư Prông**, tỉnh trang trọng truy điệu, an táng **18 hài cốt liệt sĩ** (**5 hài cốt** xác định được tên) do **Đội K52** quy tập tại **xã Ia Boòng**.",
+      "ai_prompt": "solemn memorial monument with flowers and incense in Vietnam, morning light",
+      "source": "https://baogialai.com.vn/18-hai-cot-liet-si-tro-ve-yen-nghi-ben-dong-doi-post605199.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-17T13:06:37+07:00"
+    },
+    {
+      "label": "Nhân lực • Tốt nghiệp QN",
+      "category": "khu-vuc",
+      "text": "**Trường CĐ Kỹ thuật Công nghệ Quy Nhơn** trao bằng tốt nghiệp cho **465 học sinh, sinh viên** (**321 trung cấp, 144 cao đẳng**); gần **80%** hệ trung cấp học liên thông, cung ứng **1.500 nhân lực/năm**.",
+      "ai_prompt": "vocational college campus building in Vietnam with trees, sunny morning",
+      "source": "https://baogialai.com.vn/truong-cao-dang-ky-thuat-cong-nghe-quy-nhon-trao-bang-tot-nghiep-cho-465-hoc-sinh-sinh-vien-post605195.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-17T13:08:38+07:00"
+    },
+    {
+      "label": "Nông sản • Giá hồ tiêu",
+      "category": "tinh",
+      "text": "Chiều tối **17/11**, giá **hồ tiêu** tại tỉnh giữ mức **134.500 đồng/kg** (Tây Nguyên **134.500–136.000 đồng/kg**) khi sản lượng tiêu toàn cầu năm 2026 được dự báo giảm **4,1%** còn **530.000 tấn**.",
+      "ai_prompt": "dried black peppercorns in woven baskets at agricultural farm in Gia Lai Vietnam",
+      "source": "https://baomoi.com/gia-tieu-hom-nay-17-11-san-luong-ho-tieu-toan-cau-nam-2026-du-bao-giam-c56535043.epi",
+      "source_name": "Tạp chí Công Thương",
+      "published": "2026-11-17T17:56:00+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "Bà con nhớ bấm LƯU bài để tra cứu danh sách 4 vùng biển cấm khai thác thủy sản tại Nhơn Lý, Nhơn Hải, Ghềnh Ráng, Nhơn Châu (từ tháng 11/2026 đến tháng 2/2027) và theo dõi không gian du lịch biển mới trên đường An Dương Vương nhé ạ!",
+  "caption": {
+    "tiktok": "Điểm tin tối 17/11: Đấu giá lô đất vàng 2.246 m² đường An Dương Vương ven biển Quy Nhơn khởi điểm gần 132 tỷ đồng, sóng lớn làm sụt lún 150 m kè biển Quy Nhơn Nam, 4 vùng biển vào mùa cấm đánh bắt và khởi công chung cư 1.200 tỷ ở P. Thống Nhất.",
+    "youtube": "Điểm tin tối 17/11/2026 tại Quy Nhơn - Gia Lai: Đấu giá lô đất 2.246 m² đường An Dương Vương ven biển Quy Nhơn khởi điểm gần 132 tỷ đồng, sụt lún 150 m kè biển Quy Nhơn Nam, 4 vùng biển vào mùa cấm đánh bắt và khởi công dự án 1.200 tỷ đồng.",
+    "facebook": "Tổng hợp 12 tin nóng tối Thứ Ba 17/11/2026 tại Quy Nhơn - Gia Lai: Đấu giá lô đất trống 2.246 m² đường An Dương Vương ven biển Quy Nhơn khởi điểm gần 132 tỷ đồng xây khu dịch vụ du lịch, 4 vùng biển vào mùa cấm khai thác thủy sản đến tháng 2/2027 và đề xuất thí điểm nộp hồ sơ dịch vụ công qua Bưu điện. Bà con nhớ bấm LƯU bài để tra cứu danh sách 4 vùng biển cấm khai thác thủy sản tại Nhơn Lý, Nhơn Hải, Ghềnh Ráng, Nhơn Châu nhé ạ!"
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ]
+}
