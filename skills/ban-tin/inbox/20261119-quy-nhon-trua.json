@@ -1,0 +1,132 @@
+{
+  "type": "digest",
+  "brand": [
+    "QUY NHƠN",
+    "24H QUA"
+  ],
+  "output": "anh",
+  "date": "2026-11-19",
+  "session": "trua",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "title": "Điểm tin trưa 19/11: Cảnh báo mưa >120 mm phía Đông, hồ Định Bình xả 60 m³/s, tăng lương tối thiểu từ 2027",
+  "cover": {
+    "title": "TRƯA 19/11: MƯA >120 MM, HỒ ĐỊNH BÌNH XẢ",
+    "subtitle": "Trưa Thứ Năm, 19/11/2026",
+    "teaser": "Lương tối thiểu Quy Nhơn lên 5,08 triệu, chốt ngày bắn pháo hoa 6/12."
+  },
+  "items": [
+    {
+      "label": "Thời tiết • Mưa >120 mm",
+      "category": "khu-vuc",
+      "text": "**Đài KTTV tỉnh** cảnh báo không khí lạnh tràn về gây mưa to **phía Đông Gia Lai** ngày **20–21/11** phổ biến **40–80 mm**, có nơi trên **120 mm/ngày**; biển **gió giật cấp 7–8**, sóng cao **2–4 m**.",
+      "source": "https://baogialai.com.vn/canh-bao-mua-lon-tu-ngay-20-den-21-11-o-phia-dong-gia-lai-co-noi-tren-120-mm-post605383.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-19T09:46:04+07:00"
+    },
+    {
+      "label": "Thủy lợi • Hồ Định Bình",
+      "category": "khu-vuc",
+      "text": "Từ **9 giờ sáng 19/11**, **hồ Định Bình** tăng lưu lượng điều tiết về hạ lưu **sông Côn** từ **28 lên 60 m³/giây** (tối đa **200 m³/giây** nếu mưa lớn); **4 khu vực** ven sông cần chủ động phòng tránh.",
+      "source": "https://baogialai.com.vn/ho-dinh-binh-dieu-tiet-nuoc-ve-ha-luu-song-con-tu-sang-19-11-post605376.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-19T08:31:39+07:00"
+    },
+    {
+      "label": "Tiền lương • Tăng từ 2027",
+      "category": "khu-vuc",
+      "text": "Từ **1/1/2027**, lương tối thiểu tại **5 phường Quy Nhơn** và **P. Pleiku** (vùng II) tăng **350 nghìn** lên **5,08 triệu đồng/tháng** (**24.400 đ/giờ**); vùng III lên **4,45 triệu**, vùng IV **4,04 triệu**.",
+      "source": "https://baogialai.com.vn/dieu-chinh-muc-luong-toi-thieu-vung-tu-ngay-1-1-2027-post605359.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-19T04:57:19+07:00"
+    },
+    {
+      "label": "Sự kiện • Pháo hoa 6/12",
+      "category": "khu-vuc",
+      "text": "Tỉnh ấn định **Lễ Bế mạc Năm Du lịch quốc gia – Gia Lai 2026** vào tối **6/12** (**20h10–21h40**) tại **Quảng trường Nguyễn Tất Thành** (**P. Quy Nhơn**) với **chương trình nghệ thuật** và **pháo hoa**.",
+      "source": "https://baomoi.com/dem-nguoc-den-le-be-mac-nam-du-lich-quoc-gia-gia-lai-2026-c56547138.epi",
+      "source_name": "Báo Văn Hóa",
+      "published": "2026-11-18T23:52:00+07:00"
+    },
+    {
+      "label": "An ninh • Tìm 2 cháu bé",
+      "category": "tinh",
+      "text": "Sau tin báo **2 con nhỏ (SN 2013 và 2019)** rời nhà đi học nhưng không đến lớp, **Công an xã Ia Mơ** và **Công an xã Ia Pia** đã kịp thời rà soát, tìm thấy **2 chị em** đang đi bộ và đưa về an toàn.",
+      "source": "https://baogialai.com.vn/cong-an-xa-ia-mo-phoi-hop-tim-thay-hai-chi-em-di-lac-post605349.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-18T20:27:09+07:00"
+    },
+    {
+      "label": "Lại Giang • Hiến đất làm kè",
+      "category": "tinh",
+      "text": "**43 hộ dân** tại **P. Hoài Nhơn Đông** tự nguyện hiến hơn **15.000 m² đất** và hoa màu (trị giá khoảng **1,5 tỷ đồng**) để sớm thi công **2 tuyến kè chống sạt lở** ven **sông Lại Giang**.",
+      "source": "https://baogialai.com.vn/nguoi-dan-dong-thuan-hien-dat-lam-ke-chong-sat-lo-ven-song-lai-giang-post605254.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-19T05:19:50+07:00"
+    },
+    {
+      "label": "Y tế • Sốt xuất huyết",
+      "category": "khu-vuc",
+      "text": "Toàn tỉnh hiện còn hơn **70 ổ dịch sốt xuất huyết** đang hoạt động (**hơn 600 ca/tuần**); ngành y tế cảnh báo **phía Đông tỉnh** bước vào mùa mưa khiến muỗi dễ sinh sôi, cần diệt lăng quăng ngay.",
+      "source": "https://baogialai.com.vn/chu-dong-phong-ngua-ngan-chan-dich-sot-xuat-huyet-post604572.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-19T08:01:45+07:00"
+    },
+    {
+      "label": "Ẩm thực • Bún cột Quy Nhơn",
+      "category": "khu-vuc",
+      "text": "Trên **đường Đoàn Thị Điểm** (**P. Quy Nhơn**), quán **bún cột Cô Tâm** tồn tại **13 năm** gây tò mò với cách buộc dây dứa luộc giò, ba chỉ trong **2 giờ**, giá **30.000–40.000 đ/tô**, bán **120 tô/sáng**.",
+      "source": "https://thanhnien.vn/bun-cot-quy-nhon-ten-goi-la-cach-che-bien-cung-la-18526111215094749.htm",
+      "source_name": "Báo Thanh Niên",
+      "published": "2026-11-18T11:28:00+07:00"
+    },
+    {
+      "label": "Đèo Quy Hòa • Ký ức đẹp",
+      "category": "khu-vuc",
+      "text": "Cung **đèo Quy Hòa** (**QL 1D**, **P. Quy Nhơn Nam**) không chỉ hút khách nhờ view biển xanh mà còn gắn với **con đường 6 km** do cụ **Huỳnh Ngọc Hải (88 tuổi)** cùng bệnh nhân phong mở lối năm **1990**.",
+      "source": "https://thanhnien.vn/quy-hoa-don-tim-phuot-thu-nhung-phan-doi-viet-nen-ky-tich-185261118210840636.htm",
+      "source_name": "Báo Thanh Niên",
+      "published": "2026-11-19T06:00:00+07:00"
+    },
+    {
+      "label": "Tái định cư • Xã Ia Tul",
+      "category": "tinh",
+      "text": "Thoát cảnh chạy lũ mỗi mùa mưa, đến nay **160/207 hộ dân** vùng ngập lụt **buôn Jứ cũ** (**xã Ia Tul**) đã chuyển về **khu tái định cư buôn Tơ Khế** cao ráo, đường sá, điện nước đầy đủ để an cư.",
+      "source": "https://baomoi.com/niem-vui-an-cu-cua-nguoi-dan-vung-ngap-lut-ia-tul-c56548522.epi",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-19T09:01:00+07:00"
+    },
+    {
+      "label": "Thể thao • Futsal Gia Lai",
+      "category": "tinh",
+      "text": "Đánh bại **Nhất Bang** tỷ số **1–0** ở chung kết chiều **18/11**, đội **Salon Nhất Trí** xuất sắc vô địch **Giải Futsal tỉnh Gia Lai 2026** (quy tụ **300 cầu thủ** từ **24 đội bóng** toàn tỉnh).",
+      "source": "https://baogialai.com.vn/salon-nhat-tri-vo-dich-giai-futsal-tinh-gia-lai-nam-2026-post605334.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-18T21:09:11+07:00"
+    },
+    {
+      "label": "Giá cả • Cà phê & Tiêu",
+      "category": "tinh",
+      "text": "Sáng **19/11**, giá **cà phê** tại **Gia Lai** tiếp tục lao dốc về **77.000 đồng/kg** (toàn vùng giảm **2.800–3.000 đ/kg**); cùng lúc **giá hồ tiêu** tại tỉnh cũng giảm xuống **133.000 đồng/kg**.",
+      "source": "https://baomoi.com/ngay-19-11-gia-ca-phe-va-ho-tieu-dong-loat-giam-manh-c56547828.epi",
+      "source_name": "Thời báo Tài chính VN",
+      "published": "2026-11-19T07:30:00+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "Bà con nhớ bấm LƯU bài để tiện theo dõi cảnh báo mưa lớn 20–21/11, lịch xả điều tiết nước hồ Định Bình, mức lương tối thiểu vùng mới từ 1/1/2027 và lịch bắn pháo hoa bế mạc Năm Du lịch quốc gia tối 6/12 tại Quảng trường Nguyễn Tất Thành nhé ạ!",
+  "caption": {
+    "tiktok": "Điểm tin trưa 19/11: Cảnh báo mưa lớn có nơi trên 120 mm/ngày phía Đông Gia Lai (20–21/11), hồ Định Bình tăng xả điều tiết 60 m³/s về sông Côn, lương tối thiểu vùng II Quy Nhơn tăng lên 5,08 triệu từ 1/1/2027 và chốt tối 6/12 bắn pháo hoa tại Quảng trường Nguyễn Tất Thành.",
+    "youtube": "Điểm tin trưa 19/11/2026 tại Quy Nhơn - Gia Lai: Cảnh báo mưa lớn trên 120 mm/ngày (20–21/11), hồ Định Bình tăng điều tiết nước về sông Côn, tăng lương tối thiểu vùng từ 1/1/2027 và lễ bế mạc bắn pháo hoa tối 6/12.",
+    "facebook": "Tổng hợp 12 tin nóng trưa Thứ Năm 19/11/2026 tại Quy Nhơn - Gia Lai: Cảnh báo mưa lớn có nơi trên 120 mm/ngày phía Đông tỉnh (20–21/11), hồ Định Bình tăng xả điều tiết 60 m³/s về hạ lưu sông Côn, lương tối thiểu vùng II tại 5 phường Quy Nhơn tăng lên 5,08 triệu/tháng từ 1/1/2027 và chốt tối 6/12 bắn pháo hoa bế mạc Năm Du lịch quốc gia tại Quảng trường Nguyễn Tất Thành. Bà con nhớ bấm LƯU bài để tiện theo dõi nhé ạ!"
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ]
+}
