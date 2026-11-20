@@ -1,0 +1,124 @@
+{
+  "type": "digest",
+  "brand": [
+    "QUY NHƠN",
+    "24H QUA"
+  ],
+  "output": "anh",
+  "date": "2026-11-20",
+  "session": "trua",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "title": "Điểm tin trưa 20/11: Tìm thấy thi thể học sinh biển Trung Lương, đề nghị truy tố Tài 'Đen' 9 trọng án, cao tốc Quy Nhơn - Pleiku sắp xong GPMB",
+  "cover": {
+    "title": "TRƯA 20/11: TÌM THẤY NỮ SINH LỚP 6",
+    "subtitle": "Trưa Thứ Sáu, 20/11/2026",
+    "teaser": "Truy tố Tài 'Đen' 9 trọng án; rừng thông lại bị phá"
+  },
+  "items": [
+    {
+      "label": "Tin mới • Biển Trung Lương",
+      "category": "khu-vuc",
+      "text": "Khoảng **3h sáng 20/11**, người dân tìm thấy thi thể em **N.V.T.V.** (SN **2015**, **xã Tuy Phước Bắc**) cách nơi gặp nạn tại **biển Trung Lương** (**xã Cát Tiến**) khoảng **1 km**.",
+      "source": "https://baomoi.com/tim-thay-thi-the-be-gai-mat-tich-khi-tam-bien-o-gia-lai-c56558131.epi",
+      "source_name": "Tiền Phong",
+      "published": "2026-11-20T09:57:00+07:00"
+    },
+    {
+      "label": "Pháp luật • Vụ Tài 'Đen'",
+      "category": "tinh",
+      "text": "Ngày **20/11**, **Cục Cảnh sát hình sự (C02)** đề nghị truy tố **Phạm Anh Tài** (tức **Tài \"Đen\"**, **36 tuổi**), **Lê Văn Ân** (**35 tuổi**) và **12 bị can** liên quan **9 trọng án** ở **Quảng Ngãi – Gia Lai**, từng cướp hơn **1,85 tỷ** tại **P. Hội Phú**.",
+      "source": "https://vnexpress.net/ke-giang-ho-cuop-ngan-hang-o-gia-lai-tung-giet-4-nguoi-trong-7-nam-5146894.html",
+      "source_name": "VnExpress",
+      "published": "2026-11-20T09:46:33+07:00"
+    },
+    {
+      "label": "Rừng phòng hộ • Xã Ayun",
+      "category": "tinh",
+      "text": "Sau vụ **693 cây thông** bị cưa hạ ở **xã Ayun**, **Ban QLRPH tỉnh Gia Lai** kỷ luật cảnh cáo **1 viên chức Trạm số 5**; kiểm tra mở rộng **tiểu khu 437** tiếp tục phát hiện **35 cây** bị hạ, hơn **150 cây** bị cạo vỏ.",
+      "source": "https://baomoi.com/gia-lai-ky-luat-can-bo-bao-ve-rung-sau-vu-pha-gan-700-cay-thong-tiep-tuc-phat-hien-rung-thong-bi-tan-pha-c56558087.epi",
+      "source_name": "Nhà báo & Công luận",
+      "published": "2026-11-20T09:58:00+07:00"
+    },
+    {
+      "label": "Hạ tầng • Cao tốc QN–Pleiku",
+      "category": "khu-vuc",
+      "text": "**Dự án thành phần 1** (**22 km**) cao tốc **Quy Nhơn – Pleiku** đã xong **100% GPMB** (**1.969 hộ**, chi **925 tỷ đồng**); **thành phần 2** bàn giao **58,5/58,5 km** phần địa phương, dự kiến xong hết mặt bằng vào **25/11**.",
+      "source": "https://baomoi.com/gia-lai-co-ban-hoan-thanh-giai-phong-mat-bang-cao-toc-quy-nhon-pleiku-c56557950.epi",
+      "source_name": "Báo Xây dựng",
+      "published": "2026-11-20T09:48:00+07:00"
+    },
+    {
+      "label": "Dân sinh • Tuy Phước Bắc",
+      "category": "khu-vuc",
+      "text": "Thi công đường **An Nhơn – Tây Đầm** làm **10 hộ dân thôn Thiện Nghĩa** (**xã Tuy Phước Bắc**) bị nứt tường, gãy trụ nhà; mới **2 hộ** được đền bù, **8 hộ** bị bảo hiểm từ chối vì quá hạn, tỉnh đang kiểm tra lại.",
+      "source": "https://baogialai.com.vn/nha-hu-hong-do-thi-cong-duong-nguoi-dan-cho-boi-thuong-post605363.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-19T22:01:33+07:00"
+    },
+    {
+      "label": "An ninh • Cảnh sát 113",
+      "category": "tinh",
+      "text": "Tuần tra đêm tại **hẻm 426 Trường Chinh** (**P. Hội Phú**), **Cảnh sát 113** bắt giữ **N.X.D.** (SN **1994**, quê **Ninh Bình**) mang túi nghi **ma túy đá** và **1 cân tiểu ly**; Công an tỉnh đã tạm giữ hình sự.",
+      "source": "https://baogialai.com.vn/canh-sat-113-bat-giu-doi-tuong-mang-ma-tuy-tren-duong-post605471.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-20T09:06:21+07:00"
+    },
+    {
+      "label": "Ngư dân • An toàn tàu cá",
+      "category": "khu-vuc",
+      "text": "Sau **2 vụ cháy** gây thiệt hại **24 tàu cá** ở **đầm Thị Nại** (**xã Tuy Phước Đông**) và **cảng Tam Quan** (**P. Hoài Nhơn Bắc**), **Sở NN&MT** yêu cầu kiểm tra an toàn điện tàu neo đậu, vẫn giữ **VMS 24/7**.",
+      "source": "https://baogialai.com.vn/gia-lai-trien-khai-giai-phap-bao-dam-an-toan-dien-phong-chay-tren-tau-ca-khi-neo-dau-post605433.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-20T07:35:04+07:00"
+    },
+    {
+      "label": "Thị trường • Vàng giảm sâu",
+      "category": "khu-vuc",
+      "text": "Sáng **20/11**, giá **vàng miếng SJC, DOJI, PNJ, Phú Quý** đồng loạt giảm **2,5 triệu đồng/lượng**, mua vào **129,2 triệu**, bán ra còn **134,2 triệu đồng/lượng**; vàng nhẫn **SJC** lùi về **128–134 triệu đồng/lượng**.",
+      "source": "https://baogialai.com.vn/gia-vang-lao-doc-vang-mieng-sjc-giam-con-1342-trieu-dongluong-post605483.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-20T09:19:16+07:00"
+    },
+    {
+      "label": "Nông sản • Giá cà phê",
+      "category": "tinh",
+      "text": "Sáng **20/11**, giá **cà phê** tại **Gia Lai** tiếp tục giảm sâu **2.200 đồng/kg** xuống còn **74.800 đồng/kg**; mặt bằng thu mua toàn vùng **Tây Nguyên** lùi về mức **74.200–75.000 đồng/kg**.",
+      "source": "https://baomoi.com/gia-ca-phe-lao-doc-hon-2-200-dong-kg-ve-sat-moc-74-000-dong-kg-c56557843.epi",
+      "source_name": "VnBusiness",
+      "published": "2026-11-20T09:28:00+07:00"
+    },
+    {
+      "label": "Tri ân • Làng Bi, Ia Dom",
+      "category": "tinh",
+      "text": "Ngày **19/11**, **Đội K52** quy tập thêm **1 hài cốt liệt sĩ** tại **làng Bi** (**xã Ia Dom**) để giám định **ADN**, nâng lên **29 hài cốt**; tỉnh tiếp tục kêu gọi tìm thân nhân liệt sĩ **Nguyễn Thanh Trì** (**1970**).",
+      "source": "https://baogialai.com.vn/quy-tap-them-1-hai-cot-liet-si-tai-lang-bi-xa-ia-dom-post605474.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-20T09:20:09+07:00"
+    },
+    {
+      "label": "Ngày 20/11 • ĐH Quy Nhơn",
+      "category": "khu-vuc",
+      "text": "Nhân **Ngày Nhà giáo Việt Nam 20/11**, **Trường Đại học Quy Nhơn (QNU)** ghi nhận đóng góp nổi bật của **PGS.TS Lương Đăng Kỳ** (**31 bài báo quốc tế**), **TS Phạm Trần Trúc Viên** và **TS Nguyễn Thanh Liêm**.",
+      "source": "https://baomoi.com/nhung-nguoi-gieo-tri-thuc-viet-tiep-hanh-trinh-cong-hien-tai-qnu-c56557289.epi",
+      "source_name": "Giáo dục & Thời đại",
+      "published": "2026-11-20T08:30:00+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "Xin chia buồn sâu sắc cùng gia đình em học sinh lớp 6 ở Tuy Phước Bắc. Mùa gió lớn biển động, bà con và các em nhỏ tuyệt đối giữ an toàn khi ra biển nhé! Mọi người bấm LƯU bài để theo dõi tiến độ cao tốc Quy Nhơn – Pleiku, giá vàng – cà phê và quy định an toàn điện tàu cá hôm nay nha!",
+  "caption": {
+    "tiktok": "Điểm tin trưa 20/11: Tìm thấy thi thể nữ sinh lớp 6 mất tích tại biển Trung Lương, C02 đề nghị truy tố Tài 'Đen' cùng 13 bị can về 9 trọng án ở Gia Lai – Quảng Ngãi, cao tốc Quy Nhơn – Pleiku sắp xong 100% mặt bằng và 8 hộ Tuy Phước Bắc chờ đền bù nứt nhà.",
+    "youtube": "Điểm tin trưa 20/11/2026 tại Quy Nhơn - Gia Lai: Tìm thấy thi thể học sinh đuối nước ở biển Trung Lương, đề nghị truy tố Tài 'Đen' 9 trọng án, kỷ luật cán bộ bảo vệ rừng thông Ayun và tiến độ mặt bằng cao tốc Quy Nhơn - Pleiku.",
+    "facebook": "Tổng hợp 11 tin nóng trưa Thứ Sáu 20/11/2026 tại Quy Nhơn - Gia Lai: Đã tìm thấy thi thể em học sinh lớp 6 tại biển Trung Lương (xã Cát Tiến); C02 đề nghị truy tố Tài 'Đen' cùng 13 bị can liên quan 9 trọng án tại Gia Lai – Quảng Ngãi; kỷ luật cán bộ sau vụ phá 693 cây thông ở Ayun; cao tốc Quy Nhơn – Pleiku cơ bản hoàn thành mặt bằng và 8 hộ Tuy Phước Bắc chờ bồi thường nứt nhà. Xin chia buồn sâu sắc cùng gia đình em học sinh, bà con đi biển mùa gió lớn nhớ tuyệt đối giữ an toàn nhé ạ!"
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ]
+}
