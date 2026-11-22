@@ -1,0 +1,124 @@
+{
+  "type": "digest",
+  "brand": [
+    "QUY NHƠN",
+    "24H QUA"
+  ],
+  "output": "anh",
+  "date": "2026-11-22",
+  "session": "toi",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "title": "Điểm tin tối 22/11: Bắt đối tượng trà trộn bệnh viện trộm điện thoại, nam sinh Lê Quý Đôn giành vòng nguyệt quế Olympia, Hồng Lệ lập cú đúp HCV",
+  "cover": {
+    "title": "TỐI 22/11: BẮT ĐỐI TƯỢNG TRỘM BỆNH VIỆN",
+    "subtitle": "Tối Chủ Nhật, 22/11/2026",
+    "teaser": "Nam sinh Lê Quý Đôn ẵm vòng nguyệt quế Olympia, Hồng Lệ lập cú đúp HCV"
+  },
+  "items": [
+    {
+      "label": "An ninh • Trộm bệnh viện",
+      "category": "khu-vuc",
+      "text": "**Công an phường Pleiku** phối hợp **Phòng Cảnh sát hình sự** vừa bắt giữ đối tượng giả danh người nhà bệnh nhân để lẻn vào các buồng bệnh lấy cắp **điện thoại**.",
+      "source": "https://baogialai.com.vn/gia-lai-bat-doi-tuong-gia-lam-nguoi-nha-benh-nhan-de-lay-cap-dien-thoai-post605725.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-22T17:29:48+07:00"
+    },
+    {
+      "label": "Olympia • Nam sinh QN",
+      "category": "khu-vuc",
+      "text": "Em **Nguyễn Phạm Việt Hưng** (**THPT chuyên Lê Quý Đôn - Quy Nhơn**) xuất sắc giành **Vòng nguyệt quế** cuộc thi **Tuần 3 - Tháng 1 - Quý 1** chương trình **Đường lên đỉnh Olympia**.",
+      "source": "https://baomoi.com/nam-sinh-thpt-chuyen-le-quy-don-gia-lai-gianh-vong-nguyet-que-tuan-olympia-27-c56576119.epi",
+      "source_name": "Báo Mới / Dân Trí",
+      "published": "2026-11-22T16:00:43+07:00"
+    },
+    {
+      "label": "Điền kinh • Cú đúp HCV",
+      "category": "tinh",
+      "text": "Sáng **22/11**, VĐV điền kinh **Phạm Thị Hồng Lệ** xuất sắc về nhất cự ly **5,4 km việt dã leo núi**, lập **cú đúp HCV** cho tỉnh nhà tại **Đại hội Thể thao toàn quốc 2026**.",
+      "source": "https://baogialai.com.vn/pham-thi-hong-le-lap-cu-dup-huy-chuong-vang-tai-dai-hoi-the-thao-toan-quoc-2026-post605695.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-22T17:44:03+07:00"
+    },
+    {
+      "label": "Mỏ đá • Phạt 3,2 tỷ",
+      "category": "tinh",
+      "text": "Cơ quan chức năng đã xử phạt hàng chục tổ chức, cá nhân vi phạm khai thác cát, đất, đá trái phép với tổng số tiền hơn **3,2 tỷ đồng**, siết chặt quản lý **khoáng sản**.",
+      "source": "https://baomoi.com/gia-lai-xu-phat-hang-chuc-truong-hop-vi-pham-trong-khai-thac-khoang-san-c56575726.epi",
+      "source_name": "Báo Mới / Thanh Tra",
+      "published": "2026-11-22T16:41:00+07:00"
+    },
+    {
+      "label": "Tam Quan • Di tích mới",
+      "category": "khu-vuc",
+      "text": "Sáng **22/11**, **phường Tam Quan** long trọng đón nhận bằng xếp hạng **Di tích lịch sử cấp tỉnh** đối với **Địa điểm Chiến thắng Đồng Khô năm 1966**.",
+      "source": "https://baogialai.com.vn/phuong-tam-quan-don-nhan-bang-xep-hang-di-tich-lich-su-cap-tinh-chien-thang-dong-kho-nam-1966-post605706.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-22T17:36:23+07:00"
+    },
+    {
+      "label": "Di tích • Cấm An Sơn",
+      "category": "khu-vuc",
+      "text": "Sáng **22/11**, **phường Tam Quan** khởi công công trình tu bổ, bảo tồn **Di tích lịch sử Cấm An Sơn** (**khu phố Hoài Châu**) chào mừng **Ngày Văn hóa Việt Nam (24/11)**.",
+      "source": "https://baogialai.com.vn/khoi-cong-xay-dung-tu-bo-di-tich-lich-su-cam-an-son-post605703.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-22T15:22:43+07:00"
+    },
+    {
+      "label": "Trực 24/24 • 7 trường",
+      "category": "tinh",
+      "text": "Tỉnh triển khai đề án bảo đảm an ninh trật tự tại **7 trường phổ thông dân tộc nội trú vùng biên**, bố trí lực lượng trực **24/24 giờ** để bảo vệ tuyệt đối cho học sinh.",
+      "source": "https://baomoi.com/gia-lai-bo-tri-luc-luong-truc-24-24-gio-bao-dam-an-ninh-7-truong-noi-tru-vung-bien-c56575696.epi",
+      "source_name": "Báo Mới / Công An",
+      "published": "2026-11-22T16:26:00+07:00"
+    },
+    {
+      "label": "HAGL • Rót 3.050 tỷ",
+      "category": "tinh",
+      "text": "**HAGL** thông qua phương án phát hành lô trái phiếu **400 tỷ đồng** có **TPBank** bảo lãnh, nhằm huy động nguồn vốn rót **3.050 tỷ đồng** trồng thêm **5.000 ha cà phê**.",
+      "source": "https://baomoi.com/hoang-anh-gia-lai-hag-du-kien-phat-hanh-400-ty-dong-trai-phieu-duoc-tpbank-bao-lanh-rot-3-050-ty-dong-trong-them-5-000-ha-ca-phe-c56576095.epi",
+      "source_name": "Báo Mới / Doanh Nghiệp",
+      "published": "2026-11-22T17:32:00+07:00"
+    },
+    {
+      "label": "Quy Nhơn • Cờ vua nhí",
+      "category": "khu-vuc",
+      "text": "Sáng **22/11**, **UBND phường Quy Nhơn** khai mạc **Giải cờ vua học sinh tiểu học năm 2026**, quy tụ **100 kỳ thủ nhí** sôi nổi tranh tài cờ nhanh cuối tuần.",
+      "source": "https://baomoi.com/100-vdv-tham-gia-giai-co-vua-hoc-sinh-tieu-hoc-phuong-quy-nhon-2026-c56574401.epi",
+      "source_name": "Báo Mới / Gia Lai",
+      "published": "2026-11-22T12:19:00+07:00"
+    },
+    {
+      "label": "Tây Sơn • Danh nhân",
+      "category": "khu-vuc",
+      "text": "Sáng **22/11**, **Bảo tàng Quang Trung** (**xã Tây Sơn**) khai mạc trưng bày chuyên đề **“Di sản tưởng niệm danh nhân Tây Sơn”** nhân dịp **Ngày Di sản Văn hóa Việt Nam 24/11**.",
+      "source": "https://baogialai.com.vn/bao-tang-quang-trung-trung-bay-chuyen-de-di-san-tuong-niem-danh-nhan-tay-son-post605681.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-22T12:22:09+07:00"
+    },
+    {
+      "label": "Kinh tế • 11 xã Tây",
+      "category": "tinh",
+      "text": "Chủ tịch UBND tỉnh **Phạm Anh Tuấn** làm việc với **11 xã, phường khu vực phía Tây**, yêu cầu xây dựng kịch bản tăng trưởng năm **2027** sát thực tế và gỡ khó cho dân sinh.",
+      "source": "https://baogialai.com.vn/xac-dinh-ro-tiem-nang-loi-the-va-du-dia-xay-dung-kich-ban-tang-truong-mang-tinh-kha-thi-cao-post605708.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-22T15:21:38+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "Bà con nhớ bấm LƯU bài để nắm cảnh giác chiêu trò trộm cắp bệnh viện, chúc mừng nam sinh trường Lê Quý Đôn vô địch tuần Olympia và thành tích cú đúp HCV của Hồng Lệ nhé ạ!",
+  "caption": {
+    "tiktok": "Điểm tin tối 22/11: Bắt kẻ giả người nhà trộm điện thoại ở bệnh viện, nam sinh THPT chuyên Lê Quý Đôn vô địch Olympia, Hồng Lệ lập cú đúp HCV và xử phạt 3,2 tỷ khai thác khoáng sản lậu.",
+    "youtube": "Điểm tin tối 22/11/2026 tại Quy Nhơn - Gia Lai: Bắt đối tượng trộm cắp tại bệnh viện, nam sinh chuyên Lê Quý Đôn giành vòng nguyệt quế Olympia, VĐV Hồng Lệ lập cú đúp HCV toàn quốc.",
+    "facebook": "Tổng hợp 11 tin nóng tối Chủ Nhật 22/11/2026 tại Quy Nhơn - Gia Lai: Công an bắt giữ đối tượng giả danh người nhà bệnh nhân trộm cắp điện thoại; nam sinh Nguyễn Phạm Việt Hưng (THPT chuyên Lê Quý Đôn) xuất sắc giành vòng nguyệt quế Tuần Olympia; VĐV Hồng Lệ mang về cú đúp HCV cho tỉnh nhà; xử phạt hơn 3,2 tỷ đồng vi phạm khai thác khoáng sản; Tam Quan đón nhận Bằng di tích lịch sử cấp tỉnh Chiến thắng Đồng Khô; HAGL rót 3.050 tỷ trồng 5.000 ha cà phê và 100 kỳ thủ nhí tranh tài cờ vua phường Quy Nhơn. Bà con bấm LƯU bài để theo dõi nhé ạ!"
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ]
+}
