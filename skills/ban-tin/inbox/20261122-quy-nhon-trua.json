@@ -1,0 +1,124 @@
+{
+  "type": "digest",
+  "brand": [
+    "QUY NHƠN",
+    "24H QUA"
+  ],
+  "output": "anh",
+  "date": "2026-11-22",
+  "session": "trua",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "title": "Điểm tin trưa 22/11: Khởi tố 3 đối tượng ma túy, cảnh báo sạt lở 8 xã đồi núi, du lịch đón 16 triệu lượt khách và đêm nhạc tối nay tại Quy Nhơn",
+  "cover": {
+    "title": "TRƯA 22/11: KHỞI TỐ 3 ĐỐI TƯỢNG MA TÚY",
+    "subtitle": "Trưa Chủ Nhật, 22/11/2026",
+    "teaser": "Cảnh báo sạt lở 8 xã, Quy Nhơn đón đêm nhạc tối nay"
+  },
+  "items": [
+    {
+      "label": "An ninh • Án ma túy",
+      "category": "khu-vuc",
+      "text": "**Công an tỉnh** vừa khởi tố bị can, tạm giam **3 đối tượng** trú tại **Tam Quan, Hoài Nhơn** và **Bến Cát** về hành vi tổ chức sử dụng trái phép chất **ma túy**.",
+      "source": "https://baogialai.com.vn/gia-lai-khoi-to-3-doi-tuong-to-chuc-su-dung-trai-phep-chat-ma-tuy-post605649.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-21T19:37:09+07:00"
+    },
+    {
+      "label": "Cảnh báo • Sạt lở 8 xã",
+      "category": "khu-vuc",
+      "text": "Sáng **22/11**, cơ quan khí tượng cảnh báo nguy cơ cao **lũ quét, sạt lở đất** trên sườn dốc tại **8 xã đồi núi** (**Vân Canh, Kim Sơn, An Hòa, Ân Hảo...**); biển động mạnh.",
+      "source": "https://baogialai.com.vn/gia-lai-canh-bao-giong-loc-song-lon-va-nguy-co-lu-quet-sat-lo-dat-tai-mot-so-khu-vuc-post605595.html",
+      "source_name": "TTXVN / Báo Gia Lai",
+      "published": "2026-11-22T06:30:00+07:00"
+    },
+    {
+      "label": "Du lịch • 16 tr lượt",
+      "category": "tinh",
+      "text": "Năm **2026**, toàn tỉnh ước đón **16 triệu lượt khách**, tổng thu du lịch đạt khoảng **36.100 tỷ đồng** nhờ chuỗi **140 hoạt động** Năm Du lịch quốc gia khép lại tại **Quy Nhơn**.",
+      "source": "https://baogialai.com.vn/nam-du-lich-quoc-gia-2026-gia-lai-don-khoang-16-trieu-luot-khach-post605654.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-22T05:18:48+07:00"
+    },
+    {
+      "label": "Đêm nhạc • Tối 22/11",
+      "category": "khu-vuc",
+      "text": "Vào **19h tối nay (22/11)**, tại sân khấu **Riverside Quy Nhơn** (**01 Võ Nguyên Giáp, P. Quy Nhơn**) diễn ra đêm nhạc **Ngô Tín** với sự góp mặt của ca sĩ, bác sĩ và giáo viên.",
+      "source": "https://thanhnien.vn/dem-nhac-ngo-tin-o-quy-nhon-bac-si-giao-vien-cung-ca-si-cat-tieng-hat-185261121152036102.htm",
+      "source_name": "Thanh Niên",
+      "published": "2026-11-21T16:20:00+07:00"
+    },
+    {
+      "label": "QN United • Đá lúc 17h",
+      "category": "khu-vuc",
+      "text": "Lúc **17h00 chiều nay (22/11)**, **Quy Nhơn United** bước vào trận so tài kịch tính gặp **Đại học Văn Hiến** tại **vòng 8 giải V.League 2** (trực tiếp trên **FPT Play**).",
+      "source": "https://thethao247.vn",
+      "source_name": "Thể Thao 247",
+      "published": "2026-11-22T07:00:00+07:00"
+    },
+    {
+      "label": "Siết chặt • Mua 1 NOXH",
+      "category": "tinh",
+      "text": "Quốc hội chốt luật quy định mỗi cá nhân, hộ gia đình chỉ được mua hoặc thuê mua **1 căn nhà ở xã hội**; trong **5 năm đầu** việc chuyển nhượng bị hạn chế nghiêm ngặt.",
+      "source": "https://baogialai.com.vn/moi-ca-nhan-ho-gia-dinh-chi-duoc-mua-1-can-nha-o-xa-hoi-siet-chat-chuyen-nhuong-post605638.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-21T17:19:46+07:00"
+    },
+    {
+      "label": "Thị trường • Giá vàng",
+      "category": "khu-vuc",
+      "text": "Sáng **22/11**, **vàng miếng SJC** neo đáy ở mức **128,5–133,5 triệu đồng/lượng**; vàng nhẫn **127,3–133,3 triệu**, chênh lệch mua bán nới rộng **5 triệu/lượng**.",
+      "source": "https://thanhnien.vn",
+      "source_name": "Báo Thanh Niên",
+      "published": "2026-11-22T08:00:00+07:00"
+    },
+    {
+      "label": "Nông sản • Tiêu 128k",
+      "category": "tinh",
+      "text": "Sáng **22/11**, giá **cà phê Gia Lai** giảm tiếp **2.000 đ/kg** về **71.800 đ/kg**; **hồ tiêu Gia Lai** giảm còn **128.000 đ/kg**, lùi về mức thấp nhất cả nước.",
+      "source": "https://baogialai.com.vn/gia-nong-san-hom-nay-22-11-robusta-roi-sau-ho-tieu-gia-lai-lui-ve-128000-dongkg-post605677.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-22T08:30:00+07:00"
+    },
+    {
+      "label": "Hạ tầng • 7 xã Phù Cát",
+      "category": "khu-vuc",
+      "text": "Lãnh đạo **UBND tỉnh** làm việc với **7 xã khu vực Phù Cát**, chỉ đạo nêu cao trách nhiệm người đứng đầu, quyết liệt giải ngân vốn đầu tư công và bàn giao mặt bằng.",
+      "source": "https://baogialai.com.vn/neu-cao-trach-nhiem-nguoi-dung-dau-quyet-liet-hanh-dong-de-thuc-day-tang-truong-post605623.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-21T16:38:21+07:00"
+    },
+    {
+      "label": "Xã Hra • Tặng 14 tivi",
+      "category": "tinh",
+      "text": "**UBND xã Hra** phối hợp **VietinBank Bình Định** trao tặng **14 tivi** phục vụ giảng dạy cho **Trường Mầm non Hra**, tiếp sức nâng cao chất lượng dạy học vùng khó.",
+      "source": "https://baogialai.com.vn/truong-mam-non-hra-duoc-tang-14-tivi-phuc-vu-giang-day-post605639.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-22T08:38:54+07:00"
+    },
+    {
+      "label": "Bước nhảy • Học đường",
+      "category": "tinh",
+      "text": "Tối qua tại **Phố đêm Chợ Nhỏ (P. Pleiku)** đã diễn ra chương trình **Liên hoan âm nhạc và Bước nhảy học đường**, thu hút đông đảo bạn trẻ hưởng ứng **Ngày Văn hóa 24/11**.",
+      "source": "https://baogialai.com.vn/soi-dong-chuong-trinh-lien-hoan-am-nhac-va-buoc-nhay-hoc-duong-tai-phuong-pleiku-post605648.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-22T05:11:20+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "Bà con nhớ bấm LƯU bài để theo dõi cảnh báo sạt lở đất sáng 22/11, điểm hẹn đêm nhạc Riverside Quy Nhơn tối nay, lịch thi đấu Quy Nhơn United lúc 17h và giá vàng – nông sản hôm nay nhé ạ!",
+  "caption": {
+    "tiktok": "Điểm tin trưa 22/11: Khởi tố 3 đối tượng ma túy ở Hoài Nhơn, cảnh báo sạt lở 8 xã đồi núi, du lịch Gia Lai đạt 16 triệu lượt khách, đêm nhạc Riverside tối nay và Quy Nhơn United xung trận 17h.",
+    "youtube": "Điểm tin trưa 22/11/2026 tại Quy Nhơn - Gia Lai: Khởi tố 3 đối tượng ma túy, cảnh báo lũ quét sạt lở 8 xã đồi núi, du lịch đạt 16 triệu lượt khách, đêm nhạc tối nay tại Quy Nhơn và Quy Nhơn United đá lúc 17h.",
+    "facebook": "Tổng hợp 11 tin nóng trưa Chủ Nhật 22/11/2026 tại Quy Nhơn - Gia Lai: Khởi tố 3 đối tượng tổ chức sử dụng ma túy ở Tam Quan, Hoài Nhơn; KTTV cảnh báo nguy cơ sạt lở lũ quét tại 8 xã đồi núi (Vân Canh, Kim Sơn, An Hòa...); Năm Du lịch quốc gia ước đón 16 triệu lượt khách; 19h tối nay diễn ra đêm nhạc Ngô Tín tại Riverside Quy Nhơn; Quy Nhơn United đối đầu ĐH Văn Hiến lúc 17h; quy định mỗi hộ chỉ được mua 1 căn nhà ở xã hội; giá vàng SJC neo đáy và nông sản cà phê - tiêu tiếp tục giảm. Bà con bấm LƯU bài để tiện theo dõi nhé ạ!"
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ]
+}
