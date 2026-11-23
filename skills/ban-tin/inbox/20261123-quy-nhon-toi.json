@@ -1,0 +1,124 @@
+{
+  "type": "digest",
+  "brand": [
+    "QUY NHƠN",
+    "24H QUA"
+  ],
+  "output": "anh",
+  "date": "2026-11-23",
+  "session": "toi",
+  "region": "Quy Nhơn",
+  "province": "Gia Lai",
+  "title": "Điểm tin tối 23/11: Khởi tố vụ đổ 600 tấn chất thải đá granite, sân bay Phù Cát đón tàu bay lớn, học sinh tỉnh nhà đạt 1600 SAT tuyệt đối",
+  "cover": {
+    "title": "TỐI 23/11: KHỞI TỐ VỤ ĐỔ 600 TẤN CHẤT THẢI ĐÁ",
+    "subtitle": "Tối Thứ Hai, 23/11/2026",
+    "teaser": "Sân bay Phù Cát đón tàu bay lớn, học sinh đạt SAT 1600 tuyệt đối"
+  },
+  "items": [
+    {
+      "label": "Môi trường • Đổ 600t đá",
+      "category": "khu-vuc",
+      "text": "**Công an tỉnh** vừa khởi tố bị can Phó Giám đốc một công ty chế biến đá vì hành vi đổ trộm gần **600 tấn chất thải đá granite** gây ô nhiễm môi trường nghiêm trọng.",
+      "source": "https://baogialai.com.vn/khoi-to-pho-giam-doc-cong-ty-do-gan-600-tan-chat-thai-da-granite-gay-o-nhiem-post605767.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-23T15:50:06+07:00"
+    },
+    {
+      "label": "Phù Cát • Tàu bay lớn",
+      "category": "khu-vuc",
+      "text": "Cục Hàng không và Bộ Xây dựng đề xuất phương án nâng cấp đường lăn **sân bay Phù Cát** để đồng bộ với đường băng số **2**, sẵn sàng đón các dòng **tàu bay thân rộng (Code E)**.",
+      "source": "https://baomoi.com/tim-phuong-an-toi-uu-de-san-bay-phu-cat-don-tau-bay-lon-c56583231.epi",
+      "source_name": "Báo Giao Thông / Báo Mới",
+      "published": "2026-11-23T17:41:00.000+07:00"
+    },
+    {
+      "label": "Di dời • 40 ngày đêm",
+      "category": "tinh",
+      "text": "UBND tỉnh phát động Chiến dịch cao điểm **“40 ngày đêm”** (từ **20/11 đến 29/12**) nhằm tăng tốc hoàn thành **16 dự án** bố trí, ổn định dân cư vùng thiên tai, sạt lở trước Tết.",
+      "source": "https://baogialai.com.vn/gia-lai-trien-khai-chien-dich-40-ngay-dem-day-nhanh-tien-do-bo-tri-dan-cu-vung-thien-tai-post605788.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-23T15:55:48+07:00"
+    },
+    {
+      "label": "Treo cờ • Ngày 24/11",
+      "category": "tinh",
+      "text": "**UBND tỉnh** ban hành thông báo nghỉ **Ngày Văn hóa Việt Nam (24/11)** và đề nghị các cơ quan, hộ dân trên địa bàn treo **cờ Tổ quốc** từ chiều **23** đến hết ngày **24/11**.",
+      "source": "https://baogialai.com.vn/gia-lai-treo-co-to-quoc-tu-chieu-23-den-het-24-11-nhan-ngay-van-hoa-viet-nam-post605822.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-23T17:50:27+07:00"
+    },
+    {
+      "label": "Cảnh báo • Đợt mưa lớn",
+      "category": "khu-vuc",
+      "text": "Từ ngày **24 đến 30/11**, miền Trung dự báo đón **2 đợt mưa lớn** dồn dập; vùng biển **Quy Nhơn** gió giật cấp **6–7**, người dân cần đề phòng ngập cục bộ và sạt lở đồi núi.",
+      "source": "https://baomoi.com/mien-trung-hung-mua-lon-don-dap-nguy-co-lu-lut-nghiem-trong-hon-c56583322.epi",
+      "source_name": "TTXVN / Báo Mới",
+      "published": "2026-11-23T17:55:00.000+07:00"
+    },
+    {
+      "label": "Hạ tầng • CCN 75 ha",
+      "category": "khu-vuc",
+      "text": "UBND tỉnh quyết định thành lập **Cụm công nghiệp Bình Phú 2** tại **xã Bình Phú** với quy mô **75 ha**, tổng vốn đầu tư **498 tỷ đồng** phục vụ di dời các cơ sở tiểu thủ công nghiệp.",
+      "source": "https://baogialai.com.vn/thanh-lap-cum-cong-nghiep-binh-phu-2-voi-quy-mo-75-ha-post605779.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-23T13:18:41+07:00"
+    },
+    {
+      "label": "Học vấn • SAT 1600",
+      "category": "tinh",
+      "text": "Tỉnh nhà tự hào có **1 học sinh** xuất sắc lọt top **6 thí sinh Việt Nam** đạt điểm **SAT tuyệt đối 1600/1600**, thuộc nhóm **1% thí sinh điểm cao nhất thế giới** năm học **2026-2027**.",
+      "source": "https://baogialai.com.vn/6-hoc-sinh-viet-nam-cung-chinh-phuc-sat-16001600-gia-lai-co-1-dai-dien-post605798.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-23T11:46:30+07:00"
+    },
+    {
+      "label": "Võ thuật • 8 bộ HC",
+      "category": "tinh",
+      "text": "Sáng **23/11**, đội tuyển **võ cổ truyền tỉnh nhà** thi đấu thăng hoa, xuất sắc mang về **8 huy chương** nội dung quyền thuật tại **Đại hội Thể thao toàn quốc lần thứ X - 2026**.",
+      "source": "https://baogialai.com.vn/gia-lai-gianh-8-huy-chuong-noi-dung-quyen-thuat-tai-dai-hoi-the-thao-toan-quoc-2026-post605795.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-23T13:03:08+07:00"
+    },
+    {
+      "label": "Quy Nhơn • Cứu hộ rùa",
+      "category": "khu-vuc",
+      "text": "Sáng **23/11**, tại **phường Quy Nhơn Nam**, **IUCN** phối hợp tổng kết mạng lưới tình nguyện viên ngư dân tham gia giám sát, cứu hộ thành công nhiều cá thể **rùa biển quý hiếm**.",
+      "source": "https://baogialai.com.vn/phat-huy-vai-tro-ngu-dan-trong-bao-ton-sinh-vat-bien-post605807.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-23T13:25:09+07:00"
+    },
+    {
+      "label": "Đề Gi • Gia đình số",
+      "category": "khu-vuc",
+      "text": "Xã ven biển **Đề Gi** vừa ra mắt mô hình **“Gia đình văn hóa số”** tại **2 thôn Cát Khánh và Cát Minh**, hướng dẫn ngư dân thanh toán điện tử và sử dụng dịch vụ công trực tuyến.",
+      "source": "https://baogialai.com.vn/xa-de-gi-ra-mat-mo-hinh-gia-dinh-van-hoa-so-post605789.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-23T13:12:32+07:00"
+    },
+    {
+      "label": "Chỉ số • Hài lòng 2026",
+      "category": "tinh",
+      "text": "Chủ tịch UBND tỉnh phê duyệt kết quả chỉ số cải cách hành chính (**PAR INDEX**) và độ hài lòng của người dân (**SIPAS**) năm **2026**, chỉ đạo siết chặt kỷ cương phục vụ nhân dân.",
+      "source": "https://baogialai.com.vn/gia-lai-phe-duyet-ket-qua-chi-so-sipas-va-par-index-nam-2026-post605810.html",
+      "source_name": "Báo Gia Lai",
+      "published": "2026-11-23T15:48:41+07:00"
+    }
+  ],
+  "outro": "Follow để nắm bắt tin tức Quy Nhơn nhé",
+  "outro_sub": "Nhà bạn có tin? Nhắn kênh, kênh đưa!",
+  "pin_comment": "Bà con nhớ bấm LƯU bài để nắm thông tin treo cờ Tổ quốc ngày 24/11, cảnh báo đợt mưa lớn 24-30/11 và chúc mừng học sinh tỉnh nhà đạt SAT tuyệt đối nhé ạ!",
+  "caption": {
+    "tiktok": "Điểm tin tối 23/11: Khởi tố Phó Giám đốc đổ 600 tấn chất thải đá granite, sân bay Phù Cát nâng cấp đón tàu bay lớn, học sinh đạt điểm SAT tuyệt đối 1600 và treo cờ Tổ quốc ngày 24/11.",
+    "youtube": "Điểm tin tối 23/11/2026 tại Quy Nhơn - Gia Lai: Khởi tố vụ đổ gần 600 tấn chất thải đá granite, đề xuất sân bay Phù Cát đón tàu bay lớn, học sinh đạt SAT 1600/1600 tuyệt đối.",
+    "facebook": "Tổng hợp 11 tin nóng tối Thứ Hai 23/11/2026 tại Quy Nhơn - Gia Lai: Công an khởi tố Phó Giám đốc công ty đổ gần 600 tấn chất thải đá granite gây ô nhiễm; đề xuất nâng cấp đường lăn sân bay Phù Cát đón tàu bay thân rộng; chiến dịch 40 ngày đêm tăng tốc tái định cư vùng thiên tai; thông báo treo cờ Tổ quốc ngày Văn hóa Việt Nam 24/11; cảnh báo miền Trung hứng mưa lớn dồn dập từ 24-30/11; thành lập CCN Bình Phú 2 quy mô 75 ha; học sinh tỉnh nhà đạt SAT 1600 tuyệt đối và võ cổ truyền giành 8 huy chương toàn quốc. Bà con bấm LƯU bài để theo dõi nhé ạ!"
+  },
+  "hashtags": [
+    "#quynhon",
+    "#tinquynhon",
+    "#gialai",
+    "#binhdinh",
+    "#tintuc",
+    "#quynhon24hqua"
+  ]
+}
