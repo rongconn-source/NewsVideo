@@ -132,6 +132,30 @@ python skills/ban-tin/scripts/ban_tin.py render skills/ban-tin/inbox/<file>.json
 - Theo dõi các kênh tin tức đối thủ / benchmark tại địa phương:
   - [@hong.hot.quy.nhon](https://www.tiktok.com/@hong.hot.quy.nhon) & [@hong.hot.quy.nhon.bd](https://www.tiktok.com/@hong.hot.quy.nhon.bd): Quan sát chủ đề tin giật gân, chuyện dân sinh Quy Nhơn đang lên xu hướng và cách họ đặt tiêu đề/hook để học hỏi và đón đầu.
 
+### 11. Đẩy lên TikTok (chỉ khi người dùng bảo "đăng / đẩy / post lên TikTok")
+**Chọn công cụ theo AI đang chạy (đã chốt với người dùng):**
+| AI đang làm | Công cụ trình duyệt |
+|---|---|
+| **Claude** (Claude Code / claude.ai) | **Claude in Chrome** (`mcp__claude-in-chrome__*`) – dùng Chrome thật đã đăng nhập kênh |
+| **AI khác** (Gemini / Antigravity, ChatGPT / Codex, ...) | **Playwright** – chạy Chrome có giao diện (headed) với profile đã đăng nhập TikTok, không chạy headless |
+
+**Các bước chung (cả 2 công cụ):**
+1. Mở `https://www.tiktok.com/tiktokstudio/upload` → chọn tab **Photos/Ảnh**.
+2. Tải bộ ảnh lên **đúng thứ tự 01 → cuối** qua ô `input[type=file]` của tab Ảnh (không bấm nút "Select photos" – nút này mở hộp chọn file của hệ điều hành, AI không thao tác được).
+3. Điền **Tiêu đề** (≤ 90 ký tự, lấy từ tin 1) + **Caption TikTok** trong `caption.txt` + đủ **6 hashtag**.
+4. Mở mục **Add sound / Thêm nhạc** rồi **DỪNG** – để người dùng tự chọn nhạc "Em Nên Dừng Lại" và tự bấm **Đăng**. Tuyệt đối không bấm `Post` / `Đăng`.
+5. Báo người dùng kèm nội dung `pin_comment` để ghim sau khi đăng.
+
+**Claude in Chrome – lưu ý:**
+- Tools phải được nạp từ đầu phiên: người dùng bật tiện ích + chạy `/chrome` **trước khi mở chat**. Không thấy tool `mcp__claude-in-chrome__*` → báo người dùng kết nối lại, không thử vòng vòng.
+- `file_upload` giới hạn **10 MB/lần** → bộ PNG (~18 MB) phải chuyển sang JPG trước:
+  `ffmpeg -i anh/01.png -q:v 3 anh-jpg/01.jpg` (cho từng ảnh, ~4,5 MB cả bộ, nét như PNG).
+
+**Playwright – lưu ý:**
+- Dùng `launch_persistent_context` với thư mục profile riêng (vd. `data/browser-profile/`, không push Git); lần đầu người dùng tự đăng nhập TikTok trong cửa sổ đó, AI không nhập mật khẩu.
+- Chạy `headless=False`, thao tác chậm như người (chờ ảnh tải xong mới điền chữ) để tránh bị TikTok chặn bot.
+- Gặp captcha / yêu cầu xác minh → dừng, để người dùng tự xử lý.
+
 ## Mẫu hiển thị (đã chốt với người dùng – script/template tự làm, AI không cần chỉnh)
 | Phần | Quy định |
 |---|---|
@@ -153,7 +177,7 @@ Người dùng muốn đổi nhịp/bố cục → sửa `scripts/ban_tin.py` (h
 - Dịch vụ ảnh AI miễn phí giới hạn ~1 ảnh/30 giây → script tự chờ; vì vậy luôn ưu tiên ảnh thật bài gốc.
 
 ## Không được làm
-- **Khi người dùng yêu cầu đẩy/đăng lên TikTok**: Chỉ mở TikTok Studio (`https://www.tiktok.com/tiktokstudio/upload`), chọn tab `Photos`/`Ảnh`, tải bộ ảnh `anh/01.png…` lên, điền sẵn Tiêu đề + Caption + 6 Hashtags rồi **DỪNG LẠI ĐÓ (TUYỆT ĐỐI KHÔNG bấm nút `Post` / `Đăng`)** để người dùng tự tay chọn nhạc nền và tự bấm Đăng.
+- **Khi người dùng yêu cầu đẩy/đăng lên TikTok** (Claude → Claude in Chrome; AI khác → Playwright, xem bước 11): Chỉ mở TikTok Studio (`https://www.tiktok.com/tiktokstudio/upload`), chọn tab `Photos`/`Ảnh`, tải bộ ảnh `anh/01.png…` lên, điền sẵn Tiêu đề + Caption + 6 Hashtags rồi **DỪNG LẠI ĐÓ (TUYỆT ĐỐI KHÔNG bấm nút `Post` / `Đăng`)** để người dùng tự tay chọn nhạc nền và tự bấm Đăng.
 - Không nhúng nhạc có bản quyền vào file để đăng (nhạc chung "Em Nên Dừng Lại" được gắn trong app mỗi nền tảng).
 - Không bịa số liệu; không bỏ tin người dùng gửi.
 - Không sửa `template/` hoặc `scripts/` khi không được yêu cầu.

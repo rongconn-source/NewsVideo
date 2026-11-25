@@ -20,3 +20,5 @@ Thumbs.db
 # MCP temp files
 .playwright-mcp/
 
+
+data/browser-profile/
