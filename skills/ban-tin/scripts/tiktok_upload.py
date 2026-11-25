@@ -22,6 +22,7 @@ import re
 import sys
 import time
 from pathlib import Path
+from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[3]
 PROFILE_DIR = ROOT / "data" / "browser-profile"
@@ -72,6 +73,10 @@ def make_title(data: dict | None, caption: str) -> str:
     cut = raw[:TITLE_MAX]
     cut = cut[: cut.rfind(" ")] if " " in cut else cut
     return cut.rstrip(" ,;:–-")
+
+
+def is_login_page(url: str) -> bool:
+    return "login" in urlparse(url).path
 
 
 def first_visible(page, selectors: list[str], timeout_ms: int = 120_000):
@@ -129,12 +134,16 @@ def do_upload(pw, out: Path, data: dict | None, title_override: str | None):
     page = ctx.pages[0] if ctx.pages else ctx.new_page()
     page.goto(UPLOAD_URL)
 
-    # Chưa đăng nhập → TikTok chuyển sang trang login
+    # Chưa đăng nhập → TikTok chuyển sang trang login (URL login có chứa "tiktokstudio" trong
+    # tham số redirect nên phải xét phần path, không xét cả URL)
     page.wait_for_timeout(3000)
-    if "login" in page.url:
+    if is_login_page(page.url):
         print("Chưa đăng nhập. Hãy đăng nhập trong cửa sổ, script tự chạy tiếp khi vào được TikTok Studio…")
-        page.wait_for_url(re.compile(r"tiktokstudio"), timeout=0)
+        while is_login_page(page.url) or not urlparse(page.url).path.startswith("/tiktokstudio"):
+            page.wait_for_timeout(2000)
+        print("✓ Đã đăng nhập.")
         page.goto(UPLOAD_URL)
+        page.wait_for_timeout(3000)
 
     # Đảm bảo đang ở tab Ảnh
     tab = page.get_by_role("tab", name=re.compile(r"^(Photos|Ảnh)$", re.I))
@@ -148,7 +157,12 @@ def do_upload(pw, out: Path, data: dict | None, title_override: str | None):
         file_input.first.wait_for(state="attached", timeout=30_000)
     except Exception:
         file_input = page.locator('input[type="file"]')
-        file_input.first.wait_for(state="attached", timeout=30_000)
+        try:
+            file_input.first.wait_for(state="attached", timeout=30_000)
+        except Exception:
+            print(f"⚠ Không thấy ô tải ảnh (trang hiện tại: {page.url}). Kiểm tra cửa sổ – có thể cần đăng nhập/xác minh.")
+            wait_until_closed(ctx)
+            return
     print("Đang tải ảnh lên…")
     file_input.first.set_input_files([str(p) for p in images])
 
